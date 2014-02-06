@@ -4,156 +4,6 @@ Abdij van 't Park
 Anker ID: A20046
 ----------------
 
-**Landschap**
-
-
-
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Microreliëf:**
-
- * microreliëf
- * talud
-
-
-**Macroreliëf:**
-
- * macroreliëf
- * heuvel
- * holle weg
-
-**Hydrografische Elementen:**
-
- * waterloop
- * beek
- * vallei
-
-
-**Moerassige gronden:**
-
-
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * tuin
- * hof
-
-
-**Nederzettingspatronen:**
-
- * nederzettingspatroon
-
-**Landbouwkundig erfgoed:**
-
- * hoeve
- * schuur
- * stal
- * wagenhuis
-
-
-**Molens:**
-
- * watermolen
-
-
-**Kerkelijk erfgoed:**
-
- * kerk
- * abdij
- * klooster
- * pastorie
-
-
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Wegenis:**
-
- * weg
- * pad
-
-
-**Andere:**
-spoorlijnen Leuven-Waver en Leuven-Tienen
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Lijnvormige elementen:**
-
- * dreef
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-**Topografie:**
-
- * historisch stabiel
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Beperkte bebouwing ten zuiden van de vijvers evenals in de nabijheid van
-het Sint-Albertuscollege. Waterwinning nabij de vijvers.
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Binen het abdijdomein, vooral langs de vijvers, komen diverse
-waardevolle vegetaties voor. De vijvers hebben ook ornithologisch
-belang.
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-De huidige gebouwen (boerderij, stallen, watermolen) - inclusief de
-fraaie barokke kloostergebouwen met dito interieurs - dateren uit de
-17de eeuw, maar de structuur en de functionele indeling van de site gaan
-terug tot de oorsprong in de 12de eeuw. Enkele latere toevoegingen
-houden vooral verband met de evoluerende tuincultuur: een Louis XV
-tuinprieel en een embryo van landschappelijke sierbeplanting ten oosten
-van het kloostercomplx.
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-De site dankt haar schoonheid aan de kwaliteiot
-van de architectuur en aan de topografische ligging aan de rand van een
-beekdal met vijvers.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
 
 
 C.TEKSTUELE Omschrijving
@@ -233,3 +83,134 @@ twee en een derde westerpoort werden hier in de 18de eeuw aan
 toegevoegd. Dreven verbinden deze poorten. Er wordt intens gezocht naar
 nieuwe bestemmingen voor een aantal verlaten bijgebouwen zoals de
 voormalige hoeve en de aanpalende schuur.
+
+
+
+B.landschapswaarden
+-------------------
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Binen het abdijdomein, vooral langs de vijvers, komen diverse
+waardevolle vegetaties voor. De vijvers hebben ook ornithologisch
+belang.
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+De huidige gebouwen (boerderij, stallen, watermolen) - inclusief de
+fraaie barokke kloostergebouwen met dito interieurs - dateren uit de
+17de eeuw, maar de structuur en de functionele indeling van de site gaan
+terug tot de oorsprong in de 12de eeuw. Enkele latere toevoegingen
+houden vooral verband met de evoluerende tuincultuur: een Louis XV
+tuinprieel en een embryo van landschappelijke sierbeplanting ten oosten
+van het kloostercomplx.
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+De site dankt haar schoonheid aan de kwaliteiot
+van de architectuur en aan de topografische ligging aan de rand van een
+beekdal met vijvers.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Microreliëf:**
+
+ * microreliëf
+ * talud
+
+
+**Macroreliëf:**
+
+ * macroreliëf
+ * heuvel
+ * holle weg
+
+**Hydrografische Elementen:**
+
+ * waterloop
+ * beek
+ * vallei
+
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * tuin
+ * hof
+
+
+**Nederzettingspatronen:**
+
+ * nederzettingspatroon
+
+**Landbouwkundig erfgoed:**
+
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
+
+
+**Molens:**
+
+ * watermolen
+
+
+**Kerkelijk erfgoed:**
+
+ * kerk
+ * abdij
+ * klooster
+ * pastorie
+
+
+
+ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Wegenis:**
+
+ * weg
+ * pad
+
+
+**Andere:**
+ * spoorlijnen Leuven-Waver en Leuven-Tienen
+ 
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Lijnvormige elementen:**
+
+ * dreef
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+**Topografie:**
+
+ * historisch stabiel
+
+
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Beperkte bebouwing ten zuiden van de vijvers evenals in de nabijheid van
+het Sint-Albertuscollege. Waterwinning nabij de vijvers.
