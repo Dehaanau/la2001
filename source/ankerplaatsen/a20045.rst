@@ -4,144 +4,6 @@ Abdij Vlierbeek
 Anker ID: A20045
 ----------------
 
-**Landschap**
-
-
-
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Microreliëf:**
-
- * microreliëf
- * talud
-
-
-**Hydrografische Elementen:**
-
- * waterloop
- * beek
-
-
-**Moerassige gronden:**
-
- * moeras
-
-
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * tuin
- * hof
-
-
-**Landbouwkundig erfgoed:**
-
- * hoeve
- * schuur
- * stal
- * wagenhuis
-
-
-**Kerkelijk erfgoed:**
-
- * kerk
- * kapel
- * abdij
- * pastorie
-
-
-**Archeologische elementen:**
-ruïne 12de-eeuwse kerktoren
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Wegenis:**
-
- * weg
- * pad
-
-
-**Waterbouwkundige infrastructuur:**
-
- * grachtenstelsel
-
-
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Lijnvormige elementen:**
-
- * dreef
- * bomenrij
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-**Typische landbouwteelten:**
-
- * hoogstam
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Bebouwing noord-oostelijke rand
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Op de beboste percelen ten oosten van de abdij komen enkele oude,
-monumentale hakhoutstronken voor, dendrologische belangrijk.
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-Samen met de abdij van 't Park is deze van Vlierbeek een van de
-belangrijkste elementen die de ontwikkeling van de Leuvense regio in
-hoge mate hebben bepaald. De onmiddellijke omgeving van de abdij
-vertoont nog tal van sporen (grachtenpatroon) van de verdwenen
-baroktuinen. Het abtskwartier en de abdijkerk werden gebouwd naar
-ontwerp van architect L.B. Dewez.
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-De abdijsite vormt een fraaio architecturaal
-geheel tegen de achtergrond van de beboste vallei.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
 
 
 C.TEKSTUELE Omschrijving
@@ -196,3 +58,127 @@ noordoostelijke hoek, restanten van hagen, van de oude pandhof en van de
 groententuin. Diverse tuinpercelen zijn bij de kloostergebouwen nog
 aanwezig, alsook hoogstamboomgaarden. Zowel binnen als buiten de
 omheiningsmuur liggen nog landbouwgronden;
+
+
+
+B.landschapswaarden
+-------------------
+
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Op de beboste percelen ten oosten van de abdij komen enkele oude,
+monumentale hakhoutstronken voor, dendrologische belangrijk.
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Samen met de abdij van 't Park is deze van Vlierbeek een van de
+belangrijkste elementen die de ontwikkeling van de Leuvense regio in
+hoge mate hebben bepaald. De onmiddellijke omgeving van de abdij
+vertoont nog tal van sporen (grachtenpatroon) van de verdwenen
+baroktuinen. Het abtskwartier en de abdijkerk werden gebouwd naar
+ontwerp van architect L.B. Dewez.
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+De abdijsite vormt een fraaio architecturaal
+geheel tegen de achtergrond van de beboste vallei.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Microreliëf:**
+
+ * microreliëf
+ * talud
+
+
+**Hydrografische Elementen:**
+
+ * waterloop
+ * beek
+
+
+**Moerassige gronden:**
+
+ * moeras
+
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * tuin
+ * hof
+
+
+**Landbouwkundig erfgoed:**
+
+ * hoeve
+ * schuur
+ * stal
+ * wagenhuis
+
+
+**Kerkelijk erfgoed:**
+
+ * kerk
+ * kapel
+ * abdij
+ * pastorie
+
+
+**Archeologische elementen:**
+
+ * ruïne 12de-eeuwse kerktoren
+ 
+
+ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Wegenis:**
+
+ * weg
+ * pad
+
+
+**Waterbouwkundige infrastructuur:**
+
+ * grachtenstelsel
+
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Lijnvormige elementen:**
+
+ * dreef
+ * bomenrij
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+**Typische landbouwteelten:**
+
+ * hoogstam
+
+
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bebouwing noord-oostelijke rand
