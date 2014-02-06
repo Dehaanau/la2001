@@ -4,152 +4,6 @@ Overijse
 Anker ID: A20036
 ----------------
 
-**Landschap**
-
-
-
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Macroreliëf:**
-
- * heuvel
-
-**Hydrografische Elementen:**
-
- * waterloop
- * rivier
- * vallei
-
-
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * park
- * hof
-
-
-**Nederzettingspatronen:**
-
- * nederzettingspatroon
- * plein
-
-**Kastelen, landgoederen en aanhorigheden:**
-
- * kasteel
- * hovenierswoning
-
-
-+ jachtpaviljoen
-
-**Bouwkundig erfgoed:**
-
- * (heren)woning
- * huis
- * herberg
- * afspanning
-
-
-**Kerkelijk erfgoed:**
-
- * kerk
-
-
-**Andere:**
-brouwerijen, maalderij
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Wegenis:**
-
- * weg
- * pad
-
-
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Puntvormige elementen:**
-
- * bomengroep
- * solitaire boom
-
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Bebouwde kern, omschrijving afgestemd op bestaande bescherming als
-dorpsgezicht en de aansluitende bescherming van de serristenwoningen met
-serres
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Een dorp met een rijk verleden dat één van de bakermatten was van de
-Belgische serredruiventeelt.
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-De serredruiventeelt, die nu een stille dood nabij is, ontstond in de
-tweede helft van de 19de eeuw eerst te Hoeilaart en vanaf 1878 ook in
-Overijse. Deze tuinbouwcultuur verstrekte de bevolking meer dan gewone
-welstand en dit is dan ook te zien aan de talrijke serristenvilla's. De
-terugval kwam er na 1962 door de massale invoer uit de zuiderse
-E.G.-landen en de stijging van de verwarmingskosten. Nu telt Overijse
-nog 1300 druivenserres terwijl er in 1960 nog 15000 serres stonden. Het
-grote aantal historische gebouwen in Overijse getuigt dat Overijse niet
-enkel groot geworden is door de druiventeelt. Het gemeentehuis werd
-begin de 16de eeuw gebouwd door de Brabantse hertogen als een van hun
-residenties. De Sint-Martinuskerk heeft nog een Romaanse toren. De 17de
-eeuwse afspanning "De Bonten Os" en het 16de eeuws Justius Lipsiushuis,
-de Begijnhofkapel en de Kardaan, dat overblijfselen zijn van de oude
-vestigingswallen, en het Kasteel van Ijse geven eveneens aan dat
-Overijse in die periode een hoog aanzien had
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-Hier is het typische serrelandschap van
-Hoeilaart-Overijse te bewonderen dat te Overijse verweven is met haar
-rijke verleden. De dorpsstructuur met haar kleine wegeltjes en steegjes
-doet stedelijk aan.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
 
 
 C.TEKSTUELE Omschrijving
@@ -213,3 +67,132 @@ dorpsgezicht beschermd. Talrijke gebouwen en hun omgeving zijn reeds als
 monument of dorpsgezicht beschermd: het kasteel van Isque, de voormalige
 begijnhofkapel, de voormalige afspanning In den Bonte Os, het Justus
 Lipsiushuis, de Vuurmolen, twee serristenwoningen met bijhorende serres.
+
+
+
+B.landschapswaarden
+-------------------
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Een dorp met een rijk verleden dat één van de bakermatten was van de
+Belgische serredruiventeelt.
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+De serredruiventeelt, die nu een stille dood nabij is, ontstond in de
+tweede helft van de 19de eeuw eerst te Hoeilaart en vanaf 1878 ook in
+Overijse. Deze tuinbouwcultuur verstrekte de bevolking meer dan gewone
+welstand en dit is dan ook te zien aan de talrijke serristenvilla's. De
+terugval kwam er na 1962 door de massale invoer uit de zuiderse
+E.G.-landen en de stijging van de verwarmingskosten. Nu telt Overijse
+nog 1300 druivenserres terwijl er in 1960 nog 15000 serres stonden. Het
+grote aantal historische gebouwen in Overijse getuigt dat Overijse niet
+enkel groot geworden is door de druiventeelt. Het gemeentehuis werd
+begin de 16de eeuw gebouwd door de Brabantse hertogen als een van hun
+residenties. De Sint-Martinuskerk heeft nog een Romaanse toren. De 17de
+eeuwse afspanning "De Bonten Os" en het 16de eeuws Justius Lipsiushuis,
+de Begijnhofkapel en de Kardaan, dat overblijfselen zijn van de oude
+vestigingswallen, en het Kasteel van Ijse geven eveneens aan dat
+Overijse in die periode een hoog aanzien had
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Hier is het typische serrelandschap van
+Hoeilaart-Overijse te bewonderen dat te Overijse verweven is met haar
+rijke verleden. De dorpsstructuur met haar kleine wegeltjes en steegjes
+doet stedelijk aan.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Macroreliëf:**
+
+ * heuvel
+
+**Hydrografische Elementen:**
+
+ * waterloop
+ * rivier
+ * vallei
+
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * park
+ * hof
+
+
+**Nederzettingspatronen:**
+
+ * nederzettingspatroon
+ * plein
+
+**Kastelen, landgoederen en aanhorigheden:**
+
+ * kasteel
+ * hovenierswoning
+
+
++ jachtpaviljoen
+
+**Bouwkundig erfgoed:**
+
+ * (heren)woning
+ * huis
+ * herberg
+ * afspanning
+
+
+**Kerkelijk erfgoed:**
+
+ * kerk
+
+
+**Andere:**
+brouwerijen, maalderij
+
+
+ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Wegenis:**
+
+ * weg
+ * pad
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Puntvormige elementen:**
+
+ * bomengroep
+ * solitaire boom
+
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bebouwde kern, omschrijving afgestemd op bestaande bescherming als
+dorpsgezicht en de aansluitende bescherming van de serristenwoningen met
+serres
