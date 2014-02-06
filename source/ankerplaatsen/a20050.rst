@@ -4,182 +4,6 @@ Valleien van Grote en Kleine Gete tussen Grimde, Budingen en Dormaal
 Anker ID: A20050
 ----------------
 
-**Landschap**
-
-
-
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Microreliëf:**
-
- * microreliëf
-
-
-**Macroreliëf:**
-
- * macroreliëf
-
-**Hydrografische Elementen:**
-
- * waterloop
- * rivier
- * beek
- * vallei
-
-
-**Moerassige gronden:**
-
- * moeras
-
-
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * park
-
-
-**Nederzettingspatronen:**
-
- * nederzettingspatroon
- * plein
- * gehucht
-
-**Kastelen, landgoederen en aanhorigheden:**
-
- * kasteel
- * kasteelgracht
-
-
-**Landbouwkundig erfgoed:**
-
- * hoeve
- * schuur
- * stal
-
-
-**Molens:**
-
- * watermolen
-
-
-**Kerkelijk erfgoed:**
-
- * kerk
- * kapel
- * pastorie
-
-
-**Archeologische elementen:**
-resten omwallingen en opgravingen te Zoutleeuw
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Wegenis:**
-
- * weg
- * pad
-
-
-**Spoorweg:**
-
- * verlaten spoorweg
-
-**Waterbouwkundige infrastructuur:**
-
- * grachtenstelsel
-
-
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Puntvormige elementen:**
-
- * bomengroep
-
-
-**Lijnvormige elementen:**
-
- * bomenrij
- * perceelsrandbegroeiing
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-**Topografie:**
-
- * historisch stabiel
-
-
-**Bos:**
-
- * loof
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Bebouwing in de omgeving van Oplinter, Wommersom, Drieslinter, Bos,
-Dormaal, Helen en Zoutleeuw.
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-Het gaat om gave beemdenlandschappen, doorgaans met veldindelingen en
-patronen van heggen en houtkanten die tijdens de laatste eeuwen weinig
-zijn veranderd. Massale aanplantingen van populieren zijn slechts
-uitzonderlijk gebeurd. Het gebied omvat diverse schilderachtige
-dorpskernen en een historische en kunsthistorisch belangrijk stadje,
-Zoutleeuw. In de omgeving van de stad zijn nog sporen van de oude
-omwalling en citadel zichtbaar.
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-De kleinschaligheid en gaafheid van het
-beemdenlandschap en de architecturale kwaliteit van het Zoutleeuws
-gebouwenpatrimonium maken dat het gebied uitzonderlijk mooi is.
-Zoutleeuw: een stad die van een rijk verleden getuigt via haar gotische
-Sint-Leonarduskerk, de lakenhalen, stadhuis, het huis "De Rode Leeuw" en
-het "Spiegelhuis".
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
 
 
 C.TEKSTUELE Omschrijving
@@ -263,3 +87,157 @@ Zoutleeuw situeren zich Solveld, Schevelsteen en Leeuwerveld. Het
 afgebakende gebied grenst aan het Vinne, dat afzonderlijk behandeld
 wordt. De Vloedgracht vervoegt de Kleine Gete, die op haar beurt
 samenvloeit met de Grote Gete ter hoogte van Budingen.
+
+
+
+B.landschapswaarden
+-------------------
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Het gaat om gave beemdenlandschappen, doorgaans met veldindelingen en
+patronen van heggen en houtkanten die tijdens de laatste eeuwen weinig
+zijn veranderd. Massale aanplantingen van populieren zijn slechts
+uitzonderlijk gebeurd. Het gebied omvat diverse schilderachtige
+dorpskernen en een historische en kunsthistorisch belangrijk stadje,
+Zoutleeuw. In de omgeving van de stad zijn nog sporen van de oude
+omwalling en citadel zichtbaar.
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+De kleinschaligheid en gaafheid van het
+beemdenlandschap en de architecturale kwaliteit van het Zoutleeuws
+gebouwenpatrimonium maken dat het gebied uitzonderlijk mooi is.
+Zoutleeuw: een stad die van een rijk verleden getuigt via haar gotische
+Sint-Leonarduskerk, de lakenhalen, stadhuis, het huis "De Rode Leeuw" en
+het "Spiegelhuis".
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Microreliëf:**
+
+ * microreliëf
+
+
+**Macroreliëf:**
+
+ * macroreliëf
+
+**Hydrografische Elementen:**
+
+ * waterloop
+ * rivier
+ * beek
+ * vallei
+
+
+**Moerassige gronden:**
+
+ * moeras
+
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * park
+
+
+**Nederzettingspatronen:**
+
+ * nederzettingspatroon
+ * plein
+ * gehucht
+
+**Kastelen, landgoederen en aanhorigheden:**
+
+ * kasteel
+ * kasteelgracht
+
+
+**Landbouwkundig erfgoed:**
+
+ * hoeve
+ * schuur
+ * stal
+
+
+**Molens:**
+
+ * watermolen
+
+
+**Kerkelijk erfgoed:**
+
+ * kerk
+ * kapel
+ * pastorie
+
+
+**Archeologische elementen:**
+resten omwallingen en opgravingen te Zoutleeuw
+
+
+ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Wegenis:**
+
+ * weg
+ * pad
+
+
+**Spoorweg:**
+
+ * verlaten spoorweg
+
+**Waterbouwkundige infrastructuur:**
+
+ * grachtenstelsel
+
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Puntvormige elementen:**
+
+ * bomengroep
+
+
+**Lijnvormige elementen:**
+
+ * bomenrij
+ * perceelsrandbegroeiing
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+**Topografie:**
+
+ * historisch stabiel
+
+
+**Bos:**
+
+ * loof
+
+
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Bebouwing in de omgeving van Oplinter, Wommersom, Drieslinter, Bos,
+Dormaal, Helen en Zoutleeuw.
