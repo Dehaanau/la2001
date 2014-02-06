@@ -149,10 +149,10 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 **Archeologische elementen:**
-sporen van voormalig Kapucijnenklooster
+ * sporen van voormalig Kapucijnenklooster
 
- **Andere:**
-jachtpaviljoen
+**Andere:**
+ * jachtpaviljoen
 
 ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
