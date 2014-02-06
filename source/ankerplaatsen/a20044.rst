@@ -4,168 +4,6 @@ Heverleebos -Zoet Water - Meerdaal- en Mollendaalbos
 Anker ID: A20044
 ----------------
 
-**Landschap**
-
-
-
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Microreliëf:**
-
- * microreliëf
- * talud
-
-
-**Macroreliëf:**
-
- * macroreliëf
- * heuvel
- * markante terreinovergang
- * holle weg
-
-**Hydrografische Elementen:**
-
- * waterloop
- * beek
- * vallei
-
-
-**Moerassige gronden:**
-
- * moeras
-
-
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * park
-
-
-**Nederzettingspatronen:**
-
- * nederzettingspatroon
-
-**Kastelen, landgoederen en aanhorigheden:**
-
- * kasteel
- * muur
- * kasteelgracht
-
-
-**Molens:**
-
- * watermolen
- * windmolen
-
-
-**Kerkelijk erfgoed:**
-
- * kapel
- * klooster
-
-
-**Archeologische elementen:**
-vondsten uit Neolithicum en Romeinse periode
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Wegenis:**
-
- * weg
- * pad
-
-
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Lijnvormige elementen:**
-
- * dreef
- * bomenrij
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-**Bos:**
-
- * naald
- * loof
- * broek
- * struweel
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Verspreide bebouwing in de omgeving van Vaalbeek, Oud-Heverlee en Het
-Zoet Water. In het noordelijk deel van Meerdaalwoud ligt een nu deels in
-onbruik geraakt militair domein.
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Het gebied heeft een hoge botanische waarde, vooral de bronzones
-(o.m. 't Zoet Water), maar ook in de heideachte vegetaties op de
-tertiaire opduikingen en zelfs (tijdelijk) in sterk gestoorde milieus
-zoals de Springputten.
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-Het gebied Heverleebos-Meerdaalwoud is een prachtig voorbeeld van de
-classicitische aanleg van beboste domeinen, met rechte dreven, 'salons',
-uitzichtpunten typisch voor de 18de eeuw. Het kan dus beschouwd worden
-als een appendix van het Arenbergpark, waar het vroeger via diverse
-dreven ook bij aansloot. Deze dreven werden icirca 1860 beplant met
-bruine beuken, een typisch procédé in de toenmalige parkarchitectuur. De
-site van 't Zoet Water, met de kapel O.L.Vrouw-van-Steenbergen, oud
-boswachtershuis en het Spaans Dak (goed van de familie Van
-Wesel/Vesalius) heeft een groot historisch belang. Deze site werd in de
-jaren 1930 overschreven door de aanleg van het recreatiedomein Lunapark
-en diverse architecturale elementen typisch voor dit soort aanleg (o.m.
-de 'paddestoel') zijn nog aanwezig.
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-Een uitgestrekt bebost gebied doorsneden met
-dreven met een grote diversiteit in fauna en flora. In het gebied liggen
-enkele mooie historische gebouwen zoals de barokke O.L.V. van
-Steenbergenkapel en het 19de eeuwse kasteel de Harcourt.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
 
 
 C.TEKSTUELE Omschrijving
@@ -241,3 +79,150 @@ Kluis helt het gebied af naar Sint-Joris-Weert en de Dijlevallei. De
 neoclassicistische Sint-Joriskerk domineert er het uitzicht op de
 vallei. Een aantal holle wegen lopen vanuit Meerdaalwoud zuidwaarts in
 de richting van de vallei van de Nethen in Waals-Brabant.
+
+
+
+B.landschapswaarden
+-------------------
+
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Het gebied heeft een hoge botanische waarde, vooral de bronzones
+(o.m. 't Zoet Water), maar ook in de heideachte vegetaties op de
+tertiaire opduikingen en zelfs (tijdelijk) in sterk gestoorde milieus
+zoals de Springputten.
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Het gebied Heverleebos-Meerdaalwoud is een prachtig voorbeeld van de
+classicitische aanleg van beboste domeinen, met rechte dreven, 'salons',
+uitzichtpunten typisch voor de 18de eeuw. Het kan dus beschouwd worden
+als een appendix van het Arenbergpark, waar het vroeger via diverse
+dreven ook bij aansloot. Deze dreven werden icirca 1860 beplant met
+bruine beuken, een typisch procédé in de toenmalige parkarchitectuur. De
+site van 't Zoet Water, met de kapel O.L.Vrouw-van-Steenbergen, oud
+boswachtershuis en het Spaans Dak (goed van de familie Van
+Wesel/Vesalius) heeft een groot historisch belang. Deze site werd in de
+jaren 1930 overschreven door de aanleg van het recreatiedomein Lunapark
+en diverse architecturale elementen typisch voor dit soort aanleg (o.m.
+de 'paddestoel') zijn nog aanwezig.
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Een uitgestrekt bebost gebied doorsneden met
+dreven met een grote diversiteit in fauna en flora. In het gebied liggen
+enkele mooie historische gebouwen zoals de barokke O.L.V. van
+Steenbergenkapel en het 19de eeuwse kasteel de Harcourt.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Microreliëf:**
+
+ * microreliëf
+ * talud
+
+
+**Macroreliëf:**
+
+ * macroreliëf
+ * heuvel
+ * markante terreinovergang
+ * holle weg
+
+**Hydrografische Elementen:**
+
+ * waterloop
+ * beek
+ * vallei
+
+
+**Moerassige gronden:**
+
+ * moeras
+
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * park
+
+
+**Nederzettingspatronen:**
+
+ * nederzettingspatroon
+
+**Kastelen, landgoederen en aanhorigheden:**
+
+ * kasteel
+ * muur
+ * kasteelgracht
+
+
+**Molens:**
+
+ * watermolen
+ * windmolen
+
+
+**Kerkelijk erfgoed:**
+
+ * kapel
+ * klooster
+
+
+**Archeologische elementen:**
+
+ * vondsten uit Neolithicum en Romeinse periode
+ 
+
+ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Wegenis:**
+
+ * weg
+ * pad
+
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Lijnvormige elementen:**
+
+ * dreef
+ * bomenrij
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+**Bos:**
+
+ * naald
+ * loof
+ * broek
+ * struweel
+
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Verspreide bebouwing in de omgeving van Vaalbeek, Oud-Heverlee en Het
+Zoet Water. In het noordelijk deel van Meerdaalwoud ligt een nu deels in
+onbruik geraakt militair domein.
