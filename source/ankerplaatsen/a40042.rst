@@ -358,4 +358,3 @@ boom op Vollanderkouter
  * middelhout
  * hooghout
  * struweel
-
