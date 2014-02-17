@@ -4,158 +4,6 @@ Domein De Hees
 Anker ID: A10010
 ----------------
 
-**Landschap**
-
-
-
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Microreliëf:**
-
- * microreliëf
-
-
-**Moerassige gronden:**
-
- * ven
-
-
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * hof
-
-
-**Kastelen, landgoederen en aanhorigheden:**
-
- * kasteel
- * boswachterswoning
-
-
-**Landbouwkundig erfgoed:**
-
- * hoeve
- * schuur
- * stal
-
-
-Louisa-hoeve
-
- **Andere:**
-Bakhuisje
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Puntvormige elementen:**
-
- * solitaire boom
-
-
-**Lijnvormige elementen:**
-
- * dreef
- * bomenrij
- * houtkant
-
-**Kunstmatige waters:**
-
- * poel
- * vijver
-
-
-**Bos:**
-
- * naald
- * loof
- * middelhout
- * hooghout
-
-
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Als knelpunt vermelden we een tuincentrum in het westen en enkele niet
-meer typische woningen langs de randen van het gebied.
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-De aanwezigheid van verschillende biotopen zoals bos, dreven, natte
-weilanden en vennen resulteert in een ecologisch waardevol geheel. Deze
-variatie aan biotopen heeft als landschap immers met een belangrijke
-functie voor een heleboel dier- en plantensoorten. Het boscomplex met de
-talrijke dreven vertegenwoordigt een hoge dendrologische waarde.
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-Bij Ferraris (1777) herkent men reeds het stervormig, bebost domein
-dat het resultaat was van de ontginning van de heide ten behoeve van een
-jachtbos voor de heren van Hoogstraten. Door de latere omvorming van bos
-naar akkers en weilanden ontstond het nu open landschap dat het domein
-omgeeft. Het zuidelijk deel van de ankerplaats was bij Ferraris nog
-heide met vennen. Het ontginningspatroon van de heide en vooral de
-historische wegenstructuur is er nog goed bewaard. In het centrum van de
-ankerplaats bevindt zich het kasteel 'Heeshuis', dat gekenmerkt wordt
-door een stervormige architectuur die aansluit op het omliggende park en
-waarvan de oorsprong teruggaat tot 1757. Na de tweede wereldoorlog
-onderging het kasteel een grondige restauratie. Andere
-vermeldenswaardige gebouwen zijn het boswachtershuisje, de hoeve Louisa
-en het bakhuisje, die allen teruggaan tot eind 19de of begin 20ste eeuw.
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-Het goed bewaarde boscomplex met een opvallend
-drevenpatroon rond het kasteel de Hees, vormt samen met het omliggende
-agrarisch gebied een esthetisch waardevol geheel.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-In 1974 liet de heer van Hoogstraten ten
-behoeve van de werkgelegenheid de heide ontginnen en bebossen. Het
-landschap rondom het kasteel de Hees ontstond daarbij als pronk- en
-jachtbos voor de heren van Hoogstraten. De stervormige drevenstructuur
-die tot ver in het omringende landschap doordrong, was een
-weerspiegeling van de macht en de menselijke invloed op een grote
-omgeving.
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-De ruimtelijk-structurerende waarde van Domein de Hees wordt vooral
-bepaald door de typerende aanleg volgens een stervormig patroon,
-opgebouwd uit 16 brede dreven, die vanuit een centraal punt als stralen
-van een grote cirkel uitlopen in het landschap. Rond het centrale punt
-liggen 2 cirkelvormige dreven die instaan voor de onderlinge verbinding
-van de 16 stralen. Het geheel wordt afgebakend door 4 dreven in
-ruitvorm, wat resulteert in een (voor de jacht) overzichtelijke en
-functionele structuur.
-
 
 
 C.TEKSTUELE Omschrijving
@@ -230,3 +78,152 @@ esthetisch en ecologisch waardevol landschap met een belangrijke functie
 voor een heleboel dier- en plantensoorten. Het boscomplex met de
 talrijke dreven vertegenwoordigt bovendien een hoge dendrologische
 waarde.
+
+
+
+B.landschapswaarden
+-------------------
+
+
+Wetenschappelijke waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+De aanwezigheid van verschillende biotopen zoals bos, dreven, natte
+weilanden en vennen resulteert in een ecologisch waardevol geheel. Deze
+variatie aan biotopen heeft als landschap immers met een belangrijke
+functie voor een heleboel dier- en plantensoorten. Het boscomplex met de
+talrijke dreven vertegenwoordigt een hoge dendrologische waarde.
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+
+Bij Ferraris (1777) herkent men reeds het stervormig, bebost domein
+dat het resultaat was van de ontginning van de heide ten behoeve van een
+jachtbos voor de heren van Hoogstraten. Door de latere omvorming van bos
+naar akkers en weilanden ontstond het nu open landschap dat het domein
+omgeeft. Het zuidelijk deel van de ankerplaats was bij Ferraris nog
+heide met vennen. Het ontginningspatroon van de heide en vooral de
+historische wegenstructuur is er nog goed bewaard. In het centrum van de
+ankerplaats bevindt zich het kasteel 'Heeshuis', dat gekenmerkt wordt
+door een stervormige architectuur die aansluit op het omliggende park en
+waarvan de oorsprong teruggaat tot 1757. Na de tweede wereldoorlog
+onderging het kasteel een grondige restauratie. Andere
+vermeldenswaardige gebouwen zijn het boswachtershuisje, de hoeve Louisa
+en het bakhuisje, die allen teruggaan tot eind 19de of begin 20ste eeuw.
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Het goed bewaarde boscomplex met een opvallend
+drevenpatroon rond het kasteel de Hees, vormt samen met het omliggende
+agrarisch gebied een esthetisch waardevol geheel.
+
+
+Sociaal-culturele waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+In 1974 liet de heer van Hoogstraten ten
+behoeve van de werkgelegenheid de heide ontginnen en bebossen. Het
+landschap rondom het kasteel de Hees ontstond daarbij als pronk- en
+jachtbos voor de heren van Hoogstraten. De stervormige drevenstructuur
+die tot ver in het omringende landschap doordrong, was een
+weerspiegeling van de macht en de menselijke invloed op een grote
+omgeving.
+
+Ruimtelijk-structurerende waarde:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+De ruimtelijk-structurerende waarde van Domein de Hees wordt vooral
+bepaald door de typerende aanleg volgens een stervormig patroon,
+opgebouwd uit 16 brede dreven, die vanuit een centraal punt als stralen
+van een grote cirkel uitlopen in het landschap. Rond het centrale punt
+liggen 2 cirkelvormige dreven die instaan voor de onderlinge verbinding
+van de 16 stralen. Het geheel wordt afgebakend door 4 dreven in
+ruitvorm, wat resulteert in een (voor de jacht) overzichtelijke en
+functionele structuur.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Microreliëf:**
+
+ * microreliëf
+
+
+**Moerassige gronden:**
+
+ * ven
+
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * hof
+
+
+**Kastelen, landgoederen en aanhorigheden:**
+
+ * kasteel
+ * boswachterswoning
+
+
+**Landbouwkundig erfgoed:**
+
+ * hoeve
+ * schuur
+ * stal
+
+
+Louisa-hoeve
+
+ **Andere:**
+Bakhuisje
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Puntvormige elementen:**
+
+ * solitaire boom
+
+
+**Lijnvormige elementen:**
+
+ * dreef
+ * bomenrij
+ * houtkant
+
+**Kunstmatige waters:**
+
+ * poel
+ * vijver
+
+
+**Bos:**
+
+ * naald
+ * loof
+ * middelhout
+ * hooghout
+
+
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Als knelpunt vermelden we een tuincentrum in het westen en enkele niet
+meer typische woningen langs de randen van het gebied.
+
