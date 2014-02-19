@@ -4,101 +4,6 @@ Sint-Bernardusabdij
 Anker ID: A10033
 ----------------
 
-**Landschap**
-
-
-
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * tuin
-
-
-**Kastelen, landgoederen en aanhorigheden:**
-
- * muur
-
-
-**Kerkelijk erfgoed:**
-
- * kerk
- * kapel
- * abdij
-
-
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Puntvormige elementen:**
-
- * bomengroep
-
-
-**Lijnvormige elementen:**
-
- * dreef
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-De abdij van Bornem heeft een belangrijke functie voor het plaatselijke
-sociale- en verenigingsleven.
-
-
-
-B.landschapswaarden
--------------------
-
-
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Geen.
-
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-
-Met haar oorsprong in 1603, heeft de St.-Bernardusabdij een zeer
-belangrijke historische waarde. De huidige gebouwen dateren uit de 2de
-helft van de 18de eeuw, uitgezonderd de kerk die in 1840 werd
-(her)opgebouwd. De tuin die in 1772 werd aangelegd, is nog goed
-herkenbaar zoals bij Vandermaelen (1854) en de kaarten van het M.G.I
-(1909).
-
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
-
-Aan de noordzijde van de abdijtuin heeft men een
-mooi zicht op de broekbossen van het domein van het kasteel van Bornem.
-Dit zicht moet zeker worden bewaard.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-Geen.
-
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Geen.
-
 
 
 C.TEKSTUELE Omschrijving
@@ -125,3 +30,71 @@ een bakstenen muur met steunberen. Van het oorspronkelijke Engelse
 klooster resten nog het claustrum en het college. Vandaag vervult de
 abdij van Bornem een belangrijke functie voor het plaatselijke sociale-
 en verenigingsleven.
+
+
+
+B.landschapswaarden
+-------------------
+
+
+Historische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Met haar oorsprong in 1603, heeft de St.-Bernardusabdij een zeer
+belangrijke historische waarde. De huidige gebouwen dateren uit de 2de
+helft van de 18de eeuw, uitgezonderd de kerk die in 1840 werd
+(her)opgebouwd. De tuin die in 1772 werd aangelegd, is nog goed
+herkenbaar zoals bij Vandermaelen (1854) en de kaarten van het M.G.I
+(1909).
+
+
+Esthetische waarde:
+~~~~~~~~~~~~~~~~~~~
+
+Aan de noordzijde van de abdijtuin heeft men een
+mooi zicht op de broekbossen van het domein van het kasteel van Bornem.
+Dit zicht moet zeker worden bewaard.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * tuin
+
+
+**Kastelen, landgoederen en aanhorigheden:**
+
+ * muur
+
+
+**Kerkelijk erfgoed:**
+
+ * kerk
+ * kapel
+ * abdij
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Puntvormige elementen:**
+
+ * bomengroep
+
+
+**Lijnvormige elementen:**
+
+ * dreef
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+De abdij van Bornem heeft een belangrijke functie voor het plaatselijke
+sociale- en verenigingsleven.
