@@ -56,7 +56,7 @@ gh-pages:
 	touch .nojekyll
 	git reset HEAD
 	make html
-	mv -fv build/html/* ./
+	cp -a build/html/* ./ && rm -rf build/html/*
 	rm -rf $(GH_PAGES_SOURCES) build
 	git add -A
 	git ci -m "Generated gh-pages for `git log master -1 --pretty=short --abbrev-commit`" && git push origin gh-pages ; git checkout master
