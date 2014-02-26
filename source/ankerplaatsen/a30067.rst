@@ -8,95 +8,6 @@ Anker ID: A30067
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
-
-
-
-GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Hydrografische Elementen:**
-
- * rivier
- * beek
- * vallei
-
-
-Leie, Markebeek
-
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Koeren en hovingen:**
-
- * tuin
- * park
-
-
-bij patersmote; park bij kasteel van Marke
-
-**Kastelen, landgoederen en aanhorigheden:**
-
- * kasteel
- * landgoed
- * muur
-
-
-landgoed ten oosten kasteeldomein; ommuurde tuin
-
-**Militair erfgoed:**
-
- * motte
-
-
-patersmote
-
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Lijnvormige elementen:**
-
- * dreef
- * bomenrij
- * knotbomenrij
-
-restanten van knotbomenrijen
-
-**Kunstmatige waters:**
-
- * vijver
-
-
-bij kasteel, op domein van Patersmote
-
-**Typische landbouwteelten:**
-
- * hoogstam
-
-
-**Bos:**
-
- * loof
-
-
-park bij domein
-
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Deze ankerplaats is bijna ingesloten door de bebouwing en
-verstedelijking en vormt een belangrijke open ruimte vlakbij het
-stadscentrum. De nieuwbouw nabij het bouwkundig erfgoed doet afbreuk aan
-de belevingswaarde van de omgeving. Bijkomende bebouwing dient vermeden
-te worden en bestaande storende nieuwe bebouwing dient voldoende
-gebufferd te worden.
-
-
-
 B.landschapswaarden
 -------------------
 
@@ -129,12 +40,6 @@ landschappelijk omkaderen. Het verschil in landgebruik maakt de
 verschillende bodemgesteldheden duidelijk zichtbaar waarbij het
 graslandgebruik de Leie en vallei accentueert, én de ligging van de
 beide domeinen de valleirand benadrukt.
-
-
-Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
 
 
 Ruimtelijk-structurerende waarde:
@@ -179,3 +84,94 @@ kapelletje. Ten oosten van het kasteeldomein ligt de hoeve die erbij
 hoorde. Ze bestaat uit enkele losstaande gebouwen die gaaf bewaard zijn.
 Vanop de omringende wegen heeft men een open zicht op de
 kasteeldomeinen.
+
+
+
+A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+-----------------------------------------------
+
+
+
+GEOMORFOLOGIE/HYDROGRAFIE
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Hydrografische Elementen:**
+
+ * rivier
+ * beek
+ * vallei
+
+
+Leie, Markebeek
+
+ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Koeren en hovingen:**
+
+ * tuin
+ * park
+
+
+bij patersmote; park bij kasteel van Marke
+
+**Kastelen, landgoederen en aanhorigheden:**
+
+ * kasteel
+ * landgoed
+ * muur
+
+
+landgoed ten oosten kasteeldomein; ommuurde tuin
+
+**Militair erfgoed:**
+
+ * motte
+
+
+patersmote
+
+
+ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Lijnvormige elementen:**
+
+ * dreef
+ * bomenrij
+ * knotbomenrij
+
+restanten van knotbomenrijen
+
+**Kunstmatige waters:**
+
+ * vijver
+
+
+bij kasteel, op domein van Patersmote
+
+**Typische landbouwteelten:**
+
+ * hoogstam
+
+
+**Bos:**
+
+ * loof
+
+
+park bij domein
+
+
+OPMERKINGEN EN KNELPUNTEN
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Deze ankerplaats is bijna ingesloten door de bebouwing en
+verstedelijking en vormt een belangrijke open ruimte vlakbij het
+stadscentrum. De nieuwbouw nabij het bouwkundig erfgoed doet afbreuk aan
+de belevingswaarde van de omgeving. Bijkomende bebouwing dient vermeden
+te worden en bestaande storende nieuwe bebouwing dient voldoende
+gebufferd te worden.
+
+
+
