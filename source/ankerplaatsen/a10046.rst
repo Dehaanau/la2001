@@ -86,8 +86,8 @@ en dient daarom een halt worden toegeroepen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
 Wetenschappelijke waarde:

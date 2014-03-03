@@ -64,8 +64,8 @@ aspect.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
 Wetenschappelijke waarde:

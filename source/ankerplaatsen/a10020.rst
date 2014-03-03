@@ -62,8 +62,8 @@ open ruimte, bewaard te blijven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
 Wetenschappelijke waarde:
