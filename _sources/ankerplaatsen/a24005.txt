@@ -1,13 +1,13 @@
 Moerbekebos, Raspaillebos en Karkoolbos
 =======================================
 
-Anker ID: A24005
-----------------
+:Ankerplaats ID: A24005
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Dit bossencomplex ten oosten van Onkerzele, en nog op Vlaams- Brabant
 op grondgebied van Galmaarden doorlopend, bestaat uit het Raspaillebos,
@@ -74,20 +74,21 @@ Vlaamse pannen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze bossen zijn gelegen op de Moerbekeberg. Deze heuvel ligt in het
 overgangsgebied tussen de Vlaamse Ardennen en het Pajottenland.
 Dalletjes op de heuvel hebben een amfitheatervormig dalhoofd. Er zijn
 verschillende bronnen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Boscomplex maakte vroeger deel uit van het grote Kolenwoud (is
@@ -104,8 +105,8 @@ afhankelijk was van de abdij van Geraardsbergen. Deze werd voor het
 eerst in 1641 vermeld. Het 'Hof ten Steenborre' is een geïsoleerde
 semi-gesloten hoeve, gelegen aan de rand van het bos.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De steile hellingen zijn bebost. Er komen enkele
 valleitjes in het gebied voor. In en rond het bos staan verschillende
@@ -116,7 +117,7 @@ struwelen nagenoeg verdwenen uit de regio.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Bij de Sint- Pauluskapel is er de unieke
@@ -127,8 +128,8 @@ de O-L-V kapel in het Raspaillebos lag een kluis; wanneer de kluis
 verdween bleef de kapel dikwijls staan. De kapel zou in 1650 opgetrokken
 zijn nadat een kluizenaar een Mariabeeld aan een boom had opgehangen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Vooral de steile hellingen zijn bebost, valleien en andere hellingen
 worden door landbouw en nederzettingen ingenomen. Het gehucht 'Boskant'
@@ -139,12 +140,13 @@ amfitheatervormige dalhoofden; in of aan de rand van het bos.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -179,7 +181,7 @@ bronnen
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -214,7 +216,7 @@ tijdens Ferraris bos was.
 
 Juffrouwkapel, Sint- Pauluskapel, Atembekekapel,…
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -226,7 +228,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Kasseiweg (Bosberg), Keltische weg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -273,8 +275,9 @@ medische planten
 
 Bronbos
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het ruiter-en mountainbikeparcours veroorzaken degradatie van de paden
 en verstoring van de rust.

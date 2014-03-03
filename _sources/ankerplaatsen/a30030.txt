@@ -1,13 +1,13 @@
 Wijnendalebos en -kasteel
 =========================
 
-Anker ID: A30030
-----------------
+:Ankerplaats ID: A30030
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt op de zuidelijke helling van het plateau van
 Wijnendale en vormt een overblijfsel van het Verloren Cost woud uit de
@@ -52,12 +52,13 @@ zuidelijke richting beperken).
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied bevindt zich op de grens tussen de zandstreek en de
 zandleemstreek waardoor flora van beide streken voorkomt. In het gebied
@@ -71,8 +72,8 @@ waardevolle bronbosvegetatie en verder stroomafwaarts beekbegeleidende
 vegetatie. Het gehele boscomplex kent floristisch en faunistisch (vooral
 ornithologisch) een grote rijkdom met zeldzame soorten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het boscomplex is een overblijfsel van het "Verloren Cost"-woud, dat
@@ -85,8 +86,8 @@ is een oude bewoningssite en een oude Merovingische begraafplaats
 aanwezig. De weg Torhout - Oostende, die aan het kasteel passeert, heeft
 een hsitorische waarde als Romeinse Heirbaan.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Door zijn uitgestrektheid en door zijn ligging op
 de rand van het plateau en op de aansluitende helling is het boscomplex
@@ -97,8 +98,8 @@ uit omgeving. In de omgeving van het kasteel staan ook nog enkele
 bijhorende bouwsels zoals fontein, kapel, serre, hoevecomplex,
 afspanning.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het reliëf en hydrografie is structurerend voor deze ankerplaats. Het
 bos zelf vormt door zijn ligging op helling en door zijn uitgestrektheid
@@ -107,12 +108,13 @@ een baken voor de omgeving.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -142,7 +144,7 @@ vooral brongebied; Wijnendaelebron
 
 rond bronniveaus
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -177,7 +179,7 @@ OLV van Wijnendaele
  **Archeologische elementen:**
 oude bewoningssite in bos gelegen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -192,7 +194,7 @@ dreven loodrecht op elkaar; as Torhout - Wijnendaele-kasteel
 
 fontein bij kasteel en kasteelgracht; brongebouw rond bron
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -219,8 +221,9 @@ zogenaamde "carrés"; oude bosindeling
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De steilrand van het plateau wordt door het bos aan het oog onttrokken.
 In het bos is die wel goed zichtbaar. Het zicht op het bos dient

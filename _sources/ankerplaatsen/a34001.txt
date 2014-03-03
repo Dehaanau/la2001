@@ -1,15 +1,15 @@
 Bulskampveld - St-Pietersveld
 =============================
 
-Anker ID: A34001
-----------------
+:Ankerplaats ID: A34001
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats strekt zich uit van de bossen rond kasteel
 Driekoningen van het provinciaal domein Bulskampveld in het noorden
@@ -107,12 +107,13 @@ doorkijk nog mogelijk is.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Kwartaire laag is hier zeer dun/ afwezig waardoor de Tertiaire
 lagen bijna dagzomen. Deze bdoemgesteldheid was bepalend voor de
@@ -123,16 +124,16 @@ flora door beheer en door bodemgesteldheid: vochtregime, bodemtextuur,
 voedingsstoffen, weinig bemesting. Dit vertaalt zich ook in een zeldzame
 fauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Relict van vroegere wastine waarbij de landschappelijke structuren
 van de ontginning van dit veldgebied nog zeer goed herkenbaar en
 aanwezig zijn. De gebouwen aansluitend bij de instelling zijn goed
 bewaard en horen samen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Grote boscomplexen met af en toe enkele open
 landbouwpercelen ertussen. Het St-Pietersveld vormt een grote open
@@ -141,15 +142,15 @@ dreven de ontginningsstructuur van het gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De functie van gemeenschapsinstelling
 (opvoedingsgesticht en "gevangenis")van de gebouwen blijft bestendigd in
 het huidig gebruik waarbij de omliggende gronden nog steeds door de
 inwoners deels bewerkt/onderhouden worden.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De dreven accentueren de ontginningsstructuur en zorgen buiten de
 ankerplaats ook voor een drevenstructuur.
@@ -158,13 +159,14 @@ ankerplaats ook voor een drevenstructuur.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -196,7 +198,7 @@ valleien van de Blauwhuis-, Wante- en Bornebeek
 
 polygoonstructuren rond St-Pietersveld
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -261,7 +263,7 @@ grafcirkels uit Brons- en Ijzertijd
 voormalig rijksopvoedingsgesticht; radio maritiem zendstation;
 veldkanterswoningen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -271,7 +273,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Brugse Heerweg of Diksmuidse Boterweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -298,8 +300,9 @@ bij de kastelen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ankerplaats grenst in het zuiden aan ankerplaats Slangebossen-Vorte
 Bossen. Deze gebieden liggen op verschillende delen van de cuesta (resp.

@@ -1,13 +1,13 @@
 Keignaertkreek en Zoute Kreek
 =============================
 
-Anker ID: A30008
-----------------
+:Ankerplaats ID: A30008
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats grenst aan ankerplaats A300N Zwaanhoek en bevat twee
 krekenstelsels: de Keignaertkreek én de Zoute- en Sluiskreek. Ze ligt
@@ -67,36 +67,37 @@ de flora in de natte poldergronden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Brakwaterkreken met rietoevers met een grotendeels bewaard natuurlijk
 profiel en aanliggende rietgraslanden. Het voorkomen van zeldzame
 plantensoorten wijst op een hoge floristische waarde. Het open water en
 de uitgebreide rietkragen zijn van groot belang voor o.a. de avifauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Ongewijzigde toestand van de kreken sinds de vorming in de 17de eeuw.
 Kreken refereren aan het beleg van Oostende (17e eeuw) en aan de latere
 havenontwikkeling.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De hoge graad van natuurlijkheid, de
 uitgestrektheid van de watervlakken en het zicht op de weidse
 poldervlakte geven deze ankerplaats een hoge esthetische waarde. Zeer
 weinig wegen versnijden het gebied.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De verhoogde spoorwegberm doorsnijdt het gebied en vormt een visuele
 begrenzing van de open ruimte. Het kanaal vormt eveneens een visuele
@@ -105,12 +106,13 @@ begrenzing van de open ruimte door de begeleidende bomenrij.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -132,7 +134,7 @@ Straatkreek
 
 langs oevers van kreken en geleden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -145,7 +147,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 antitankgracht en restanten van verdedigingssites
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -164,7 +166,7 @@ spoorlijn Oostende-Torhout; nu fiets- en wandelpad
 
 kan. Plassendale-Nieuwpoort
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -179,8 +181,9 @@ bomenrijen langs kanaal en dijken
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs het kanaal dreigtde oprukkende industrie en bebouwing het zicht
 van het kanaal op het gebied te verhinderen en vice versa. Heel wat

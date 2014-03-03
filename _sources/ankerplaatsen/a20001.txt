@@ -1,13 +1,13 @@
 Kobbegem en Bollebeek
 =====================
 
-Anker ID: A20001
-----------------
+:Ankerplaats ID: A20001
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het gebied Bollebeek-Kobbegem is gelegen tussen Asse en Wemmel.
 Bollebeek en Kobbegem zijn zeer landelijke gehuchten rond enkele hoeves,
@@ -40,12 +40,12 @@ Kobbegem.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De vallei van de Bollebeek en haar zijriviertjes zijn landschappelijk
@@ -55,8 +55,8 @@ perceelsrandbegroeiing verdwenen . Naast het omgrachte kasteel Wollfrot
 hoeves voor (Hof te Bollebeek, Torenhof te Kobbegem met aangebouwde
 donjon, Hof ter Kalken, in hun huidige vorm 18de-19de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied adermt pittoreske landelijkheid uit
 (kasseiwegen, witgekalkte hoeves, open kouters, beekvalleien met kleine
@@ -65,13 +65,14 @@ oprukkende industrie.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -97,7 +98,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -138,7 +139,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -148,7 +149,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -176,7 +177,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geïsoleerde bebouwing met tevens de kernen van Kobbegem en Bollebeek.

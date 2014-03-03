@@ -1,15 +1,15 @@
 Krekengebied Sint- Margriete- Sint-Jan-in-Eremo
 ===============================================
 
-Anker ID: A40001
-----------------
+:Ankerplaats ID: A40001
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het krekengebied van Sint- Margriete en Sint-Jan-in-Eremo, in het
 noorden van de provincie Oost-Vlaanderen, strekt zich uit tussen de
@@ -131,20 +131,21 @@ Sint-Jan-In-Eremo, de Sint- Jankerk, is een beschermd monument. Het
 eenvoudige kerkje van 1683 is gaaf bewaard. Het is landschappelijk
 ingekleed en omringd met linden en rode beuken.
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De kreken hebben een zeer typische vegetatie door het weinige water
 (varenvegetatie op drijftillen) en de grote hoeveelheid zout. Doordat
 bij het onstaat van de kreken het wegen- en grachtenpatroon gevolgd
 werd, hebben de kreken een hoekig verloop.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kreken zijn getuige van de verwoestingen door de stormvloeden in
 de 14de en 15de eeuw. Het huidige patroon van de kreek is gaaf en
@@ -152,8 +153,8 @@ herkenbaar in vergelijking met de toestand op Ferraris, Vandermaelen en
 MGI 1/20,000. In het patroon van de dijken zijn de doorbraakpunten vaak
 nog te zien, als sporen van de vroegere overstromingen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De loop van de grote open kreken en hun
 vertakkingen wordt visueel versterkt door de aanwezigheid van
@@ -163,13 +164,13 @@ meer gesloten karakter.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op de Boerekreek vindt er heel wat
 watergebonden recreatie plaats.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kreken met de dijken zijn typeren voor de polders. De kreken
 hebben een hoekig verloop, dit omdat het instromende water bij het
@@ -180,13 +181,14 @@ landschap aanwezig.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -214,7 +216,7 @@ Vrouwkeshoekkreek, Haantjesgat
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
@@ -248,7 +250,7 @@ Sint-Jan- in- Eremo en Sint- Margriete
 **Andere:**
 gemeentehuis Sint- Margriete
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -267,7 +269,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 Graaf Jansdijk, Oostpolderdijk, Sint Lievenpolderdijk,
 Brandkreekdijk, Zonnebrug, Leopoldkanaal
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -301,8 +303,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recreatie op de Boerekreek vormt een dreiging voor de fauna en flora
 van de Boerekreek. Het waterpeil in het poldergebied wordt door de

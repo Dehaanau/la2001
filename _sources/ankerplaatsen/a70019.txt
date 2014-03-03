@@ -1,15 +1,15 @@
 Mijnsite Waterschei, Klaverberg en Heiderbos
 ============================================
 
-Anker ID: A70019
-----------------
+:Ankerplaats ID: A70019
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Tot begin 20ste eeuw was Waterschei een straatvormig gehucht ten
 noordoosten van Genk. Nadat André Dumont anno 1901 in het aangrenzende
@@ -107,12 +107,13 @@ Lietenbeek een ondiepe zijvallei van de Bosbeek uit.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het duinenveld van de Klaverberg is in geomorfolgisch en
 natuurhistorisch opzicht belangrijk. Naast een relatief grote
@@ -121,8 +122,8 @@ georiënteerd. Op plaatsen waar vegetatie ontbreekt, treedt aktieve
 verwaaiing op. In het gebied komen autochtone wintereiken voor als
 overblijfsel van een oude bospraktijk.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het mijncomplex - met o.a. de bovengrondse installaties, de aanleg
@@ -141,8 +142,8 @@ overexploitatie of ontginning van zuidwestelijke heidegebieden. Sporen
 van een neolithische nederzetting en een Merovingische begraafplaats
 wijzen op vroege bewoning.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied is aantrekkelijk gevarieerd,
 doorsneden door het kolenspoor. Het duinreliëf van de Klaverberg, de
@@ -154,7 +155,7 @@ van een industrieel verleden met een grote impact.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het gebied vindt de bezoeker niet
@@ -168,8 +169,8 @@ tuinwijken leeft de sfeer van een multiculturele samenleving. In
 september 2000 werd de spoorverbinding Genk-As-Maasmechelen als
 toeristische spoorlijn geopend.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het mijnverleden was bepalend voor de configuratie van het landschap.
 Daarin zijn de mijnterrils visueel dominant aanwezig en de loof- en
@@ -178,13 +179,14 @@ oriënterend als mijngebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -218,7 +220,7 @@ oude gemeentelijke grindgroeve
  **Andere:**
 stuifzand
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -266,7 +268,7 @@ neolithicum, Merovingische periode, industrieel-archeologisch erfgoed
 gebouwen en installaties van de voormalige mijn van Waterschei,
 station van Waterschei
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -283,7 +285,7 @@ tuinwijken
 
 kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -328,8 +330,9 @@ o.a. Heiderbos
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden. De
 initiatieven voor een passende herbestemming van het

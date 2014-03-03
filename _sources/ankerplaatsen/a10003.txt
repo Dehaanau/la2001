@@ -1,13 +1,13 @@
 Domein Ravenhof
 ===============
 
-Anker ID: A10003
-----------------
+:Ankerplaats ID: A10003
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Domein Ravenhof is gelegen in de gemeente Stabroek in het noorden van
 de provincie Antwerpen. De begrenzing van deze ankerplaats wordt gevormd
@@ -41,20 +41,21 @@ landschappen in het uiterste noorden van de provincie Antwerpen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van dit landschap wordt bepaald door de
 deels historisch stabiele, hoogstammige bossen van afwisselend loof- en
 naaldhout. Langs de zuidrand vormen bomenrijen van eik en knotwilg een
 relatie tussen de bosrand en de omliggende open ruimte.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het 'Domein Ravenhof' werd reeds vermeld bij Ferraris (1777) en
@@ -65,8 +66,8 @@ parkstructuur loopt verder over staatsgrens en sluit aan op bos (cf.
 MGI, 1909). De dreef van het kasteel naar de kerk van Putte
 (hof-kerk-relatie) is opmerkelijk.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De open ruimte tussen de Antitankgracht en het
 Moretusbos langs de zuidzijde laat een mooi zicht op de boszoom toe. De
@@ -75,8 +76,8 @@ open ruimte. Het kasteel en ark voren een mooi geheel.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De intacte, stervormige parkstructuur rond het 'Kasteel Ravenhof',
 met een aantal opmerkelijke dreven, is ruimtelijk-structurerend dominant
@@ -87,13 +88,14 @@ cluster van waardevolle landschappen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -106,7 +108,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 zandheuvel de Hoge Berg of Huzarenberg
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -143,7 +145,7 @@ rijksgrens met Nederland
 vlakke brug over hofgracht
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -168,8 +170,9 @@ spiegelvijver bij kasteel
 
 deels historisch stabiel
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De westgrens wordt gevormd door een weg als fysisch baken. De resterende
 bospercelen langs de westkant van deze weg werden niet mee opgenomen in

@@ -1,13 +1,13 @@
 Kasteel van Westmalle
 =====================
 
-Anker ID: A10079
-----------------
+:Ankerplaats ID: A10079
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'kasteel van Westmalle' situeert zich in de centrale
 Kempen, ten noordoosten van de bewoningskern van Westmalle. De
@@ -46,20 +46,21 @@ belevingswaarde van het geheel is dan ook zeer hoog.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt
 vertegenwoordigd door de boskernen en de dendrologische waarde van de
 dreven, die samen met het omliggende landelijke gebied belangrijke
 potenties hebben voor de avifauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De oorsprong van het Kasteel van Westmalle en het omliggende
@@ -78,8 +79,8 @@ de 15de eeuw bleven enkel nog een kapel en een sacristie bewaard. De
 'Grote Hoeve', die ten noordwesten van het kasteel ligt, dateert uit
 1853.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het kasteel met kasteelpark en aanpalende bossen
 en landerijen vormen samen met de St.-Martinuskerk en de
@@ -89,7 +90,7 @@ hoge esthetische waarde vertegenwoordigt.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het kasteel van Westmalle heeft sinds zijn
@@ -99,8 +100,8 @@ geschiedenis deden het kasteel en de Ronde Bouw verschillende keren
 (1585, 1914 en 1945) dienst als schuilplaats voor de bevolking van
 Westmalle.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Opvallend in de structuur van dit landschap is de mooi bewaarde
 kasteel-kerk relatie, die een duidelijk dominerend element vormt in het
@@ -109,13 +110,14 @@ karakter door de aanwezigheid van dreven en bospercelen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -123,7 +125,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -157,7 +159,7 @@ kasteelpark
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -187,7 +189,8 @@ haag rond kasteelpark
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen opmerkingen of knelpunten.

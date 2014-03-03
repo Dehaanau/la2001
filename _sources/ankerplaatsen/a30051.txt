@@ -1,13 +1,13 @@
 Bossuit
 =======
 
-Anker ID: A30051
-----------------
+:Ankerplaats ID: A30051
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt rond Bossuit (gem. Avelgem) en strekt zich uit
 van het kanaal van Bossuit, over het kasteel tot voorbij de Bouvriebeek.
@@ -58,18 +58,19 @@ misschien wel een historische band met het kasteel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het kasteelpark liggen enkele bronniveau's voor kleinere zijbeken
 van de Bouvriebeek.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De oude kanaalarm, het pompgebouw uit 1860 en de oude sluizen vormen
@@ -81,8 +82,8 @@ Engelse landschapsstijl. Het bouwkundig erfgoed is nog gaaf bewaard. Het
 Hof van Ename vormt door zijn typische ligging (aan de rand van de
 vallei) en door zijn gaafheid een meerwaarde biedt aan zijn omgeving.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gaaf bouwkundig erfgoed in het domein samen
 met het omgevende park en dreven biedt de omgeving een grote
@@ -96,8 +97,8 @@ taluds, én de kleinere breedte geven het kanaal een hogere esthetische
 waarde.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het grote bos (park) rond het kasteel samen met de kleinere
 bospercelen langs de Bouvriebeek vormen blikvangers in en contrasteren
@@ -106,13 +107,14 @@ belangrijk lijnelement.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -129,7 +131,7 @@ langs oude kanaalarm
 
 Bouvriebeek; monding kanaal in Schelde
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -163,7 +165,7 @@ stal en wagenhuis bij kasteel; hoeve ten noordoosten van kasteel
  **Andere:**
 pompgebouw bij kanaal
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -175,7 +177,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oude kanaalarm; voormalig pompgebouw
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -206,8 +208,9 @@ boomgaard bij kasteel en hoeve
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De dorpskern van Bossuit ligt dichtbij het kasteeldomein wat een
 belemmering vormt voor het zicht erop. Zeker de nabijgelegen wijk dient

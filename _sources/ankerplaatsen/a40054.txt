@@ -1,13 +1,13 @@
 Vallei van de Nederaalbeek en de Bossenarekouter
 ================================================
 
-Anker ID: A40054
-----------------
+:Ankerplaats ID: A40054
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats bevindt zich ten oosten van Etikhove. Etikhove is een
 straatdorp dat parallel aan de Nederaalbeek gelegen is. Dit valleitje is
@@ -79,20 +79,21 @@ voet.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei van de Nederaalbeek heeft haar brongebied ter hoogte van
 Spichterberg, Ronse. Het is een vrij asymmetrische vallei, typisch voor
 de Vlaamse Ardennen, de steilere helling bevindt zich op de
 rechteroever.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand op de kaart van Ferraris (ca. 1775) is als volgt: een
@@ -109,8 +110,8 @@ steenweg van Oudenaarde naar Ath die zich afsplitste van de steenweg
 Oudenaarde- Geraardsbergen. Het tracé van de Aatse Heerweg zou mogelijk
 al tot het Gallo-Romeinse wegennet behoord hebben.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De loop van de Nederdalbeek wordt geaccentueerd
 door de bomenrijen op de oevers, deze zijn structuurversterkend. De
@@ -123,8 +124,8 @@ een straat ongeveer parallel met de Nederaalbeek, gelegen zijn. Vanop de
 open kouter, met op de top de molen, zijn er in alle richtingen zichten.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats bevindt zich ten oosten van Etikhove. Etikhove is
 een straatdorp dat parallel aan de Nederaalbeek gelegen is. Dit
@@ -140,13 +141,14 @@ parallel aan de beek.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -170,7 +172,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -224,7 +226,7 @@ Bossenaremolen
 
 Kerkem
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -237,7 +239,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Aatse Heerweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -269,8 +271,9 @@ Drievuldigheidsboom
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Bossenarekouter is in een ruilverkaveling gelegen. Dit heeft tot
 gevolg dat de perceelsstructuur aangepast is maar aangezien het hier

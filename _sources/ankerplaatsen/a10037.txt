@@ -1,13 +1,13 @@
 Vallei van het Schijn met kastelen Schilde, Bleekhof en Vrieselhof
 ==================================================================
 
-Anker ID: A10037
-----------------
+:Ankerplaats ID: A10037
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Vallei van het Schijn met de kastelen Schilde,
 Bleekhof en Vrieselhof' is gelegen op grondgebied van de gemeenten
@@ -111,12 +111,13 @@ landschapsstructuur en het resterende gebouwenpatrimonium.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde in dit gebied wordt voor een belangrijk
 deel bepaald door de structuur van de vallei, m.n. het reliëf, de
@@ -131,8 +132,8 @@ mogelijkheden voor talrijke diersoorten, temeer daar het gebied langs
 het oosten aansluit op de antitankgracht en de bosrijke omgeving van
 Hendriksvoort en Halse Hoek.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De landschapsstructuur en -opbouw van het gebied is gedurende de
@@ -145,8 +146,8 @@ vertegenwoordigen eveneens een belangrijke historische waarde. De
 Dobbelhoeve en Grote Hoeve, waarvan de huidige gebouwen teruggaan tot de
 18de eeuw, zijn de meest opmerkelijke.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De vrij geaccentueerde vallei van het Groot
 Schijn heeft dankzij de afwisseling van op en gesloten structuren een
@@ -157,7 +158,7 @@ het geheel een aanzienlijke esthetische waarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De site van de vroegere blekerij, die in
@@ -165,8 +166,8 @@ tweede helft van de 18de eeuw en het begin van de 19de eeuw werd
 uitgebaat en nauw verbonden was met het Groot Schijn, is nog steeds
 aanwezig.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van het Groot Schijn betreft een relatief gaaf bewaard
 landschap dat zowel langs noordelijke, westelijke als zuidelijke zijde
@@ -180,13 +181,14 @@ t.h.v. het Bleekhof.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -210,7 +212,7 @@ Groot Schijn, Heidebeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -241,7 +243,7 @@ Vrieselhof, Bleekhof, Schildehof
 
 Dobbelhoeve + bakhuisje, Grote Hoeve + waterput, Rundvoorthoeve
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -257,7 +259,7 @@ aarden weg
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -288,8 +290,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De verspreide bewoning moet in het landschap ingepast blijven teneinde
 het typische karakter van het geheel te bewaren.

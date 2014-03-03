@@ -1,15 +1,15 @@
 Kastelensite Zwijnaarde
 =======================
 
-Anker ID: A40084
-----------------
+:Ankerplaats ID: A40084
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De kastelensite van Zwijnaarde bestaat uit een ensemble van de
 kastelen Reivissche, Predikherenhof, Nieuwgoed, Puttenhove en Hoedje met
@@ -115,19 +115,20 @@ schermgevel en nieuwe functie als conciërgewoning en koetshuizen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geomorfologisch bevindt het kasteelpark zich in de Vlaamse Vallei,
 een zandig gebied waar er een uitgesproken microreliëf voorkomt van
 westzuidwest- oostnoordoost geöriënteerde ruggen en depessies.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Deze site situeert zich in een middeleeuws bulkengebied.
@@ -139,8 +140,8 @@ bewaard die wijzen op omwalde sites. Deze omwallingen verwijzen naar de
 14e en 15e eeuwse ontginningen. In het landschap zijn er nog talrijke
 relicten aanwezig zoals de dreven, het tracé van de oude spoorweg.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het is een unieke, uitzonderlijk gaaf en open
 landschap aan de zuidrand van de stad Gent en zeer gewaardeerd door
@@ -155,8 +156,8 @@ leggen. Deze bijzondere attractieve elementen bezorgen het gebied op
 esthetisch gebied een interresante meerwaarde.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kastelen zijn niet alleen historisch en landschappelijk met elkaar
 verbonden, ook de visuele band is heel sterk. Samen met hun
@@ -166,13 +167,14 @@ kleine kasteeltjes rond Gent, behorend aan de 19e eeuwse katoenbaronnen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -186,7 +188,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -222,7 +224,7 @@ Ghellinck d'Elsegem
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -235,7 +237,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * verlaten spoorweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -277,8 +279,9 @@ bulken
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten noorden van kasteel Hoedje ligt een tuinbouwbedrijf in het
 landschap.

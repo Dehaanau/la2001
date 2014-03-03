@@ -1,13 +1,13 @@
 Bertembos en Grevensbos
 =======================
 
-Anker ID: A20041
-----------------
+:Ankerplaats ID: A20041
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het betreft hier een gebeid ten noorden van Bertem. Nagenoeg twee
 derden van het gebied wordt ingenomen door twee van elkaar gescheiden
@@ -150,12 +150,13 @@ oude kerselaars, die tot de oudste van België worden gerekend.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Zowel qua soorten samenstelling als leeftijdsopbouw van de boométages
 behoort het Bertems Gemeentebos tot de rijkste en meest gevarieerde van
@@ -165,8 +166,8 @@ bomen voor waaronder kerselaars die tot de oudste van België worden
 gerekend. In het Grevensbos-Eikenbos komen enkele interessante
 heidevegetaties voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het Bertems Gemeentebos en de omgevende velden weerspiegelen op een
 nog duidelijk leesbare manier de middeleeuwse situatie. De primitieve
@@ -180,8 +181,8 @@ grens van de Vrijheid of "Kuip" van Leuven tijdens het Ancien Régime.
 Het gehucht Bertembos met de Augustijnenhoeve is een typische voorbeeld
 van boskantgehucht ontstaan rond een 13de-eeuwse ontginning
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Door zijn hoge ligging biedt het
 Bertembos-Eikebos-Grevensbos heel wat schitterende vergezichten. De
@@ -193,12 +194,13 @@ aantrekkelijk bos is.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -212,7 +214,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * heuvel
  * holle weg
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -228,7 +230,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -239,7 +241,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -258,8 +260,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * loof
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing vooral rond de centrale as (Bertembosstraat), Naturistenkamp,
 Radiozender, watertoren

@@ -1,13 +1,13 @@
 Brakwaterschorren langsheen de Schelde ten noorden van Antwerpen
 ================================================================
 
-Anker ID: A14001
-----------------
+:Ankerplaats ID: A14001
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats betreft het schorrengebied (Galgenschoor, Groot
 Buitenschoor en Schorren van Doel) langsheen beide oevers van de Schelde
@@ -84,12 +84,13 @@ de oude, kleine bewoningskernen langsheen de Schelde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De slikken en schorren langsheen de schelde betreffen een
 onvervangbaar landschap- en vegetatietype gezien hun zeer specifieke
@@ -110,8 +111,8 @@ nationaal niveau zeldzaam is. Deze waterrijke en open gebieden zijn
 bovendien belangrijke rui-, foerageer-, rust-, en broedgelegenheden voor
 watervogels en worden hiervoor op internationaal niveau erkend.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De slikken en schorren die we hier vandaag nog vinden zijn een
@@ -138,8 +139,8 @@ is er niets meer veranderd. Daarnaast omvat het ook bouwkundig erfgoed:
 zo dateert de Zeedijkwindmolen van 1614 en gaat de neoclassicistische
 kerk terug tot de 2de helft van de 19de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De restanten goed bewaarde slikken en schorren
 vormen samen met de forten een geheel dat de geschiedenis en functie van
@@ -149,7 +150,7 @@ omgevende industrie in een aantal richtingen worden beperkt.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het polderdorp Doel heeft reeds een lange
@@ -157,8 +158,8 @@ geschiedenis achter de rug als herkenningspunt langs de Schelde. De naar
 Antwerpen komende schepen moesten in het verleden, na hun zeereis, in de
 haven van doel een quarantaine van 3 dagen doormaken.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De slikken en schorren vormen, samen met de goed bewaarde forten van
 Lillo en Liefkenshoek, kleine enclaves van open en waterrijke gebieden
@@ -171,13 +172,14 @@ een in cultuur gebracht rivierlandschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -204,7 +206,7 @@ de Schelde
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -261,7 +263,7 @@ dorpspomp
 archeologische vindplaatsen met aardewerk uit de Ijzertijd en
 préhistorische werktuigen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -272,7 +274,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 **Andere:**
 greppelpatroon, overzet
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -310,8 +312,9 @@ Prosperpolder
  **Andere:**
 schorre, slikke, zandplaat
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De oprukkende haveninfrastructuur vormt een sterke bedreiging voor de
 overblijvende brakwaterslikke en -schorre ten noorden van Antwerpen,

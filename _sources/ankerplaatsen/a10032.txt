@@ -1,13 +1,13 @@
 Landschap van de Oude Schelde tussen Bornem en Weert
 ====================================================
 
-Anker ID: A10032
-----------------
+:Ankerplaats ID: A10032
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het 'Landschap van de Oude Schelde tussen Bornem en Weert' is volledig
 gelegen op grondgebied van de gemeente Bornem in Klein Brabant. De
@@ -62,12 +62,13 @@ weinig karakteristieke bouwwerken is ten zeerste gewenst.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dankzij een afwisseling van geomorfologie en bodemgesteldheid, alsook
 ten gevolge van een lange geschiedenis met talrijke natuurlijke en
@@ -79,8 +80,8 @@ gebied dan ook een zeer gevarieerde en rijke flora. Daarnaast biedt het
 uitstekende mogelijkheden voor de avifauna als broed-, pleister-, roest-
 en slaapplaats of als overwinteringgebied.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De polder ter hoogte van de oude Scheldemeander heeft nog een gave,
@@ -91,8 +92,8 @@ de 9de eeuw. Uiterst waardevol is de eendenkooi op de Oude Schelde uit
 het begin van de 14de eeuw, alsook het sas op de Oude Schelde, waarvan
 de oorsprong teruggaat tot 1592.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Door de grote variatie in begroeiing en
 landschapsstructuren heeft men hier op een eerder beperkte oppervlakte
@@ -103,8 +104,8 @@ waterlopen kan men hier genieten van mooie zichten, die samen met de
 uitgestrektheid en rust bijdragen tot een zeer hoge belevingswaarde.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Oude Schelde, die van noord naar zuid door het gebied loopt, vormt
 het belangrijkste ruimtelijk-structurerend element binnen dit redelijk
@@ -115,13 +116,14 @@ blokvormige percelen van de polder die mede structuurbepalend zijn.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -147,7 +149,7 @@ Oude Schelde
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -167,7 +169,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -186,7 +188,7 @@ dijkweg, oude steenweg
 
 vaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -220,8 +222,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn de hoge dichtheid aan 'vissershuisjes' langs de Oude
 Schelde en de verspreid voorkomende atypische bebouwing (o.a. straat

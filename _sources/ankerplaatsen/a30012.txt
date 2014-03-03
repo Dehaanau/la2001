@@ -1,13 +1,13 @@
 Doornpanne
 ==========
 
-Anker ID: A30012
-----------------
+:Ankerplaats ID: A30012
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats bevat het paraboolduinengebied tussen Oostduinkerke
 en Duinkerke (beiden gem. Koksijde) , en de aangrenzende strandzone. Het
@@ -51,12 +51,13 @@ en niet aangetast door bebouwing.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Meest oostelijk uitgestrekte duinpanne van het paraboolduinencomplex
 tussen Duinkerke en Oostduinkerke met Hoge Blekker als relict van actief
@@ -67,8 +68,8 @@ mozaïek van duinkalkgrasland, dwergstruikvegetaties en gevarieerd
 doornstruweel. De duinkalkgraslanden hebben floristisch en faunistisch
 een grote waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het dichte padennet is een overblijfsel van een verkaveling tijdens
@@ -76,16 +77,16 @@ het interbellum. Voor de waterwinning waren dit nog zeer mobiele duinen
 met duinakkers. Door het wegvallen van begrazing werden de duinen
 gefixeerd met struweel.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De twee schepen langs de Koninklijke Baan (La
 Péniche en Hotel Normandie) die door hun kleuren en hoogte in het oog
 springen. Groot aaneengesloten duincomplex met afwisseling van actieve
 duinen met gefixeerde duinen die verschillende plantengroei hebben.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De schepen langs de Koninklijke Baan vormen bakens voor het gehele
 gebied. Ook de hoge duintop van de Hoge Blekker vormt een zichtpunt.
@@ -93,12 +94,13 @@ gebied. Ook de hoge duintop van de Hoge Blekker vormt een zichtpunt.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -106,16 +108,16 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 sekwentie strand-zeeduin-polder
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  **Andere:**
 1 schip ter hoogte van de Koninklijke Baan
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bos:**
@@ -129,8 +131,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 waterwinnningsgebied
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door de waterwinning worden de duinen te droog gehouden wat een
 negatieve invloed heeft op de vegetatie. Vooral in pannes verwacht men

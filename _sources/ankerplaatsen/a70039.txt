@@ -1,15 +1,15 @@
 Jagersborg
 ==========
 
-Anker ID: A70039
-----------------
+:Ankerplaats ID: A70039
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het domein Jagersborg is gelegen op de grens tussen Maaseik en
 Neeroeteren. Noordelijk en oostelijk sluit het omgevende landschap aan
@@ -78,12 +78,13 @@ en struwelen voor. Dreven verbinden verschillende gebiedsdelen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het zwak tot zeer zwak golvend microreliëf is gevormd in een laag
 dekzand. Omwille van het zwak reliëf en de daarmee gepaard gaande
@@ -97,8 +98,8 @@ aanleiding tot een afwisseling van verschillende vochtige graslanden,
 houtkanten en struwelen, bosvegetaties, heiderelicten, plassen,
 rietmoerassen en veengronden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Domein Jagersborg is een voorbeeld van een 19de eeuws
@@ -113,8 +114,8 @@ uitzicht van het ontginningslandschap. Ten noorden tegen de Itterbeek
 kwamen wellicht reeds vroeger vochtige hooi- en weilanden voor. Het
 gebied is bovendien rijk aan archeologica.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde van het gebied schuilt
 voornamelijk in de afwisseling van gesloten bossen, het
@@ -125,7 +126,7 @@ haast onbestaande.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De sociaal-culturele functie van het
@@ -133,8 +134,8 @@ domein is beperkt, maar niettemin is het voor wandelrecreanten
 toegankelijk op de aangeduide wegen. Daarbuiten kunnen voor groepen op
 aanvraag begeleide wandelingen plaats vinden.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De 19de eeuwse ontginning vanuit de hoeve Jagersborg is bepalend
 geweest voor de organisatie van dit landschap in het natte
@@ -143,13 +144,14 @@ landschapsopbouw.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -178,7 +180,7 @@ o.a. Itterbeek, Zwart Water of Witbeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -208,7 +210,7 @@ o.a. Jagersborg, Hof ter Heide
 
  **Archeologische elementen:**
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -228,7 +230,7 @@ blokvormig, regelmatig wegenpatroon
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -276,8 +278,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De hoeve Jagersborg ligt thans ingesloten tegen het gelijknamige
 industrieterrein van Maaseik. In het noordelijke deel van het gebied

@@ -1,13 +1,13 @@
 Vallei van de Perlinckbeek
 ==========================
 
-Anker ID: A40053
-----------------
+:Ankerplaats ID: A40053
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het deel van de Perlinckbeek dat in de ankerplaats is opgenomen, vormt
 de bovenloop van de beek die ongeveer vijf kilometer lang is en zich
@@ -101,12 +101,13 @@ werden in 1780-1783 gebouwd en later nog wat verbouwd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het begin van de beek wordt net ten zuiden van Zegelsem gevormd door
 de samenloop van twee beken die in twee amphitheatervormige brongebieden
@@ -123,8 +124,8 @@ erosie gedurende de Weichsel en werd het daardoor een preferentieel
 sedimentatiebekken.Op de steile helling van de dalwand hebben al
 verschillende verglijdingen plaats gehad.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Als de ankerplaats op de Ferrariskaart (ca. 1775) bekeken wordt zien
@@ -147,8 +148,8 @@ grotendeels uit de 19e eeuw. In de vallei van de Perlinkbeek komen
 verschillende grote gesloten hoeves voor. De dorpskom van Zegelsem is
 vrij intact bewaard.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Door de beekbegeleidende bomenrij valt de ligging
 van de beek op in landschap. De oostelijke dalwand vertoont
@@ -158,8 +159,8 @@ het landschap liggen verschillende hoeves. De dorpskern van Zegelsem, in
 de vallei gelegen, is goed bewaard.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Centraal in de ankerplaats loopt de Perlinkbeek die door de
 beekbegeleidende bomenrij in het landschap opvalt. De oostelijke
@@ -171,13 +172,14 @@ De dorpskern van Zegelsem is in de vallei gelegen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -201,7 +203,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -246,7 +248,7 @@ Perlinkmolen
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -258,7 +260,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kasseiwegen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -295,8 +297,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Wegens de jaarlijks terugkerende wateroverlast, voornamelijk in
 Nederzwalm, plant men waterbeheerswerken ter hoogte van het dal in Sint-

@@ -1,14 +1,14 @@
 Kasteel van Ooidonk en Leiemeersen
 ==================================
 
-Anker ID: A40009
-----------------
+:Ankerplaats ID: A40009
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het kasteeldomein van Ooidonk te Deinze (Bachte-Maria-Leer-ne),
 gelegen binnen een grote meanderende Leiebocht en uitge-strekt
@@ -104,20 +104,21 @@ goed beeld van een eenbeukig zaalkerkje.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied is in de vallei van de Leie gelegen. Vosselareput is een
 afgesneden meander van de Leie. Een nog actieve meander is de
 Otegemsham. In dit meersengebied ligt het kasteeldomein van Ooidonk op
 een donk.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het huidige perceelspatroon is herkenbaar volgens Ferraris, de loop
 van de beken is niet gewijzigd. De middenhoutbestanden bestaan oa uit
@@ -137,8 +138,8 @@ een sluis gebouwd. Binnen de Oude Arm van de Leie bleef het
 meersenkarakter van het gebied behouden, dit is ook aan de Otegemsham
 zo. Op de Leie bevindt zich een sluis van het jaar 1867.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Vanop de Vetterskouter zijn er zichten op de
 Leiemeersen. De meersen zijn een vochtig, open gebied. In het
@@ -148,8 +149,8 @@ Leerne. Het gehucht Bachte grenst aan Vosselareput, een oude
 Leiemeander. De Rekkelingebeek verbreed zich op sommige plaatsen, en
 wordt op andere plaatsen weer veel smaller.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteeldomein van Ooidonk met zijn bijhorende gebouwen vormt een
 cultuurhistorische entiteit binnen het ruimer landschappelijk waardevol
@@ -159,13 +160,14 @@ Vanuit het bos is er via dreven een visuele relatie met het kasteel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -188,7 +190,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -245,7 +247,7 @@ duiventoren
 
 Raasboomkapel
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -262,7 +264,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -310,8 +312,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een stuk van de Leiemeersen, ter hoogte van Astene, is opgehoogd. Er
 staan binnen de ankerplaats enkele woningen die zwaar verbouwd zijn en

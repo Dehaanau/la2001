@@ -1,13 +1,13 @@
 Molenheide
 ==========
 
-Anker ID: A10018
-----------------
+:Ankerplaats ID: A10018
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Molenheide' is gelegen op grondgebied van de gemeente
 Poppel (Ravels) in de Antwerpse Noorderkempen. De begrenzing wordt
@@ -48,12 +48,13 @@ in en rond het gebied te worden afgeremd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van Molenheide wordt in de eerste plaats
 bepaald door de geomorfologie en hydrologie. Daar het gebied verheven
@@ -64,8 +65,8 @@ tevens voor variatie in het reliëf. Gelet op de oppervlakte en de
 ongewone rust in het gebied, bezit het aanzienlijke mogelijkheden voor
 natuur.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Rond de wisseling van de 19de naar de 20ste eeuw werd het gebied van
@@ -78,8 +79,8 @@ hier is de blokvormige structuur ook nu nog duidelijk herkenbaar. De
 'Rovertkapel', gelegen in de noordoostelijke hoek van de ankerplaats,
 gaat terug tot 1735.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Molenheide betreft een gaaf bos met een mooi
 bewaarde ontginningsstructuur, dat door de dominerende aanwezigheid van
@@ -90,8 +91,8 @@ belevingswaarde van dit landschap.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 'Molenheide' betreft een sterk gesloten landschap met een opvallende
 en gaaf bewaarde ontginningsstructuur in dambordpatroon met vierkante
@@ -104,13 +105,14 @@ complex aaneengesloten groen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -129,7 +131,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -139,7 +141,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 Rovertkapel
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -148,7 +150,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -176,8 +178,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn de aanwezige landbouwinfrastructuur in de
 noordoostelijke hoek en de oprukkende grootschalige landbouw langs de

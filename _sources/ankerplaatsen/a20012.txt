@@ -1,13 +1,13 @@
 Silsombos
 =========
 
-Anker ID: A20012
-----------------
+:Ankerplaats ID: A20012
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats Silsombos is gelegen ten oosten van Kortenberg en
 strekt zich van west naar oost uit vanaf de dorpskernen van Erps en
@@ -64,12 +64,13 @@ daterend van 1655. De voormalige kasteelhoeve is 18de-eeuws.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Silsombos ligt in een oud alluvium dat deel uit maakt van een
 fossiele oost-west gerichte riviervallei die momenteel via een aantal
@@ -81,8 +82,8 @@ grotendeels gekenmerkt door voedselarme, kalkrijke basische
 laagveenmoerassen, die ten noorden ven de Maas in België zeldzaam zijn.
 Het kasteelpark van Wilder herbergt zeldzame en oude bomen..
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Silsombos is een restant van een grotere bosgebied dat in de loop
@@ -95,8 +96,8 @@ middeleeuwse kern, maar het huidige uitzicht wordt hoofdzakelijk bepaald
 door 20ste-eeuwse renovaties; het omgevende park heeft vooral een
 landschappelijk karakter.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Schilderachtige afwisseling van bossen,
 moerassen, dreven (o.m. dubbele platanendreef van Wilder),
@@ -104,13 +105,14 @@ kasteelparken, oude dorpshuizen, hoeven en kapelletjes.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -135,7 +137,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -187,7 +189,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -204,7 +206,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -229,8 +231,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Beperkte bebouwing nabij Walenhoek en Wilder, ten zuiden van de kapel
 O.L.Vrouw van Scherpenheuvel. Bebouwing in de kernen van Erps en Kwerps

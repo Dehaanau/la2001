@@ -1,14 +1,14 @@
 Bolderberg, Terlamen en Vogelzang
 =================================
 
-Anker ID: A70063
-----------------
+:Ankerplaats ID: A70063
+
 
 **Landschap**
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het gebied is gelegen in het zuiden van de gemeente Heusden-Zolder en
 omvat grosso modo de getuigenheuvel van Bolderberg en de kasteeldomeinen
@@ -122,12 +122,13 @@ ook enkele geleide wandelingen georganiseerd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De getuigenheuvel van Bolderberg is een overblijfsel van een groot
 duinengebied. De ondergrond bestaat er o.a. uit de bruine Diestiaanse
@@ -137,8 +138,8 @@ waterpartijen, heidevelden, veenrelicten, wei- en hooilanden. Twee
 kasteelparken herbergen een dendrologische verzameling. Vooral het park
 van Vogelsanck is op dit vlak waardevol.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Rond het waterkasteel van Vogelsanck ligt een uitgestrekt domein met
@@ -164,8 +165,8 @@ Herkenrode en Averbode werden ze omgevormd tot kweekvijvers voor
 zoetwatervis. De watertoevoer stoelt op een cascadesysteem via een
 netwerk van af- en toevoersloten.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het uitgestrekte gebied wordt gekenmerkt door een
 grote verscheidenheid aan historisch erfgoed zowel als groene
@@ -175,7 +176,7 @@ panoramisch zicht op de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kluis op de Bolderberg was in het
@@ -184,8 +185,8 @@ vissoorten in de vijvers van Terlaemen en Vogelsanck worden geserveerd
 als streekgerecht. Bewegwijzerde wandelroutes ontsluiten de omgeving.
 Regelmatig worden ook geleide wandelingen georganiseerd.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Diverse elementen waren door hun ligging, omvang en/of invloed
 bepalend voor de ruimtelijke organisatie van de omgeving, m.n. de
@@ -194,13 +195,14 @@ kasteeldomeinen van Vogelsanck en Terlaemen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -226,7 +228,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -271,7 +273,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 **Andere:**
 kluis op de Bolderberg
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -289,7 +291,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 vijvercomplex
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -337,8 +339,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Aan de voet van de Bolderberg bevindt zich een smalle, venige zone. Om
 de ontwikkelingskansen van heide- en hoogveenrelicten gaaf te houden is

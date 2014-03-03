@@ -1,13 +1,13 @@
 Kasteel Rumbeke
 ===============
 
-Anker ID: A30059
-----------------
+:Ankerplaats ID: A30059
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten zuiden van Roeselare en bevat het kasteel en
 domein van Rumbeke. Het domein bevindt zich in een klein beekdal wat de
@@ -50,12 +50,13 @@ vegetatie. Rond het domein staat een haag en in het zuiden een dreef.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De grote verscheidenheid aan landschapsbepalende elementen in het
 park bepaalt de wetenschappelijek waarde door de aanwezige flora en
@@ -66,8 +67,8 @@ park komt heir een andere meer vochtminnende flora voor. Het domein ligt
 in een kleine vallei wat zorgt voor de watertoevoer naar de vijvers en
 grachten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het 16e eeuwse kasteel is de kern en het oudste gedeelte van het
@@ -80,8 +81,8 @@ omgrachting. De 18e eeuwse parkaanleg met het lanen- of drevenpatroon is
 ondanks de mindere herkenbaarheid toch zeer bepalend voor het domein en
 vormt de omkadering van het bouwkundig erfgoed.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het geheel van vrij gaaf historisch bouwkundig
 erfgoed krijgt een esthetische meerwaarde door het omliggende park met
@@ -91,8 +92,8 @@ domein. De haag rondom het domein en de dreef langs de zuidelijke grens
 begrenzen het park heel duidelijk.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De drevenstructuur is de basis voor het park en trekt de aandahct
 naar het kasteel en andere gebouwen uit de wijdere omgeving. Dit beboste
@@ -102,13 +103,14 @@ gestructureerd door de vallei en de beek.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Hydrografische Elementen:**
 
@@ -117,7 +119,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -147,7 +149,7 @@ poortgebouwen
 bij kasteel als dienstgebouwen
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -169,8 +171,9 @@ in beekdal gelegen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is gekneld tussen de bebouwing en dient gevrijwaard te
 blijven van bebouwing. Daarbij dient men het bosbestand te onderhouden

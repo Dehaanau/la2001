@@ -1,15 +1,15 @@
 Grote Kreek en Pereboomsgat
 ===========================
 
-Anker ID: A40012
-----------------
+:Ankerplaats ID: A40012
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het Krekengebied van Overslag-Zuiddorpe situeert zich ten oosten van
 het kanaal Gent-Terneuzen, meer bepaald tussen Zelzate en Koewacht. Het
@@ -137,20 +137,21 @@ de kreken in de kustpolders.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze kreken zijn gelegen in krekengebied ten oosten van het kanaal
 Gent-Terneuzen, op de overgang naar de dekzandrug Maldegem-Stekene.
 Het gebied wordt door een grote vogelrijkdom gekenmerkt. Het stukje
 polder 'Het Eiland' wordt volledig omringd door een kreekrestant.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De vorm van de Grote Kreek is duidelijk herkenbaar op de kaart van
@@ -163,8 +164,8 @@ door de Papdijk gevormd, deze ligt op een zandrug. In het patroon van de
 dijken zijn de doorbraakpunten vaak nog te zien, als sporen van de
 vroegere overstromingen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kreek is duidelijk herkenbaar op de orthofoto,
 ze heeft een hoekig verloop en een bomenrij langs de westelijke oever.
@@ -175,13 +176,13 @@ een peer.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kreken met de dijken zijn typeren voor de polders. De kreken
 hebben een hoekig verloop, dit doordat het instromende water bij het
@@ -190,13 +191,14 @@ met de vegetatie op het dijklichaam, begrenzen het zicht in de polders.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -223,7 +225,7 @@ Watergang van de Moerbekepolder, Grote Kreek en Pereboomsgat
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Klein historisch erfgoed:**
@@ -237,7 +239,7 @@ langs de grens met Nederland bevinden zich verschillende grenspalen
 voormalige onderwijzerswoning met achterliggend de voormalige
 klaslokalen van de gemeenteschool
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -259,7 +261,7 @@ nu een betonweg
 
 Papdijk, Oude Zeedijk
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -290,8 +292,9 @@ akkers in polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ruilverkaveling heeft binnen het afgebakende gebied de gebruikskavels
 veranderd; de akkers zijn groter geworden. Een grote visuele invloed

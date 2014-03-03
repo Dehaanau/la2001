@@ -1,13 +1,13 @@
 Meigemheide, Gasthuisbos en Begijnenbos
 =======================================
 
-Anker ID: A20064
-----------------
+:Ankerplaats ID: A20064
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Het omschreven gebied ligt ten oosten van Halle, op het grondgebied
 van de fusiegemeente Beersel, met de deelgemeenten Alsemberg, Dworp en
@@ -64,18 +64,19 @@ belangrijkste sites inzake industrieel erfgoed in ons land.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op verschillende plaatsen, vooral rond de Cluts, komen bosvegetaties
 voor met zeer zeldzame soorten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschap is gefragmenteerd door de perceelsrandbegroeiing
@@ -87,8 +88,8 @@ echt gave indruk geeft. Het park van het Dwersboskasteel is een klassiek
 voorbeeld van een late landschappelijke aanleg met verschillende
 vista's.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gehele gebied bestaat uit een sterk versneden
 plateau dat naast de talrijke beboste arealen heel wat
@@ -98,12 +99,13 @@ weidse zichten op o.m. de skyline de Zenne en Halle.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -136,7 +138,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -175,7 +177,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 **Archeologische elementen:**
 neolithische en Romeinse vondsten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -185,7 +187,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -212,8 +214,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Talrijke grote hoeven, verspreide bebouwing ondermeer in de nabijheid
 van het Brugmanninstituut, in de omgeving van Meigemheide en Dworp.

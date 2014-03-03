@@ -1,13 +1,13 @@
 Domein Middelheim-Vogelzang
 ===========================
 
-Anker ID: A10026
-----------------
+:Ankerplaats ID: A10026
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats Middelheim-Vogelzang is gelegen in de Antwerpse
 deelgemeenten Berchem en Wilrijk. De begrenzing van dit landschap wordt
@@ -53,19 +53,20 @@ bebouwing.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In alledrie de parken komt een behoorlijk loofbomenbestand voor.
 Binnen de sterk verstedelijkte rand van Antwerpen, voorziet dit gebied
 nog in een restant geschikt habitat voor avifauna en knaagdieren.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De eerste melding van domeinen 'Middelheim' en 'Den Brandt' gaat
@@ -75,23 +76,23 @@ bewaard. Van kasteel 'Vogelenzang' daarentegen, resten ons enkel 2
 dienstgebouwen. Het drevenpatroon van de Middelheimlaan en Beukenlaan is
 reeds terug te vinden bij op de historische kaart van Ferraris uit 1777.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Relatief groot parkdomein met enkele mooie
 historische gebouwen, omgeven door sterk verstedelijkt gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Middelheimpark werd reeds in de 18de
 eeuw omschreven als een park met beelden en vervult nu nog steeds die
 functie als openluchtmuseum voor beeldhouwkunst.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kastelen van Middelheim en Den Brandt zijn samen met het
 resterende drevenpatroon belangrijke structurerende elementen binnen de
@@ -99,13 +100,14 @@ dicht bebouwde omgeving van de stedelijke Antwerpse rand.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -113,7 +115,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -147,7 +149,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * gedenkteken
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -171,8 +173,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Nachtegalenpark kent een zeer sterke recreatiedruk met sportvelden,
 een speeltuin, een dierenpark en 2 tavernen. In de noordoostelijke punt

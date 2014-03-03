@@ -1,13 +1,13 @@
 Vallei van de Kindernouwbeek
 ============================
 
-Anker ID: A10045
-----------------
+:Ankerplaats ID: A10045
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Kindernouwbeek is gelegen te Lille ten zuiden van de autosnelweg
 E34. Verder wordt de ankerplaats begrensd door de Wechelsebaan en de
@@ -64,12 +64,13 @@ aspect.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Als intact gebleven valleigebied van een laaglandbeek
 vertegenwoordigt deze ankerplaats een belangrijke geomorfologische
@@ -80,8 +81,8 @@ hier op een eerder beperkte oppervlakte een rijke verscheidenheid aan
 begroeiingen. Deze floristische rijkdom gaat gepaard met een gevarieerde
 en soms zeldzame fauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De historische waarde van dit landschap wordt bepaald door de nog
@@ -96,8 +97,8 @@ grote delen van het grasland zijn opgedeeld in smalle rechthoekige
 percelen. Deze perceelsstructuur wijst op vroegere turfontginningen en
 bleef tot vandaag in het landschap bewaard.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Door de kleinschalige variatie van open, halfopen
 en gesloten structuren met een zeer verscheiden opbouw, heeft dit
@@ -108,15 +109,15 @@ het geheel..
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Als turfwingebied was de
 Kindernouwbeekvallei vroeger een leverancier van brandstof voor de
 plaatselijke bevolking.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschap van de Kindernouwbeek betreft een gaaf fragment van een
 goed bewaarde landschappelijke chronosequentie die het resultaat is van
@@ -127,13 +128,14 @@ contrast met de monotone omgeving.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -152,7 +154,7 @@ Kindernouwbeek
  * moeras
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -161,7 +163,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -196,8 +198,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunt is de aanwezigheid van weekendverblijven, waarvan de inpassing
 in het landschap moet worden nagestreefd en uitbreiding moet worden

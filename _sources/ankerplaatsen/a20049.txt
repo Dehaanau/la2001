@@ -1,13 +1,13 @@
 Meldert
 =======
 
-Anker ID: A20049
-----------------
+:Ankerplaats ID: A20049
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Meldert is gelegen ten zuidwesten van Tienen, naast het voormalig
 hollewegenlandschap bij Hoegaarden, dat door een ruilverkaveling
@@ -52,19 +52,20 @@ beter bekend als het Sint-Janscollege.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het kasteelpark van Meldert, inclusief het zgn. Meldertbos, en
 bepaalde gedeelten van de Molenbeek, herbergen waardevollen biotopen.
 Het park heeft een grote dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De dorpskern omvat, naast de oudste kasteelsite met de donjon,
 diverse oude gebouwen (kerk, St-Ermelindiskapel, Prins Kardinaalhoeve,
@@ -77,8 +78,8 @@ van Louis Van der Swaelmen. De gebouwen (neomiddeleeuws kasteel,
 oranjerie van Beyaert) zijn zeer interessante voorbeelden van de 19de
 eeuwse architectuur en werk van vooraanstaande architecten.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een landelijk dorp in een valleitje tussen de
 grote kouters. In het dorp zijn nog heel wat mooie historische gebouwen.
@@ -86,12 +87,13 @@ Het kasteelpark van Meldert heeft een hoge ontwerpkwaliteit.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -117,7 +119,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -158,7 +160,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -168,7 +170,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -187,8 +189,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing in de dorpskern en langs de noordzijde van de vallei van de
 Molenbeek.

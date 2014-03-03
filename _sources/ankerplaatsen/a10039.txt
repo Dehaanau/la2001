@@ -1,13 +1,13 @@
 Kasteeldomeinen in de vallei van de Tappelbeek
 ==============================================
 
-Anker ID: A10039
-----------------
+:Ankerplaats ID: A10039
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap van de 'Kasteeldomeinen in de vallei van de Tappelbeek'
 is gelegen op grondgebeid van de gemeenten Massenhoven (Zandhoven) en
@@ -76,12 +76,13 @@ verzekeren.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Tappelbeekvallei behoort tot de mooiste beekvalleien van de Kempen
 en men treft er nog verschillende typen beekbegeleidende bossen aan, die
@@ -92,8 +93,8 @@ nog een rijke flora. De afwisselende vegetatietypes vormen een
 pleisterplaats voor verschillende diersoorten, waarbij vooral de
 avifauna goed vertegenwoordigd is.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het wegenpatroon en een gedeelte van de perceelsstructuur in dit
@@ -110,8 +111,8 @@ werden in de 19de eeuw een 70-tal urnen uit het La-Tène Tijdperk
 gevonden en de vruchtbare gronden rond de Tappelbeek zouden in de vroege
 middeleeuwen Frankische nederzettingen hebben aangetrokken.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Als één van de mooiste beekvalleien van de Kempen
 en met een grote variatie aan vegetatietypen, vertegenwoordigt de vallei
@@ -120,8 +121,8 @@ van 2 relatief gaaf bewaarde kasteelparken langsheen de zuidelijke rand
 verhoogt de belevingswaarde van dit landschap.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het belangrijkste ruimtelijk-structurerend element in dit landschap
 is de Tappelbeek, die bovendien de natuurlijke grens vormt tussen
@@ -131,13 +132,14 @@ gesloten indruk die het centrale meer open gedeelte als het ware omarmt.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -158,7 +160,7 @@ Tappelbeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -198,7 +200,7 @@ Bogaardehoeve
 sporen van Frankische Nederzettingen en vondsten uit het La-Tène
 tijdperk
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -208,7 +210,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oude kasseiweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -238,8 +240,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een belangrijk knelpunt in dit landschap is de aanwezigheid van de E34
 die over een behoorlijke lengte doorheen de vallei van de Tappelbeek

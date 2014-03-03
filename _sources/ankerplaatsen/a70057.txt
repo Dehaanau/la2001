@@ -1,15 +1,15 @@
 Kastelen Nieuwenhoven, Terkelen, Nieuwerkerken en Kortenbos
 ===========================================================
 
-Anker ID: A70057
-----------------
+:Ankerplaats ID: A70057
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Van oudsher strekt zich ten noorden van Sint-Truiden een golvend,
 Haspengouws landschap van bouw- en weilanden uit, nu veelal ingenomen
@@ -97,18 +97,19 @@ herenboerenparkje met grasveld en bomengordel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het kasteelpark Terkelen - ongeveer 14 ha groot - is dendrologisch
 waardevol omwille van zijn variatie aan vaak monumentale bomen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Van oudsher strekt zich ten noorden van Sint-Truiden een golvend,
@@ -120,8 +121,8 @@ bedevaartsoord Kortenbos, de kastelen van Nieuwerkerken en Terkelen, de
 hoeve Schorrebos e.a. - elk met zijn respectieve aanhorigheden.
 Traditioneel komen rond de bebouwing hoogstamboomgaarden voor.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De landelijke omgeving vormt een rijk geheel met
 een variatie aan pittoresk bouwkundig erfgoed en stukken landschap van
@@ -130,7 +131,7 @@ hoofdrol spelen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Kasteel, hoeve en een deel van het park
@@ -140,8 +141,8 @@ Domein Nieuwenhoven vormen. De voormalige boswachterswoning werd er als
 Natuureducatief Centrum ingericht. Het oostelijk tegen Nieuwenhoven
 gelegen Kortenbos is een druk bezocht bedevaartsoord.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschappelijk geheel rond het centrale en eertijds invloedrijke
 Nieuwenhoven wordt voornamelijk beheerst door de uitgestrekte bossen
@@ -149,13 +150,14 @@ temidden van een overwegend agrarische omgeving.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -177,7 +179,7 @@ golvend reliëf
 
 Kelsbeek, Raasbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -238,7 +240,7 @@ o.a. barriers, hekwerk, muren
  **Andere:**
 o.a. tuinpaviljoenen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -249,7 +251,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 bos- en parkpaden en -wegen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -300,8 +302,9 @@ grasland onder boomgaarden of populierenaanplantingen
 
 kleinere, verspreide (park)bossen zowel als uitges
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De landelijke omgeving wordt begrensd door de uitdeinende bebouwing van
 naburige dorpen en wegen. De recente bebouwing levert geen bijdrage tot

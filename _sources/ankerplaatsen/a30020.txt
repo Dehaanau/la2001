@@ -1,13 +1,13 @@
 Rijkevelde
 ==========
 
-Anker ID: A30020
-----------------
+:Ankerplaats ID: A30020
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt in de driehoek gevormd door St-Kruis (gem.
 Brugge), Assebroek (gem. Brugge), en Sijsele (gem. Damme), met een
@@ -83,12 +83,13 @@ boscomplexen en half open weilandpercelen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats ligt op de Pleistocene dekzandrug van
 Gistel-Maldegem-Stekene-Verrebroek; de zandgrond vormde de basis voor de
@@ -99,8 +100,8 @@ soorten(o.a. het natuursreservaat de Schobbejakshoogte). De Loweiden
 hebben door hun permanent historisch graslandgebruik een waardevolle en
 rijke graslandflora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het gebied vormde tot de 18e eeuw een veldgebied dat later ontgonnen
@@ -113,8 +114,8 @@ historisch erfgoed. De gave kleinschalige percelering, het historisch
 graslandgebruik en de specifieke eigendomstoestand bepalen de
 historische waarde van de Loweiden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De landschapsstructurerende Meersbeek wordt
 geaccentueerd door de begeleidende bomenrij langs haar loop en door de
@@ -130,8 +131,8 @@ kleinschalige percelering visueel benadrukt wordt door knotbomenrijen.
 Ten noorden van het bos van Rijkevelde liggen een weilandcomplex met een
 zeer gave knotbomenrijen en perceelsrandbegroeiing.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De oost-west-oriëntatie van de stuifzandrug en vooral de loop van de
 Meersbeek structureren het landschap in grote mate omdat het
@@ -140,12 +141,13 @@ percelerings- en wegenpatroon eraan vasthangen.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -160,7 +162,7 @@ dekzandrug Gistel- Maldegem-Stekene-Verrebroek
 
 Meersbeek en Maleleie
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -186,7 +188,7 @@ Welke geboouwen nog?
 
 hoeve Ter Leiden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -195,7 +197,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 in noordwesten: tramlijn Brugge-Maldegem
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -229,8 +231,9 @@ loweiden; meersen bij Meersbeek
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bijna de gehele ankerplaats wordt bedreigd door de oprukkende bebouwing
 waarbij lintbebouwing voor een scherpe isolering zorgt. De

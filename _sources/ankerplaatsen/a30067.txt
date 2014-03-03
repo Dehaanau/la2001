@@ -1,15 +1,15 @@
 Patersmote Kortrijk
 ===================
 
-Anker ID: A30067
-----------------
+:Ankerplaats ID: A30067
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten westen van het centrum van Kortrijk langs de
 Leie, ten zuiden van Bissegem (gem. Kortrijk). In het noorden vormt de
@@ -43,19 +43,20 @@ Vanop de omringende wegen heeft men een open zicht op de
 kasteeldomeinen.
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Leievallei vormt het fysisch kader voor het landgebruik en bepaalt
 het voorkomen van bebouwing. Het park bij de Patersmote herbergt een
 grote florale en dendrologische soortenrijkdom met stinsenplanten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De hoge gaafheid van het bouwkundig erfgoed en de relatie met de
 omgeving geven het een meerwaarde. Bovendien vormen de artificiële
@@ -64,8 +65,8 @@ graslandgebruik en de knotbomenrijen vormen restanten van het vroegere
 meersenlandschap in de vallei en zij vormen het landschappelijk kader
 voor het bouwkundig erfgoed.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dankzij het open landschap neemt het gave en
 historisch waardevol bouwkundig erfgoed een belangrijke plaats in in het
@@ -76,8 +77,8 @@ graslandgebruik de Leie en vallei accentueert, én de ligging van de
 beide domeinen de valleirand benadrukt.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Leievallei is het structurerend element van het landschap in deze
 ankerplaats (de ligging van bebouwing, wegen parallel aan vallei,
@@ -88,13 +89,14 @@ graslandgebruik,…).
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Hydrografische Elementen:**
 
@@ -105,7 +107,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Leie, Markebeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -133,7 +135,7 @@ landgoed ten oosten kasteeldomein; ommuurde tuin
 patersmote
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -164,8 +166,9 @@ bij kasteel, op domein van Patersmote
 park bij domein
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is bijna ingesloten door de bebouwing en
 verstedelijking en vormt een belangrijke open ruimte vlakbij het

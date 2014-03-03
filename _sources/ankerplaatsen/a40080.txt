@@ -1,13 +1,13 @@
 Bos te Rijst
 ============
 
-Anker ID: A40080
-----------------
+:Ankerplaats ID: A40080
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats wordt in het zuiden begrensd door de gewestgrens, de
 ganse ankerplaats ligt op grondgebied Schorisse (Maarkedal). Op de kaart
@@ -56,20 +56,21 @@ rond het bos staan verschillende grote hoeven die voornamelijk uit de
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het langgerekt bos op de oostelijke flank van de asymmetrische vallei
 van de Meulebeek of Molenbeek, die in feite de bovenloop is van de
 Maarkebeek. Er komen verschillende bronzones en geologische
 ontsluitingen voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de kaart van Ferraris (ca. 1775) staat op de plaats van het
@@ -84,8 +85,8 @@ WOI werd het bos grotendeels kaalgeslagen. De toenmalige eigenaars
 voerden zware kappingen uit. Grote delen van het bos zijn vermoedelijk
 opnieuw aangeplant tussen de beide wereldoorlogen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het bos ligt op een steile helling in een
 reliëfrijk landschap. In het valleitje wordt de beek begeleid door
@@ -95,7 +96,7 @@ hoeven voor.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In 1971 wilde een privé-maatschappij het
@@ -105,8 +106,8 @@ deel van het gebied voor recreatie ingericht. Later werden delen van het
 bos terug voor het publiek afgesloten omwille van de kwetsbaarheid van
 het gebied.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het bos ligt op een steile helling, waar verschillende taluds
 voorkomen, in een reliëfrijk landschap. In het valleitje wordt de beek
@@ -117,13 +118,14 @@ hoeven voor.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -152,7 +154,7 @@ Molenbeek, bronnen
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -169,7 +171,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 kapel O-L-V van Zeven Weeën
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -179,7 +181,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**

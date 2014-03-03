@@ -1,15 +1,15 @@
 Dorpskern en archeologische site van Ename en Bos t'Ename
 =========================================================
 
-Anker ID: A40044
-----------------
+:Ankerplaats ID: A40044
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Bos t'Ename, ten oosten van Ename (dat ten noorden van Oudenaarde,
 langs de Schelde, gesitueerd is) ligt voor één vierde in de brede geul
@@ -170,12 +170,13 @@ waarvan de bouwsporen in de straatpuntgevel zijn.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De archeologische site bevindt zich op een verheven punt in de
 Scheldevallei, top van een zandige rug. Het Bos t'Ename is op een steile
@@ -184,8 +185,8 @@ van het bos is gelegen op slecht gedraineerde gronden binnen de
 pleistocene Scheldevallei, 4/5 bevindt zich op een helling met
 kleizandcomplexen, zandsteenbanken, kwelzones en bronnen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De site van Ename werd reeds in de Romeinse tijd als landbouwgrond
@@ -202,8 +203,8 @@ ontginning voor gras- en akkerland en bebossing. Tot 1775 was er een
 toenname van het bosareaal, nadien daalt het bos ten voordele van
 akkerland. Vanaf 1880 steeg de bebost oppervlakte terug.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kerk van Ename heeft een klein kerkhof en ligt
 aan het begrast marktplein. Aan de Schelde liggen de opgravingen van de
@@ -213,15 +214,15 @@ boskernen, omgeven met gras- en akkerland.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De archeologische site werd tot een
 archeologisch park en openluchtmuseum uitgebouwd met een grote
 pedagogische waarde.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De site van de abdij is op een strategische plaats, aan de
 Scheldeoever gelegen. Meer naar het oosten toe ligt het dorp Ename met
@@ -234,13 +235,14 @@ richting Bos t'Ename loopt.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -264,7 +266,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -333,7 +335,7 @@ waterpomp
  **Archeologische elementen:**
 archeologische site Ename
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -347,7 +349,7 @@ kasseiweg tussen bos en dorp
 
 **Spoorweg:**
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

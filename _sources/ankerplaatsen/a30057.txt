@@ -1,13 +1,13 @@
 Heidebeek
 =========
 
-Anker ID: A30057
-----------------
+:Ankerplaats ID: A30057
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats stekt zich uit langs de vallei van de Heidebeek en
 loopt vanaf de Steenvoordse beek (zijbeek van de Heidebeek) in de
@@ -46,12 +46,13 @@ hogere ligging en de toren.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Heidebeek vormt een zeer natuurlijk en weinig verstoord
 beeksysteem met een diep ingesneden vallei, steilranden langs de
@@ -60,16 +61,16 @@ Daardoor is ze een biotoop voor een rijkdom aan flora en fauna. Het
 tertiair kleiig materiaal in de ondergrond is zeer bepalend voor het
 smal en diep ingesneden karakter van de beek.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De Heidebeek vormt als natuurlijke grens voor een groot gedeelte ook
 de staatkundige grens tussen België en Frankrijk; rond Watou getuigen
 enkele grenspalen hiervan.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Heidebeek wordt benadrukt door begeleidende
 begroeiing en landgebruik wat een meerwaarde geeft aan haar natuurlijk
@@ -79,8 +80,8 @@ valleigrenzen. De kerken van Watou en Haringe zijn belangrijke
 oriënteringspunten vanuit de diepe vallei.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Heidebeek en haar diepe vallei structureert in grote mate het
 landgebruik en de bewoning in het landschap. Ze vormt tevens de
@@ -89,13 +90,14 @@ doodlopende wegen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -111,7 +113,7 @@ valleirand
 
 Heidebeek en enkele zijbeken
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -126,7 +128,7 @@ Watou
 mogelijk sites op helling van vallei
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -138,8 +140,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 bomen en struiken langs beek; restanten houtkanten en knotbomenrijen
 weilanden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente uitbreidingen bij landbouwbedrijven doen afbreuk aan het
 historisch karakter van de hoeves en aan het esthetisch karakter. De

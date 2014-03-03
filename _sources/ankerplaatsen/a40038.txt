@@ -1,13 +1,13 @@
 Scheldevallei Heurne
 ====================
 
-Anker ID: A40038
-----------------
+:Ankerplaats ID: A40038
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Schelde vallei van Heurne bevindt zich op de linkeroever van de
 Schelde, juist stroomafwaarts van Oudenaarde. Het historisch karakter
@@ -88,12 +88,13 @@ toren.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied is een deel van de Boven-Schelde dat uit brede alluviale
 vlakten bestaat.. Langs de rand van het Scheldealluvium komen zandige
@@ -101,8 +102,8 @@ ruggen voor die het resultaat zijn van lokale verstuivingen tijdens
 koude en droge periodes van het Laatglaciaal. De oude Scheldemeanders
 zijn nog aanwezig.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Loop van de Schelde op de kaart van Ferraris is een nog meanderende
@@ -114,8 +115,8 @@ percelen zowel weiland als kleine percelen bos. De bewoning situeert
 zich van oudsher op de steilrand, parallel met de Schelde. De Torenhoeve
 gaat op een oude site terug.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een vrij gaaf en typisch
 landschap van de Scheldevallei waar verschillende oude meanders nog
@@ -125,8 +126,8 @@ Scheldevallei langs de rechteroever.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Scheldemeersen, rond de oude Scheldearmen gelegen, worden
 afgegrensd door het jaagpad langs de Schelde en de steilrand waar
@@ -136,13 +137,14 @@ kleinschalig landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -173,7 +175,7 @@ steilrand van de Schelde
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -221,7 +223,7 @@ kerk en pastorie van Heurne
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -238,7 +240,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -276,8 +278,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Wegens de verdroging gaat het oorspronkelijk karakter van het gebied wat
 verloren. Ook archeologisch materiaal kan door verdroging vernietigd

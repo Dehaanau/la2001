@@ -1,13 +1,13 @@
 Merelbeekse bossen
 ==================
 
-Anker ID: A40034
-----------------
+:Ankerplaats ID: A40034
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Merelbeekse bossen vormen een boscomplex tussen de dorpen Melsen,
 Baaigem, Munte, Bottelare en Schelderode. Deze bossen, die in elkaar
@@ -70,19 +70,20 @@ baksteenarchitectuur.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Merelbeekse bossen liggen op de overgang van het zandlemig gebied
 naar de Vlaamse Vallei (zandstreek). De topografie is zacht golvend, met
 verschillende beekvalleien.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het groot boscomplex is reeds in 1644 op kaart aangeduid. Op de kaart
@@ -92,8 +93,8 @@ versnipperd op de kaarten van Vandermaelen (ca. 1850) en MGI 1/20000
 (ca. 1949). De toestand van de kaart van MGI 1/20,000 komt zeer goed
 overeen met de huidige toestand.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het groot, versnipperd boscomplex is in een open
 landbouwlandschap met verspreide bebouwing gelegen. De omliggende
@@ -102,8 +103,8 @@ zichtpunten aan de rand van het boscomplex.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Muntekouter is een hoog gelegen, open gebied. Op de kouterrug
 staat een molen, enkele zendmasten en de bunkers die tot de
@@ -116,13 +117,14 @@ wel in de gehuchten rond de bossen geconcentreerd.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -146,7 +148,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -177,7 +179,7 @@ op de Muntekouter
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -187,7 +189,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -215,8 +217,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het bos staat wat storende residentiële bebouwing.
 

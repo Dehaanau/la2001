@@ -1,13 +1,13 @@
 Merodese Bossen
 ===============
 
-Anker ID: A10051
-----------------
+:Ankerplaats ID: A10051
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Merodese Bossen' is gelegen in de gemeenten Herenthout
 en Bevel, net ten noorden van de vallei van de Grote Nete in de
@@ -56,20 +56,21 @@ stelligste worden vermeden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door het oude bomenbestand van bossen en dreven, dat een
 aanzienlijke dendrologische waarde vertegenwoordigt. Daarnaast biedt het
 ideale mogelijkheden als habitat voor tal van vogelsoorten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De structuur van deze ankerplaats is zeer mooi bewaard gebleven sinds
@@ -80,8 +81,8 @@ ongeveer 1850. De oude afspanning of herberg 'Prinsenhof' gaat terug tot
 eind 18de-, begin 19de eeuw. Verder vinden we langsheen de zuidgrens nog
 een langgestrekte hoeve met wagenhuis, beiden van ca. 1900.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Als dicht bebost gebied vormen de Merodese bossen
 een origineel en daarmee verrassend element binnen de verder eerder open
@@ -92,8 +93,8 @@ een esthetisch aantrekkelijk geheel.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze dicht beboste en daarmee landschappelijk volledig gesloten
 ankerplaats is een opvallend element binnen een verder zo goed als open
@@ -102,13 +103,14 @@ bossen een aaneensluitend geheel, grenzend aan vallei van de Grote Nete.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -123,7 +125,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Gordinneloop
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -156,7 +158,7 @@ Prinsenhof
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -165,7 +167,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -199,8 +201,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs noord-, oost- en zuidkant volledig ingesloten door bebouwing,
 hebben de Merodese bossen voor een belangrijk deel de relatie met hun

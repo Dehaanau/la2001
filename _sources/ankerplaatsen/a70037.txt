@@ -1,15 +1,15 @@
 Vallei van de Abeek stroomopwaarts van Bocholt
 ==============================================
 
-Anker ID: A70037
-----------------
+:Ankerplaats ID: A70037
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het landschap is gelegen in de vallei van de Abeek stroomopwaarts van
 Bocholt, in het grensgebied met de gemeenten Bree, Meeuwen-Gruitrode en
@@ -97,12 +97,13 @@ waartoe verschillende routes werden uitgestippeld.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei van de Abeek ligt in het overgangsgebied van het Kempens
 Plateau naar de Vlakte van Bocholt, gekenmerkt door een eigen dynamiek.
@@ -113,8 +114,8 @@ terreinverzakkingen langs verscheidene breuken. De beekvallei vertoont
 bronnen of sprinken en moerassige kwelzones. Zij is gedeeltelijk
 opgevuld met veenbodems.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De beekvallei geeft het algemeen stramien aan waarlangs de
@@ -131,8 +132,8 @@ met verspreide hoeves, historisch stabiele bosjes en houtkanten op de
 plateaurand. De landschappelijk waardevolle, oude kanaalarm vertoont nog
 deels het beeld van de Zuid-Willemsvaart in zijn oude glorie.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De afwisseling van open zowel als half-open en
 kleinschaliger landschappen geven het gebied een hoge belevingswaarde.
@@ -143,7 +144,7 @@ accentueren de oude kanaalarm in het landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het oud kanaal Jan Van Abroek wordt reeds
@@ -152,21 +153,22 @@ opgang. De regio is aantrekkelijk door zijn variatie aan landschappelijk
 erfgoed en leent zich tot fiets- en wandeltoerisme, waartoe
 verschillende routes werden uitgestippeld.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Voornamelijk de Abeekvallei en de Zuid-Willemsvaart waren hier
 bepalend voor de opbouw en organisatie van het landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -202,7 +204,7 @@ vochtige beemden
  **Andere:**
 geologische breuken (o.a. Feldbissbreuk)
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -239,7 +241,7 @@ o.a. Sint-Willibrorduskerk
  **Archeologische elementen:**
 industrieel-archeologisch erfgoed (watermolens)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -263,7 +265,7 @@ opstrekkend patroon vanuit Abeekvallei
 grachtenstelsel met o.a. Losbeek, oud kanaal Jan Van Abroek,
 Zuid-Willemsvaart, moleninfrastructuur
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -316,8 +318,9 @@ o.a. vochtige hooi- en weilanden
 
 o.a. kleinschalige waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het noord-zuidpand van het oud kanaal Jan Van Abroek is sinds enkele
 jaren gedeeltelijk ingenomen door de expresweg Bocholt-Bree. De recente

@@ -1,14 +1,14 @@
 Scheldemeanders Avelgem
 =======================
 
-Anker ID: A34002
-----------------
+:Ankerplaats ID: A34002
+
 
 **Landschap**
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten oosten van de dorpskern van Avelgem en loopt
 tot de weilanden aan de rechteroever van de huidige Schelde. Het talud
@@ -50,12 +50,13 @@ Rhosnes) in de ankerplaats.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De afgesneden meanders getuigen van de vroegere natuurlijke loop van
 de Schelde en vormen een waardevol biotoop voor flora en fauna. In de
@@ -63,16 +64,16 @@ lanen, grachten en laagste delen van de weilanden staat ook waardevolle
 vochtminnende flora. De markante overgang (steilrand) naar de vallei is
 vooral rond het dorp van Avelgem goed bewaard en uitgesproken.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De meanders getuigen van de 17de-18de eeuwse loop van de Schelde en
 zijn goed bewaard gebleven. De ligging van de kerk aan de rand van de
 vallei zijn typisch voor de ontwikkeling van dorpen langs een grote
 waterloop.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De bomen en struiken langs de oevers vormen
 lineaire blikvanger. Het overwegend weilandgebruik en de aanwezigheid
@@ -84,14 +85,14 @@ buiten de vallei.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De "Brug van de Waterhoek" heeft een
 sociaal-culturele waarde omdat ze de kern van "de Teleurgang van den
 waterhoek" van Guido Gezelle vormt.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De markante overgang naar valleigebied bepaalt grosso modo het
 landgebruik waarbij de ligging van de kerk en de oriëntatie van de weg
@@ -100,8 +101,8 @@ typisch zijn.
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten oosten van de dorpskern van Avelgem en loopt
 tot de weilanden aan de rechteroever van de huidige Schelde. Het talud
@@ -142,13 +143,14 @@ uitloper bij de “Turkenhoek” zit een klein stukje van de Rhonebeek (La
 Rhosnes) in de ankerplaats.
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -166,7 +168,7 @@ steilrand langs grens van de Scheldevallei
 
 Schelde; La Rhosnesbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -176,7 +178,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 kerk als bouwkundig erfgoed en omwille van de typische ligging
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -191,7 +193,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 rijtgracht; "Brug van de Waterhoek"
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -215,8 +217,9 @@ vlakbij steilrand, tussen Oude en Nieuwe Rijtgracht
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de noordelijke hoek van de ankerplaats ligt een opgehoogd terrein dat
 mede door het akkerlandgebruik contrasteert met de omgeving. Het

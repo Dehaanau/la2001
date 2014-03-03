@@ -1,13 +1,13 @@
 Valleien van Molenbeek en Winge van Gemp tot Horst
 ==================================================
 
-Anker ID: A20016
-----------------
+:Ankerplaats ID: A20016
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats kan gesitueerd worden tussen Nieuwrode en Lubbeek, ze
 sluit in het oosten aan bij de ankerplaats Walenbos. Het betreft de
@@ -117,12 +117,13 @@ opvallende aanlegcomponent wordt momenteel gevormd door de dreven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei van de Winge-Molenbeek heeft een bijzondere
 geomorfologische en geobotanische betekenis. Ter hoogte van Horst maakt
@@ -135,8 +136,8 @@ en Brabantse districten. Verspreid over de vallei komen interessante
 bos- en graslandvegetaties (blauwgraslandtype) voor. In de kasteelparken
 van Gempe en Kleerbeek zijn er zeldzame en oude bomen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteel van Horst is een uniek voorbeeld van een feodale burcht,
@@ -156,8 +157,8 @@ bossen en dorpskern; vroeg-landschappelijke aanleg rond de vijver aan
 noordzijde kasteel, strak geometrische aanleg aan zuidzijde met sporen
 van 'Franse' tuin naar ontwerp van Auguste Delvaux (1911-1914).
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Wingevallei tussen het gehucht Gempe en het
 kasteel van Horst, kasteelparken,t vijvers, watermolens, beemden en de
@@ -166,13 +167,14 @@ verstoringen gevrijwaard geheel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -199,7 +201,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -248,7 +250,7 @@ enkel relicten
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -264,7 +266,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -296,8 +298,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing tussen Horst en Kleerbeek met talrijke hoeves,
 eveneens bebouwing ten zuiden van de Gemp

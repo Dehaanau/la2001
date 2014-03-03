@@ -1,15 +1,15 @@
 Parken van het Kamp van Beverlo
 ===============================
 
-Anker ID: A70042
-----------------
+:Ankerplaats ID: A70042
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het Kamp van Beverlo, ten zuidoosten van de dorpskern van
 Leopoldsburg, omvat twee ruime parken: het Koninklijk Park en het Nieuw
@@ -58,17 +58,18 @@ Nieuw park is nu als gemeentelijk park opengesteld.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De twee parken bevatten een dendrologisch waardevolle bomencollectie.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De parken met de bijhorende gebouwen en omgevende aanleg zijn
@@ -81,8 +82,8 @@ de architecturale waarde van het paviljoen van de geniecommandant, het
 interbellum-karakter van de Belgische begraafplaats en de sobere aanleg
 van de Britse begraafplaats van na de tweede oorlog.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De belevingswaarde van het geheel en de
 samenstellende bestanddelen is groot omwille van o.a. de verscheidenheid
@@ -91,7 +92,7 @@ van de villa.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Nieuw Park, waarin twee militaire
@@ -100,8 +101,8 @@ De oude paviljoenen hebben een functie als Club Koningin Astrid en
 ClubPrinses Paola, die een sociaal-culturele rol spelen in de militaire
 gemeenschap.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Kamp van Beverlo is aangelegd in een rasterpatroon, opgevat als
 een dambord met centraal het Koninklijk Park en ten zuiden het Nieuw
@@ -109,13 +110,14 @@ Park. De aanleg reflecteert de bestemming en de militaire hiërachie.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -125,7 +127,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 wallen aan de kavelranden, zacht glooiende grasvelden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -174,7 +176,7 @@ o.a. Onze-Lieve-Vrouw-Hemelvaartkerk
 **Andere:**
 ijskelder, militaire begraafplaatsen, paviljoenen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -185,7 +187,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oorspronkelijk patroon van paden en wegen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -221,8 +223,9 @@ dambordpatroon van het Kamp van Beverlo
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Leegstand en verdwijnen van gebouwen in de parken doen afbreuk aan het
 geheel van de oorspronkelijke aanleg. De recente bebouwing levert geen

@@ -1,15 +1,15 @@
 Kastelen van Groenendaal en Zangerhei
 =====================================
 
-Anker ID: A70047
-----------------
+:Ankerplaats ID: A70047
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het landschap behoort tot het grondgebied van de deelgemeenten
 Munsterbilzen, Waltwilder, Hoelbeek en Eigenbilzen. Het ligt enigszins
@@ -102,12 +102,13 @@ fruitaanplanting.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap strekt zich uit in de (natte) zandleemstreek, een
 overgangsgebied tussen de Haspengouwse Leemstreek in het zuiden en het
@@ -115,8 +116,8 @@ Kempens Hoogplateau (zandstreek) in het noorden. Dergelijke
 overgangsgebieden worden gekenmerkt door een eigen dynamiek en zijn
 bijgevolg in menig opzicht (o.a. geografisch) uitermate belangrijk.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Naast de aanwezigheid van verschillende kasteel- en hoevecomplexen
@@ -133,8 +134,8 @@ landschappelijk park tot stand. In de omgeving bevinden zich eveens de
 watermolen op de Molenbeek en de herkenbare sites van de hoeve Hommelen
 en de burcht Jonckholt.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De hoge esthetische belevingswaarde van het
 domeinencomplex Groenendaal en Zangerhei is een gevolg van de
@@ -147,21 +148,22 @@ uitgestrekte rietkragen er rond.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteel van Groenendaal en de voormalige dienstgebouwen van
 Zangerheide met hun toegangswegen en dreven zijn structuurbepalend.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -190,7 +192,7 @@ o.a. Elsterbeek, Meersbeek, Molenbeek, Wilderbeek
 
 vochtige graslanden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -243,7 +245,7 @@ gietijzeren pomp met waterbekken
  **Andere:**
 burchtruïne Jonckholt
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -252,7 +254,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Hasselt-Maastricht
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -297,8 +299,9 @@ populieren
 
 o.a. Bonijtersbos, Groenendaal, Zangerheide (deels
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De gaafheid van het landschap wordt bedreigd door de uitbouw van
 boomkwekerijen. Er is een sterke druk vanuit het tuinbouwcentrum

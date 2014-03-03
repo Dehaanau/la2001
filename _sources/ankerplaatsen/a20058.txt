@@ -1,13 +1,13 @@
 Markvallei tussen Galmaarden en Herne
 =====================================
 
-Anker ID: A20058
-----------------
+:Ankerplaats ID: A20058
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 De Mark komt uit het zuiden, nabij Edingen, en slaat ter hoogte van
 Tollembeek in westelijke richting af. Waarschijnlijk liep deze rivier
@@ -58,20 +58,21 @@ Honscallebeek ter hoogte van Smeiersmark in de Mark.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Mark is een belangrijke bijrivier van de Dender en heeft in het
 landschap een tamelijk diepe en brede vallei uitgeschuurd tot op een
 niveau van 25 meter boven zeespiegel. Sommige stukken hebben enig
 botanisch belang.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De vallei werd tijdens het Holoceen bedekt met door het water
@@ -79,8 +80,8 @@ aangebracht terrigeen kleiig of lemig materiaal en ten dele ook door
 organogeen veenmateriaal. Sedert de ontbossing in recentere tijden greep
 door afspoeling op de onbegroeide hellingen bodemerosie plaats.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het landschap van dealluviale vallei wordt
 volledig ingenomen door graslanden, omzoomd door houtgewas en door
@@ -90,12 +91,13 @@ namen en het landschap plaatselijk volledig afsluiten.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -121,7 +123,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -142,7 +144,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -158,7 +160,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -177,8 +179,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide ebouwing in de vallei ter hoogte van Tollembeek en Herne.
 Diverse grote hoeves wordfen gesitueerd in de vallei.

@@ -1,13 +1,13 @@
 Akrenbos
 ========
 
-Anker ID: A20057
-----------------
+:Ankerplaats ID: A20057
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Akrenbos is gelegen tussen Lessines en Bever en maakt deel uit van een
 groter boscomplex Bois d’Acren op het grondgebied van de provincie
@@ -46,19 +46,20 @@ voorbeelden van.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Akrenbos herbergt een waardevolle flora, vooral in de beekdalen
 en bronzones. Het heeft ook een groot dendrologische belang, m.n. oude
 grensbomen (haagbeuken).
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het is een van de zeldzame bossen waar nog boswallen met grensbomen
@@ -66,8 +67,8 @@ voorkomen en waar nog een traditioneel middelhoutbeheer wordt gevoerd.
 Het is bovendien een overblijfsel van een groot boscomplex dat in de
 loop van de 19de eeuw aanzienlijk is ingekrompen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Vooral de voorjaarsbloei, maar ook de talrijke
 oude bomen en de hellingen langs de bosranden maken dat het is het een
@@ -76,12 +77,13 @@ schoon gebied is.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -102,10 +104,10 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -115,7 +117,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bos:**
@@ -126,7 +128,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Beperkte bebouwing nabij het gehucht Akrenbos en in het uiterste zuiden.

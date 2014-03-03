@@ -1,13 +1,13 @@
 Fort van Beieren
 ================
 
-Anker ID: A30064
-----------------
+:Ankerplaats ID: A30064
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt tussen de dorpskern van Koolkerke (gem. Brugge)
 en de Damse Vaart. Ze grenst in het noordoosten aan de ankerplaats
@@ -43,19 +43,20 @@ heeft.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ligging van het fort nabij Brugge én nabij de fysische grens
 tussen polder en zandstreek bood enkel natuurlijke strategische
 voordelen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De ligging vlakbij Brugge langs de vroegere Zwingeul vormt de
@@ -64,8 +65,8 @@ van Brugge in het verleden. Het fort en zijn diverse structuren (wallen,
 grachten, eiland,…) zijn zeer goed bewaard en vormen een gaaf voorbeeld
 van een fort uit 18e eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De open vlakke omgeving met een groot aandeel
 historisch permanent grasland, contrasteert sterk met het fort door het
@@ -74,8 +75,8 @@ bomenijen. Vanuit het fort heeft men een wijds zicht op de polders wat
 een belangrijk militair-strategisch voordeel vormde voor dit fort.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De bomenrij langs de Damse Vaart vormt een visuele begrenzing van de
 ankerplaats. Door het hoogteverschil van het fort en door het bos valt
@@ -83,12 +84,13 @@ dit fort op in het open landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -104,7 +106,7 @@ wal van het fort
 
 Scheidingsbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
@@ -112,7 +114,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * fort
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -143,8 +145,9 @@ gracht rond fort
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De bebouwing van Koolkerke grenst aan de structuur van het fort. Dit
 doet afbreuk aan de esthetische waarde en de historische waarde door een

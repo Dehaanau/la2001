@@ -1,13 +1,13 @@
 Brakelbos
 =========
 
-Anker ID: A40049
-----------------
+:Ankerplaats ID: A40049
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Brakelbos is op grondgebied van de gemeente Brakel gelegen, ten
 zuidwesten van Opbrakel. Het was een groot boscomplex op de kaart van
@@ -117,20 +117,21 @@ gelegen. Over deze pachthoeve zijn weinig historische gegevens bekend.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is gelegen in de Vlaamse Ardennen op uitloper van de
 getuigenheuvelrug, op de helling van de Pottelberg. Er zijn
 verschillende valleitjes aanwezig in het bos. Het is het brongebied van
 de Sassegembeek-Molenbeek, een beek met duidelijke taluds.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Brakelbos is een groot boscomplex op de kaart van Ferraris (ca.
@@ -152,8 +153,8 @@ het "Hof ten Bossche" is een imposante historische hoeve die kadert in
 een landschappelijke opmerkelijke omgeving. Ze is ten noorden van het
 Brakelbos gelegen, niet ver van een beekvallei.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een groot boscomplex gelegen op
 een helling. Er zijn verschillende beken aanwezig met duidelijk talud.
@@ -162,15 +163,15 @@ het einde van de vallei staat de kerk van Opbrakel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Ludwineskruis in het Brakelbos
 memoriseert de moord op een jonge vrouw in de tweede helft van de 18e
 eeuw.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Brakelbos ligt op een uitloper van de Pottelberg, een van de
 heuvels van de Vlaamse Ardennen. Deze heuvel is, net als de andere,
@@ -182,13 +183,14 @@ grasland met perceelsrandbegroeiing en enkele percelen bos.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -218,7 +220,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Diestiaanzand, zavel, ijzerzandsteen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -249,7 +251,7 @@ kerk van 0pbrakel
 
 Ludwineskruis
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -268,7 +270,7 @@ Chaussée de Brunehaut
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -298,8 +300,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De hoogspanningsleiding loopt dwars door de ankerplaats. Aan de
 ontginningshoeve 'Hof ten Bosse' zijn wat verbouwingswerken gebeurd (oa

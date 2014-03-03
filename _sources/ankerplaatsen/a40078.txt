@@ -1,13 +1,13 @@
 Vallei Serskampse Beek
 ======================
 
-Anker ID: A40078
-----------------
+:Ankerplaats ID: A40078
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het gebied situeert zich op grondgebied van de gemeenten Lede
 (Smetlede) en Wichelen (Serskamp). De heuvelrij van Wetteren- Serskamp-
@@ -73,12 +73,13 @@ overgaat in droge lemig- zandgronden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is op de heuvelrij van Wetteren- Serskamp- Lede
 gelegen, de meest noordelijke uitloper van het heuvelgebied tussen
@@ -86,8 +87,8 @@ Schelde en Dender. De gronden bestaan uit een vrij vochtige tot natte
 zandleembodem. Binnen het boscomplex zijn nog heiderelicten op zandleem
 aanwezig (restant van vroegere wastina).
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op Ferraris (ca. 1775) vindt men hier twee grotere boscomplexen:
@@ -110,16 +111,16 @@ vroeger aanwezige heidevelden die de overgang met het bos markeerden,
 bij voorbeeld ter hoogte van de plek waar de kapel van het Bruyn Cruys
 stond blijft er niets meer over.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kleine percelen bos zijn tussen de
 boomkwekerijen gelegen. In de kleine bossen worden verschillende oude
 vijvers opgenomen.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In het licht heuvelend gebied komen versnipperde percelen bos voor.
 Deze worden door een beekvalleitje doorsneden. Rond de bossen liggen
@@ -128,13 +129,14 @@ Hier en daar komt een weide voor.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -162,7 +164,7 @@ Meentochtbeekje, Serskampse beek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -171,7 +173,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -181,7 +183,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kunstmatige waters:**

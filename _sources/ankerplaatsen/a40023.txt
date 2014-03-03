@@ -1,15 +1,15 @@
 Barbierbeekvallei en Bolakkergebied
 ===================================
 
-Anker ID: A40023
-----------------
+:Ankerplaats ID: A40023
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het gaafste gebied met nog bolle akkers bevindt zich ten zuiden van de
 Barbierbeek. Deze ankerplaats ligt ten westen van de polder van
@@ -108,12 +108,13 @@ teruggevonden. Het spaarbekken is ondertussen volledig toegeslibd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De fossiele loop van de Barbierbeek is tijdens het Laatglaciaal
 ontstaan. De huidige beek is ontstaan in het Atlanticum door stijging
@@ -124,8 +125,8 @@ is uitzonderlijk op deze plaats in het Waasland. Er is een duidelijke
 overgang naar het bolleakkergebied. De bolle akkers situeren zich op
 zandgronden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De meandering van de Barbierbeek is duidelijk herkenbaar op de kaart
@@ -136,8 +137,8 @@ bolleakkertopografie is hier best bewaard gebleven. Het landschap is
 gaaf gebleven in vergelijking met Ferraris, de wegenstructuur is nog
 herkenbaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De beek heeft een meanderende loop, vooral ten
 zuiden van de E17. De percelering is klein en blokkig. De bolle akkers
@@ -145,8 +146,8 @@ met resten van perceelsranden vormen een filterend landschap.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Barbierbeek meandert sterk, haar ligging wordt door de
 beekbegeleidende vegetatie versterkt. De 'bolle akkers' zijn rond de
@@ -157,13 +158,14 @@ perceelsrandbegroeiing zorgt voor een filterend landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -188,7 +190,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 cuesta van het Waasland
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -203,7 +205,7 @@ Hof ter Elst, Geelhof
 site ridderlijk kasteel (Hof ter Elst), omwalde motte (thans
 boomgaard bij Geelhof)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -213,7 +215,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -243,8 +245,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op sommige plaatsen oefent de Barbierbeek een sterke erosie uit op de
 oevers in de buitenbochten. De oorzaak hiervan is grote toename van het

@@ -1,13 +1,13 @@
 Domein Blommerschot en Beulkbeemden
 ===================================
 
-Anker ID: A10042
-----------------
+:Ankerplaats ID: A10042
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Domein Blommerschot en Beulkbeemden' is gelegen in de
 Antwerpse Noorderkempen op grondgebied van de gemeenten Malle,
@@ -54,12 +54,13 @@ Oostmalle, Zoersel en Wechelderzande.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door de verscheidenheid in reliëf en vochtigheidsgraad van de bodem
 treffen we in dit gebied -met beekvalleien, stuifduinen, vennen, bossen
@@ -68,8 +69,8 @@ gaat met een rijke plantengroei. Het vliegveld en omgeving vormt een
 uiterst waardevol gebied voor broedvogels en ligt bovendien op een
 belangrijke vogeltrekroute.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De eerste vermelding van Blommerschot -toen een groot Riddergoed-
@@ -81,8 +82,8 @@ echter reeds herkenbaar op de kaart van Ferraris uit 1777. Het landgoed
 wel sterk verbouwd. De kapel van O.-L.-Vrouw van Lourdes werd opgericht
 in 1900.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het landschap van Blommerschot en Beulkbeemden is
 zeer divers in opbouw en structuur met een afwisseling van kleinschalige
@@ -92,8 +93,8 @@ bebouwing en klein historisch erfgoed resulteert in een esthetisch
 aantrekkelijk en daarmee waardevol geheel.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een centraal gelegen bosgebied dat zowel
 langs oost- als west wordt omsloten door een kleinschalig
@@ -106,13 +107,14 @@ Oostmalle, Zoersel en Wechelderzande.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -132,7 +134,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Molenbeek, Visbeek, Vlimmerse Loop
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -155,13 +157,13 @@ Blommerschot
 
 Kapel van O.-L.-Vrouw van Lourdes
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  **Andere:**
 militair vliegveld
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -203,8 +205,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Met de aanleg van het militair vliegveld in 1953 werd het eeuwenoude
 wegenpatroon verstoord en verdween een behoorlijke oppervlakte

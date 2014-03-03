@@ -1,13 +1,13 @@
 Torfbroek
 =========
 
-Anker ID: A20053
-----------------
+:Ankerplaats ID: A20053
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Het Torfbroek is gelegen ten zuiden van Kampenhout en de steenweg
 Brussel-Haacht, nabij het gehucht Berg. De voornaamste drager van
@@ -185,12 +185,13 @@ Steenokkerzeel verbindt, werden villa's gebouwd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Torfbroek ligt - samen met het Floordambos en het Silsombos in
 een brede strook "oud " alluvium die deel uit maakt van een fossiele
@@ -204,8 +205,8 @@ basische laagveenmoerassen, die ten noorden ven de Maas in België
 zeldzaam zijn. Ook op het vlak van de fauna is het gebied zeer
 waardevol.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het huidige uitzicht van het gebied is - naast enkele sporen van de
@@ -216,8 +217,8 @@ het natuurreservaat sporen heeft nagelaten, werd opgemaakt door
 landschapsarchitect A. Delvaux en is een representatief voorbeeld van
 interbellum stedenbouw en groenvoorziening.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De met opgaand groen omringde vijvers en de
 schoonheid van sommige plantengemeenschappen vormen de basis van een
@@ -226,12 +227,13 @@ grote esthetische waarde.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -249,14 +251,14 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
 
  * nederzettingspatroon
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -266,7 +268,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -298,8 +300,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing aan de zuidkant (omgeving Laar) en tussen het eigenlijke
 Torfbroek en Terbronnen.

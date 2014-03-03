@@ -1,13 +1,13 @@
 Staatsbossen van Ravels
 =======================
 
-Anker ID: A10020
-----------------
+:Ankerplaats ID: A10020
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Staatsbossen van Ravels zijn gelegen in het noorden van de
 provincie Antwerpen, tegen de Nederlandse grens. De begrenzing wordt
@@ -62,12 +62,13 @@ open ruimte, bewaard te blijven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Staatsbossen van Ravels zijn gesitueerd op voormalige heide met
 vennen in de Antwerpse Noorderkempen. Het is een uitgestrekt en rustig
@@ -83,8 +84,8 @@ specifieke hydrologie met opkwellend grondwater en herbergt als gevolg
 daarvan een zeer typische botanische rijkdom. Bovendien biedt het ideaal
 habitat voor verschillende amfibie- en insectensoorten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Bij Ferraris (1777) en Vandermaelen (1854) herkennen we het gebied
@@ -101,8 +102,8 @@ herkennen we bij het MGI een aaneengesloten weidegebied; het huidige
 rectangulaire kavelpatroon is een overblijfsel van eerder recente
 ontginningen net voor de helft van de 20ste eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Staatsbossen van Ravels betreffen een groot,
 aaneengesloten bosgebied, doch gevarieerd door het voorkomen van
@@ -113,8 +114,8 @@ landschap te bieden heeft, geeft het een aanzienlijke belevings- en
 esthetische waarde.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft voor het grootste deel een gesloten
 bosgebied, de Staatsbossen, dat in sterk contrast staat met de openheid
@@ -125,13 +126,14 @@ het deel is van een veel uitgestrekter complex.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -152,7 +154,7 @@ Marelse Loop, Witvenloop
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -166,7 +168,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -175,7 +177,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -210,8 +212,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een ruilverkaveling 'oude stijl' heeft in de jaren '80 ter hoogte van
 het Kijkverdriet de oorspronkelijke situatie van zeer gevarieerde

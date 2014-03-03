@@ -1,13 +1,13 @@
 Domein Krabbelshof, Lovenhoek en Krabbels Broek
 ===============================================
 
-Anker ID: A10043
-----------------
+:Ankerplaats ID: A10043
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Domein Krabbelshof, Lovenhoek en Krabbelsbroek' is
 gelegen op grondgebied van de gemeenten Vorselaar, Zandhoven en
@@ -69,12 +69,13 @@ worden ingepast.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door de overgang van valleigebied naar hogere, drogere gronden, wordt
 de wetenschappelijke waarde van deze ankerplaats in de eerste plaats
@@ -85,8 +86,8 @@ waterkwaliteit en nog vrijwel intacte structuurkenmerken en wordt de
 winterbedding nog gekenmerkt door een overwegend extensief bodemgebruik,
 waardoor de beekdal-beekrelatie nog steeds aanwezig is.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Deze ankerplaats betreft een valleigebied dat relatief ongeschonden
@@ -101,8 +102,8 @@ van de 19de eeuw. Het kapelletje, gelegen in het natuurgebied 'De
 Krabbels' en toegewijd aan O.-L.-Vrouw, klimt op tot de 2de helft van de
 19de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De afwisseling van kleinschalig valleigebied,
 naar gesloten en hoger gelegen bosgebied en langs de rand open
@@ -113,7 +114,7 @@ bij tot de belevingswaarde van dit gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Tot in de jaren 50 zou in het beekdal van
@@ -121,8 +122,8 @@ de Pulse beek een galg -een oud terechtstellingsinstrument op de grens
 tussen verschillende gemeenten- hebben gestaan, waarnaar de naam
 'Galgevoortsebrug' nog verwijst.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit landschap vertoont een mooie overgang van laaggelegen
 valleigebied over hoger gelegen bosgebied naar open cultuurland. De
@@ -134,13 +135,14 @@ uitgestrekter relatief gaaf gebied in de Antwerpse Kempen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -162,7 +164,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -196,7 +198,7 @@ landhuis 'Driehoekhof'
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -206,7 +208,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 aarden wegen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -246,8 +248,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn een toenemende recreatiedruk, m.n. rondom de vijvers met
 weekendverblijven en het voorkomen van atypische bebouwing. Tevens

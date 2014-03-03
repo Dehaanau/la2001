@@ -1,13 +1,13 @@
 Bijltjes en de Kwarekken
 ========================
 
-Anker ID: A10068
-----------------
+:Ankerplaats ID: A10068
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap van de 'Bijltjes en de Kwarekken' is gelegen in de
 gemeenten Westerlo en Herselt in het Neteland op de overgang van
@@ -66,12 +66,13 @@ worden bewaard.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Gelegen in het Nete interfluvium, vertegenwoordigt deze ankerplaats
 een belangrijke geomorfologische waarde. Waar het macroreliëf ter hoogte
@@ -84,8 +85,8 @@ kwelzone van de Kwarekken. Ter hoogte van de Kwarekken bevat de
 vegetatie op verschillende plaatsen nog veel vocht- en
 grondwaterafhankelijke soorten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De aanleg van de indrukwekkende Beeltjensdreef en de aansluitende
@@ -101,8 +102,8 @@ Op de Asberg werden in het begin van de 19de eeuw lijkurnen gevonden.
 Een precieze datering van de vondst ontbreekt, doch zou kunnen teruggaan
 tot de IJzertijd (ca. 700 voor tot 50 na Chr.).
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde van deze ankerplaats wordt
 in de eerste plaats bepaald door de afwisseling in reliëf en
@@ -112,8 +113,8 @@ verhevenheid van de Asberg en in het zuiden het veel lager gelegen
 alluvium van de Grote Nete.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De mooie aaneensluiting van vochtige weilanden, valleibossen en
 struwelen, karakteristiek voor de vallei van de Grote Nete, is hier
@@ -124,13 +125,14 @@ de lager gelegen Grote Nete mat haar vallei in het zuiden.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -161,13 +163,13 @@ Grote Nete, Oude Loop, De Laak, Zijptloop
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  **Archeologische elementen:**
 lijkurnen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -177,7 +179,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Beeltjesndreef
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -215,8 +217,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Hoewel grotendeels ongeschonden, zijn er langs de randen van het
 boscomplex 'Beeltjens' reeds kleine stukjes bos verdwenen. Een verdere

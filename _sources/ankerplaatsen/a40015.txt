@@ -1,15 +1,15 @@
 Stropersbos
 ===========
 
-Anker ID: A40015
-----------------
+:Ankerplaats ID: A40015
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats bevindt te noordoosten van Stekene. In de vroege
 middeleeuwen was dit gebied bedekt door het Koningsforeest. Naderhand
@@ -90,19 +90,20 @@ Waasland en Klein-Brabant.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit boscomplex is op de dekzandrug Maldegem-Stekene aanwezig. Er is
 gedeeltelijk een kleilaag in de ondergrond aanwezig. De spoorlijn
 Mechelen- Terneuzen is bothanisch van groot belang.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het huidige stropersbos is een deel van het Koningsforeest; een groot
@@ -116,8 +117,8 @@ perceelsrandbegroeiing. De oppervlakte van het bos neemt toe vanaf 1770.
 In de loop van de 18e eeuw was het ganse gebied bebost en tot 1950 als
 hakhoutbos gebruikt.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het boscomplex is op een weining uitgesproken
 dekzandrug gelegen en bestaat uit compartimenten bossen en open
@@ -129,7 +130,7 @@ ankerplaats.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De spoorlijn Mechelen-Terneuzen ligt in
@@ -143,8 +144,8 @@ baanvak Sint-Niklaas - de Klinge buiten dienst gesteld. Deze spoorlijn
 heeft een grote rol gespeeld in de economische ontwikkeling van het
 Waasland en Klein-Brabant.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ten noorden van de Linie bestaat de Stropers uit hakhoutbossen en
 naaldbossen. Ten zuiden van de Linie zijn de percelen kleiner en zijn er
@@ -154,13 +155,14 @@ voornamelijk onder akkers en weiden, met hier en daar een bosperceel. In
 het oosten wordt het boscomplex door de spoorlijn Mechelen-Terneuzen
 begrenst.
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -189,7 +191,7 @@ Luisbeek, Voorhoutbeek, Hulst, Linie
 
 Grote Dekzandrug
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
@@ -206,7 +208,7 @@ voormalig Fort Sint- Jan
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -219,7 +221,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
  * verlaten spoorweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -249,8 +251,9 @@ wal rond Fort-site, Linie
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op de site van het voormalig Fort Sint-Jan liggen nu verschillende
 bedrijven en woningen.In het stuk ten zuiden van de Linie bevinden zich

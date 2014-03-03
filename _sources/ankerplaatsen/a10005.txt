@@ -1,13 +1,13 @@
 Domein Ter Mik
 ==============
 
-Anker ID: A10005
-----------------
+:Ankerplaats ID: A10005
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Domein 'Ter Mik' is gelegen in de gemeente Brasschaat in de Antwerpse
 Noorderkempen. De begrenzing van deze ankerplaats wordt gevormd door
@@ -41,19 +41,20 @@ geheel en zonder verdere uitbreiding, geen wezenlijk probleem vormen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurwetenschappelijke waarde van deze ankerplaats wordt
 voornamelijk bepaald door het rijke en oude bomenbestand dat ook voor
 avifauna en vleermuizen potenties inhoudt.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het domein 'Ter Mik' vertegenwoordigt een belangrijke historische
@@ -64,16 +65,16 @@ zuidelijke deel bevindt zich 'Hoeve de Mick', omringd door
 landbouwgronden. Hoeve en omliggende landbouwgronden zijn reeds
 herkenbaar bij Ferraris.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Kasteel en park samen vormen een redelijk gaaf en
 esthetisch waardevol geheel, waarbij vooral de lange, rechte dreven
 mooie zichten doen ontstaan.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Opmerkelijke ruimtelijk-structurerende elementen zijn de talrijke
 dreven, het centraal gelegen kasteel met vijver, alsook de opvallende
@@ -83,13 +84,14 @@ door in domein 'De Inslag'.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Hydrografische Elementen:**
 
@@ -98,7 +100,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Miksebeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -122,7 +124,7 @@ Brug en poort
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -131,7 +133,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -158,8 +160,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 **Andere:**
 Arboretum
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het kasteel van 'Ter Mik' doet nu dienst als rusthuis; het interieur
 werd aan de noden van het rusthuis aangepast. Sanatorium De Mik, gelegen

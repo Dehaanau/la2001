@@ -1,13 +1,13 @@
 Zennegat en Battenbroek
 =======================
 
-Anker ID: A10063
-----------------
+:Ankerplaats ID: A10063
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Zennegat en Battenbroek' is gelegen op grondgebied van
 de gemeenten Mechelen en Rumst aan de samenvloeiing van Zenne, Dijle en
@@ -102,12 +102,13 @@ een voortzetting van deze evolutie ten stelligste worden vermeden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats vertoont een zeer grote verscheidenheid aan reliëf
 en bodemgesteldheid. Ten gevolge van de geleidelijke overgang van
@@ -119,8 +120,8 @@ met hooi- en graasweiden, broekbossen, loofbossen en heel wat kleine
 landschapselementen. Daarnaast is deze ankerplaats een belangrijk
 broed-, voedsel- en foerageergebied voor talrijke vogelsoorten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De perceelstructuur van een groot gedeelte van de ankerplaats is
@@ -134,8 +135,8 @@ nog verhoogt door het voorkomen van enkele kasteeldomeinen (Battenbroek
 en Tibur), die reeds op de kaarten van Ferraris (1777) worden vermeld,
 oude dijken (Langen dijk en delen van Weerdsche dijk) en enkele hoeven.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde van het landschap wordt
 hoofdzakelijk bepaald door de kleinschaligheid en de afwisseling in
@@ -144,7 +145,7 @@ dijken dragen bij tot het schilderachtige karakter van het geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Nete, Dijle, Zenne en Rupel dienen
@@ -152,8 +153,8 @@ reeds van bij hun ontstaan als verbindingsroute voor de mens. Doordat ze
 uitmonden in de Schelde, was een verbinding tot andere regio's, alsook
 tot de Noordzee mogelijk.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats is een rivierlandschap dat ontstaan is door de
 samenvloeiing van de Zenne, de Dijle en de Nete. Deze 3 rivieren, de
@@ -167,13 +168,14 @@ aan de verstedelijkte zone.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -205,7 +207,7 @@ Driebroekloop
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -257,7 +259,7 @@ Polderhoeve
 
 Kapel van O.-L.-Vrouw
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -270,7 +272,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 **Andere:**
 Leuvense Vaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -314,8 +316,9 @@ vloedbossen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunten zijn de steeds oprukkende industrie, bebouwing
 en infrastructuur rondom de ankerplaats, waardoor het landschap steeds

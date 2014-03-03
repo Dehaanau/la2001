@@ -1,13 +1,13 @@
 Vallei van de Oude Kale, Vinderhoutse Bossen en Slindonk
 ========================================================
 
-Anker ID: A40036
-----------------
+:Ankerplaats ID: A40036
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De vallei van de Oude Kale met het kouter en bulkenlandschap en de
 Vinderhoutse bossen met de omliggende kasteeldomeinen situeren zich op
@@ -128,12 +128,13 @@ topografische kaarten neemt de oppervlakte bos gestaag uitbreiding.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Vinderhoutse bossen zijn in een beekdepressie gelegen die aansluit
 bij de Merebeek. De vallei van de Oude Kale situeert zich op het
@@ -144,8 +145,8 @@ opeenvolgende ijstijden. De meersen stonden onder invloed van de
 winterse overstromingen. De bewoning en beste landbouwgrond situeert
 zich op donken en kouters.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De vallei van de Oude Kale is rijk aan archeologische vondsten uit de
@@ -165,8 +166,8 @@ veranderd t.o.v. Ferraris. De hoeveelheid bos is uitgebreid en de
 oppervlakte meersen gedaald. Het blijft wel een nat gebied. De
 perceleringsrichting is goed herkenbaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gedeelte van de Oude Kale tussen Merendree en
 Vinderhoute heeft door haar vrijwel oorspronkelijke vorm een hoge
@@ -179,8 +180,8 @@ met omliggende langgerekte percelen en weinig perceelsranden.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Oude Kale meandert in de vallei. Aansluitend op de waterloop komen
 de meersen voor. De overgang tussen de natte meersen, strookvormig met
@@ -195,13 +196,14 @@ kasteeldomeinen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -236,7 +238,7 @@ Merebeek, Oude Kale
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -298,7 +300,7 @@ Van Vlaenderensmolen
 
 Sint- Annakapel, kerk en pastorie Vinderhoute
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -314,7 +316,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -371,8 +373,9 @@ bulken
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het gebied van de ankerplaats zijn enkele stortplaatsen die ook
 terreinverhogingen met zich meebrengen. Rond de driesen is de

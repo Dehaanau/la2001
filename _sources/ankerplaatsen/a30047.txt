@@ -1,13 +1,13 @@
 Tiegembos
 =========
 
-Anker ID: A30047
-----------------
+:Ankerplaats ID: A30047
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt op de heuveltop en de zuidelijke helling ten
 noorden van het dorp van Tiegem in de gemeente Anzegem. Langs de
@@ -43,19 +43,20 @@ wordt een natuurlijk bronbeekje gebruikt voor het water van de vijvers.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Tiegemberg is een hoge top met langs de hellingen enkele natuurlijke
 en gave dalhoofden rond bronniveau's met steilranden. Het bos heeft een
 rijke voorjaarsflora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Enkele waardevolle en gave hoeves, de Bergmolen en de
@@ -63,8 +64,8 @@ St-Arnolduskapel vormen belangrijk bouwkundig erfgoed van de
 ankerplaats. Het historisch bebost karakter van de hellingen is bewaard
 gebleven.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Op de top heeft men vergezichten in verschillende
 richtingen: naar de Scheldevallei en de Vlaamse Ardennen. De bebossing
@@ -76,21 +77,22 @@ vormt een meerwaarde voor de ankerplaats.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De topzone en de hydrografie structureren het wegenpatroon dat op
 zijn beurt de bebouwing in grote mate bepaalt.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -115,7 +117,7 @@ Tiegemberg
 
 dalhoofden; bronniveau's
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -147,7 +149,7 @@ Bergmolen
 St-Arnolduskapel
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -164,8 +166,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 ook tuinbouw met fruitbomen
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Vanuit het dorp van Tiegem dijt de bebouwing verder uit langs de wegen
 waarbij het zicht op de beboste hellingen en de valleien belemmerd

@@ -1,13 +1,13 @@
 Kasteel de Merode
 =================
 
-Anker ID: A20063
-----------------
+:Ankerplaats ID: A20063
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Het kasteel de Merode ligt centraal in het afgebakende gebied,
 gesitueerd ten oosten van Kortenberg en ten zuiden van de steenweg
@@ -98,12 +98,13 @@ paardestallen, koetshuizen en garages.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Vallei en Diestiaanheuvel in de overgangszone tussen het Brabants
 leemplateau en de zogenaamde Vlaamse Vallei. Tevens ligt in het
@@ -112,8 +113,8 @@ Diestiaanheuvel. Het gebied herbergt zeer waardevolle bosbiotopen. De
 kasteelparken bij de abdij van Kortenberg, het Eikelenhof en vooral dat
 van Everberg (de Merode) hebben een grote dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De abdij van Kortenberg en het kasteel van Everberg (de Merode)
@@ -125,8 +126,8 @@ de Merode is in zijn huidige toestand een voorbeeld van 18de eeuwse
 Franse Lodewijk XVI-stijl, het park is een combinatie van
 lineair-formele structuren en landschappelijke aanleg.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De combinatie van oude gebouwen, landschappelijke
 en andere parkarchitectuur, steile heuvelflanken met oude bomen,
@@ -135,7 +136,7 @@ esthetische waarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Diverse kapellen, ijskelder en gedenkteken
@@ -144,12 +145,13 @@ ter nagedachtenis van graaf Werner de Merode
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -176,7 +178,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -218,7 +220,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -234,7 +236,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -263,8 +265,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing in het gebied 'Veldeke' en op Achterenberg ten zuiden van
 Eikelenhof.

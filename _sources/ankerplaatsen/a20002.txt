@@ -1,13 +1,13 @@
 Amelgem - Ossel
 ===============
 
-Anker ID: A20002
-----------------
+:Ankerplaats ID: A20002
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten westen van Meise en sluit aan bij de
 ankerplaats Nationale Plantentuin van Meise. Het gaat om een ongerept
@@ -59,12 +59,12 @@ Onze-Lieve-Vrouw-Geboorte en de Sint-Annakapel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Amelgem, van Gallo-Romeinse oorsprong, behield doorheen de eeuwen
@@ -72,8 +72,8 @@ heen haar oorspronkelijke eenheid en driepolige structuur: kapel en twee
 hoeves. In de 12de en 13de eeuw werd het eigendom van de
 Nortertijnenabdij van Grimbergen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied heeft een nog grotendeels ongerept
 landelijk karakter, met contrasten tussen de open kouters en de diep
@@ -82,13 +82,14 @@ rand) vanaf de Heerbaan.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -115,7 +116,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -155,7 +156,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -166,7 +167,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -195,8 +196,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing nabij Ossel in de omgeving van de kastelen en het
 gehucht Heide, ook tussen Groot-Amelgem en de naburige Nationale

@@ -1,13 +1,13 @@
 Margijsbos en Kasteel Van Der Vorst
 ===================================
 
-Anker ID: A20043
-----------------
+:Ankerplaats ID: A20043
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Margijsbos is gelegen tussen Neerijse en Overijse, ten zuiden van
 Loonbeek op de oostelijke flank van de IJsevallei. Een oudere benaming
@@ -105,18 +105,19 @@ Kapelledreef, aanluitend bij het kasteel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Margijsbos, inclusief de verboste voormalige vijvers van het
 kasteel, herbergt interessante vegetaties, ook heideachtige.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het in oorsprong feodale kasteel van Loonbeek met watermolen, is
 sinds de 17de eeuw weinig veranderd. Ook de 17de-eeuwse aanleg van het
@@ -125,21 +126,22 @@ nog duidelijk herkenbaar in het systeem van grachten en wallen, soms
 onder bos verborgen. Het Margijsbos was ook het decor voor een
 dramatische episode uit de Franse revolutie (de dood van 'Charlepoeng').
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De site - beekdal met kasteel en beboste helling
 is zeer aantrekkelijk.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -162,7 +164,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -202,7 +204,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -212,7 +214,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -231,7 +233,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Enkele geïsoleerde woningen aan de oostzijde van het gebied.

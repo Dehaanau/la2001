@@ -1,13 +1,13 @@
 Ter Rijst
 =========
 
-Anker ID: A20028
-----------------
+:Ankerplaats ID: A20028
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Ter Rijst ligt tussen Herne en Halle, langs de steenweg Asse-Edingen.
 Het toponiem Ter Rijst verwijst naar de ligging van het kasteel tussen
@@ -36,37 +36,39 @@ met uitzicht naar het omgevende landschap. In het park staan heel wat
 merkwaardige bomen.
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de beboste gedeelte van het kasteeldomein en het aansluitende
 bosgebied komen zeldzame planten en vegetaties voor. Het park heeft ook
 een grote dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het classcistische kasteel wordt omringd door een landschapspark met
 vijvers op diverse niveaus en, vanuit het kasteel, een indrukwekkende
 vista, stilistisch vrij uniek.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Hetkasteelpark is een prominent voorbeeld van
 landschappelijke tuinarchitectuur waarin het pittoreske centraal staat.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -85,7 +87,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -108,7 +110,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -118,7 +120,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -143,8 +145,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing langs de noordoostzijde, van Ter Linden tot
 Bosstraat, en in het zuiden in de omgeving van de Hernebeek. In het

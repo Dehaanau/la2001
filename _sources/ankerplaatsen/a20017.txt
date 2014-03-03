@@ -1,13 +1,13 @@
 Demervallei tussen Aarschot en Zichem
 =====================================
 
-Anker ID: A20017
-----------------
+:Ankerplaats ID: A20017
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het deel van de Demervallei van Aarschot tot Zichem vormt de meest
 oostelijke uitloper van de zogenaamde fossiele Vlaamse vallei. Het gaat
@@ -82,12 +82,13 @@ België!
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Demervallei is de meest oostelijke uitloper van de Vlaamse Vallei.
 Sporadisch zijn nog afgesneden meanders aanwezig (bijv. in de
@@ -101,8 +102,8 @@ Voortberg (Testelt) en de Koninenberg (Rillaar). In het lDemerbeemden
 tussen Zichem, Testelt en Averbode zijn nog oude turfputten met een
 bijzonder en zeldzame vegetatie merkbaar.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het omwalde kasteel van Schoonhoven en het dito Oranjekasteel waren
@@ -117,8 +118,8 @@ sporen van zijn oude omwalling en een merkwaardig middeleeuws bouwwerk,
 de Maagdentoren, bewaard. Van historisch en industrieel-archeologisch
 belang is het stationscomplex van Zichem.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Omdat dit deel van de Demervallei omgeven wordt
 door de steile hellingen van Diestiaanheuvels is het bijzonder
@@ -129,13 +130,14 @@ landschappelijke schoonheid.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -164,7 +166,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -208,7 +210,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 Kiosk op het plein te Zichem, stationsgebouwen en loodsen te Zichem
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -230,7 +232,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -259,8 +261,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing in de omgeving Konijnenberg-Rommelaar, dorpskern
 van Testelt, bebouwing op de Voortberg . Tussen Testelt en Zichem loopt

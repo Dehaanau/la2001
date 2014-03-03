@@ -1,15 +1,15 @@
 Oude Scheldemeander van Overmere- Donk en Berlare Broek
 =======================================================
 
-Anker ID: A40026
-----------------
+:Ankerplaats ID: A40026
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten westen van Berlare, aan de linkeroever van
 de Schelde. Waarschijnlijk vond in het begin van het Laatglaciaal (15
@@ -100,12 +100,13 @@ dorp Uitbergen verbonden; deze dreef loopt parallel met de Schelde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied bestaat uit verschillende eenheden : 1. Oude Scheldeloop,
 Donkmeer: de oude meander is verdwenen door vervening, er bevinden zich
@@ -116,8 +117,8 @@ alluvium (langs de Schelde). 3. Kronkelwaard: duinen van Donk en elf
 sikkelbanden (talrijke lage parallelle ruggen tussen de veengeultjes),
 Er komen talrijke oeverwallen voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Heel belangrijk in dit gebied zijn de turfontginningen. Het Donkmeer
@@ -130,8 +131,8 @@ Maelen wordt heel de meander als wateroppervlak aangeduid, nu is het
 wateroppervlak onderbroken. De huidige toestand van de vijver en
 omgeving is te zien vanaf de kaart MGI 1/20,000 (ca. 1949).
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gedeelte van Berlarebroek ligt onder bos, in
 een lange, smalle zone die overeenkomt met de vroegere meander. Er zijn
@@ -143,14 +144,14 @@ landschap voor; akkers met perceelsrandbegroeiing en bospercelen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Donkmeer heeft een grote toeristische
 waarde. Rond het meer zijn er vele palingrestaurants,
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In het oostelijke deel komt een strookvormig broekbos voor. De oude
 scheldemeander structureert de percelering en het voorkomen van de
@@ -160,13 +161,14 @@ eveneens in de loop van de voormalige scheldearm.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -201,7 +203,7 @@ donk
 
 Vlaamse Vallai
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -225,7 +227,7 @@ Kasteel van Uitbergen
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -242,7 +244,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -288,8 +290,9 @@ No
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Reeds van tijdens de jaren 1920 was dit gebied een toeristische
 trekpleister. Midden de jaren '50 was het gebied in hadden van een door

@@ -1,15 +1,15 @@
 Kasteel van Leeuwergem
 ======================
 
-Anker ID: A40043
-----------------
+:Ankerplaats ID: A40043
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het kasteeldomein van Leeuwergem, bij Zottegem gelegen, behoort tot de
 belangrijkste 18e eeuwse realisaties van Vlaanderen. Behalve om het
@@ -102,20 +102,21 @@ voor 1775 teruggaat. Thans heeft het een gewijzigde fuctie: restaurant.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit zwakgolvend landschap waar het kasteeldomein van Leeuwergem zich
 bevindt, is in zandlemig tot lemig gebied gelegen. Dit vormt de overgang
 van de Zwalmstreek met het brongebied van de Molenbeek. De Molenbeek
 ontspringt in het noordwesten van de ankerplaats.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op Ferraris (ca. 1775) is de vallei van de Molenbeekduideijk te
@@ -127,8 +128,8 @@ meersen. De toestand op de kaarten van Vandermaelen (ca. 1850) en MGI
 kasteeldomein is wel sterk toegenomen maar het kasteelpark is nog erg
 gaaf.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kleine vallei is duidelijk te onderscheiden
 door de bomenrijen en kleine percelen bos. Buiten de vallei is het
@@ -137,8 +138,8 @@ landschap aanwezig.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Centraal in de ankerplaats ligt het kasteeldomein van Leeuwergem. Dit
 domein situeert zich in een zijvallei van de Molenbeek. De Molenbeek
@@ -151,13 +152,14 @@ behoord.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -178,7 +180,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -233,7 +235,7 @@ watermolen op Molenbeek (thans restaurant) en windmolen in Holleweg
 
 graftombe, altaar in kasteelpark
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -252,7 +254,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -284,8 +286,9 @@ vijvers rond Kasteel van Leeuwergem, bekken van voomalige watermolen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De oostelijk dreef van het kasteeldomein komt nu op de N42 uit. Juist
 ten noordoosten van het kasteeldomein bevindt zich een boomkwekerij.

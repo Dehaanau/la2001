@@ -1,13 +1,13 @@
 Heirnisse,Vette-Meersbos,Fondatie en Kruiskapel
 ===============================================
 
-Anker ID: A40013
-----------------
+:Ankerplaats ID: A40013
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Waasland is een belangrijke natuurlandschappelijke eenheid in het
 noordelijk zandig Vlaanderen tijdens de vroege Middeleeuwen. Meer dan de
@@ -122,19 +122,20 @@ zijn in zandsteenbouw op een arduien sokkelgeplaatst en dateren van
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied is in de Moervaartdepressie gelegen.In het laatglaciaal
 lag hier een erg groot meer.De moeraskalk (gyttja) is daar een restant
 van. Op de moeraskalk ligt een laag gliede (zeepklei).
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Koudenborm was in de 12e- 13e eeuw een gecultiveerde leefgemeenschap.
@@ -146,8 +147,8 @@ hooilanden van Heirnisse en Fondatie bebost, waarbij greppels gegraven
 werden met ernaast opgehoogde stroken of rabatten. Ook enkele
 griendenculturen werden aangelegd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 In het gebied ligt de ruïne van een 17de eeuwse
 hofstede van de Boudeloo-abdij. Het huidige landschap is een vlak, vrij
@@ -166,7 +167,7 @@ door bosuitbreiding en weekendverblijven wel meer gesloten geworden.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De 'Kruiskapel' of 'Kapel der Miraculeuze
@@ -177,8 +178,8 @@ omringd. Op het voorplein staat een waterput en een zandsteen kruis. Op
 de weg van de kerk tot aan de kapel zijn veertien kruiswegkapelletjes
 geplaatst, ze dateren van 1877.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bij de ontginning van de oorspronkelijke wastine zijn lange, recht
 dreven aangelegd. De ontginning gebeurde systematisch. Het is nu een
@@ -187,13 +188,14 @@ akkers en weiden omgezet.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -217,7 +219,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 moeraskalk
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -250,7 +252,7 @@ Kruiskapel en 14 kruiswegkapelletjes
 
 voor de Kruiskapel staat een kruis, resten van eendenkooi
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -270,7 +272,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Koebrug (in1948 herbouwd na vernieling tijdens WOII)
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -326,8 +328,9 @@ wijmen, populier
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De kunstmatige beheersing van het grondwaterpeil heeft een belangrijke
 verdroging van de lager gelegen gebieden teweeg gebracht. Deze

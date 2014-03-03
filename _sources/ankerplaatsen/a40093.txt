@@ -1,13 +1,13 @@
 Steenbergse Bossen
 ==================
 
-Anker ID: A40093
-----------------
+:Ankerplaats ID: A40093
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Steenbergse bossen zijn ten zuiden van Zottegem gelegen, op het
 grondgebied van de deelgemeenten Erwetegem en Sint- Goriks- Oudenhove.
@@ -57,12 +57,13 @@ Paniseliaanklei en het Paniseliaanzand.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Binnen het bos komen een aantal bronnen en kwelzones voor: men vindt
 er onder meer de typische soorten van de klasse van de
@@ -70,8 +71,8 @@ brongemeenschappen. De bronniveaus vallen vermoedelijk samen met de
 grens van de Paniseliaanklei en het Paniseliaanzand. Op de valleiflanken
 en de heuveltoppen dagzomen Tertiaire afzettingen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Ten tijde van Ferraris (+/- 1775) en bij Van Der Maelen (+/- 1845)
@@ -83,8 +84,8 @@ periode 1845-1848 hier te lande heerste. Het is niet ondenkbaar dat toen
 alle beschikbare gronden werden benut voor de voedselvoorziening.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De valleien zijn asymmetrisch. De rechtervalleiflank is veel steiler
 van de overzijde. Het is deze steilste flank die bebost is. Minder
@@ -93,13 +94,14 @@ akkerland voor.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -128,7 +130,7 @@ bronnen
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -137,7 +139,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -147,7 +149,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**

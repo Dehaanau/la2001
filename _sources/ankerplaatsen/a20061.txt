@@ -1,13 +1,13 @@
 Broekelei
 =========
 
-Anker ID: A20061
-----------------
+:Ankerplaats ID: A20061
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 De Broekelei is gelegen tussen Keerbergen en Rijmenam, ten noorden van
 de Dijle. Langs de benedenlopen van Dijle, Demer en Laak (een oude
@@ -71,12 +71,13 @@ ethetisch vlak zeer aantrekkelijk.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Broekelei is een fossiele meander, gevormd door de Dijle, hetgeen
 zich zowel in de topografie als in de bodemgesteldheid laat merken. Met
@@ -86,8 +87,8 @@ komen bovendien een aantal zeldzame plantesoorten voor die indicatief
 zijn voor min of meer voedselarme milieus.
 
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De gevarieerde begroeiing, de sterk versneden
 bosrand, de talrijke bomenrijen op de kavelgrenzen en het voorkomen van
@@ -96,12 +97,13 @@ aantrekkelijk.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -127,7 +129,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -142,7 +144,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -157,7 +159,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -181,7 +183,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Residentiële bebouwing (verkaveling) in het centrale deel.

@@ -1,13 +1,13 @@
 Vlassenbroekse polder en polder van Kastel, Mariekerke en Sint- Amands
 ======================================================================
 
-Anker ID: A14002
-----------------
+:Ankerplaats ID: A14002
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De polders van Vlassenbroek en Kastel liggen in een zeer bochtig
 traject van de Zeeschelde, ten zuiden van Moerzeke. Deze ankerplaats
@@ -99,12 +99,13 @@ Verhaeren in de Scheldebocht te Sint- Amands opgericht.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied behoort tot het alluviale deel van de Scheldevallei. De
 schorren zijn van de slikken gescheiden door middel van een microklif.
@@ -114,8 +115,8 @@ er een overgang van alluviale naar hogergelegen zandige tot lemig
 zandige gronden waar te nemen. De Roggeman en het "Zwijn' zijn
 afgesneden Schelde-armen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In de polder van Vlassenbroek is de percelering grotendeels volgens
@@ -126,8 +127,8 @@ is ook de loop van de kleine "kreek" te zien. De polder van Kastel is
 strooksgewijs drooggelegd, er wordt een onderscheidt tussen Oudland en
 Nieuwland gemaakt naargelang de periode van droogleggen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Vlassenbroekpolder is nu grotendeels beplant
 met bomen, de strookvormige percelering duidelijk herkenbaar op de
@@ -140,7 +141,7 @@ voor, wat hun binding met die stroom benadrukte.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In 1927 werd het praalgraf voor de dichter
@@ -149,8 +150,8 @@ tussen Mariekerke en Kastel wordt al in 1287 vermeld. Hij behoorde toe
 aan de Sint- Bernardusabdij. Het huidige veer tussen Kastel en Sint-
 Amands dateert van 1868.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Schelde loopt centraal door deze ankerplaats. Daaromheen bevinden
 zich schorren, deze liggen nog buiten de dijken. Achter de dijken liggen
@@ -161,13 +162,14 @@ afgesneden Scheldemeander.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -198,7 +200,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -229,7 +231,7 @@ graf Emile Verhaeren, waterpomp
  **Andere:**
 vissershuisjes
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -247,7 +249,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 veer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -291,8 +293,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de polder van Kastel neemt de tuinbouw serieuse uitbreiding met het
 plaatsen van serrecomplexen tot gevolg. De polder van Vlassenbroek wordt

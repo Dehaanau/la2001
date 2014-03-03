@@ -1,14 +1,14 @@
 Hoogveld
 ========
 
-Anker ID: A34006
-----------------
+:Ankerplaats ID: A34006
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats situeert zich grotendeels op grondgebied van de
 gemeente Aalter, en ligt nog voor een klein deel op Ruiselede. Het
@@ -78,12 +78,13 @@ verluid in 1921 in dezelfde stijl wederopgebouwd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied maakt deel uit van de cuesta van Lotenhulle- Hertsberge.
 De kwartaire mantel is erg dun en niet continue, de bodem is weinig
@@ -92,8 +93,8 @@ West-Vlaanderen, het is een vrij vlak landschap met een lichte helling
 naar Stratem toe. In de zandige bodem is er af en toe
 zandsteen/veldsteen aanwezig.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Deze ankerplaats is in het historische Bulskampveld geleden. Deze
@@ -102,16 +103,16 @@ gronden. Het is een relicten van de oude heidegebieden die
 gemeenschappelijke graasgronden vormden en in de 18de-19de eeuw
 herbebost werden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit is een vlak gebied met microreliëfelementen
 en een dambordpatroon van bossen en open landbouwgebieden. De dreven
 zijn sterk ruimtebepalend. Het gebied is een gecompartimenteerd
 landschap.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een gesloten, deels bebost gebied. Het wegen- en
 verkavelingspatroon heeft nog dezelfde structuur als de 18e eeuwse
@@ -124,13 +125,14 @@ landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -159,7 +161,7 @@ Kwade stroom
 
 Paniseliaan
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -196,7 +198,7 @@ grenspaal met Ruiselede, aan Hooggoed
  **Andere:**
 voormalige kantschool
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -208,7 +210,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Diksmuidse Boterweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -243,8 +245,9 @@ vijvers bij landgoederen, poelen bij hoeves
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De autosnelweg E 40 doorsnijdt het Blekkerbos en de andere veldgebieden
 in de omgeving. Verzuring en overbemesting van de bodem door de bio-

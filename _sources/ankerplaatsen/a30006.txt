@@ -1,13 +1,13 @@
 Moere van Meetkerke met overgang naar zandstreek
 ================================================
 
-Anker ID: A30006
-----------------
+:Ankerplaats ID: A30006
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt in de gemeenten Brugge, Zuienkerke (grootste
 deel), en Jabbeke (zuidwestelijke hoek). De spoorlijn Brugge-Oostende
@@ -112,12 +112,13 @@ aan de esthetische waarde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurlijke graduele overgang tussen polder- en zandstreek heeft
 een grote wetenschappelijke waarde door zijn gaafheid en herkenbaarheid
@@ -130,8 +131,8 @@ ligt het Pleistoceen zand aan de oppervlakte en begint de zandstreek. De
 natte condities in de meeste percelen en het historisch graslandgebruik
 zorgen voor een rijke flora en fauna in deze ankerplaats.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het poldergebied getuigt van een grootschalige middeleeuwse
@@ -144,8 +145,8 @@ kanaal Brugge-Oostende bevinden zich op de hoger gelegen zandstreek en
 gaan terug op leengoeden en/of heerlijkheden wat bijdraagt aan hun
 historische waarde.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het landschap verschilt sterk in openheid
 naargelang de hoogteligging van het gebied en naargelang de ondergrond:
@@ -162,8 +163,8 @@ in hun groene omkadering met park,verspreide bospercelen en dreven, én
 de bomenrij langs het kanaal Gent-Oostende maken de overgang van polder
 naar zandstreek ook visueel herkenbaar in het landschap.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kanaal Gent-Oostende met begeleidende bomenrijen begrenst visueel
 het open laag gelegen gebied van de moeren en benadrukt de overgang van
@@ -176,12 +177,13 @@ structureert het wegen- en perceleringspatroon in de zandstreek.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -209,7 +211,7 @@ grachten aangesloten zijn
 
 op sommige plaatsen nabij het oppervlak
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -264,7 +266,7 @@ kerk van Meetkerke met Romaanse resten
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -283,7 +285,7 @@ kasseiweg door Meetkerke
 
 kan. Gent-Oostende met begeleidende bomenrij; kleine sluizen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -332,8 +334,9 @@ No
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De industriegebouwen nabij de Panneschuurhoeve zijn een serieuze
 blikvanger en zijn storend in het landschap. Ook de windturbines en het

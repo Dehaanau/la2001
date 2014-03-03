@@ -1,13 +1,13 @@
 Markvallei stroomafwaarts Galmaarden
 ====================================
 
-Anker ID: A24008
-----------------
+:Ankerplaats ID: A24008
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 De Markvallei situeert zicht ten zuiden van Geraardsbergen, op de
 grens van drie provincies: Oost- Vlaanderen, Brabant en Henegouwen. De
@@ -72,12 +72,13 @@ een ijzeren waterrad en houten maalinrichting.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit is een deel van de Markvallei, bestaande uit alluviale gronden.De
 vallei stroomafwaarts Galmaarden is vrij breed en een mooi voorbeeld van
@@ -87,8 +88,8 @@ rechter oever. De vallei situeert zich in de leem- zandleemstreek.
 Enkele beken lopen parallel met de Mark en zijn van belang voor de
 ontwatering van de vallei.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de kaart van Ferraris (ca. 1775) valt de vallei duidelijk te
@@ -100,8 +101,8 @@ weilandengebied. De wegenstructuur ten tijde van Ferraris is nog goed
 herkenbaar. De Discartmolen, een waterkorenmolen op de Mark, heeft een
 oude kern.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Mark meandert, de vallei is duidelijk
 herkenbaar aan het grondgebruik (overwegend weilanden) en de
@@ -110,8 +111,8 @@ waterloopbegeleidende vegetatie. In de vallei bevinden zich
 verschillende percelen bos.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze vallei behield in grote mate haar eigenheid. Het is een
 onbebouwd gebied met vele natuurpotenties. In de omgeving liggen enkele
@@ -120,12 +121,13 @@ bossen met een hoge biologische waarde.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -153,7 +155,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Molens:**
@@ -169,7 +171,7 @@ Driscartmolen
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -187,7 +189,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -228,8 +230,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Aan de rand van de ankerplaats, tussen het dorp Viane en de Mark, ligt
 het kasteeldomein de Blondel de Beauregard. Op het westelijk deel van

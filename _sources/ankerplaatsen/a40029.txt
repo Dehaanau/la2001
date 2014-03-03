@@ -1,13 +1,13 @@
 Dendermeersen tussen Mespelare en Wieze
 =======================================
 
-Anker ID: A40029
-----------------
+:Ankerplaats ID: A40029
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De afbakening omvat de Dendermeersen tussen Wieze en Mespelare. Wieze
 is van de omliggende dorpen de enige plaatsnaam die reeds in de 5e eeuw
@@ -95,12 +95,13 @@ oeverwallen, de overige komgebieden bestaan uit klei.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied maakt deel uit van de Dendervallei. De oude loop van de
 Dender herkenbaar in het zuidwestelijke deel van de ankerplaats.
@@ -108,8 +109,8 @@ Centraal in het gebied, dat deel uitmaakt van de Vlaamse Vallei, loopt
 de gekanaliseerde Dender. De dorpskernen bevinden zich op een lichte
 Tertiaire verhevenheid.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand op Ferraris (ca. 1775): een meersgebied met kleine
@@ -121,8 +122,8 @@ dreef met het dorp verbonden. Mespelare, met een schandpaal voor de
 kerk, is vooral gegroeid sinds de pelgrimstoeloop voor de relieken van
 Sint- Aldegondis. Ook het Spaans Huis dateert vanuit die periode.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Er liggen kleine regelmatige percelen in een
 bocht rond de Dender. Het betreft overwegend weiland met perceelsranden
@@ -131,7 +132,7 @@ zijn verschillende zichtpunten aanwezig.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Toen in 1634 de heer van Mespelare de
@@ -140,8 +141,8 @@ er een enorme toeloop aan gelovigen die er deze volksheilige kwamen
 aanroepen. Het Spaans huis werd gebouwd ter ere van Sint- Aldegondis,
 dit in 1643. Het werd gebruikt ten behoeve van de pelgrims.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De gekanaliseerde Dender loopt dwars door het gebied. Daaromheen
 liggen de Dendermeersen met de oude rivierarmen en enkele beken. De
@@ -151,13 +152,14 @@ liggen op een Tertiaire opduiking aan de rand van de vallei.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -190,7 +192,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -251,7 +253,7 @@ voor de kerk van Mespelare
  **Andere:**
 sashuis
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -269,7 +271,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -309,8 +311,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de meersen verdwijnt op sommige plaatsen de weilandfunctie en komen
 er meer bossen in de plaats.

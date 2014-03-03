@@ -1,13 +1,13 @@
 Poldergebied Klemskerke
 =======================
 
-Anker ID: A30007
-----------------
+:Ankerplaats ID: A30007
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt ten zuiden van de bebouwing van De Haan. In het
 zuiden vormt de N9 Brugge-Oostende de grens; in het westen wordt ze
@@ -61,19 +61,20 @@ landschap heeft men in alle richtingen een wijds vergezicht.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Oudlandpolder waarbij de bodemgesteldhied nog het bodemgebruik
 bepaalt: bewoning, wegen en akkerland op kreekruggen; grasland op
 geulgronden .
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Dorpen Vlissegem en Klemskerke zijn gave en herkenbare polderdorpen
@@ -84,15 +85,15 @@ en raakten in verval. Resten van bunkers vormen getuigen van WOII. Hoeve
 Otterput is gaaf bewaard en heeft een meerwaarde als bouwkundig erfgoed
 door de relatie met de gave omgeving.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Groot open ruimte gebied met wijdse vergezichten.
 Kleinschalige grillig grachten- en perceleringspatroon. Het
 beeldbepalend bouwkundig erfgoed is nog zeer gaaf en herkenbaar.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het dorp van Klemskerke met dorpsmolen, en dorp van Vlissegem vormen
 twee compacte kernen van bebouwing die opvallen in dit open gebied van
@@ -101,12 +102,13 @@ vnl. graslandcomplexen.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -122,7 +124,7 @@ typisch voor Oudlandpolder
 
 Bredewegzwin, Dorpzwin
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -156,10 +158,10 @@ WOII
  **Archeologische elementen:**
 misschien sporen van middeleeuwse sites met walgracht in de weilanden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -186,8 +188,9 @@ veedrinkput
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Omzetting van weiland naar akkerland doet afbreuk aan het historisch
 permanent karakter van grasland en maakt het microreliëf onherkenbaar.

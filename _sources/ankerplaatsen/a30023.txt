@@ -1,13 +1,13 @@
 Sint-Rijkers
 ============
 
-Anker ID: A30023
-----------------
+:Ankerplaats ID: A30023
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats grenst in het noorden aan de bebouwing van
 Alveringem. In het oosten vormt de St-Machuitsbeek (parallel aan de
@@ -64,12 +64,13 @@ plateau op Frans grondgebied.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het bruuske reliëfsverschil tussen de Lovaart met omgeving en het
 plateau van Izenberghe vormt tevens een bodemkundige grens tussen de
@@ -77,8 +78,8 @@ polders (Ijzervallei) met op geringe diepte veen én
 zand(lem)ig-Vlaanderen. Het holocene pakket is in de Ijzervallei zelf
 aanwezig maar op het plateau slechts her en der.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Archeologisch belangrijk : concentratie van verdwenen middeleeuwse
@@ -87,8 +88,8 @@ landbouwgebied van zandig-Vlaanderen. Lovaart is waarschijnlijk
 aangelegd in bedding van oude kreek/zijbeek van de Ijzer en vormde de
 verbinding tussen de bovenloop van de Ijzer en Veurne.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Grote esthetische waarde door grillig
 perceelspatroon, sporadisch begroeiing langs perceelsgrenzen,
@@ -98,12 +99,13 @@ Vergezichten op het plateau naar omgeving in alle richtingen.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -119,7 +121,7 @@ overgang van Lovaart ( Ijzervallei) naar plateau van Izenberghe
 
 Hollevoordebeek, Scheibeek en talrijke kleinere beekjes
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -155,7 +157,7 @@ vlakbij St-Rijkers; ook elders nog motte-sites (bij Diephof)
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -172,7 +174,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Lovaart waarschijnlijk volgens loop van zijbeek van Ijzer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -195,8 +197,9 @@ weilanden
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente stallingen en uitbreidingen bij de hoeves doen afbreuk aan
 hun gaafheid en hun historisch karakter. De uitbreiding van Alveringem

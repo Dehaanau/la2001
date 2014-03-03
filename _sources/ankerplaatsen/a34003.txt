@@ -1,15 +1,15 @@
 Schoonbergbos - Vorte Bossen- Wantebeek
 =======================================
 
-Anker ID: A34003
-----------------
+:Ankerplaats ID: A34003
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats strekt zich uit langs de Wantebeek op grondgebied van
 gem. Ruiselede (W.-Vlaanderen) en gem. Aalter (O.-Vlaanderen). Ze loopt
@@ -74,12 +74,13 @@ grasland in de Wantebeekvallei stroomafwaarts Kruiskerke.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De situering van de ankerplaats langs het cuestafront van de cuesta
 van Lotenhulle-Hertsberghe met het brongebied van de Wantebeek vormt het
@@ -88,8 +89,8 @@ langs het cuestafront geeft deze ankerplaats een rijke en
 gediversifieerde flora waarvan bosbestanden met voorjaarsflora in de
 beekvallei een belangrijk deel uitmaken.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats heeft een zeer goed bewaard percelerings- en
 drevenpatroon op basis van de hydrografie dat getuigt van de late en
@@ -101,8 +102,8 @@ bouwkundig erfgoed door hun gaafheid in deze historisch gave omgeving.
 De boswal heeft een hoge waarde in Vlaanderen wegens zijn zeer gave
 bewaring.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De boscomplexen langs de helling benadrukken
 visueel de brongebieden van de Wantebeek en haar zijbeken, én
@@ -116,8 +117,8 @@ van gaaf bouwkundig erfgoed in een landschappelijk gave omgeving geeft
 een esthetische meerwaarde en een grotere belevingswaarde aan het
 landschap.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het reliëf en de hydrografie vormen de basis voor het geometrische
 ontginningspatroon en het verschil in openheid van het landschap.
@@ -125,13 +126,14 @@ ontginningspatroon en het verschil in openheid van het landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -154,7 +156,7 @@ cuestafront
 
 vallei van de Wantebeek rond brongebied
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -168,7 +170,7 @@ Akspoelehoeve, Schoonberg
 site van oude watermolen rond Akspoelehoeve
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -202,8 +204,9 @@ geometrisch patroon uit 18e eeuw; repelvormig in natte bosbestanden
 Vorte Bossen, Schoonbergbos, bronbos Wantebeek
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De toenemende bebouwing in het gebied vormt een bedreiging voor het
 landelijke karakter en het goed bewaard landschap. De oprukkende

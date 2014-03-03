@@ -1,13 +1,13 @@
 Sint-Pietersbrug
 ================
 
-Anker ID: A30045
-----------------
+:Ankerplaats ID: A30045
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt in de gemeente Zwevegem ten noorden van Moen en
 ten westen van Heestert. Ze wordt in het zuiden begrensd door een weg,
@@ -54,20 +54,21 @@ benadrukt door een dreef die in de richting van Moen onderbroken is.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs de taluds van het kanaal dagzomen enkele tertiaire formaties
 die zeldzame bodemcondities bieden omdat ze elders in Vlaanderen heel
 weinig dagzomen. Het Kraaibos vormt een floristisch rijk gebied met
 grasland en struweelbegroeiing.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschap wordt grotendeels bepaald door de beide kanalen. De
@@ -76,8 +77,8 @@ oude kanaalarm vormt samen met het bouwkundig erfgoed langs zijn tracé
 20e eeuw. In de omgeving staan enkele typische, grote en gave hoeves met
 aansluitend huisweiden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De begroeiing langs de vaarttaluds benadrukt de
 loop van het huidige kanaal en de doorkruising van de interfluviale kam.
@@ -87,8 +88,8 @@ bouwkundig erfgoed vormt de oude kanaalarm een historisch geheel met een
 esthetische meerwaarde.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het oude en vooral het nieuwe kanaal zijn ruimtelijk structurerend
 voor de omgeving vanwege hun diep ingesneden karakter wat in de toekomst
@@ -97,13 +98,14 @@ opgespoten terrein.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -119,7 +121,7 @@ langs opgespoten terrein en langs kanaal
 
 langs taluds kanaal tertiaire formaties Tielt en Ieper
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -129,7 +131,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 o.a. St-Pietershof, hoeve ten westen van Kraaibos
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -146,7 +148,7 @@ Zwevegem-Heestert
 
 St-pietersbrug op oude kanaalarm
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -163,8 +165,9 @@ struweelbegroeiing langs talud
 
 Kraaibos
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De huidige sluisgebouwen werken storend op de visuele waarde van het
 kanaal, evenals de brug over het kanaal.

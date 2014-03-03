@@ -1,13 +1,13 @@
 Vleterbeek
 ==========
 
-Anker ID: A30058
-----------------
+:Ankerplaats ID: A30058
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten zuidwesten van Poperinge en strekt zich uit
 langs de Vleterbeek tussen Abeele (aan de Frans-Belgische grens) en
@@ -44,12 +44,13 @@ hoppe-akkers die voor een visuele begrenzing zorgen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het tertiair kleiig materiaal in de ondergrond is zeer bepalend voor
 het smal en diep ingesneden karakter van de beek en de steilranden. De
@@ -57,8 +58,8 @@ steilranden en de valleigrens vormen de grens tussen de holocene en
 pleistocene (en lokaal tertiarie) sedimenten. De natuurlijke kronkelende
 loop van de Vleterbeek draagt bij aan haar wetenschappelijke waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De resterende hoppe-akkers getuigen van de overvloedige hoppeteelt in
@@ -69,8 +70,8 @@ karakteristieke ligging tov de vallei en wegen, én door het uniform
 bouwmateriaal belangrijk bouwkundig erfgoed binnen dit oude
 ontginningslandschap.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De natuurlijk kronkelende loop van de Vleterbeek
 binnen de smalle en diep ingesneden vallei wordt visueel geaccenuteerd
@@ -81,8 +82,8 @@ heuvelflank van het Hellegatbos waar ook enkele hoppe-akkers aanwezig
 zijn.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Vleterbeek structureert de bebouwing en de wegen; de percelering
 hangt vast aan het wegenpatroon. De hoppe-akkers vormen een
@@ -91,13 +92,14 @@ de omgeving van Poperinge.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -113,7 +115,7 @@ langs valleigrens
 
 Vleterbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -124,7 +126,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 hoeves karakteristiek plaats aan rand vallei met toegangsweg
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -146,8 +148,9 @@ langste perceelszijde loodrecht op loop Vleterbeek
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recente uitbreidingen bij landbouwbedrijven storen in het landschap. De
 achteruitgang van de hoppe-akkers vormt een teloorgang van een

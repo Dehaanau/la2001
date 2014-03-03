@@ -1,15 +1,15 @@
 Kasteel van Beto en Beukenberg met Romeinse weg
 ===============================================
 
-Anker ID: A70060
-----------------
+:Ankerplaats ID: A70060
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het kasteel van Betho ligt even buiten het stadscentrum van Tongeren
 in het gehucht Mulken, gevat in een vrij gaaf bewaard landschap tussen
@@ -80,12 +80,13 @@ aftakeling van het landschap tot gevolg.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Beukenberg situeert zich op de zuidwest-noordoost georiënteerde
 waterscheidingskam tussen het Maas- en het Scheldebekken. Zulke
@@ -93,8 +94,8 @@ interfluviumpositie tussen twee concurrerende rivierbekkens is
 onderhevig aan intense erosieprocessen, met een sterk heuvelend reliëf
 en een eigen dynamiek tot gevolg.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De landschappelijke betekenis van de Beukenberg gaat terug tot het
@@ -110,8 +111,8 @@ bebouwing is traditioneel en wordt gekenmerkt door akkers en vooral
 weiden, soms aangeplant met populieren of nog in gebruik als
 boomgaarden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De beboste Beukenberg heeft een uitgesproken
 reliëf met unieke zichten op Haspengouw zowel in noordelijke als in
@@ -122,14 +123,14 @@ houtkanten.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het landschap is attractief voor zachte
 recreatie en, aan de rand van de stad, erg in trek bij wandelaars.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Romeinse heerbaan en aquaduct waren bepalend voor de opbouw van
 het landschap. Het aquaduct en het kasteel van Betho met park zijn, even
@@ -138,13 +139,14 @@ steenwegen naar Hasselt en Sint-Truiden.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -167,7 +169,7 @@ sterk heuvelend reliëf op waterscheidingskam
 
 Fonteinbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -203,7 +205,7 @@ Gallo-Romeinse relicten
  **Andere:**
 relicten van Romeinse bouwwerken: aquaduct, omwalling, tumulus
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -222,7 +224,7 @@ wegen
 
 relict Romeins aquaduct
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -268,8 +270,9 @@ weilanden nabij kasteel en bebouwing, onder boomgaarden of populieren
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Beukenberg is erg gevoelig voor erosie en verstoring, die nog
 versterkt wordt door ongeoorloofd mountainbiken. Bovendien liggen de

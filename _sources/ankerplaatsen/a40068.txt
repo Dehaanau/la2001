@@ -1,15 +1,15 @@
 Scheldevelde en de zeven dreven
 ===============================
 
-Anker ID: A40068
-----------------
+:Ankerplaats ID: A40068
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het Scheldeveld en de zeven dreven liggen op grondgebied van de
 gemeente De Pinte. Het gebied van Scheldevelde gaat op een middeleeuw
@@ -99,19 +99,20 @@ park en de landerijen met stervormig aangelegde dreven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied is gelegen op de waterscheiding tussen het Leie- en
 Scheldebekken: ten noorden geschiedt de afwatering naar de Leie, ten
 zuiden naar de Schelde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het gebied van Scheldevelde gaat op een middeleeuw "veld" of
@@ -128,23 +129,23 @@ allen concentrisch naar het herstelde middengebouw liepen. Hiermee begon
 men in 1772. Tenslotte werd het veld, dat door deze aangelegde wegen in
 vele stukken was verkaveld geworden, ontgonnen en verbouwd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Kasteel met zevenstralig drevenpatroon en een
 bebost park.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied heeft een recreatieve functie.
 Er ligt een pedagogisch bos naast kasteelpark. Het kasteel en de
 bijgebouwen worden gebruikt als bejaardencentrum.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In het westen van de ankerplaats ligt het voormalige kasteel van
 Scheldevelde. Vanuit dit domein vertrekken zeven dreven, een
@@ -154,13 +155,14 @@ en akkers. Er komen enkele kleine verkavelingen voor.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -168,7 +170,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -202,7 +204,7 @@ Scheldevelde, dienstgebouwen,koetshuizen,Hemelrijk
 
 O-L-Vrouw van Hemelrijk
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -212,7 +214,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -228,7 +230,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Er bevindt zich wel wat residentiële bebouwing in sommige dreven.

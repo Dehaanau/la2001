@@ -1,13 +1,13 @@
 Oostdonk
 ========
 
-Anker ID: A40058
-----------------
+:Ankerplaats ID: A40058
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Oostdonk ligt in het westelijke deel van de Moervaartdepressie, ten
 zuiden van Wachtebeke. De ankerplaats wordt min of meer door de
@@ -81,12 +81,13 @@ dat een ouderdom van 420 jaar aangeeft.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Moervaartdepressie is ontstaan na het afsluiten van de Vlaamse
 Vallei met een dekzandrug. Er ontstonden grote meren, op de bodem werd
@@ -94,8 +95,8 @@ moeraskalk (gyttja) gevormd. Oostdonk is een zandige opduiking in de
 Moervaartdepressie. Deze ligt juist ten oosten van de splitsing van de
 Moervaart en de Zuidlede.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand op Ferraris (1775): enkele percelen akkerland op de donk.
@@ -114,8 +115,8 @@ Op de huidige topografische kaart staat nog één huis ingetekend langs de
 centrale baan en wordt de molen niet meer vermeld. Verder is het
 landschap ongewijzigd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een vrij open landschap met
 bomenrij langs de centrale baan, enkele percelen bos en grote percelen
@@ -125,8 +126,8 @@ blikvanger op de orthofoto en in het landschap.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit is het westelijke deel van de Moervaartdepressie. De ankerplaats
 wordt min of meer door de Moervaart en Zuidlede begrensd. Het akkerland
@@ -137,13 +138,14 @@ gecompartimenteerd landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -176,7 +178,7 @@ Zuidlede en Moervaart, Hoofdgeleed, depressie
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -195,7 +197,7 @@ Groot Hof
 
 Groothof of Grote Hofstede
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -211,7 +213,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 brug over Zuidlede
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -254,8 +256,9 @@ Moervaartdepressie
  **Andere:**
 opgespoten deel
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs de Moervaart bevindt zich een opgespoten terrein. Er is een deel
 van de weiden gescheurd. Naast de grote weg bevindt zich een nieuwe

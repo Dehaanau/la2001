@@ -1,14 +1,14 @@
 Zoniënwoud tussen Hoeilaart en Sint-Genesius-Rode
 =================================================
 
-Anker ID: A20034
-----------------
+:Ankerplaats ID: A20034
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Zoniënwoud is een restant van het historische "Kolenwoud" dat zich
 in de vierde eeuw nog uitstrekte van Thuin tot Brussel. Samen met zijn
@@ -90,19 +90,20 @@ koren en uitmuntende fijne geuren hebben genoten.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Zoniënwoud heeft een waardevolle fauna en flora en sommige
 gedeelten hebben ook een grote dendrlogische waarde, inzonderheid het
 bosarboretum van Groenendaal.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het zou een restant zijn van het historische Kolenwoud, er werden
 sporen gevonden uit neolithicum en van karolingische smeltovens. Van
@@ -113,8 +114,8 @@ Wouters. Het arboretum van Groenedaal herinnert ook aan de
 wereldtentoonstelling van 1897 te Brussel, waarbij het een deel van het
 aanbod vormde.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een groot uitgestrekt bos met hoge eeuwenoude
 beuken en eiken die een "natuurlijke gotische kathedraal" vormen -
@@ -123,7 +124,7 @@ eeuw werd gevoerd op aanwijzing van kunstschilders.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In de priorijhoeve is het bosmuseum en het
@@ -133,11 +134,12 @@ bosreservaat.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -160,7 +162,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -196,7 +198,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 sporen uit Neolithicum, Karolingische ijzersmeltovens
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -215,7 +217,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 Opstuwing Ijse om vijvers te realiseren
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -234,8 +236,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * loof
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing in de omgeving van de Kapel van Welriekende. Een
 aantal grote verkeersaders doorkruisen het woud.

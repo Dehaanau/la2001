@@ -1,13 +1,13 @@
 Uitkerkse polder
 ================
 
-Anker ID: A30001
-----------------
+:Ankerplaats ID: A30001
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats bevat een sekwentie van strand over duinen tot een
 zeer gave en herkenbare Oudlandpolder ten westen van Blankenberge. Ze
@@ -73,12 +73,13 @@ en bedreigt dit open en weinig bebouwd landschap te versnijden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats vormt een relict van een Oudlandpolder met
 duidelijke differentiatie van geul- en poelgrondenmet een zeer
@@ -90,8 +91,8 @@ graslandcomplexen hebben een grote floristische rijkdom met een groot
 aandeel water- en moerasvegetatie. Voor weidevogels vormt deze polder
 een belangrijk broed-, pleister- en overwinteringsplaats.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De Blankenbergse Vaart loopt nog zoals op de kabinetskaart van de
@@ -101,8 +102,8 @@ gebied zijn nog talrijke resten van verdwenen middeleeuwse sites
 aanwezig. De sporen en relicten van de ontvening en klei-ontginning zijn
 nog aanwezig en herkenbaar in het landschap.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het is een open en vlak landschap met
 onregelmatige, grote percelen zonder perceelsrandbegroeiing én met een
@@ -111,8 +112,8 @@ sloten. Wijdse panoramische zichten naar kust, duinen en polders
 landinwaarts.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Blankenbergse vaart en de Blankenbergse dijk structureren dit
 landschap in grote mate (vooral voor het afwateringsnet en voor het
@@ -123,12 +124,13 @@ het bodemgebruik.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -144,7 +146,7 @@ typisch voor Oudlandpolder
 
 Blankenberge- en Isabellavaart belangrijk
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -158,7 +160,7 @@ Blauwe Duivekeet
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -171,7 +173,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 sommige sluizen nog met hand te bedienen; lanen in de weilanden
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -205,8 +207,9 @@ pole als veedrinkput; vijver rond Neptunuswijk
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het bezoekerscentrum van het natuurreservaat ligt op een opgehoogd
 terrein dat vroeger een stortplaats voor afval was. Door de hogere

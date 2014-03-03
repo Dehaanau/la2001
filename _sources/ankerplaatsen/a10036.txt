@@ -1,13 +1,13 @@
 Domein Ter Linden
 =================
 
-Anker ID: A10036
-----------------
+:Ankerplaats ID: A10036
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het domein 'Hof ter Linden' is gelegen op grondgebied van 's
 Gravenwezel, een deelgemeente van Schilde in de Antwerpse Kempen. Deze
@@ -44,20 +44,21 @@ verloren gegaan.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde beperkt zich in deze ankerplaats tot het
 oude bomenbestand dat ruimtelijk in relatie staat tot dat van de
 domeinen van het 'Kasteel van 's Gravenwezel' en 'Katershof' en zo
 potenties biedt voor de avifauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Zowel het park als het kasteel zijn reeds duidelijk te herkennen op
@@ -71,16 +72,16 @@ akkers en weilanden, bij Vandermaelen is het aandeel bos toegenomen en
 vandaag neemt het, op de westelijke rand na, de volledige oppervlakte
 voor haar rekening.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De historische kasteelgebouwen en het omringende
 kasteelpark vormen een esthetisch waardevol geheel binnen een sterk
 verstedelijkt gebied.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kasteeltuin met vijver en het omgevende drevenpatroon vormt een
 ruimtelijk opvallend element tussen de dichte bewoning van de omringende
@@ -88,11 +89,11 @@ verkavelingen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -121,7 +122,7 @@ kasteelpark
  * kapel
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -143,8 +144,9 @@ kasteelvijver
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Er wordt opgemerkt dat door de steeds oprukkende verkavelingen van de
 gehuchten rondom het kasteeldomein, de oorspronkelijke samenhang met het

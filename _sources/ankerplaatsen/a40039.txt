@@ -1,13 +1,13 @@
 Scheldevallei tussen Welden en Gavere
 =====================================
 
-Anker ID: A40039
-----------------
+:Ankerplaats ID: A40039
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Nagenoeg de volledige linkeroever van de Schelde in deze ankerplaats
 behoort landschappelijk tot het alluviale deel van de Scheldevallei. Aan
@@ -77,12 +77,13 @@ dateren eveneens uit die periode.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Schelde ligt in een brede alluviale vlakte. Langs de rand van het
 Scheldealluvium komen zandige ruggetjes voor die het resultaat zijn van
@@ -91,8 +92,8 @@ laatglaciale meander aanwezig. Tussen Gavere en Dikkelvenne komt een
 steilrand voor, deze is eveneens de oostelijke grens van de Vlaamse
 Vallei.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de historische kaarten is de loop van de Laatglaciale meander
@@ -106,8 +107,8 @@ domein. Herberg Stuivenberg bevindt zich sinds half de 19e eeuw op de
 donk in de meersen van Zingem. Er bevinden zich verschillende
 historische hoeves in het gebied.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Op de kouter treffen we een open landschap met
 regelmatige percelering aan, de bebouwing is afwezig. Er zijn
@@ -117,15 +118,15 @@ Aan de rechteroever is de steilrand in het oog springend.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Aan de Christianabronnen staat een kapel.
 Het water van de bronnen wordt gebotteld. De Kaaihoeve in Meilegem wordt
 als natuureducatief centrum gebruikt.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De meersen situeren zich voornamelijkaan de linker oever van de
 Schelde. Ze worden door dijken begrensd. De rechteroever is een
@@ -138,13 +139,14 @@ kasteeldomein Grenier bevindt zich op de steilrand.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -180,7 +182,7 @@ bronnenstraat (Christianabronnen)
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -216,7 +218,7 @@ De Kaaihoeve
 
 Christianakapel, kerk en pastorie van Welden en Nederzwalm
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -232,7 +234,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -281,8 +283,9 @@ vijvers bij Kasteel Grenier
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Wegens verdroging gaat het meersenkarakter verloren en wordt
 intensievere landbouw mogelijk. Dit gaat gepaard met omzetting van

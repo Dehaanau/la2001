@@ -1,13 +1,13 @@
 Kasteeldomein Spiere
 ====================
 
-Anker ID: A30050
-----------------
+:Ankerplaats ID: A30050
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten noorden van Spiere (gem. Spiere-Helkijn) en
 wordt begrensd door een dreef in het zuidwesten, door de Pijpestraat in
@@ -43,12 +43,12 @@ hebben vlakbij een recente loods die visueel stoort.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De talrijke bouwkundige elementen rond het kasteel van Spiere vormen
@@ -60,8 +60,8 @@ natuurlijke structuur en de waterhuishouding van de Grote Spierebeek. Ze
 deed dienst als natuurlijke verdedigingslijn waarop de motte- en
 kasteelsite geënt werden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het geheel van gaaf en divers bouwkundig erfgoed
 met opper- en neerhofsite, samen met de beboste omgeving van het park in
@@ -73,21 +73,22 @@ graslandcomplex in het noordoosten van de ankerplaats heeft samen met
 het zicht op de bosrand een meerwaarde aan de omgeving.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Grote Spierebeek vormt de natuurlijke structuur waarop de
 elementen (motte, bosrand,vijver,…) geënt zijn.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Hydrografische Elementen:**
 
@@ -96,7 +97,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Grote Spierebeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -134,7 +135,7 @@ site van kasteelhoeve op neerhof van vermoedelijk middeleeuwse motte
  * kapel
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -148,8 +149,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De oprukkende lintbebouwing vanuit Spiere belemmert soms het zicht op
 het kasteel. Bij sommige hoeves staan recente uitbreidingen (loodsen)

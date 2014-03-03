@@ -1,13 +1,13 @@
 Kasteeldomein van Duras
 =======================
 
-Anker ID: A27002
-----------------
+:Ankerplaats ID: A27002
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Het kasteeldomein van Duras is een uitgestrekt landgoed van circa 134
 ha in het zachtglooiende Vochtig-Haspengouw ten noordwesten van
@@ -87,12 +87,12 @@ tuinmanshuis uit 1865.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Door zijn ontstaan, evolutie en bestanddelen is het kasteeldomein van
@@ -107,8 +107,8 @@ verschillende bestanddelen van het domein en de omgevende landerijen
 resteert ook uit de voor verschillende periodes kenmerkend hekwerk aan
 de toegangen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het uitgestrekt domein omvat een variatie aan
 bestanddelen: park in landschappelijke stijl, monumentale moestuin,
@@ -119,8 +119,8 @@ op het achterliggend landschap. De landschappelijke omgeving sluit
 daarop aan met landerijen en bossen.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Door zijn ontstaan, evolutie en bestanddelen is het kasteeldomein van
 Duras bepalend voor de inrichting en organisatie van het landschap.
@@ -128,12 +128,13 @@ Duras bepalend voor de inrichting en organisatie van het landschap.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -154,7 +155,7 @@ zacht glooiend reliëf
 
 Langebeek, Molenbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -195,7 +196,7 @@ kluiskapel van de Osseweg (Zoutleeuw)
  **Andere:**
 belangrijk hekwerk aan de historische toegangen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -206,7 +207,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 ontsluitende wandelpaden en (rond)wegen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -253,8 +254,9 @@ weiden van de Molenbeek
 
 o.a. parkbos, Zwartaardebos
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De zichtlijnen in het kasteelpark zijn verstoord door uitbreiding van de
 begroeiing. Recente bebouwing levert geen bijdrage tot de

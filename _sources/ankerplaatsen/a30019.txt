@@ -1,13 +1,13 @@
 Maleveld en abdij van Male.
 ===========================
 
-Anker ID: A30019
-----------------
+:Ankerplaats ID: A30019
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt op grondgebied van de gemeenten Brugge en Damme
 (klein deeltje). In het westen vormt de Maleleie (beek) de gresn , in
@@ -59,12 +59,13 @@ en doet afbreuk aan de esthetische waarde van dit open ruimte gebied.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Maleveld ligt op een droge, schrale zandbodem waar vroeger een
 veldgebied lag. De heischrale vegetatie getuigt van dit veldgebied. De
@@ -72,8 +73,8 @@ bossen van Male liggen zich op enigszins lemige zandgrond. De Maleleie
 heeft nog haar oorspronkelijk tracé en is net als een klein bosrestant
 nog geënt op de fysische structuur.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In de 18de eeuw was het Maleveld ingenomen door een groot
@@ -88,15 +89,15 @@ eerder reeds in cultuurgrond omgezet. Het zuidelijke bosgebied
 correspondeert met de boszone die zich nu ten oosten van de Abdij van
 Male uitstrekt.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Maleveld vooral in akkergebruik, landschappelijk
 is het gebied volkomen open. Zeer weinig bebouwing aanwezig, vormt een
 groot open-ruimtegebied rond de stad.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De structuur van het park bij de abdij is herkenbaar in de
 percelering van het Maleveld en de omliggende wegen (ook richting
@@ -105,12 +106,13 @@ Rijkevelde).
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -125,7 +127,7 @@ dekzandrug Gistel-Maldegem-Stekene-Verrebroek
 
 Maleleie
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -166,7 +168,7 @@ kasteel deels verbouwd tot abdij
 
 pelderijn vlakbij stadhuis
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -176,7 +178,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kasseiweg rond kasteel en langs zuidkant Maleveld
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -198,8 +200,9 @@ dreven rond park en abdij; bomenrij langs Maleleie
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het oosten vormt een verkaveling rond het Sijseleveld de grens van de
 ankerplaats. Men moet erover waken dat de open ruimtes rond het Maleveld

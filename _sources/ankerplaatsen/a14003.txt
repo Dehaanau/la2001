@@ -1,13 +1,13 @@
 Schorren van de Durme, de Bunt en monding van de Durme in de Schelde
 ====================================================================
 
-Anker ID: A14003
-----------------
+:Ankerplaats ID: A14003
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats situeert zich op grondgebied van de gemeenten Hamme,
 Oost- Vlaanderen, en Bornem op de provincie Antwerpen. De Durmevallei
@@ -93,20 +93,21 @@ weekendverblijven of vissershutten.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied ligt aan de Durmemonding. De monding lag voorheen op een
 andere plaats zodat dit stuk van de Schelde de historische Durme is. De
 Durmeschorren zijn uiterst waardevol als rivierschor en
 zoetwatergetijdengebied.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De vorm van het schorgebied en de omgevende meander zijn perfect
@@ -115,15 +116,15 @@ het natuurreservaat Schorren van de Durme in het zuiden begrenst, is
 identiek ten tijde van Ferraris. Grachtennetwerk op Ferraris is niet
 meer terug te vinden op recentere kaarten.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De rietlanden en struwelen op de schorren vormen
 een contrast met de achterliggende meer open gebieden en de rivieren.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Aan de Durmemondig staat een monument ter
@@ -131,13 +132,14 @@ ere van de schrijver De Pillecijn.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -160,7 +162,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
@@ -180,7 +182,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 Het Pillecijn monument
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -194,7 +196,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -229,8 +231,9 @@ riet en wilgen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Vele voormalige turfputten zijn nu als visvijver in gebruik. Daarrond
 staan er vissershuisjes en weekendverblijven.

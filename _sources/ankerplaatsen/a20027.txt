@@ -1,13 +1,13 @@
 Gaasbeek, St.-Laureins-Berchem, Oudenaken en Elingen
 ====================================================
 
-Anker ID: A20027
-----------------
+:Ankerplaats ID: A20027
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het afgebakende gebied ligt ten oosten van Sint-Kwintens-Lennik en
 omvat de dorpskernen van Gaasbeek, Sint-Laureins-Berchem, Elingen en
@@ -132,18 +132,19 @@ door opstuwing enkele vijvers ontstaan zijn.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De kasteekparken van Groenenberg, Gaasbeek en Budingen hebben een
 bijzondere dendrologische en, gezien hun voorjaarflora, ook floristische
 waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De dorpskernen Gaasbeek, Oudenaken, Sint-Laurens-Berchem en Elingen
 hebben in de loop van de eeuwen weinig structurele veranderingen
@@ -160,8 +161,8 @@ classicitische kasteel van Budingen (met kasteelhoeve) wordt omgeven
 door een landschappelijk park en landbouwgronden die aansluiten bij het
 Hof te Wedem.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze streek behoort tot de mooiste van het
 Pajottenland. Vanaf de koer in het kaseel van Gaasbeek heeft men een
@@ -169,7 +170,7 @@ prachtig vergezicht over de streek.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het kasteel van Gaasbeek en de tuinen
 staan open voor het publiek en op die manier een uitstekend idee kunnen
@@ -178,12 +179,13 @@ tuin is ingericht als educatieve moes- en fruittuin.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -205,7 +207,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -258,7 +260,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 streek reeds ontgonnen in Gallo-Romeinse periode
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -269,7 +271,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -302,8 +304,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * middelhout
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing in de dorpskernen Gaasbeek, Oudenaken, Sint-Laureins-Berchem
 en Elingen. Verspreide bebouwing in het landelijke gebied er tussenin

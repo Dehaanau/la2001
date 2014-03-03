@@ -1,13 +1,13 @@
 De Nol
 ======
 
-Anker ID: A10001
-----------------
+:Ankerplaats ID: A10001
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap van 'De Nol' is gelegen op grondgebied van de gemeenten
 Kalmthout en Essen in het noorden van de Antwerpse Kempen. De begrenzing
@@ -47,12 +47,13 @@ grote ven als knelpunt worden vermeld.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het zuidelijke deel van 'De Nol' sluit aan bij de Kalmthoutse Heide
 en dit zowel wat betreft vegetatiestructuur als landschappelijk. Het
@@ -61,8 +62,8 @@ opbouw. De afwisseling van duinen en vennen, met bijhorende
 vegetatietypes, is van grote waarde voor talrijke faunasoorten. Vooral
 de vogels profiteren van het ruim voorhanden zijnde open water.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De turfvaarten en ontginningspatronen, waarvan de oorsprong teruggaat
@@ -71,8 +72,8 @@ de historische kaart van Ferraris uit 1777 wordt 'De Nol' vermeld als
 ven; bij Vandermaelen (1854) als veenderij. Het gebied werd deels
 ontgonnen voor landbouwdoeleinden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Zowel het ven als het vaartenstelsel zijn nog
 duidelijk herkenbaar en herinneren aan de vroegere geschiedenis als
@@ -82,14 +83,14 @@ ankerplaats.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Nol was vroeger een turfwinningsgebied
 en gedurende eeuwen van essentieel belang voor de streek, die
 veenontginningen als belangrijkste activiteit had.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Roosendaalse Vaart en Oude Moervaart die, hoewel niet volledig
 opgenomen in de ankerplaats, deel uitmaken van het systeem van 'De Nol',
@@ -100,11 +101,12 @@ alsook de blokvormige perceelsstructuur van de naaldhoutcomplexen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -124,7 +126,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -133,7 +135,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -143,7 +145,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Turfvaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -167,8 +169,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Nol was oorspronkelijk een ven van om en bij de 100 ha, maar is nu
 sterk verdroogd ten gevolge van waterwinning door de PIDPA. De gebouwen

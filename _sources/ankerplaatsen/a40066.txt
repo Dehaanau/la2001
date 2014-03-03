@@ -1,13 +1,13 @@
 Dries van Sinaai
 ================
 
-Anker ID: A40066
-----------------
+:Ankerplaats ID: A40066
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Sinaai is het prototype van een centrumdorp dat zich centrifugaal
 vanuit het dorpsplein met kerk en schepenhuis heeft ontwikkeld. De
@@ -57,20 +57,21 @@ neo-classicistisch gebouw, staat aan de Dries.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Sinaai is het prototype van een centrumdorp dat zich centrifugaal
 vanuit het dorpsplein met kerk en schepenhuis heeft ontwikkeld. De
 dorpskom wordt bepaald door een rechthoekige struktuur van het kerkhof
 en de dries, welke reeds in 1219 is aangelegd.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Door de gebondenheid van de dries en het kerkhof vormen deze zowel
@@ -87,8 +88,8 @@ verschillende 18e en 19e eeuwse gebouwen; voornamelijk neo- gotische
 burgerhuizen en neoklassieke lijstgevels. Een hoeve 'Balhoeve' dateert
 uit 1665.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Dries heeft een 18de eeuwse arduinen pomp,
 kerk en een systematische aanleg van 19de eeuwse gebouwen in
@@ -101,7 +102,7 @@ vrijheidsboom.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De dries was vroeger 'braakliggend'
@@ -110,8 +111,8 @@ schapen. Ook voor dorpsbijeenkomsten en manifestaties werd de dries
 gebruikt. Vroeger stond er een kiosk en staande wip op het plein.Op
 zaterdag gaat er nog steeds een boerenmarkt door.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rond het trapeziumvormige plein, bijna rechthoekig, staan 18e en 19e
 eeuwse burgerhuizen. De westelijke kant van het plein wordt door de kerk
@@ -121,13 +122,14 @@ plein. Aan de staatkant staan plantanen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -135,7 +137,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -174,7 +176,7 @@ gemeentehuis
 
 waterpomp, monument voor gesneuvelden uit beide WO
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -184,7 +186,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

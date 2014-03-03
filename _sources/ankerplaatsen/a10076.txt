@@ -1,13 +1,13 @@
 Dal van de Kleine Nete tussen Nijlen en Grobbendonk
 ===================================================
 
-Anker ID: A10076
-----------------
+:Ankerplaats ID: A10076
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap 'Dal van de kleine Nete' tussen Nijlen en Grobbendonk is
 gelegen op grondgebied van de gemeenten Nijlen, Grobbendonk en Viersel
@@ -59,12 +59,13 @@ verder kunnen aantasten.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door de nog steeds aanwezige typische kenmerken van een
@@ -74,8 +75,8 @@ rust maken dat dit gebied nog belangrijke natuurwaarden bezit. Bovendien
 heeft de Kleine Netevallei als geheel en dus ook het deelgebied van de
 ankerplaats een aanzienlijk avifaunistisch belang.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Dit gebied in het dal van de kleine Nete betreft een relatief gaaf
@@ -88,8 +89,8 @@ wat betreft structuur en topografie bovendien de laatste 100 jaar
 stabiel gebleven (cfr. MGI, 1909). Enkele afgesneden meanders zijn de
 laatste getuigen van de oorspronkelijke loop van de Kleine Nete.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De gaafheid, kleinschaligheid en structurele
 diversiteit van dit landschap geven het een aanzienlijke esthetische
@@ -98,8 +99,8 @@ lintvormige landschapselementen, waardoor mooie, onbelemmerde zichten
 ontstaan.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Meest dominerende structuur in dit landschap is de centraal lopende
 Kleine Nete, opvallend geflankeerd door de parallel lopende Kleine Pulse
@@ -111,13 +112,14 @@ cluster wordt gevormd van waardevolle landschappen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -141,7 +143,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * rietland
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -151,7 +153,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -181,8 +183,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunt in dit gebied is de aanwezigheid van een waterzuiveringsstation
 in de zuidelijke rand en enkele atypische woningen. Daarnaast dient te

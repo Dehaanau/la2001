@@ -1,15 +1,15 @@
 Bourgoyen-Ossemeersen
 =====================
 
-Anker ID: A40037
-----------------
+:Ankerplaats ID: A40037
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De vlakte van de Leie is ten westen van Gent opvallend breed en strekt
 zich uit van Mariakerke in het noorden tot Sint-Denijs-Westrem in het
@@ -115,12 +115,13 @@ vliegveld werden talrijke archeologische sporen weggegraven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de Bourgoyen- Ossemeersen kunnen we de volgende gebieden
 onderscheiden. Vooreerst is er de grote, opgevulde geul van een
@@ -140,8 +141,8 @@ hoogteverschil te gering is. Enkel het perceelspatroon heeft een
 aanwijzing voor het strookvormige verloop van een kronkelwaard. De Leie
 zelf heeft iets hoger gelegen oeverwallen opgebouwd.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Oudste vondsten in het gebied zijn op de Valkenhuisdonk gevonden en
@@ -153,8 +154,8 @@ sloten getuigt van de pogingen om de meersen te ontwateren. De meersen
 zijn inmiddels sterk gedraineerd. De 4 m hoge, oude spoorwegberm uit
 1922 is een onderdeel van het gebied.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het landschap is hoofdzakelijk open waar er
 uitgestrekte meersen zijn. De oevers van de Leie door het gebied zijn
@@ -164,8 +165,8 @@ donk ligt het Valkenhuis met een bos.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kern van dit gebied is een open meersenlandschap dat door sloten
 doorsneden is. Op de eerder perifeer gelegen gebieden komt
@@ -177,13 +178,14 @@ door de spoorwegdijk gevormd.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -220,7 +222,7 @@ donk
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -239,7 +241,7 @@ Valkenhuis
 
 Hoosmolen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -258,7 +260,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -314,8 +316,9 @@ populier
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied is volledig ingesloten door bewoning, recreatiegebieden, de
 ringvaart, de N466 en een pompstation. Deze zijn opvallend in de vista's

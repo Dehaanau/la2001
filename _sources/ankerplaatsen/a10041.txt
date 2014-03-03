@@ -1,13 +1,13 @@
 Vallei van de Kleine Wilborrebeek met de kasteeldomeinen Hovorst en Boutersem
 =============================================================================
 
-Anker ID: A10041
-----------------
+:Ankerplaats ID: A10041
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Vallei van de Kleine Wilborrebeek met de
 kasteeldomeinen Hovorst en Boutersem' is gelegen op grondgebied van de
@@ -79,12 +79,13 @@ manifesteren, niet verder in de ankerplaats doordringen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door de geomorfologische opbouw van de valleien en hogere
@@ -95,8 +96,8 @@ bodemtypen en beheer, alsook het historische stabiele bos. We vermelden
 ook de botanische waarde van zowel de graslanden en de bossen als de
 moerassen en de oevers van de beken.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Binnenbos en omgeving betreft een voorbeeld van een oude
@@ -121,8 +122,8 @@ uit de 19de eeuw. De 'Schoutvorsthoeve' werd reeds vermeld in 1566, doch
 volledig herbouwd in 1715. De 'Boskapel', gelegen aan de Wilborrebeek,
 betreft een kleine bakstenen kapel uit de 19de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit kleinschalige landschap in de valleien van de
 Kleine Wilborrebeek, de Kleine Beek, de Pulse Beek en de Dorpsloop,
@@ -136,7 +137,7 @@ hoge belevingswaarde van dit landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De 'Schoutvorsthoeve' was eertijds
@@ -144,8 +145,8 @@ vermoedelijk de zetel van de Hoofdrechtbank van Zandhoven, mogelijk
 tevens woonplaats van de vorster. In de besloten tijd werden er in 1798
 geheime godsdienstoefeningen gehouden.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In dit typisch, kleinschalig Kempisch gebied wordt de hoofdgraat
 gevormd door een aantal waterlopen met hun valleien. Afwisselend komen
@@ -157,13 +158,14 @@ dit geheel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -186,7 +188,7 @@ Kleine Wilborrebeek, Kleine Beek, Pulse Beek, Bosloop, Molenbeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -235,7 +237,7 @@ molenhuis, neoclassicistisch burgerhuis
 
 pomp met waterbak
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -251,7 +253,7 @@ oude paden; b.v. oude binnenpad naar Pulderbos
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -295,8 +297,9 @@ stabiel bos
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Om de waarden van dit landschap te behouden, is het ten zeerste gewenst
 dat de antropogene invloeden, die zich langsheen de randen van het

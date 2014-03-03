@@ -1,15 +1,15 @@
 Omgeving van het Iers Kruis op de Keiberg te Lafelt
 ===================================================
 
-Anker ID: A70059
-----------------
+:Ankerplaats ID: A70059
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De omgeving van Lafelt te Riemst wordt ingenomen door een zacht
 golvend en overwegend agrarisch, open-field landschap. Daarin vormt de
@@ -67,17 +67,18 @@ voor de baksteennijverheid in de streek.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Enerzijds behoort de omgeving van de Keiberg tot de oudste sites van
@@ -87,15 +88,15 @@ Europees belang was. De omgeving van Lafelt is sindsdien weinig
 verstoord. De gelijkenis tussen de zichten vanop de Sieberg en
 historische schilderijen is treffend.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het Iers Kruis vormt een panoramische uitkijkpost
 op de ruime omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Iers Kruis werd in 1964 bekostigd en
@@ -106,21 +107,22 @@ aandacht rond de Slag van Lafelt. De site biedt educatieve en
 recreatieve mogelijkheden. Vlakbij is het Heemkundig Museum (Vlijtingen)
 gelegen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Iers Kruis op de Keiberg heeft een bakenfunctie in het open-field
 landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -133,7 +135,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 zacht golvend reliëf
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -160,7 +162,7 @@ o.a. Iers Kruis
  **Archeologische elementen:**
 artefacten uit Steen-, Ijzer- en Gallo-Romeinse tijd
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -170,7 +172,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Tongeren-Maastricht
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -201,8 +203,9 @@ hoger gelegen, traditioneel open akkerbouwgebied
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In Vlijtingen werd in 1957-63 de eerste globale, gemeentelijke
 ruilverkaveling verwezenlijkt, waardoor verschillende

@@ -1,13 +1,13 @@
 Ettingebos
 ==========
 
-Anker ID: A40035
-----------------
+:Ankerplaats ID: A40035
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Dit gebied situeert zich tussen Oosterzele en Balegem. Op het
 kasteelpark van Keiberg sluit het Ettingebos aan dat in de vallei van de
@@ -103,19 +103,20 @@ zuiden van Issegem staat reeds op de kaart van 'Het land van Aalst' uit
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied is gelegen in de zandleemstreek, het heeft een zacht
 golvende topografie met verschillende beekvalleien. Een kleine beek
 loopt door het bos.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand op Ferraris (ca. 1775): een bos met in het oostelijk
@@ -129,8 +130,8 @@ Ferrariskaarten. Het bosje op de kouter ten zuiden van Issegem is reeds
 op de kaart van 1644 te zien en ook alle recentere kaarten staat het
 getekend.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het boscomplex heeft in het oostelijke deel een
 parkgebied met kasteel en vijver. De omliggende percelen zijn groot en
@@ -139,14 +140,14 @@ kouters komen molens voor.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het gehucht Issegem ligt de
 graanjeneverstokerij 'Van Damme' met bijhorende hoeve.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tussen de open koutercomplexen, dikwijls met een molen op de top,
 liggen depressies die veelal bebost zijn. Waar het Tertiair op de kouter
@@ -157,13 +158,14 @@ waterkasteel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -189,7 +191,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -235,7 +237,7 @@ kerk en pastorie van Oosterzele, Duivelskapel
  **Andere:**
 graanjeneverstokerij Van Damme
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -245,7 +247,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -286,8 +288,9 @@ bij kasteel Keiberg
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wegen die de omliggende gehuchten verbinden zijn door lintbebouwing
 omgeven.

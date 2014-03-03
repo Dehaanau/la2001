@@ -1,13 +1,13 @@
 Gravenkasteel Humbeek
 =====================
 
-Anker ID: A20005
-----------------
+:Ankerplaats ID: A20005
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats met het Gravenkasteel ligt ten zuiden van
 Kapelle-op-den-Bos, op de westelijke over van het kanaal
@@ -48,19 +48,20 @@ Ten westen ligt het voormalige kasteel Eiken.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het beboste gedeelte van het domein herbergt waardevolle vegetaties;
 in de omgeving van het kasteel komen diverse oude en zeldzame bomen
 voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Gravenkasteel ziet er nog praktisch hetzelfde uit als op 17de-
@@ -70,8 +71,8 @@ heraanleg heeft gekend en waarin de oude regematige geometrie nog
 zichtbaar is. Het interieur is van bijzonder belang omwille van het oude
 goudlederbehang.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit waterkasteel van bak- en zandsteen verrijst
 te midden van een heel aantrekkelijk domein met oude dreven, weiden en
@@ -79,13 +80,14 @@ boompartijen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -102,7 +104,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -150,7 +152,7 @@ conciërgewoning
 
 Lourdesgrot en calvarie
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -165,7 +167,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -190,8 +192,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Lintbebouwing langs dwarsweg ter hoogte van het Gravenkasteel evenals in
 de omgeving van het kasteel Eiken.

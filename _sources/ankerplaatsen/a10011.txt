@@ -1,13 +1,13 @@
 Groot Schietveld
 ================
 
-Anker ID: A10011
-----------------
+:Ankerplaats ID: A10011
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het 'Groot Schietveld' is gelegen op grondgebied van de gemeenten
 Brecht, Brasschaat en Wuustwezel in de Antwerpse Noorderkempen. De
@@ -40,12 +40,13 @@ van Europa's meest waardevolle gebieden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De afwisseling in topografie en pedologie resulteert in een
 verscheidenheid aan vegetatietypes, gaande van vennen en heide tot
@@ -56,8 +57,8 @@ Schietveld en omgeving behoort, als grootschalig heidegebeid, voor wat
 betreft de natuurwaarden waarschijnlijk tot één van Europa's meest
 waardevolle gebieden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschapstype van het Groot Schietveld is het resultaat van een
@@ -69,8 +70,8 @@ gedeelte, nauwelijks afwijkt van wat terug te vinden is bij Ferraris
 (1777). De beboste delen langs de westgrens zijn pas op het
 kaartmateriaal van de 2de helft van de 19de eeuw herkenbaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde van dit gebied wordt in de
 eerste plaats bepaald door de afwisseling in opbouw en structuur, alsook
@@ -80,14 +81,14 @@ anderzijds vormt een visueel opvallend en aantrekkelijk geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Dit gebied heeft in het verleden lang ten
 dienste gestaan van de mens als landbouw- en tufwingebied.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Binnen de dicht beboste omgeving van Brasschaat, Wuustwezel en
 Kapellen, vormen de 2 grote open eenheden van Groot en Klein Schietveld
@@ -95,13 +96,14 @@ opvallende ruimtelijk structurerende elementen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -128,7 +130,7 @@ Kleine werijsbeek
  * ven
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -160,8 +162,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ankerplaats wordt in het noorden doorsneden door de weg
 Wuustwezel-Brecht. Het grootste deel van de ankerplaats is militair

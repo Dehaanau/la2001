@@ -1,13 +1,13 @@
 Duinen Raversijde
 =================
 
-Anker ID: A30014
-----------------
+:Ankerplaats ID: A30014
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats strekt zich uit over het strand, de duinen tussen
 Middelkerke (gem. Middelkerke) en Raversijde (gem.Oostende) met
@@ -34,18 +34,19 @@ is een parkgebied met vijvers.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Zeereepduinen met doornstruweel en kalkminnende vegetatie. In het
 parkdomein van prins Karel heeft men nog een gave duin-polderovergang.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Verdwenen vissersdorp Walraversijde waarvan soms op het strand resten
@@ -54,13 +55,13 @@ in functie van de aanleg van het provinciaal domein.. Het domein Prins
 Karel herinnert aan het verblijf van prins Karel. Resten van de
 Atlantikwal die nu als open lucht museum worden uitgebaat.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Totaalsequentie van zee - duin - polders.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De graaf Jansdijk, én de dijk tussen duinen en strand werden/worden
 gestructureerd door de oriëntatie van de duinen en structureren ook
@@ -72,12 +73,13 @@ op in compartimenten.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -85,7 +87,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 met bijhorend strand
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -113,7 +115,7 @@ resten van Atlantikwal nu als open lucht museum uitgebaat
  **Archeologische elementen:**
 historisch vissersdorp Walraversijde met enkele opgravingen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -123,7 +125,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Graaf Jansdijk vormt grens tussen duinen en achterliggende polder
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kunstmatige waters:**
@@ -132,8 +134,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurlijke structuur van strand en duinen wordt verstoord door de
 dijk en golfbrekers die de ruimte compartimenteren. De natuurlijke

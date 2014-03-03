@@ -1,13 +1,13 @@
 Zoerselbos en Hooidonkse Beemden
 ================================
 
-Anker ID: A10040
-----------------
+:Ankerplaats ID: A10040
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Hooidonkse Beemden en Zoerselbos' is gelegen in de
 gemeente Zoersel in de Antwerpse Kempen. De begrenzing wordt gevormd
@@ -73,12 +73,13 @@ beeld van een typisch oud-Kempisch landschap compleet.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurwetenschappelijke waarde van dit divers landschap wordt
 bepaald door de uitgestrektheid van het gebied, de aanwezigheid van een
@@ -90,8 +91,8 @@ ecosysteem. Het gebied heeft bovendien een boeiende geomorfologische
 geschiedenis met oude landduinen, humuspodsolen en alluvium als
 overblijvende elementen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Zoerselbos en de Hooidonkse beemden betreft een mooi bewaard
@@ -104,8 +105,8 @@ gegevens voor de land- en bosbouwgeschiedenis van de Antwerpse Kempen.
 Met het kasteel 'Zoerselhof', verschillende oude hoeves en een aantal
 kapellen, omvat deze ankerplaats tevens heel wat bouwkundig erfgoed.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De uitgestrektheid van het gebied, afwisseling
 van open en gesloten vegetaties en de talrijke aanwezigheid van
@@ -116,7 +117,7 @@ typisch oud-Kempisch landschap compleet.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Zoerselbos gaat terug op het bos Hooidonck
@@ -128,8 +129,8 @@ voor 'De Loteling' van Hendrik Conscience. De opvatting dat de Loteling
 er zelf gewoond zou hebben is fantasie, maar Conscience kwam wel
 degelijk verschillende keren op bezoek in het Boshuisje.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hooidonkse Beemden en Zoerselbos kan worden gekarakteriseerd als een
 uitgestrekt compartimentenlandschap, gevormd door de vegetatie die
@@ -139,13 +140,14 @@ filterwerking.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -169,7 +171,7 @@ Hulstenbeekje
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -210,7 +212,7 @@ voormalige provisorwoning
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -232,7 +234,7 @@ typisch voorbeeld van Kempische zandwegen, Bosstraatje, Boshuisweg
 
 'Halse Sluis', 'Zoerselse Sluis'
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -283,8 +285,9 @@ deels historisch stabiel bos, heiderelicten
 
 voormalige vloeibeemden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn de zandwinningput (E3-plas) en de verspreide atypische
 woningen. De bebouwing ter hoogte van Schriekbos vormt een onherstelbare

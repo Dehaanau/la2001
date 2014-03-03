@@ -1,13 +1,13 @@
 Vrijbroek
 =========
 
-Anker ID: A10064
-----------------
+:Ankerplaats ID: A10064
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het 'Vrijbroekpark' is gelegen tussen Dijle en Zenne, op grondgebied
 van de gemeente Mechelen in het Kerngebied Brabant. De begrenzing van
@@ -59,20 +59,21 @@ betekenen; dit moet dan ook ten stelligste vermeden worden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt bepaald door
 het relict kleinschalig landbouwgebied tussen het park en de
 autosnelweg, dat dienst doet als refugium voor plant- en diersoorten die
 niet meer terecht kunnen in het stedelijk weefsel..
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De geschiedenis van het 'Vrijbroek' klimt op tot 1260, toen een
@@ -84,8 +85,8 @@ terugvinden op de historische kaarten (cf. MGI, 1864 en 1903). Het
 andere gedeelte is een park, waarvan de aanleg teruggaat tot de eerste
 helft van de 20ste eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats omvat een klein, maar mooi
 restant van het vroeger uitgestrekte valleigebied van de
@@ -95,8 +96,8 @@ verstedelijking.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Als groot stadspark, vormt het Vrijbroekpark een aangename groene
 vlek aan de rand van het stedelijk gebied. Het relict kleinschalig
@@ -105,13 +106,14 @@ van het stedelijk weefsel teruggedrongen in een eilandpositie.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -125,7 +127,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -143,7 +145,7 @@ Vrijbroekpark + rozentuin
 
 bronzen buste van Albert Nobels
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -152,7 +154,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -177,8 +179,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Tengevolge van de expansie van de stad Mechelen en de verdichting van de
 wegeninfrastructuur is het Vrijbroekpark en aangrenzend relict

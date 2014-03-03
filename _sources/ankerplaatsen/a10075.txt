@@ -1,13 +1,13 @@
 Buitengoor en Sluismeer
 =======================
 
-Anker ID: A10075
-----------------
+:Ankerplaats ID: A10075
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats Buitengoor-Sluismeer is gelegen ten oosten van het
 centrum van de gemeente Mol, op de noordwestelijke flank van het
@@ -77,12 +77,13 @@ voor een hoge belevingswaarde van het gehele gebied.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Buitengoor-Sluismeer betreft een gebied met een complexe structuur.
 De vegetatie is typisch voor een gradiëntmilieu, ontstaan door een
@@ -98,8 +99,8 @@ en flora biedt goede mogelijkheden voor verschillende diersoorten. Zo
 zijn o.a. de vogels, dagvlinders en libellen hier sterk
 vertegenwoordigd.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschap Buitengoor-Sluismeer dankt zijn ontstaan aan de invloed
@@ -117,8 +118,8 @@ dat in deze omgeving voorkwam ingrijpend veranderd; de ankerplaats
 Buitengoor-Sluismeer bleef echter voor het grootste deel van deze
 ingrepen bespaard.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Ter hoogte van het Buitengoor en Meergoor biedt
 het deels beboste, deels open landschap met geleidelijke overgang van
@@ -128,8 +129,8 @@ kleinschalige bocagelandschap van de Broekbeemden met talrijke
 houtkanten esthetisch zeer aantrekkelijk.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ten zuiden van het gehucht Sluis hebben we te maken met een
 afwisseling van open en gesloten structuren, wat resulteert in een
@@ -139,13 +140,14 @@ daar door bomenrijen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -170,7 +172,7 @@ Vlemincksloop, Beemdenloop, peerloop, Waterstraatloop
 slenken-bultenmoeras
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -181,7 +183,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kanaal Dessel-Kwaadmechelen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -218,8 +220,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten binnen de ankerplaats zijn de aanwezigheid van een
 tuinbouwbedrijf en een aantal atypische bewoning langsheen het kanaal

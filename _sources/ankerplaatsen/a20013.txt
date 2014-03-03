@@ -1,14 +1,14 @@
 Samenvloeiingsgebied van Dijle en Demer
 =======================================
 
-Anker ID: A20013
-----------------
+:Ankerplaats ID: A20013
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Dit gebied strekt zich in het noorden uit van Haacht tot Betekom bij
 Aarschot en in het zuiden tot Wijgmaal bij Leuven. De Dijlebeemden
@@ -129,12 +129,13 @@ Wereldoorlog.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de Dijlebeemden liggen, naast talrijke sporen van afgesneden vrije
 meanders, een aantal fossiele meanders van de Dijle die dateren uit het
@@ -147,8 +148,8 @@ meander (Vorsdonk), met een grote rijkdom aan (vooral watergebonden)
 biotopen. DE biologische diversiteit bereikt haar hoogtepunt in het
 gebioed Vorsdonk-Turfputten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschap is een leesboek in prehistorie en geschiedenis: de
@@ -161,8 +162,8 @@ van het oorspronkelijke oude rivierenlandschap met o.a. dijken,
 verlandde verlaten meanders, waterrijke hooi- en graasweiden,
 broekbosjes, naaldhoutaanplantingen, houtkanten.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde houdt verband met de
 gevarieerde begroeiing, de sterk versneden bosranden, de talrijke
@@ -171,13 +172,14 @@ graslanden en laagveenvegetaties en een aantal monumentale gebouwen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -206,7 +208,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -248,7 +250,7 @@ anti-tankgracht
  **Archeologische elementen:**
 Funderingen kasteel van Roost
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -266,7 +268,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Oude Hansbrug
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -306,8 +308,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing vooral tussen Haacht en Werchter, tussen Wakkerzeel
 en Rotselaar en tussen Betekom en Gelrode.

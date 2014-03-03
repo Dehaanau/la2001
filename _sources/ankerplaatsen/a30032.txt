@@ -1,13 +1,13 @@
 Munkebossen
 ===========
 
-Anker ID: A30032
-----------------
+:Ankerplaats ID: A30032
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten zuiden van Ruddervoorde (gem. Oostkamp) en
 ten noorden van Zwevezele (gem. Wingene). In het noorden grenst ze aan
@@ -80,18 +80,19 @@ dit stukje bos te behouden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ankerplaats ligt op een klein interfluvium met een zandige
 ondergrond. Het is een oud veldgebied met relictvegetatie.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De huidige dambordvormige percelering stemt overeen met die op de
@@ -99,8 +100,8 @@ Ferrariskaart; ze is duidelijk herkenbaar en geaccentueerd door dreven.
 Het is een oud veldgebied dat nu grotendeels bebost is. Vlakbij kasteel
 Munken ligt een hoeve die een gewezen site met walgracht was.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Beide kastelen zijn in goeie staat en vormen
 belangrijke elementen in deze bossen. Het zicht langs de
@@ -109,8 +110,8 @@ geometrisch ontginningspatroon wordt visueel benadrukt door de dreven
 die het omringende landbouwland visueel ruimtelijk begrenzen.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De oude weg Brugge-Kortrijk doorsnijdt het geometrisch drevenpatroon
 en zijn bochtig verloop wordt door de dreef benadrukt. Het geometrisch
@@ -118,13 +119,14 @@ drevenpatroon heeft een visueel-ruimtelijke begrenzende invloed.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -137,7 +139,7 @@ interfluvium tussen bekken Proversbeek en Velddambeek
 
 Leugaartsbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -177,7 +179,7 @@ bij kast. Rapenburg
 
 vlakbij kast. Rapenburg
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -187,7 +189,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 in bossen nog resten van grachten en singels
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -218,8 +220,9 @@ geaccentueerd door dreven; langwerpige geometrische vorm
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De oprukkende lintbebouwing vanuit aangrenzende bewoningskernen dreigt
 dit gebied aan te tasten. Daarnaast dient ook (verspreide of

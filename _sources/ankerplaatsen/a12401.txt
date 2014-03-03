@@ -1,13 +1,13 @@
 Domein Hof te Melis met omgeving
 ================================
 
-Anker ID: A12401
-----------------
+:Ankerplaats ID: A12401
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Hof te Melis' is gelegen op grondgebied van de
 gemeenten Sint-Amands en Londerzeel, op de overgang tussen de Zandstreek
@@ -81,12 +81,13 @@ Melis' een hoge belevingswaarde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Lippelobos ligt in de overgangszone tussen de Zandstreek en de
 Kleistreek en behoort daarmee tot de gemengde of samengestelde streek.
@@ -97,8 +98,8 @@ bostypen en overgangssituaties met elk een typische flora en fauna. Het
 oude bomenbestand vertegenwoordigt daarnaast ook een belangrijke
 dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Dit landschap net ten zuiden van Lippelo, met het oude Lippelobos,
@@ -119,8 +120,8 @@ bleef enkel de site met omwalling bewaard; alle originele gebouwen
 werden afgebroken en vervangen. De 'Kapel O.-L.-Vrouw Van Meesen' zou
 teruggaan tot 1901.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats omvat een gevarieerd landschap
 dat zich uit onder vorm van verschillende bostypen die door hun
@@ -130,8 +131,8 @@ te Melis, enkele mooie, monumentale dreven, alsook oude solitaire bomen
 dragen bij tot de aanzienlijke esthetische waarde van dit landschap.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteel 'Hof te Melis' is in werkelijkheid in het boslandschap
 ingeplant. Het Lippelobos kan ruimtelijk in twee duidelijk van elkaar
@@ -144,13 +145,14 @@ staat in contrast tot de open weilanden langs de westzijde.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -167,7 +169,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Molenbeek, Paasheideloop, Waterloop van de Molenheide
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -201,7 +203,7 @@ Site Wolfputhoeve
 
 Kapel 'O. - L. -Vrouw Van Meesen'
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -211,7 +213,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 ringgracht
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -252,7 +254,8 @@ historisch stabiel bos
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen opmerkingen of knelpunten.

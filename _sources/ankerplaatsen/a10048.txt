@@ -1,13 +1,13 @@
 Vallei van de Kleine Kaliebeek
 ==============================
 
-Anker ID: A10048
-----------------
+:Ankerplaats ID: A10048
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Vallei van de Kleine Kaliebeek' is gelegen op
 grondgebied van de gemeenten Turnhout en Kasterlee in de Centrale
@@ -65,12 +65,13 @@ waarvan ook de invulling aansluit bij de hoofdstructuur.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei van de Kaliebeek vormt een lokale depressie en fungeert
 daardoor lokaal als putgebied voor grondwaterstromingen vanuit
@@ -81,8 +82,8 @@ van dit landschap en resulteren in een rijke plantengroei. Deze
 diversiteit van het landschap weerspiegelt zich ook in een gevarieerde
 avifauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De valleien van de Kleine Kaliebeek en de Roeikensloop vormen, samen
@@ -94,8 +95,8 @@ landschapselementen, alsook het onverharde wegenpatroon hebben eveneens
 reeds een lange geschiedenis achter zich. Plaggenbodems verwijzen naar
 het vroegere landbouwgebruik van de hoger gelegen gronden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde van dit halfopen landschap
 in de vallei van de Kaliebeek wordt bepaald door de kleinschaligheid en
@@ -106,15 +107,15 @@ aantrekkelijk landschappelijk geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De vallei van de Kleine Kaliebeek en de
 Roeikensloop was eertijds een belangrijk turfwin- en
 ijzerertsontginningsgebied.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschapsbeeld van deze ankerplaats wordt bepaald door de
 kleinschaligheid en diversiteit en vormt een scherp contrast met het
@@ -127,13 +128,14 @@ hoofdstructuur.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -156,7 +158,7 @@ Grote Kaliebeek, Kleine Kaliebeek, Roeikensloop, Echelsgracht
  * rietland
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -167,7 +169,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 aarden wegen en paden
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -211,8 +213,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een knelpunt dat zeker moet worden vermeld is de intensieve recreatie.
 Vooral de aanwezigheid van weekendverblijven en de omvorming van

@@ -1,13 +1,13 @@
 Zwinlandschap
 =============
 
-Anker ID: A30004
-----------------
+:Ankerplaats ID: A30004
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt in de gemeente Knokke en omvat het
 natuurreservaat Het Zwin en de Zwinbosjes met het aangrenzende strand,
@@ -122,12 +122,13 @@ groenscherm, maar dit vormt toch een storend element in het landschap.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Vroeger uitgestrekt schorregebied, oude Zwinmond. Nog actief
 slikke-schorre-gebied in natuurreservaat van het Zwin met waardevolle
@@ -144,8 +145,8 @@ van strand naar kustduinenmassief over binnenduinrand naar polder.
 Behoort tot de estuariene milieus van de Zeeuws-Zuidhollandse Delta.
 Verschillende drinkpoelen aanwezig met waardevolle fauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Inpolderings- en bedijkingsgeschiedenis van de omgeving die zich ook
@@ -159,8 +160,8 @@ met bomenrijen en wegen, percelering en oorspronkelijke hoeves (o.a.
 hoeves van de Hazegrastraat). Vrij recent ontstaan en vroegtijdelijke
 ontginning als landbouw- en bosbouwgebied.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Open polderlandschap met kleinschalige
 percelering in de oudere polders; in de recentere polders veel opener en
@@ -175,13 +176,13 @@ open en grootschalig polderlandschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Natuurreservaat van het Zwin
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De dijken zorgen voor een ruimtelijke opdeling van het gebied door
 hun hoogte en door een verschil in landchap naargelang de
@@ -193,12 +194,13 @@ beïnvloed.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -222,7 +224,7 @@ monding van de Zwingeul en kreken, geleden, vlieten
  **Andere:**
 estuariene afzettingen van de Zwingeul
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -241,7 +243,7 @@ grote hoeves (o.a. Prinsenhoeve en langs de Schapersdijk)
 
 fort St.-Pol, Cantelmolinie, Oud fort Isabella
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -251,7 +253,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Graaf Jansdijk in zuiden en Schapersdijk in noorden
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -292,8 +294,9 @@ Koningsbos en Zwinbosjes
 
 brak grondwater op geringe diepte
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het vogelreservaat rond het natuurreservaat is een storend element
 aangezien de gebouwen in dit natuurlijke duinengebied niet thuis horen.

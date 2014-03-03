@@ -1,15 +1,15 @@
 Kasteeldomein van Heks en omgeving
 ==================================
 
-Anker ID: A70008
-----------------
+:Ankerplaats ID: A70008
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Heks was van oudsher een landbouwdorp in Droog-Haspengouw. De
 bebouwing concentreert zich aan de Hekslaan, en in het bij deze weg
@@ -117,12 +117,12 @@ geheel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landgebruik is vanouds typisch Droog-Haspengouws: verspreide
@@ -138,8 +138,8 @@ zijn als landbouwgehuchten vrij intact bewaard gebleven. Bommershoven is
 één van de weinige, nog bestaande dorpscentra aan de voormalige Romeinse
 weg, waarlangs zich de historische bebouwing situeert.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het dorpsgezicht van Heks wordt gedomineerd door
 het imposante kasteeldomein met de omringende bossen en landerijen. De
@@ -152,15 +152,15 @@ aaneenschakeling van met koepelbossen bekroonde heuvels.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Gezien de hoge waarde van het
 kasteeldomein van Heks worden er regelmatig open tuin-dagen gehouden.
 Befaamd is de unieke rozencollectie.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In algemene zin hebben het voorkomen van de vallei van de Herkebeek,
 de ingesneden leemplateaus en de Romeinse weg het landgebruik en de
@@ -170,13 +170,14 @@ overwegende invloed gehad op de landschapsopbouw.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -211,7 +212,7 @@ vochtige valleigronden
 
 tertiaire ondergrond ontsloten op heuveltoppen en in holle wegen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -288,7 +289,7 @@ prehistorische resten, Gallo-Romeinse vondsten, Merovingisch graf
  **Andere:**
 voormalig gemeentehuis en -school, tramhaltes
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -311,7 +312,7 @@ Borgloon-Oreye
 
 drainagesloten in valleibossen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -361,8 +362,9 @@ park, boomgaarden en weiden
 
 o.a. parkbos van het kasteel, Manshovenbos, Magnee
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ruilverkaveling Grootloon is in voorbereiding. De recente bebouwing
 levert geen bijdrage tot de landschapswaarden. Holle wegen hebben te

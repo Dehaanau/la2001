@@ -1,13 +1,13 @@
 Vallei van de Zwarte Beek van Meldert tot Zelem
 ===============================================
 
-Anker ID: A27003
-----------------
+:Ankerplaats ID: A27003
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 De benedenloop van de Zwarte Beek vloeit vanaf Meldert (Lummen) in
 zuidwestelijke richting om voorbij Zelem (Halen) op te gaan in de vallei
@@ -80,12 +80,13 @@ recreatie. Er zijn wandelroutes uitgestippeld.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap strekt zich uit tussen de getuigenheuvels die hier als
 uitlopers van het Hageland aanwezig zijn, en ten zuiden van de vallei
@@ -95,8 +96,8 @@ voor landschappelijke verscheidenheid met waardevolle kernen van hooi-
 en weilanden, ruigten, struwelen, moerassen, broekbossen, een aantal
 kleine landschapselementen, plassen enz.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschap in de vallei wordt in grote lijnen bepaald door
@@ -115,8 +116,8 @@ buurt vormen een sedert eeuwen vergroeid geheel van religieuze en
 wereldlijke elementen, landschappelijk en ruimtelijk met elkaar
 verbonden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het half-open landschap van de vallei biedt een
 hoge belevingswaarde. Het ligt ingesloten tussen heuveltoppen die ten
@@ -128,15 +129,15 @@ zichten mogelijk.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De omgeving biedt de ruimte voor een
 landschapsgerichte, zachte recreatie. Er zijn wandelroutes
 uitgestippeld.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Zwarte Beek, die zich hier tussen steeds hogere
 getuigenheuvels van het Diestiaan kronkelt, was bepalend voor de opbouw
@@ -145,12 +146,13 @@ en organisatie van het landschap.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -184,7 +186,7 @@ o.a. Zwarte Beek, Bakelsbeek
 natte depressies, moeras, beemden, hier broeken genoemd, verruigde
 hooilanden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -245,7 +247,7 @@ Oude Schans
 o.a. klooster Sint-Jansberg, Sint-Willibrorduskerk,
 Sint-Lambertuskerk met kerkhof
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -259,7 +261,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 stelsel van grachten en zijbeken in de broeken van Demer en Zwarte
 Beek
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -315,8 +317,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Hoewel het valleigebied relatief weinig intensief gebruikt wordt,
 veroorzaken het soms smalle beekdal, de bewoningsdruk en de verstoring

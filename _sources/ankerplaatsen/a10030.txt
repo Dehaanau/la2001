@@ -1,13 +1,13 @@
 Domein Groeningenhof en Solhof met omgeving
 ===========================================
 
-Anker ID: A10030
-----------------
+:Ankerplaats ID: A10030
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De kasteeldomeinen Groeningenhof en Solhof zijn respectievelijk
 gelegen op grondgebied van de gemeenten Kontich en Aartselaar ten zuiden
@@ -65,12 +65,13 @@ typische karakter van dit complex te behouden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Pannebossen langs de zuidelijke rand van de ankerplaats
 vertegenwoordigen dankzij een natuurlijke kruid- en struiklaag een
@@ -79,8 +80,8 @@ open omgeving en de beboste domeinen rond de kastelen bieden zij
 bovendien goede mogelijkheden voor verschillende faunagroepen, waarbij
 de vogels en vlinders het opvallendst zijn.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De drie kastelen binnen deze ankerplaats worden reeds vermeld op de
@@ -90,8 +91,8 @@ teruggaand tot de 16de eeuw, is als bouwwerk historisch zeer waardevol.
 Eveneens te vermelden zijn de Kapittelenhoeve, waarvan de site reeds
 wordt vermeld in 1304.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De gaaf bewaarde kasteeldomeinen binnen een
 landelijke omgeving met nog een aantal kleine landschapselementen
@@ -100,8 +101,8 @@ kasseiwegen en de oude hoeven vervolledigen het historische karakter van
 deze ankerplaats.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats vertegenwoordigt een relict van de oorspronkelijk
 veel uitgestrektere landelijke omgeving tussen Kontich en Aartselaar.
@@ -110,13 +111,14 @@ in deze omgeving steeds meer aan belang.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -130,7 +132,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Mandoerse beek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -167,7 +169,7 @@ dienstwoningen bij kasteel
 
 Kapittelhoeven
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -183,7 +185,7 @@ kasseiweg
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -216,8 +218,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 Pannebossen
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten gevolge van de steeds toenemende bebouwing langsheen de randen, ligt
 deze ankerplaats volledig ingesloten. Het gebied verder vrijwaren van

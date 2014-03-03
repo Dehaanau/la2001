@@ -1,13 +1,13 @@
 Visbeekvallei
 =============
 
-Anker ID: A10044
-----------------
+:Ankerplaats ID: A10044
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Visbeek is gelegen op grondgebied van de gemeenten Lille en
 Wechelderzande in de Antwerpse kempen. De ankerplaats omvat de Visbeek
@@ -73,12 +73,13 @@ moet verdere uitbreiding of intensivering van de aanwezige
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Hoewel bijna alle biotopen in de vallei van de Visbeek door de mens
 werden gecreëerd of beïnvloed, vertegenwoordigt het geheel een
@@ -91,8 +92,8 @@ van de Adder in Vlaanderen. De Visbeek zelf heeft nog een gezonde
 beekstructuur in een niet geheel ongeschonden beekvallei. Men treft er
 nog typische vissoorten voor 'zuiver' water aan.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de historische kaart van Ferraris (1777) zien we dat de Visbeek op
@@ -107,8 +108,8 @@ gebied. De heidegedeelten, die eertijds een belangrijke oppervlakte
 innamen (cfr. Ferraris, Vandermaelen), zijn vandaag op enkele relicten
 na volledig verdwenen en omgezet in akker- of weiland.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Visbeek betreft een mooi en authentiek restant
 van een valleigebied met een gesloten karakter. De aaneenschakeling van
@@ -119,15 +120,15 @@ aantrekkelijk karakter.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De vallei van de Visbeek deed vroeger
 dienst als turfwin- en schaddengebied en was zo leverancier van
 brandstof voor de plaatselijke bevolking.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ruimtelijk-structurerende waarde van dit gebied wordt met name
 bepaald door de kleinschaligheid en het gesloten karakter dat wordt
@@ -136,12 +137,13 @@ met talrijke lijnvormige landschapselementen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -161,7 +163,7 @@ Visbeek
  * moeras
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -194,8 +196,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunt is de aanwezigheid van verblijfsrecreatie die ter bescherming
 van de waarden van dit valleilandschap niet verder mag uitbreiden.

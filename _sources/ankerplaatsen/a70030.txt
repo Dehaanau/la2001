@@ -1,15 +1,15 @@
 Vallei van de Cicindria met kasteeldorp Kerkom
 ==============================================
 
-Anker ID: A70030
-----------------
+:Ankerplaats ID: A70030
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Ten zuiden van Sint-Truiden ligt de Cicindria(beek) ingesneden in het
 Haspengouws leemplateau met zijn open-field landschap van vruchtbare
@@ -75,12 +75,12 @@ wegen. Het perceleringspatroon is er historisch stabiel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landgebruik is traditioneel Droog-Haspengouws: kernen en hoeven
@@ -96,8 +96,8 @@ enkele hoeven, o.a. de 16de eeuwse hoeve Engelbos, gelegen in de
 landelijke omgeving tussen Kerkom en Bevingen met een historisch stabiel
 perceleringspatroon.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De dorpskern van Kerkom, het kasteeldomein, het
 landgoed rond het Wit kasteel, de verspreide hoeven van het gehucht
@@ -110,21 +110,22 @@ vanaf de straat het gevarieerd en imposant volumespel van het Wit
 kasteel tegen de beboomde achtergrond van landschap.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Cicindria, ingesneden in het Haspengouw leemplateau,
 was bepalend voor de traditionele landschapsopbouw.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -145,7 +146,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Cicindria of Molenbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -201,7 +202,7 @@ Sint-Martinuskerk, deels afgebrand in 1975
 
 hekwerk aan toegangen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -212,7 +213,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 restanten van oude wegen en padenpatroon in kasteelpark Kerkom
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -262,8 +263,9 @@ grasland onder boomgaarden, traditioneel open akkerbouwlandschap
 
 bossen op de rand van Keelberg en Bosberg
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap ligt ingesloten tussen de Naamsesteenweg en het militair
 domein van Brustem als verstorende elementen. Rond de dorpskern van

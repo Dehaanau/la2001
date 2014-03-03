@@ -1,13 +1,13 @@
 Sint-Bernardusabdij
 ===================
 
-Anker ID: A10033
-----------------
+:Ankerplaats ID: A10033
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Sint-Bernardusabdij is gelegen in de gemeente Bornem, net ten
 zuiden van de Schelde. Grenzend aan de dorpskern wordt deze ankerplaats
@@ -33,12 +33,12 @@ en verenigingsleven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Met haar oorsprong in 1603, heeft de St.-Bernardusabdij een zeer
 belangrijke historische waarde. De huidige gebouwen dateren uit de 2de
@@ -48,8 +48,8 @@ herkenbaar zoals bij Vandermaelen (1854) en de kaarten van het M.G.I
 (1909).
 
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Aan de noordzijde van de abdijtuin heeft men een
 mooi zicht op de broekbossen van het domein van het kasteel van Bornem.
@@ -57,11 +57,11 @@ Dit zicht moet zeker worden bewaard.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -81,7 +81,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * abdij
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -93,8 +93,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
  * dreef
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De abdij van Bornem heeft een belangrijke functie voor het plaatselijke
 sociale- en verenigingsleven.

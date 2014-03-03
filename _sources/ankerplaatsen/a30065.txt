@@ -1,13 +1,13 @@
 Oudemaarspolder
 ===============
 
-Anker ID: A30065
-----------------
+:Ankerplaats ID: A30065
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten westen van de haven van Zeebrugge en ten
 zuiden van ankerplaats “de Fonteintjes”. In het noorden wordt ze
@@ -33,12 +33,13 @@ duinengebied van de Fonteintjes.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ankerplaats vormt een gaaf en herkenbaar relict van het
 Oudlandpoldertype grenzend aan de Evendijk. De Oudemaarspolder en het
@@ -46,16 +47,16 @@ duinengebied van de Fonteintejs vormen een landschappelijke sequentie
 van strand naar polder die dankzij enkele zichten nog vrij ongestoord
 is.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het historisch permanent graslandgebruik van deze Oudlandpolder
 bepaalt de historische waarde en de gave omgeving biedt de kleinschalige
 en gave boerderijtjes een meerwaarde.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De grote oppervlakte grasland heeft een zeer
 natuurlijke aanblik en een grote belevingswaarde door het goed bewaard
@@ -66,13 +67,14 @@ polder ook visueel herkenbaar houdt.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -81,7 +83,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 typisch voor oudlandpolders
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -91,7 +93,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 kleinschalige hoeves
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -103,7 +105,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Graaf Jansader
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kunstmatige waters:**
@@ -124,8 +126,9 @@ veedrinkput
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats ligt vlakbij de haven en industrie van Zeebrugge wat
 visueel storend overkomt in dit open en natuurlijke landschap. Het

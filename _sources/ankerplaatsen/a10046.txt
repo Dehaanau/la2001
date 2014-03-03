@@ -1,12 +1,12 @@
 Kasteel van Vorselaar
 =====================
 
-Anker ID: A10046
-----------------
+:Ankerplaats ID: A10046
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het 'Kasteel van Vorselaar' is gelegen in de vallei van de Bosbeek in
 het 'Land van Herentals-Kasterlee' in de Centrale Kempen. De begrenzing
@@ -86,12 +86,13 @@ en dient daarom een halt worden toegeroepen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats wordt voor een belangrijk gedeelte gekenmerkt door
 goed ontwikkelde bossen. De oorspronkelijke loop van de Bosbeek (die
@@ -105,8 +106,8 @@ noord-zuid oriëntatie, vormt deze ankerplaats een verbindingselement
 voor fauna en flora tussen de open ruimten in het noorden en het zuiden
 van de gemeente Vorselaar.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Volgens literaire bronnen zou reeds in de Romeinse periode op de
@@ -126,8 +127,8 @@ oudste gedeelte van de parochiekerk St.-Pieter, de toren, gaat terug tot
 de 13de-14de eeuw, de rest van de kerk dateert uit de 17de eeuw. De
 pastorie met omringende, deels ommuurde tuin werd opgetrokken in 1785.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Gelegen in een eeuwenoude omgeving van de
 schilderachtige Kasteeldreef, uitgestrekte bossen en enkele boerderijen,
@@ -140,14 +141,14 @@ dan ook een aanzienlijke esthetische waarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Aan het kasteel van Vorselaar zijn de
 namen van talrijke illustere families verbonden.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gedomineerd door bos en dreven, geeft het landschap een sterk
 gesloten indruk, met als zwaartepunt het centraal gelegen kasteel. De
@@ -163,13 +164,14 @@ poort van stedelijk naar landelijk gebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -184,7 +186,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Bosbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -229,7 +231,7 @@ dienstwoningen
 
 Parochiekerk St.- Pieter
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -239,7 +241,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oud wegenpatroon
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -273,8 +275,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een toenemende bebouwingsdruk langs de zuidelijke en westelijke rand van
 het gebied, brengt het landelijke karakter en de esthetische waarde van

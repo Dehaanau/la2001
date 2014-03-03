@@ -1,13 +1,13 @@
 Kasteel van Kolem en De Moeren
 ==============================
 
-Anker ID: A10059
-----------------
+:Ankerplaats ID: A10059
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Kasteel van Kolem en de Moeren zijn gelegen in de gemeente Puurs
 in Klein Brabant. De ankerplaats wordt in het noorden begrensd door de
@@ -40,12 +40,13 @@ akkerland met achterliggend bos voor een mooi zicht.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door de grote structurele diversiteit, de ongereptheid van een
 behoorlijke oppervlakte en de zuivere milieuomstandigheden,
@@ -53,8 +54,8 @@ vertegenwoordigt dit gebied een hoge diversiteit aan fauna en flora. Een
 aantal van de voorkomende biotopen zijn uniek voor de streek en als
 geheel zeldzaam voor Vlaanderen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Hof van Kolem en Het Moer hebben een gezamenlijke geschiedenis
@@ -65,8 +66,8 @@ een gebouwencomplex dat zijn hoogtepunt kende in de 17de eeuw. De
 inrichting van Het Moer dateert uit de 17de eeuw en de
 landschapsstructuur is sindsdien niet meer noemenswaardig veranderd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het oude parkbos van het Hof van Kolem, met
 ringgracht en vijver, vormt een esthetisch waardevol geheel. Het Moer is
@@ -78,15 +79,15 @@ bomenrijen langs Het Moer.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Op het einde van de 16de eeuw en het begin
 van de 17de eeuw, deed het Hof van Kolem dienst als toevluchtsoord in
 tijden van nood.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Moer is 1 van de 3 grote moerassige laagten van Klein Brabant en
 is dankzij de historische stabiliteit van het grondgebruik nog steeds
@@ -95,13 +96,14 @@ Willebroek.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -123,7 +125,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -149,7 +151,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 Kapel van Kolem
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -158,7 +160,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -202,8 +204,9 @@ No
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door het noordelijke deel van de ankerplaats loopt de spoorweglijn
 Antwerpen-Dendermonde.

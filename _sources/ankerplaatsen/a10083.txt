@@ -1,13 +1,13 @@
 Domein Vordenstein
 ==================
 
-Anker ID: A10083
-----------------
+:Ankerplaats ID: A10083
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Domein Vordenstein is gelegen in de gemeente Schoten ten noordoosten
 van de Antwerpse stedelijke agglomeratie. Eertijds behorende tot een
@@ -61,12 +61,13 @@ en vleermuizen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Domein vordenstein omvat een zeer waardevol bomenbestand door de
 aanwezigheid van verschillende zeer oude solitaire exemplaren, alsook
@@ -76,8 +77,8 @@ mogelijkheden voor insecten en vleermuizen. Tevens voorziet het domein
 in broedmogelijkheden voor tal van roofvogels en huist er een nog
 behoorlijk reeënbestand.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De oorsprong van domein Vordenstein gaat terug tot in de 14de eeuw
@@ -91,8 +92,8 @@ hovenierswoning bleef wel bewaard. Eveneens vermeldenswaardig is de
 kapel van Horst uit 1435, die tot aan de Franse Revolutie een bekende
 bedevaartsplaats was.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De weloverdachte aanleg van het park met brede
 dreven in geometrische vorm en de afwisseling van lage delen, zoals
@@ -104,7 +105,7 @@ rhododendronstruiken), de rozentuin, een paviljoentje, een vijver, e.a.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Dankzij de rijke fauna en flora en de
@@ -116,8 +117,8 @@ teruggaat tot 1435, was tot aan de Franse Revolutie een bekende
 bedevaartsplaats, waar elk jaar een drukbezochte processie werd
 gehouden.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het park van het domein Vordenstein werd eertijds volledig aangelegd
 in functie van het kasteel met imposante dreven en een afwisseling van
@@ -131,13 +132,14 @@ indrukwekkende boomgroepen en een vijver.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -151,7 +153,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Kopstraatbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -181,7 +183,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -190,7 +192,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -217,8 +219,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Om de waarden van domein Vordenstein in de toekomst te behouden, is het
 noodzakelijk dat de (overwegend zachte) recreatie en bijhorende

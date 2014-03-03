@@ -1,13 +1,13 @@
 Polders Dudzele
 ===============
 
-Anker ID: A30003
-----------------
+:Ankerplaats ID: A30003
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt volledig in de gemeente Brugge grofweg tussen de
 N374 Oostkerke-Koolkerke, de N376 Dudzele-Brugge en het Schipdonkkanaal.
@@ -49,12 +49,13 @@ Dudzele ligt nog een mottesite (beschermd monument).
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het is een relict van een Oudlandpolder met duidelijke differentiatie
 van geul- en poelgronden met een zeer structuurrijk karakter. De
@@ -62,8 +63,8 @@ poelgronden worden doorsneden met talrijke sloten. Belangrijke en zeer
 waardevolle zoutminnende vegetaties. Bodemgesteldheid bepaalt nog in
 grote mate bodemgebruik.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Onregelmatige percelering met gemiddelde grootte volgens de
@@ -73,16 +74,16 @@ uit de vroege middeleeuwen en gaf waarschijnlijk ontstaan aan het dorp.
 Resten aanwezig van middeleeuwse omwalde hoeves ei later verlaten
 werden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Open landschap met verspreide bebouwing en
 omliggende bomen als enige visuele blikvanger. Weinig of geen
 perceelsrandbegroeiing.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De fysische ondergrond structureert het landgebruik. De meerderheid
 van de landbouwpercelen ligt onder grasland dat ruimtelijk verdeeld
@@ -91,12 +92,13 @@ wordt door een dicht slotenpatroon en door wegen.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -114,7 +116,7 @@ typisch voor Oudlandpolders
 
 geleden, beken, kreekrestant
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -132,10 +134,10 @@ vooral op hogere kreekruggronden
 
 ter hoogte van Dudzele dorp
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -158,8 +160,9 @@ veedrinkput
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente uitbreidingen bij landbouwbedrijven zijn vaak storend voor
 het esthetisch en visueel aspect vn het landschap. De lintbebouwing

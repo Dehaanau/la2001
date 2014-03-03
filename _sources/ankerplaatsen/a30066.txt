@@ -1,15 +1,15 @@
 Zwaanhoek
 =========
 
-Anker ID: A30066
-----------------
+:Ankerplaats ID: A30066
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten oosten van de weg tussen Zandvoorde (gem.
 Oostende) en Oudenburg (gem. Oudenburg), ten westen van het kanaal
@@ -42,20 +42,21 @@ komen nog enkele lagere bunkers voor.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De oude polderafzettingen vormen het fysisch kader voor het
 landgebruik en de openheidsgraad van het landschap. Het gebied herbergt
 een rijke flora en (avi)fauna in het aaneengesloten graslandcomplex
 dankzij de natte omstandigheden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze polder heeft een grote historische waarde door het historisch
 permanent graslandgebruik, door zijn goed bewaard microreliëf en door
@@ -63,8 +64,8 @@ het grillige percelerings- en grachtenpatroon. Enkele hoeves vomen
 waardevol bouwkundig erfgoed door hun gaafheid en door hun historische
 relatie met het landschap.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het graslandcomplex heeft grote esthetische
 waarde door zijn grillige en kleinschalige grachten- en
@@ -74,21 +75,22 @@ in landgebruik en openheid tussen het graslandcomplex op de oude
 kleiplaatgronden en de bebouwing op de zandige geulafzetting,
 accentueert visueel de bodemkundige gesteldheid.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats vormt een grote open ruimte tussen bebouwing en
 wegen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -106,7 +108,7 @@ poldergeleed, Zwaanhoekgeleed
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -124,7 +126,7 @@ hoeve nabij Zandvoorde; kleinere hoeves
 
 zgn. antitankgracht
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -134,7 +136,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 grachten en poldergeleed
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kunstmatige waters:**
@@ -160,8 +162,9 @@ veedrinkpoelen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het noorden wordt de ankerplaats doorsneden door de autoweg van
 Brugge naar Oostende die op een talud ligt. Door het open landschap

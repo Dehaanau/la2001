@@ -1,13 +1,13 @@
 Bedevaartsoord van Scherpenheuvel
 =================================
 
-Anker ID: A20054
-----------------
+:Ankerplaats ID: A20054
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Scherpenheuvel is gelegen op een heuvelrug in het noordelijke Hageland
 tussen Aarschot en Diest. Het is een "nieuwe stad", gesticht door de
@@ -42,13 +42,13 @@ waar men een prachtig uitzicht heeft op de omgeving van de basiliek.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het bedevaartsoord illustreert op treffende wijze verschillende
@@ -62,8 +62,8 @@ bedevaartskerk, naar ontwerp van W. Cobergher het middelpunt vormt. Het
 huidige plantsoen rond de basiliek werd ontworpen en aangelegd door de
 bekende firma Gebroeders Michiels uit Scherpenheuvel.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De schoonheid is vooral te danken aan de met
 groen omgeven basiliek, een bescheiden maar kwalitatief hoogstand
@@ -71,7 +71,7 @@ voorbeeld van kerkelmijke barokarchitectuur.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Populair bedevaartsoord.
@@ -79,12 +79,13 @@ Populair bedevaartsoord.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -98,7 +99,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * heuvel
  * steilrand
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -124,7 +125,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -134,7 +135,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -143,7 +144,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gaat hier specifiek om een bebouwde historische stadskern.

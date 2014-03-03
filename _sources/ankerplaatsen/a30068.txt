@@ -1,15 +1,15 @@
 Groot Ter Doest
 ===============
 
-Anker ID: A30068
-----------------
+:Ankerplaats ID: A30068
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten westen van het Boudewijnkanaal tussen Brugge
 en Zeebrugge en ten zuiden van Lissewege (gem. Brugge). De bodem bestaat
@@ -58,12 +58,13 @@ tegen de industrie achter het kanaal. In het westen vormt een
 spoorwegtalud ook een visuele begrenzing van deze ankerplaats.
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De dunne bovenste afzettingen van klei en zavel zorgen dat lokaal ook
 oudere getijdeafzettingen aan de oppervlakte liggen. De natte
@@ -72,8 +73,8 @@ brengen een rijke vochtminnende flora met zich mee met verspreid
 halofiele vegetatie die uitzonderlijk niet gebonden is aan fossiele
 kreken in de ondergrond.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze polder vertoont de sporen van ontginning op initiatief van de
 middeleeuwse Abdij Ter Duinen: microreliëf door veen- en
@@ -86,8 +87,8 @@ is een zeldzaam voorbeeld van een grote dwarsschuur, een zgn. grangia.
 Het historisch permanent graslandgebruik vormt de landschappelijke en
 historische omkadering van de hoeve.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het geheel van aaneengesloten graslanden met
 lokaal nog gave knotbomenrijen, en de hoeve met monumentale schuur
@@ -98,13 +99,13 @@ perceleringspatroon.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het natuurreservaat Monnikenwerve heeft
 door zijn status een socio-culturele waarde.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De hoeve (en speciaal de schuur) vormen de blikvanger in dit vlakke
 landschap. De percelering en de hangt vast aan de inplanting van de
@@ -113,13 +114,14 @@ een zeer grote ruimtelijk-structurerende waarde.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -135,7 +137,7 @@ natuurlijk en/of artificieel
 
 Monnikenwerve
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -155,7 +157,7 @@ Groot Ter Doest en kleinere hoeve; toegangspoort
 **Archeologische elementen:**
 restanten van vroegere abdij Ter Doest
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -166,7 +168,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Lissewegevaartje
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -194,8 +196,9 @@ boomgaard bij Ter Doest
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is gekneld tussen de bebouwing van Lissewege in het
 noorden, de industriezone in het zuiden, het kanaal in het oosten en de

@@ -1,13 +1,13 @@
 Domein de Merode
 ================
 
-Anker ID: A10069
-----------------
+:Ankerplaats ID: A10069
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Domein 'de Merode' situeert zich ten zuiden van het centrum van
 Westerlo, in de vallei van de Grote Nete. Het wordt begrensd door de
@@ -50,20 +50,21 @@ geheel een kleinschalig en esthetisch aantrekkelijk karakter.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De variatie in bodemklassen en reliëf binnen de beperkte oppervlakte
 van dit eerder smalle valleigebied, geven ontstaan aan een rijke flora.
 Het kasteeldomein vertegenwoordigt een aanzienlijke dendrologische
 waarde die met name voor de avifauna potenties biedt.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteeldomein 'de Merode' behoort tot de oudste landgoederen in
@@ -77,8 +78,8 @@ wordt geciteerd als 1 van de meest gave middeleeuwse woontorens van de
 Kempen. De vroegste bronnen over de Kaaibeekhoeve gaan terug tot 1270;
 het huidige woonstalhuis werd echter 'luxueus' herbouwd in 1686.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het kasteel, een waterburcht met middeleeuwse
 donjon, vormt samen met het tweeledige domein een gaaf en esthetisch
@@ -87,8 +88,8 @@ afwisseling van kleinschalig landbouwgebied en broekbossen versterken
 het historisch karakter.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ligging van het kasteelgebouw gaat terug tot een strategische
 site, nl. een zandige opduiking in de moerassen ten noorden van de Grote
@@ -99,13 +100,14 @@ apart karakter.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -122,7 +124,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Grote Nete, Goorbeekloop, Varendonkse Loop
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -155,7 +157,7 @@ Kaaibeekhoeve
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -183,8 +185,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunt is de langzame omzetting van de oorspronkelijk landelijke en
 typische bewoning naar eigentijdse en atypische bewoning.

@@ -1,13 +1,13 @@
 Grote Buizemont, Boelarebos en Arduinbos
 ========================================
 
-Anker ID: A40059
-----------------
+:Ankerplaats ID: A40059
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het gebied van de Grote en Kleine Buizemont, ten zuiden van
 Geraardsbergen, tussen Overboelare en Twee- Akren, is nu nog herkenbaar
@@ -83,12 +83,13 @@ Vlaamse spoorwegtunnels die door een heuvel loopt.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Gelegen langs de rand van de Dendervallei op een hoger gelegen
 heuvelkam, uitloper van de heuvelrug van de Vlaamse Ardennen. Steile
@@ -96,8 +97,8 @@ helling naar de Dendervallei toe. Maakt deel uit van overgangsheuvels
 naar het Pajottenland toe. Deze heuvels liggen parallel met de
 Dendervallei.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Toestand op Ferraris (ca. 1775): drie kleinere bossen (Arduinbos,
@@ -110,8 +111,8 @@ Schapenweg, gaande van Boureng tot Oudenberg (waarna hij splitst en naar
 Onkezele en Atembeke loopt). Deze weg is mogelijks reeds van Keltische
 ouderdom.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Boscomplex gelegen tussen de bebouwing van de
 buitenwijken van Geraardsbergen. Vanuit dit hoger gelegen deel zijn er
@@ -120,27 +121,28 @@ Pajottenland.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De spoorlijn Geraardsbergen-Edingen loopt
 onder de Boelareheuvel, een unicum in Vlaanderen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Buizemont ligt parallel aan de Dender. De steilste helling is
 bebost, de overige hellingen liggen onder akker.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -169,7 +171,7 @@ diffuse waterbronnen
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -180,7 +182,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 **Andere:**
 spoorwegtunnel 'Overboelare'
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -195,7 +197,7 @@ Schapenweg (Hoge Buizemontstraat), vermoedelijk Keltische ouderdom
 
 Spoorwegtunnel door Buizemontheuvel
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -240,8 +242,9 @@ twee wastines (grasland met struiken) en drie kleinere bossen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Omwille van de beek die in het Boelarebos loopt is er sterke erosie op
 de valleiwanden. Het water van deze beek is vervuild door afvalwater van

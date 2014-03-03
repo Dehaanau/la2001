@@ -1,13 +1,13 @@
 Handzamevaart
 =============
 
-Anker ID: A30062
-----------------
+:Ankerplaats ID: A30062
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats strekt zich uit langs de Handzamevaart van Handzame
 (gem. Kortemark) over Werken en Zarren (idem), tot de lijn
@@ -90,12 +90,13 @@ afscheiding vormt met de Ijzervallei.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei van de Handzame vormt een polderintrusie die ver
 landinwaarts binnendringt en die de bodemkundige grens vormt tussen
@@ -107,8 +108,8 @@ de vele grote en kleine waterlopen maken een zeer rijke, diverse en
 vochtminnende flora mogelijk. Tegelijk vormen deze overstroombare
 broeken een belangrijke biotoop voor avifauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De Handzamevaart was een belangrijk historisch transportkanaal door
@@ -120,8 +121,8 @@ bewaard gebleven en maken het landschap herkenbaar. De mottestructuur en
 de kerk van Werken (site van Hoge Andjoen) vormen een belangrijk en goed
 bewaard relict als voorbeeld van de middeleeuwse bewoningsvorm.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het graslandcomplex heeft een hoge esthetische
 waarde door de uitgestrektheid in de vallei, door het grillig
@@ -137,8 +138,8 @@ mottestructuur en kerk, én door de relatie met de vallei, een hoge
 esthetische waarde.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Handzamevallei en de Handzame zelf zijn ruimtelijk-structurerend
 voor de percelering en het landgebruik in de ankerplaats waarbij de loop
@@ -147,13 +148,14 @@ een visueel contrasterende structuur tov de omgeving.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -170,7 +172,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Handzamevaart en -vallei; Zijdelinggeleed; Zarrenbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -197,7 +199,7 @@ kerk, kerkhof en ommegang in Werken
  **Archeologische elementen:**
 mottesite in Werken
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -216,7 +218,7 @@ Steenstraat tussen Werken en Zarren(gem. Kortemark)
 
 Handzamevaart; Oude gracht
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -252,8 +254,9 @@ bosje tussen Vladslo en Esen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het open landelijke karakter dient maximaal behouden te blijven door
 nieuwe, bijkomende bebouwing in de vallei te weren én door de gebouwen

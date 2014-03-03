@@ -1,13 +1,13 @@
 Heidebos
 ========
 
-Anker ID: A40014
-----------------
+:Ankerplaats ID: A40014
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Heidebos bevindt zich op de grote dekzandrug die zich tussen
 Maldegem en Stekene uitstrekt, tussen Moerbeke en Wachtebeke. Het reliëf
@@ -76,19 +76,20 @@ bestaan.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit bossencomplex is op de dekzandrug Maldegem-Stekene gelegen. Dit
 gebied heeft een zandige bodem. Dit is nog een typische heidevegetatie
 op een beperkte oppervlakte.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Dit boscomplex is een rest van een groter boscomplex volgens
@@ -100,8 +101,8 @@ oorlog (1568-1648). De site is nu bebouwd met een onbewoond oud
 boerenhuis en een recente houten chalet die als woning dienst doet en
 voornamelijk met bossen omringd is
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit boscomplex is op een dekzandrug in een open
 landschap gelegen. De doorkijken en open ruimten zijn meestal van matige
@@ -110,13 +111,13 @@ vormen een gecompartimenteerd landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De bossen zijn op de dekzandrug Maldegem- Stekene gelegen, op een
 lichte verhevenheid. Door deze bebossing valt de ligging van deze
@@ -128,13 +129,14 @@ bos.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -159,7 +161,7 @@ Grote Dekzandrug
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -175,7 +177,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 resten van "Fort Francipanie", Spaans fort uit de 80-jarige oorlog
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -194,7 +196,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Parmavaart: vermoedelijk oude turfvaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -228,8 +230,9 @@ Door bebossing is heide sterk gereduceerd
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs de autoweg die het gebied in het noorden begrensd komt wat
 bewoning voor. Het is deze expresweg die het oorspronkelijke bos

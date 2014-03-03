@@ -1,13 +1,13 @@
 Het Leen
 ========
 
-Anker ID: A40070
-----------------
+:Ankerplaats ID: A40070
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het provenciaal domein 'het Leen' bevindt zich op het grondgebied van
 de gemeenten Zomergem, Waarschoot en Eeklo, en het is grotendeels bebost
@@ -83,17 +83,18 @@ zijn zonder noemenswaardigheden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In de Middeleeuwen werd turf gestoken en werd in de Altenahoeve zout
@@ -110,8 +111,8 @@ loodrecht op elkaar staande wegen, aangelegd ten tijde het gebied een
 militaire domein was (vanaf 1937); ook de vele vijvers dateren uit deze
 periode.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De bospercelen zijn gestructureerd door loodrecht
 op elkaar staande betonwegen, hetgeen een parkachtige aanblik biedt. De
@@ -121,15 +122,15 @@ boskarakter. In het domein liggen tientallen vijvers.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Er lopen 36 km wandelpaden doorheen
 provinciedomein Het Leen, er zijn ook andere recreatiemogelijkheden
 (hengelen, speeltuin, Heemmuseum, bosinfocentrum).
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Centraal in de ankerplaats ligt het Provenciaal Domein 'Het Leen'.
 Dit bos wordt door parallele betonnen wegen doorsneden. Er liggen
@@ -141,13 +142,14 @@ Rond hoeve Altena komen nog enkele dreefstructuren voor.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -162,7 +164,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Brakeleike, Eeklo's Leike
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -187,7 +189,7 @@ voormalig militair domein
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -197,7 +199,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -234,7 +236,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dwars over hoeve Altena loopt een hoogspanningsleiding.

@@ -1,13 +1,13 @@
 Rivierenhof
 ===========
 
-Anker ID: A10025
-----------------
+:Ankerplaats ID: A10025
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het 'Rivierenhof' is gelegen op grondgebied van Deurne, deelgemeente
 van Antwerpen. De begrenzing van deze ankerplaats wordt gevormd door de
@@ -56,19 +56,20 @@ belangrijke esthetische en ook structurerende waarde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het park Rivierenhof omvat een behoorlijk bomenbestand dat binnen de
 stedelijke rand van Antwerpen dienst doet als geschikt resthabitat voor
 vogels en kleine knaagdieren.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Reeds bij Ferraris (1777) wordt melding gemaakt van 'Het
@@ -81,8 +82,8 @@ met Herentals en als waterbevoorrading naar Antwerpse brouwerijen. Het
 stenen bruggetje over de vaart kan beschouwd worden als geschiedkundig
 document van militaire bouwkunst uit 19de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het Rivierenhof is een mooi kasteelpark in
 landschapsstijl en rijk aan bouwkundig erfgoed, temidden van
@@ -90,7 +91,7 @@ verstedelijkt gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het restant van de Herentalsevaart met
@@ -100,8 +101,8 @@ Het gaat om een laatmiddeleeuwse prefiguratie van watervoorziening; een
 verbindingskanaal tussen de Kempen en het stadscentrum, waar het de vele
 brouwerijen van water moest voorzien.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Rivierenhof is met zijn 144 ha het grootste park van de
 agglomeratie, verdeelt Deurne in twee stukken en wordt volledig
@@ -111,13 +112,14 @@ zone penetreert.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Hydrografische Elementen:**
 
@@ -126,7 +128,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -167,7 +169,7 @@ gedenksteen
  **Andere:**
 openluchttheater, schoolgebouw
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -185,7 +187,7 @@ geplaveid pad naar kasteel
 
 Restant Herentalsevaart met brug
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -214,8 +216,9 @@ spiegelvijver
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Rivierenhof kent een sterke recreatiedruk met sportterreinen, een
 verkeerstuin, een kinderboerderij, e.d. Verschillende wegen in het park

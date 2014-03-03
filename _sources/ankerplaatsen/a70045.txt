@@ -1,15 +1,15 @@
 Mergelgrotten van Val-Meer en Zichen-Zussen-Bolder
 ==================================================
 
-Anker ID: A70045
-----------------
+:Ankerplaats ID: A70045
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Van oudsher zijn de Haspengouwse dorpen landbouwnederzettingen met een
 concentratie van woningen en boerderijen rondom een kerk. Oorspronkelijk
@@ -92,12 +92,13 @@ woonuitbreidingszone gereserveerd, die niet is ondergraven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op de hellingen dagzomen de krijtlagen van het Maastrichtiaan, vaak
 ontsloten door ondergrondse groeves. Zij zijn rijk aan fossielen
@@ -107,8 +108,8 @@ e.a. De wanden en plafonds van de mergelgrotten bieden door hun
 onregelmatige vormen en microklimaat overwinteringsplaatsen
 (hibernacula) voor vleermuizen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De omgeving heeft een rijke en vroege vestigingsgeschiedenis zoals
@@ -122,8 +123,8 @@ ondergrondse galerijen met een oppervlakte van tientallen ha ontstond.
 Zij bevatten tal van verwijzingen (zoals inscripties, graafkervingen,
 schilderingen e.a.) naar hun gebruik, ouderdom of uitbatingstechniek.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 In de dorpskernen staan nog tientallen gevels in
 mergelblokken die ter plaatse gewonnen werden. Gecombineerd met
@@ -136,7 +137,7 @@ microklimaat en het historische karakter van de groeven.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Tot enkele decennia geleden genoot de
@@ -148,8 +149,8 @@ in het dorpsgeheugen gegrift. Hoewel de oude mergelgrotten omwille van
 veiligheidsredenen thans niet vrij toegankelijk zijn, bieden zij toch
 mogelijkheden op educatief-recreatief vlak.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het krijtgesteente in de ondergrond met zijn talrijke groeven zijn
 bepalend voor de organisatie van het landschap. Vooral te
@@ -159,13 +160,14 @@ Zussen een woonuitbreidingszone gereserveerd, die niet is ondergraven.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -187,7 +189,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 mergelgroeven w.o. Lacroixberg, Roosburgh, Koegat, Pitjesberg, In de
 Coolen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -249,7 +251,7 @@ evenals in de groeven
 oud gemeentehuis
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -295,8 +297,9 @@ permanent grasland rond de dorpskommen
 
 enkele, kleine hellingbosjes
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden. De
 bebouwing in het open akkergebied beperkt zich voorlopig tot enkele

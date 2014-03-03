@@ -1,15 +1,15 @@
 Kasteeldomeinen van Aaishove, Lozer, Mullem en Wannegem
 =======================================================
 
-Anker ID: A40052
-----------------
+:Ankerplaats ID: A40052
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats is op grondgebied van de gemeente Kruishoutem
 gesitueert. Het gebied heeft een zeer lange occupatiegeschiedenis met
@@ -208,12 +208,13 @@ bewaard.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit complex van kouters en dorpjes is gelegen op de overgang van het
 zandig (Vlaamse Vallei) naar het lemig Leie-Scheldeinterfluvium, in een
@@ -222,8 +223,8 @@ gelegen. Via het kasteeldomein van Lozer met bijhorend drevenpatroon
 zijn de twee landschappelijk verschillende gebieden met elkaar
 verbonden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De kasteeldomeinen van Aaishove, Wannegem en Lozer waren reeds
@@ -243,8 +244,8 @@ vierschaar en schadpaal reeds in 1649 op kaart herkenbaar. Op de
 volgende kaarten blijft de dorpskern duidelijk herkenbaar. Ook het
 omliggende kouterlandschap was reeds op Ferraris duidelijk herkenbaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 In Mullem zijn de huizen in het kleur van de
 heren van de oude heerlijkheid geschilderd; het uitzicht van het dorpje
@@ -254,8 +255,8 @@ verschillende kasteeldomeinen liggen in de buurt van de dorpjes, in een
 park met vijver.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Opvallend in dit gebied is de aanwezigheid van uitzonderlijk goed
 bewaarde historische dorpskernen waarin de relatie kerk, kasteel,
@@ -270,13 +271,14 @@ kasteeldomeinen en de gave dorpjes is duidelijk te zien.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -298,7 +300,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -360,7 +362,7 @@ Bekemolen
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -370,7 +372,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -419,8 +421,9 @@ Sint- Hilariuslinde
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Hier en daar komt wat residentiele bewoning voor die niet thuishoort in
 het landschap van de open kouters. Wat oudere bewoning is dat in de

@@ -1,13 +1,13 @@
 Heuvel van Wijtschate - Mesen
 =============================
 
-Anker ID: A30040
-----------------
+:Ankerplaats ID: A30040
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats grenst in het zuiden aan Wallonië. De weg tussen
 Warneton, Mesen, Wijtschate (alle drie op grondgebied van gem.
@@ -90,12 +90,13 @@ ingang en aan de hoeken van de kerkhoven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het reliëf en het hydrografisch net bepalen in belangrijke mate het
 landgebruik en hebben nog een grote gaaf- en natuurlijkheid. De heuvel
@@ -111,8 +112,8 @@ westelijke helling van de uitloper tussen Wijtschate en Mesen heeft een
 zeer steile helling. Ter hoogte van enkele bronnen liggen bronbossen met
 specifieke en waardevolle vochtminnende flora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De archeologische sporen aangetroffen op de heuvel van Wijtschate,
@@ -123,8 +124,8 @@ ligging van deze heuvel tijdens WOI. In de Douvevallei rest
 perceelsrandbegroeiing van de vroeger alomtegenwoordige bocagebegroeiing
 die na WOI grotendeels verdwenen was.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De lage bebouwingsdichtheid, de lage
 versnijdingsgraad en de grote gaafheid van de hydrografie en reliëf
@@ -143,8 +144,8 @@ landschap en is vanuit bijna de gehele omgeving zichtbaar door de
 ligging op het hoogste punt van de heuvel.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kerk van Wijtschate en (in mindere mate) de kerk van Mesen en
 Wulvergem vormen bakens en oriënteringspunten op de toppen van de
@@ -154,13 +155,14 @@ installaties en door de hoge ligging van dit complex.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -193,7 +195,7 @@ bollaert-, Rozebeek
 
 bepaald door geologische gesteldheid
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
@@ -223,7 +225,7 @@ gedenktekens voor WOI (talrijke oorlogsmonumenten)
  **Archeologische elementen:**
 sproen van bewoning uit Neolithicum
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -233,7 +235,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Cassel-kortrijk
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -261,8 +263,9 @@ kraterlijn
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landelijke en open landschap dient behouden te blijven om de
 vergezichten in alle richtingen te vrijwaren. Daarbij dient de

@@ -1,13 +1,13 @@
 Heverleebos -Zoet Water - Meerdaal- en Mollendaalbos
 ====================================================
 
-Anker ID: A20044
-----------------
+:Ankerplaats ID: A20044
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het complex Heverleebos-Meerdaalwoud strekt zich uit ten zuiden van
 Leuven vanaf Heverlee tot aan de grens met Waals-Brabant. Dit grote
@@ -82,20 +82,21 @@ de richting van de vallei van de Nethen in Waals-Brabant.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied heeft een hoge botanische waarde, vooral de bronzones
 (o.m. 't Zoet Water), maar ook in de heideachte vegetaties op de
 tertiaire opduikingen en zelfs (tijdelijk) in sterk gestoorde milieus
 zoals de Springputten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied Heverleebos-Meerdaalwoud is een prachtig voorbeeld van de
 classicitische aanleg van beboste domeinen, met rechte dreven, 'salons',
@@ -110,8 +111,8 @@ jaren 1930 overschreven door de aanleg van het recreatiedomein Lunapark
 en diverse architecturale elementen typisch voor dit soort aanleg (o.m.
 de 'paddestoel') zijn nog aanwezig.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een uitgestrekt bebost gebied doorsneden met
 dreven met een grote diversiteit in fauna en flora. In het gebied liggen
@@ -120,12 +121,13 @@ Steenbergenkapel en het 19de eeuwse kasteel de Harcourt.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -153,7 +155,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -189,7 +191,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * vondsten uit Neolithicum en Romeinse periode
  
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -199,7 +201,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -220,8 +222,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * struweel
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing in de omgeving van Vaalbeek, Oud-Heverlee en Het
 Zoet Water. In het noordelijk deel van Meerdaalwoud ligt een nu deels in

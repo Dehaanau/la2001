@@ -1,13 +1,13 @@
 Domein Oude Gracht
 ==================
 
-Anker ID: A10004
-----------------
+:Ankerplaats ID: A10004
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 'Domein Oude Gracht' is gelegen op grondgebied van de gemeenten
 Brasschaat en Kapellen in de Antwerpse Noorderkempen. De begrenzing van
@@ -56,12 +56,13 @@ dacht te gaan.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De geleidelijke overgang van zand- naar lemige zandgronden met
 verschillende vochtigheidsgradiënten heeft een grote vegetatiekundige
@@ -71,8 +72,8 @@ het een belangrijk broed-, foerageer-, roest- en voedselgebied voor
 talrijke vogelsoorten een herbergt het een belangrijk aantal
 paddestoelensoorten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De 'Oude Gracht' wordt reeds vermeld bij Ferraris in 1777. Op
@@ -90,8 +91,8 @@ westelijke toegang van domein 'Oude Gracht', gaat in oorsprong terug tot
 een kapel uit de 18de eeuw. Het huidige kerkgebouw werd opgericht in
 1871-1872.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Domein 'Oude Gracht' is een uitstekend voorbeeld
 van parkaanleg in het begin van de 20ste eeuw. De talrijke landschap- en
@@ -102,15 +103,15 @@ prachtige zichten ontstaan.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het domein heeft zowel in de 1ste als de
 2de wereldoorlog een belangrijke rol gespeeld als onderdeel van de
 verdedigingslinie en als centrum voor grootscheepse hulpverlening.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Binnen de aanleg van het landschapspark vormen vooral de dreven,
 grachten en vijvers belangrijke ruimtelijk-structurerende elementen. In
@@ -123,13 +124,14 @@ provincie Antwerpen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Hydrografische Elementen:**
 
@@ -137,7 +139,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -177,7 +179,7 @@ paviljoen, botenhuis
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -193,7 +195,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -219,8 +221,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het vroegere kasteel werd in 1952 afgebroken. Een vervanging door een
 eigentijds en inpassend nieuw bouwwerk (dus geen villa of reconstructie)

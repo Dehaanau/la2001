@@ -1,13 +1,13 @@
 Verloren Schaap
 ===============
 
-Anker ID: A10078
-----------------
+:Ankerplaats ID: A10078
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap 'Verloren Schaap' is gelegen op grondgebied van de
 gemeenten Meerhout en Mol in de Centrale Kempen. De begrenzing van deze
@@ -56,12 +56,13 @@ het behoud van het typische landschappelijke karakter van het geheel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van dit landschap wordt bepaald door de
 afwisseling in bodemgebruik, de kleinschaligheid en de talrijke kleine
@@ -72,8 +73,8 @@ landschappen van Bel en Balen, vormt het 'Verloren Schaap' deel van een
 cluster van groene entiteiten en zo ook een belangrijke stapsteen in de
 migratieroute van fauna en flora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Vandaag betref het 'Verloren Schaap' een relatief gaaf bewaard relict
@@ -82,8 +83,8 @@ structuren, patronen en elementen in het landschap verwijzen naar het
 historische bodemgebruik. We vernoemen de plaggenbodems, houtkanten,
 oude bosjes, heiderelicten en waterplassen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een evenwichtig samengaan van verschillende
 vegetatietypes en -structuren resulteren in een esthetisch aantrekkelijk
@@ -92,8 +93,8 @@ onregelmatige perceelstructuren dragen bij tot het typische karakter en
 de hoge belevingswaarde van dit landschap.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Binnen de grenzen van de ankerplaats bleef het typische karakter van
 een eertijds veel uitgestrekter Kempisch landschap bewaard. De
@@ -103,13 +104,14 @@ benadrukken de kleinschaligheid van dit gebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -126,7 +128,7 @@ Zeeploop
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -161,8 +163,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een toenemende intensivering van het bodemgebruik verdringt stilaan de
 intrinsieke waarden van dit gebied en vormt daarmee een bedreiging voor

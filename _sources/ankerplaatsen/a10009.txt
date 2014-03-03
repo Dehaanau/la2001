@@ -1,13 +1,13 @@
 Domein Zwart Goor-Rondpunt
 ==========================
 
-Anker ID: A10009
-----------------
+:Ankerplaats ID: A10009
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Zwart Goor - Rondpunt' is gelegen in de gemeente
 Merksplas in de Antwerpse Noorderkempen en betreft een voormalig bebost
@@ -63,12 +63,13 @@ noorden van de gemeente Merksplas.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De relicten van de oude bosaanplanten, alsook de dreven,
 vertegenwoordigen een belangrijke dendrologische waarde. Aansluitend op
@@ -79,8 +80,8 @@ bossen in de omgeving. De combinatie van de bosrijke kern, temidden van
 de open omgeving met weilanden biedt ideale mogelijkheden voor de
 avifauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In de noordelijke rand van de bosstructuur herkennen we een restant
@@ -94,8 +95,8 @@ bewaard maar werd verschillende keren aangepast en heeft nu de functie
 van klooster. In de omgeving van Zwart Goor en Rondpunt werden
 prehistorische silexen gevonden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Vooral de opmerkelijke driehoekige structuur van
 de dreven van het voormalige landgoed heeft een belangrijke esthetisch
@@ -103,8 +104,8 @@ waarde. Vanuit de open omgeving heeft men een mooi zicht op de bosrand
 van het centraal gelegen domein.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ruimtelijk opvallend is de aanleg van de centraal gelegen dreven in
 driehoeksvorm zodat ze geen kruis zouden vormen. De open, landelijke
@@ -113,13 +114,14 @@ landgoed.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -142,7 +144,7 @@ de Mark
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -179,7 +181,7 @@ landhuis, aalmoezeniershuis, jachtwachterwsoning
 **Archeologische elementen:**
 prehistorische vondsten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -189,7 +191,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oud wegenpatroon
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -220,8 +222,9 @@ oud drevenpatroon
  * loof
  * struweel
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten in het gebied zijn de steeds uitbreidende infrastructuur van
 het Medisch Pedagogisch Instituut, het Zuiveringsstation net ten zuiden

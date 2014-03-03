@@ -1,13 +1,13 @@
 Kolonie Wortel
 ==============
 
-Anker ID: A10007
-----------------
+:Ankerplaats ID: A10007
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Kolonie Wortel is gelegen in de gemeente Hoogstraten in de Antwerpse
 Noorderkempen. De voorgestelde ankerplaats grenst in het zuiden aan het
@@ -65,12 +65,13 @@ toegewezen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van Kolonie Wortel wordt voornamelijk
 bepaald door de afwisseling aan biotooptypes, de uitgestrektheid van het
@@ -80,8 +81,8 @@ hebben samen met de bossen een belangrijke functie als broedgebied voor
 talrijke vogelsoorten. De sporadisch voorkomende restanten van heide,
 moeras en vennen vormen een geschikt biotoop voor o.a. insecten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de Ferrariskaart (1777) nog heidegebied met vennencomplex, maar
@@ -97,8 +98,8 @@ Verder zijn er nog 3 ateliers, het casino (de oorspronkelijke kazerne
 van de kolonie), een landbouwbedrijf met woning en 21 personeelswoningen
 met tuin.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit mooie en gave compartimentlandschap,
 doorsneden door indrukwekkende dreven, is sterk opvallend binnen een
@@ -108,7 +109,7 @@ zichten ontstaan.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kolonie van Wortel is een nog intact
@@ -124,8 +125,8 @@ Wortel. De instelling van Wortel doet nu dienst als strafinrichting voor
 gedetineerden en vervult daarmee nog steeds min of meer de functie die
 zij meer dan 150 jaar geleden kreeg toegewezen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschap van de Kolonie van Wortel is door haar typische
 compartimentstructuur en een netwerk van imposante dreven en bomenrijen
@@ -134,13 +135,14 @@ verschillende omgeving.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -158,7 +160,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
@@ -192,7 +194,7 @@ archeologische vondsten in de nabije omgeving
  **Andere:**
 werkplaatsen, feestzaal (voormalige kazerne), wachthuisje
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -202,7 +204,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 rationeel, symmetrisch wegenpatroon
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -224,7 +226,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen opmerkingen of knelpunten.

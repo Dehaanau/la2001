@@ -1,13 +1,13 @@
 Vloetemveld
 ===========
 
-Anker ID: A30016
-----------------
+:Ankerplaats ID: A30016
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt ten zuidwesten van de dorpskern van Snellegem
 (gem. Jabbeke) en loopt verder in de gemeente Zedelgem. In het westen
@@ -70,19 +70,20 @@ bewaard zijn. In het gebied zijn talrijke Neolithische vondsten gedaan.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Heidevegetatie werd dankzij zeer diverse beheersmaatregelen goed
 bewaard en soms zeer zeldzame soorten. Ook de natuurlijke condities van
 arme zandgrond en lokaal kwelwater zorgen voor unieke biotopen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Vroeger veldgebied dat nu bebost is en waar nog heidevegetatie
@@ -90,16 +91,16 @@ overblijft. Rond dit bosgebied liggen landbouwgronden die tijdens
 verschillende periodes ontgonnen werden wat zich ook in landschappelijke
 verschillen vertaalt.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Zicht op de rand van het grote boscomplex met
 dreven. De dreven delen de omgevende ruimte in kleinere ruimtes
 (compartimenten) op. De soms gave perceelsrandbegroeiing rond weilanden
 zorgt voor een hogere herkenbaarheid en meerwaarde.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het centrale boscomplex vormt een opvallende structuur die zeer
 bepalend is voor de zichten.
@@ -107,12 +108,13 @@ bepalend is voor de zichten.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -132,7 +134,7 @@ vijverdam in noordoosten van ankerplaats
 
 vochtige gronden (laag gelegen)
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -142,7 +144,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 hofstede Vloethem, Hoeve Hildaghem (Ter Vraghe), hoeve Noortweghe
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -161,7 +163,7 @@ spoorweg naar en op militair domein
 
 vijverdam in noordoosten
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -203,8 +205,9 @@ militiair domein
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Toegang tot het militair domein is verboden voor onbevoegden. In het
 oosten wordt het gebied doorsneden door een hoogspanningsleiding op

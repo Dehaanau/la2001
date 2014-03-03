@@ -1,15 +1,15 @@
 Heide- en stuifzandcomplex van Hechtel - Helchteren met vallei van de Zwarte Beek (bovenloop)
 =============================================================================================
 
-Anker ID: A70006
-----------------
+:Ankerplaats ID: A70006
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Hechtel wordt ten zuiden begrensd door Helchteren, ten westen door
 Koersel. Uitgestrekte delen van de omgeving behoren tot het militair
@@ -114,12 +114,13 @@ intensieve land- en tuinbouw.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap strekt zich uit aan de rand van het Kempens Plateau.
 Dergelijk overgangsgebied wordt gekenmerkt door een eigen dynamiek en is
@@ -135,8 +136,8 @@ struwelen, beekbegeleidende broekbossen en de overgangen naar
 heidevelden, stuifduinen en vennen een schat aan zeldzame soortenrijkdom
 op. Plaatselijk komen laag- en hoogveen voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Eeuwenlang hield hier een gevarieerd cultuurlandschap stand. Het
@@ -161,8 +162,8 @@ het stuifzand aan de rand van het voormalige akkerareaal en het dorp
 d.m.v. een dichte begroeiing of wallen tegen te houden. Bovendien zijn
 de duinen belangrijke archeologische vindplaatsen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Zwarte Beekvallei biedt een aantrekkelijke en
 contrasterende variatie: in minder dan een kwartier wandelt de bezoeker
@@ -175,7 +176,7 @@ effect en gunstig microklimaat.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In de omgeving zijn bewegwijzerde
@@ -184,8 +185,8 @@ bezoekerscentrum De Watersnip aan het Fonteintje in Koersel is de ideale
 uitvalsbasis voor de verkenning van het landschap, met vlakbij de
 uitkijktoren en de kapel van Onze-Lieve-Vrouw-aan-de-Staak.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het uitgestrekte heide- en stuifzandcomplex en de vallei van de
 Zwarte Beek, ingesneden in de zuidwestelijke rand van het Kempens
@@ -194,13 +195,14 @@ landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -238,7 +240,7 @@ beemden, hier broeken genoemd, verruigde hooilanden
  **Andere:**
 stuifzand
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -278,7 +280,7 @@ o.a. kapel van Onze-Lieve-Vrouw-aan-de-Staak
  **Archeologische elementen:**
 archeologische vindplaatsen in de omgeving van duinen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -300,7 +302,7 @@ opstrekkend patroon van paden en wegen naar en door de vallei
 stelsel van grachten en zijbeken in de broeken van de Zwarte
 Beekvallei
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -356,8 +358,9 @@ beemden, hier broeken genoemd
 
 voormalige, bevloeide waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De grootste bedreigingen voor het landschap gaan uit van de
 woonuitbreiding aan de randen en in de bewoningskernen in het gebied, de

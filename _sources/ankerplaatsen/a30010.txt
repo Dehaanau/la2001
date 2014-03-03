@@ -1,13 +1,13 @@
 Ijzermonding - St-Laureinsduinen
 ================================
 
-Anker ID: A30010
-----------------
+:Ankerplaats ID: A30010
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats strekt zich uit op de rechteroever van de Ijzer
 (havengeul) bij Nieuwpoort met inbegrip van het strand, het
@@ -54,45 +54,47 @@ campings vormen een knelpunt uit visueel-esthetisch oogpunt.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het slikke-schorregebied langs de Ijzer is quasi uniek in België en
 brengt specifieke flora én fauna met zich mee. Waardevolle flora op
 kalkrijke droge duinen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het gebied ligt op het vroegere eiland Testerep dat tijdens de
 middeleeuwen bewoond werd. De verschillende restanten van de Atlantikwal
 vormen een herinnering aan WOII.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 groot strand met aansluitend duinenfront waarin
 windgaten en andere actieve windverstuiving aanwezig is.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De loop van de Ijzer met aansluitende dijken.
 
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -107,7 +109,7 @@ met aansluitend strand; kopjes- en paraboolduinen
 
 Ijzerestuarium
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
@@ -121,10 +123,10 @@ restanten van de Atlantikwal uit WOII
  **Archeologische elementen:**
 archeologische resten van de vuurtoren de Vierboete
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bos:**
@@ -134,8 +136,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 op meest landinwaartse duinen
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vele bouwwerken in deze ankerplaats vormen een hindernis in het
 gebied: kustverdedigingswerken, illegale campings, infrastructuur van de

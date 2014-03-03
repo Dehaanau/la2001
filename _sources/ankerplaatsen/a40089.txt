@@ -1,13 +1,13 @@
 Kasteeldomein van Beervelde
 ===========================
 
-Anker ID: A40089
-----------------
+:Ankerplaats ID: A40089
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 In de buurt van Lochristi ligt het kasteeldomein van Beervelde. Het
 domein wordt in het noorden door de spoorlijn begrensd, in het zuiden
@@ -83,12 +83,12 @@ ook de koetshuizen, koeien- en paardestallen en dienstgebouwen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteeldomein gaat terug op een middeleeuws goed met omwalde
@@ -99,8 +99,8 @@ bouwde een nieuw kasteel en legde de landschappelijke tuin aan. Na WO II
 werd het kasteel nogmaals afgebroken en werd een nieuw gebouw geplaatst.
 Het park bevat een uitgebreide plantencollectie.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het park van Beervelde is aangelegd in
 romantische landschapsstijl met een formele tuin bezuiden het kasteel.
@@ -109,8 +109,8 @@ oppervlakte van 20 ha een samenhangend park met enkele sublieme
 vergezichten gecreëerd.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteel is vanaf het dorp niet zichtbaar. Een dreef leidt naar
 het kasteel. In het park liggen verschillende dienstgebouwen ten westen
@@ -121,13 +121,14 @@ plantencollecties komen in het park voor.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -135,7 +136,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -156,7 +157,7 @@ bij kasteeldomein van Beervelde
 **Andere:**
 stationsgebouw Beervelde
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -171,7 +172,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

@@ -1,15 +1,15 @@
 Vallei van de Zwarte Beek bij de bocht van Laren
 ================================================
 
-Anker ID: A70032
-----------------
+:Ankerplaats ID: A70032
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Tussen Paal (Beringen) en Meldert (Lummen) ligt de brede middenloop
 van de Zwarte Beek. De vallei wordt hier eerst zeer breed om
@@ -68,12 +68,13 @@ verdroging.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap strekt zich uit aan de rand van de Lage Kempen, tegen
 de getuigenheuvels die hier de overgang naar het Hageland aankondigen.
@@ -84,8 +85,8 @@ zijn de basis voor landschappelijke verscheidenheid met waardevolle
 kernen van hooi- en weilanden, broekbosjes, kleine landschapselementen,
 ruigten, struweel enz.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschap in de vallei wordt in grote lijnen bepaald door
@@ -98,8 +99,8 @@ zogenaamde waterbeemden. Opvallend is de samenhang met de akkers aan de
 valleiranden, het opstrekkend patroon van paden en wegen naar de vallei
 en het voorkomen van lineaire landschapselementen en bouwkundig erfgoed.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het half-open landschap van de brede vallei,
 ingesloten tussen heuveltoppen, biedt een hoge belevingswaarde. Vooral
@@ -108,14 +109,14 @@ de wijdse vallei en landschappelijk waardevolle elementen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De omgeving biedt de ruimte voor een
 landschapsgerichte, zachte recreatie.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Zwarte Beek, die zich hier in een brede meandering
 langs de getuigenheuvels van het Diestiaan slingert, was bepalend voor
@@ -123,13 +124,14 @@ de opbouw en organisatie van het landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -160,7 +162,7 @@ o.a. Zwarte Beek, Laarbeek, Gestel-Geeneikenbeek
 
 beemden, hier broeken genoemd, verruigde hooilanden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -177,7 +179,7 @@ straatgehucht Gestelse Heide op interfluvium
 
 Gestelse molen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -199,7 +201,7 @@ opstrekkend patroon van paden en wegen naar en door de vallei
 stelsel van grachten en zijbeken in de broeken van de Zwarte
 Beekvallei
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -253,8 +255,9 @@ beemden, hier broeken genoemd, akkers aan de valleirand
 
 voormalige, bevloeide waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Intensivering van de landbouw, inplanting van weekendverblijven en
 stortplaatsen en recreatieve druk veroorzaken steeds meer verstoring.

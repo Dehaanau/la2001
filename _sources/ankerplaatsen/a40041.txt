@@ -1,15 +1,15 @@
 Vallei van de Munkbosbeek met het kasteeldomein van Beerlegem
 =============================================================
 
-Anker ID: A40041
-----------------
+:Ankerplaats ID: A40041
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Beerlegem is een nederzettingsdorp op een Z.W.-helling met grote
 kouters op het versneden Z.-Vlaams plateau in zandleemgebied. Het zacht
@@ -134,18 +134,19 @@ werden belangrijke herstellingen uitgevoerd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei van de Munkbosbeek heeft een licht golvende topografie en
 is gelegen boven de steilrand van de Scheldevallei.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteeldomein was reeds aanwezig op de kaart van Ferraris (ca .
@@ -163,8 +164,8 @@ het bos ontgonnen op de kaarten. De boomaanplant rond de dreven is niet
 zo volledig meer als op Vandermaelen. Het bos ten noorden van de hoeve
 is nog bewaard in dezelfde toestand als op Vandermaelen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het grote kasteeldomein met kasteel met dubbele
 omwalling en drie vijvers neemt een dominate plaats in de
@@ -175,8 +176,8 @@ Munkbosbeek en de Schaapsveldbeek.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Munkbosbeek loopt centraal door de ankerplaats. Aan de westelijke
 kant bevindt zich het kasteeldomein van Beerlegem in de vallei. De
@@ -188,13 +189,14 @@ tussen de Munkbosbeek en de Schaapsveldbeek.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -218,7 +220,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 vallei van de Munkbosbeek en Schaapsveldbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -273,7 +275,7 @@ relatie kasteel- dorp
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -290,7 +292,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 in kasteelpark
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -328,8 +330,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Rond het kleinschalige dorpje Dikkele neemt redsidentiele bewoning een
 uitbreiding.

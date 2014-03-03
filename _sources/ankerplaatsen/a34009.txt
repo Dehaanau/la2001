@@ -1,13 +1,13 @@
 Bouvelobos en Hemsrode
 ======================
 
-Anker ID: A34009
-----------------
+:Ankerplaats ID: A34009
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Bouvelobos bevindt zich op grondgebied van de gemeente Wortegem-
 Petegem, het domein van Hemsrode bevindt zich op het West- Vlaamse
@@ -109,20 +109,21 @@ bijlage.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Nu staat er enkel nog bos op de steile hellingen, waar een klei-
 zandsubstraat voorkomt op geringe diepte, en in de valleitjes, waar
 natte alluviale gronden voorkomen. Aan het begin van de valleitjes komen
 verschillende bronnetjes voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Bouvelobos is een restant van het vroegere foreest Methela. Het
@@ -140,8 +141,8 @@ aanwezig, de oorsprong ervan is onduidelijk. In het westen van de
 ankerplaats ligt het kasteeldomein van Hemsrode, dat reeds op de
 Ferrariskaart aanwezig was.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De beboste hellingen zijn gesloten, de hoger
 gelegen zones liggen onder akkerland, van daaruit zijn er zichten. Het
@@ -150,15 +151,15 @@ vertrekken er verschillende dreven.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Bossen en huizen rond het bos waren
 geliefkoosde schuilplaatsen voor zigeuners en roversbenden; dit duurde
 tot halfweg de 18e eeuw.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De beboste hellingen zijn gesloten, de hoger gelegen zones liggen
 onder akkerland. Het kasteel van Hemsrode is door een bebost park
@@ -166,13 +167,14 @@ omgeven. Vanuit het park vertrekken er verschillende dreven.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -199,7 +201,7 @@ bronnen
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -224,7 +226,7 @@ Hemsrode
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -234,7 +236,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -274,5 +276,6 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+

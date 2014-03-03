@@ -1,13 +1,13 @@
 Ieperse Vesting - Verdronken Weide - Zillebeekse vijver - Palingbeek - Vierlingen
 =================================================================================
 
-Anker ID: A30038
-----------------
+:Ankerplaats ID: A30038
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats bevindt zich ten zuidoosten van de stad Ieper en
 bevat een deel van haar oude vestingwallen. Ze strekt zich uit van
@@ -115,12 +115,13 @@ meerwaarde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De mislukte kanaalsleuf heeft een bijzondere geologische en
 geomorfologische waarde door de ontsluiting van de formaties van Gent en
@@ -140,8 +141,8 @@ tijdens de wintermaanden op natuurlijke wijze nog grotendeels onder
 water te staan. Deze natte, historisch permanente graslanden herbergen
 een specifieke vochtminnende flora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In 1295 werd de Klijtgatbeek afgedamd om een drinkwaterreserve aan te
@@ -157,8 +158,8 @@ open gebied. Daarom vormen ze één geheel met de Verdronken Weide. De
 Verdronken Weide heeft waarschijnlijk in de ondergrond archeologische
 sporen van een verdwenen middeleeuwse wijk.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Vanuit de omgeving van Ieper heeft men een zicht
 op de rug van Westrozebeke; op de interfluviale kam heeft men een zicht
@@ -179,14 +180,14 @@ waarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Palingbeek is momenteel provinciaal
 domein en vormt tijdens de zomermaanden een toeristische trekpleister.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het rechtlijnige kanaal begrenst visueel de ruimte door een lint van
 riet ten zuiden van Hollebeke, door de hogere begroeiing langs de
@@ -201,13 +202,14 @@ schouw.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -237,7 +239,7 @@ interfluviale kam Ijzer- Schelde&Leie
 langs de wanden van het kanaal zowel formaties van Gent, kortrijk en
 Tielt
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -267,7 +269,7 @@ grotendeels uit WOI
 vermoedelijk resten van middeleeuwse buitenwijk rond Verdronken
 Weiden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -286,7 +288,7 @@ Ieper - Komen nu als fietspad in gebruik
 kan. Ieper-Komen met talrijke sluizen erop; dam voor Zillebeekse
 vijver
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -322,8 +324,9 @@ Verdronken Weide
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De lintbebouwing vanuit Hollebeke in verschillende richtingen bedreigt
 het zicht op het kanaal en op de omgeving. Ook vanuit Ieper bedreigt de

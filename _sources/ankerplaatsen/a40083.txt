@@ -1,13 +1,13 @@
 Kastelensite Destelbergen
 =========================
 
-Anker ID: A40083
-----------------
+:Ankerplaats ID: A40083
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De kastelensite van Destelbergen bestaat uit een ensemble van de
 kastelen Te Lande, Krabbenburg, Ter Meren, Succa en Notax met hun
@@ -54,19 +54,20 @@ Lande werd een 19e eeuw neogotische kapel gebouwd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geomorfologisch bevindt het kasteelpark zich in de Vlaamse Vallei,
 een zandig gebied waar er een uitgesproken microreliëf voorkomt van
 westzuidwest- oostnoordoost geöriënteerde ruggen en depessies.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteel Succa was in 1444 in het bezit van Jan van der Valleyen,
@@ -82,8 +83,8 @@ kasteelgracht, is vroeg 19e eeuws, in Empirestijl gebouwd. Het is een
 nagenoeg zuiver voorbeeld van een streng- klassiek geïnspireerde
 interpretatie van een groot landhuis.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kastelen zijn niet alleen historisch en
 landschappelijk met elkaar verbonden, ook de visuele band is heel sterk.
@@ -94,7 +95,7 @@ katoenbaronnen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Reeds in 1007 werd in oude kronijken
@@ -103,8 +104,8 @@ populariteit van de bedevaarten steeg gestaag. Keizer Karel diende de
 samenkomsten te staken omdat onregelmatigheden plaatsgrepen. In de 17e
 eeuw werd de bedevaart rond het Bergenkruis in ere hersteld.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kastelen van Norax, Succa, Te Lande, Krabbenburg en Ter Meren met
 nu omringend parken sluiten bij elkaar aan. Ertussen komen nog enkele
@@ -113,13 +114,14 @@ doorsneden.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -127,7 +129,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -153,7 +155,7 @@ Te Lande, Krabbenburg, Ter Meren, Succa en Notax
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -163,7 +165,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

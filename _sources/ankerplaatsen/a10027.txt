@@ -1,13 +1,13 @@
 Hof ter Linden & Fort 5
 =======================
 
-Anker ID: A10027
-----------------
+:Ankerplaats ID: A10027
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Domein hof ter Linden en fort V zijn gelegen op grondgebied van de
 gemeente Edegem, in de rand van de stedelijke agglomeratie Antwerpen. De
@@ -57,18 +57,19 @@ historische, esthetische en sociaal-culturele waarde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het bomenbestand van het domein 'Hof ter Linden' heeft een
 dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Deze ankerplaats betreft een concentratie aan bouwkundig erfgoed uit
@@ -80,8 +81,8 @@ St.-Antonius de Eremijt gaat terug tot de 17de eeuw en de westelijke
 toren zelfs tot de 15de eeuw. Van het fort uit 1868 bleef eveneens nog
 een belangrijk gedeelte goed bewaard.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het classicistisch kasteel binnen een gaaf
 bewaard kasteelpark, in het noorden geflankeerd door het indrukwekkende
@@ -91,7 +92,7 @@ verstedelijkt gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De structuur van het fort geeft een goed
@@ -99,8 +100,8 @@ beeld van de wijze van oorlogvoering in de tweede helft van de 19de eeuw
 en is een bewijs van de belangrijke rol die Antwerpen vertegenwoordigde
 in de oorlogsgeschiedenis van België..
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Men herkent hier nog een mooi bewaarde kasteel-kerk relatie, gevormd
 door een dubbele lindendreef. De samenhang van het fort, het kasteel en
@@ -110,13 +111,14 @@ de gemeente Edegem.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -124,7 +126,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -164,10 +166,10 @@ fort 5
 
 kapel St.-Antonius de Eremijt
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -187,8 +189,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 T-vormige kasteelvijver
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Doordat deze ankerplaats volledig wordt ingesloten door bebouwing
 (verstedelijkt gebied), is de vroegere binding met de landelijk omgeving

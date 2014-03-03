@@ -1,15 +1,15 @@
 Vallei van de Zeverenbeek
 =========================
 
-Anker ID: A40010
-----------------
+:Ankerplaats ID: A40010
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De Zeverenbeek, op grondgebied van Zeveren (Deinze) gelegen, behoort
 tot het stroomgebied van de Leie. De broeken zijn doorsneden door
@@ -68,20 +68,21 @@ maar ze hebben voornamelijk een 19e eeuws uitzicht.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei van de Zeverenbeek is tussen de cuesta van Tielt en het
 zandig Leie- Schelde interfluvium gelegen. De beekvallei is me zandlemig
 materiaal opgevuld. Deze beek maakt deel uit van het Leiebekken. In de
 beekdepressie zijn er voornamelijk vochtige loofbossen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Op de Ferrariskaart, 1775, wordt de vallei van de Zeverenbeek door
 weilanden en meersen, gedeeltelijk met perceelsranden, gekenmerkt.
@@ -91,8 +92,8 @@ rand van de meersen. Voor 1775 zou het gebied ontveend zijn. Op latere
 topografische kaarten, vanaf 1850, is de vallei bebost. De gebieden
 buiten de vallei bestaan voornamelijk uit akkers.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De vallei van de Zeverenbeek is duidelijk door de
 beboste delen te herkennen. De loop van de beek wordt benadrukt door
@@ -100,8 +101,8 @@ bomenrijen en is visueel waarneembaar in het landschap. De omliggende
 percelen zijn regelmatig en rechthoekig tot blokkig van vorm, gemiddelde
 grootte. De bebouwing situeert zich aan de rand van de vallei.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze vallei is een groen lint tussen de parallel gelegen hogere
 kouters. De vallei is met broekbos en populierenteelt beplant, hier en
@@ -112,13 +113,14 @@ verder oostwaarts mondt ze in de Leie uit.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -147,7 +149,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -173,7 +175,7 @@ Pastorietuin
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -190,7 +192,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -232,8 +234,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs de weg van Deinze naar Aalter, de N 409, die de vallei van de
 Zeverenbeek dwarst, ligt een lintbebouwing in de vallei. Deze bewoning

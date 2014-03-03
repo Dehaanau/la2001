@@ -1,15 +1,15 @@
 Maasvallei van Stokkem tot Heppeneert
 =====================================
 
-Anker ID: A70024
-----------------
+:Ankerplaats ID: A70024
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het beoogde gebied bevindt zich in de alluviale vlakte van de Maas,
 tegen de Nederlandse grens, tussen Maasmechelen en Stokkem. Vrijwel
@@ -116,12 +116,13 @@ het gebied liggen opmerkelijke hoeves.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Rivierlandschappen hebben een dynamisch karakter. In geomorfologisch,
 bodemkundig en hydrografisch opzicht is de alluviale vlakte van de Maas
@@ -138,8 +139,8 @@ herbergen o.i.v. het kalkhoudende Maaswater een specifieke vegetatie.
 Het permanente grasland bezit nog een uitzonderlijk microreliëf met
 zandige oeverwallen en lemige depressies.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De historische verplaatsingen van de Maas zijn in het landschap
@@ -158,8 +159,8 @@ struwelen enz.). Oude kuilen getuigen van de kleinschalige, plaatselijke
 leem- of grindwinning. In het gebied liggen tenslotte archeologisch
 belangrijke sites.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het grillige stroompatroon van de Maas met zijn
 grindbanken, sterk wisselend debiet, uiterwaarden, historisch dijken- en
@@ -177,7 +178,7 @@ zuiden van Rotem.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich uitermate goed voor
@@ -189,8 +190,8 @@ Heppeneert staat bekend als bedevaartsoord van Onze-Lieve-Vrouw van
 Rust, dat erg veel bezoekers aantrekt. Aan de gelijknamige kapel te Elen
 worden elk jaar de kruidwissen gewijd.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Maas was determinerend voor de opbouw en organisatie van het
 volledige gebied. De Zanderbeek doorkruist het landschap in oostelijke
@@ -199,13 +200,14 @@ hebben tussen Maaslandse Kempen en alluviale vlakte.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -246,7 +248,7 @@ natte depressies
 
 kleinschalige grind- en leemputten, grindbanken
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -326,7 +328,7 @@ o.a. merktekens waterhoogte
  **Archeologische elementen:**
 prehistorische, Romeinse en middeleeuwse archeologica
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -349,7 +351,7 @@ Duivelsbrugje
  **Andere:**
 Maaskade, voetveer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -397,8 +399,9 @@ weerden
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Schaalvergroting in de landbouw, lozingen van afvalwater in de Maas en
 zwerfvuil na overstromingen doen afbreuk aan het landschap. De

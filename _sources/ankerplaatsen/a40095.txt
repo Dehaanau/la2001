@@ -1,13 +1,13 @@
 Katteneie en Schalieveld
 ========================
 
-Anker ID: A40095
-----------------
+:Ankerplaats ID: A40095
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats bevindt zich op het grondgebied van de gemeenten
 Destelbergen en Laarne. De zuidoostelijke hoek van de Damvallei (dat
@@ -80,12 +80,13 @@ de turfputten in de Damvallei op kaart.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Damvallei is een moerassige vlakte in het midden door een iets
 hogere preholocene zandrug doorbroken. Waarschijnlijk bevondt zich reeds
@@ -93,8 +94,8 @@ in het Pleistoceen een depressie op deze plaats. Bepaalde geulen zouden
 door de Schelde tijdens het Boreaal gevolgd zijn, de loop is aan de hand
 van de veenlagen en turfputten te volgen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de Ferrariskaart (ca. 1775) staat de Damvallei als een open
@@ -107,8 +108,8 @@ de turfputten in de Damvallei op kaart. De twee grote, omwalde hoeven in
 het gebied, Katteneie en Schalieveld, gaan op oude vestigingen terug.
 Katteneie gaat zeker tot in de 14e eeuw terug.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied van de Damvallei is gesloten door bos
 in een moerassige gebied. De twee hoeven, Katteneie en Schalieveld,
@@ -120,15 +121,15 @@ door autosnelwegen gevormd.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Over het gebied van de Damvallei doen
 sagen de ronde over de 'Noenduivel'. De hoeve Kattenheie zou als
 schuilplaats voor roverbenden gediend hebben.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De zuidoostelijke hoek van de Damvallei (dat door de autosnelwegen
 van de rest is afgesneden) ligt in de afbaking. Een moerassige strook
@@ -143,13 +144,14 @@ een bosperceeltje, dat hoofdzakelijk uit hooghout bestaat.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -174,7 +176,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -200,7 +202,7 @@ Schalieveld, Katteneie, omwalling
 
 Aumansmolen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -212,7 +214,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Koewegel
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -255,8 +257,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De zuidoostelijke hoek van de Damvallei wordt van de rest afgesneden
 door de twee autosnelwegen die in het gebied lopen en in het centrum van

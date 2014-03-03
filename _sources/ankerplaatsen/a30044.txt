@@ -1,13 +1,13 @@
 Banhoutbos
 ==========
 
-Anker ID: A30044
-----------------
+:Ankerplaats ID: A30044
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats ligt ten zuidoosten van de kern van Zwevegem. Ze wordt
 in het oosten begrensd door de weg tussen Heestert (gem. Zwevegem) en
@@ -46,20 +46,21 @@ benadrukken de topzone.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Banhoutbos ligt op een topzone van de interfluviale kam tussen
 Schelde- en Leiebekken. Langs de hellingen veroorzaakt de geologische
 opbouw bronnen en dalhoofden, én ze is bepalend voor de bebossing op de
 topzone.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Banhoutbos vormt een restant van een groter boscomplex uit de 18e
@@ -67,8 +68,8 @@ eeuw dat een meerwaarde krijgt dankzij het kasteel en enkele gave
 bijgebouwen (stallen, wagenhuis, boswachterswoning). Enkele hoeves zijn
 gaaf bewaard en vormen landbouwkundig erfgoed van de ankerplaats.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze top biedt vergezichten naar de
 verstedelijkte Leievallei en naar het kanaal Kortrijk-Bossuit. De
@@ -77,8 +78,8 @@ Het kasteel en bijhorende gebouwen vormen één esthetisch gaaf geheel
 binnen de parkaanleg van het Banhoutbos en de dreven.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De topzone en de oriëntatie van de interfluvium zijn bepalend voor
 het wegenpatroon en drevenpatroon rond het bos. Dankzij de bebossing en
@@ -86,13 +87,14 @@ het omringende open landschap vormt de top een baken.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -114,7 +116,7 @@ topzones van interfluviale kam tussen Schelde en Leie
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -139,7 +141,7 @@ kasteel Banhout uit 1857
 
 nabij kasteel Banhout
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -157,8 +159,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats wordt doorsneden door een bovengrondse
 hoogspanningsleiding die afbreuk doet aan de belevingswaarde van het

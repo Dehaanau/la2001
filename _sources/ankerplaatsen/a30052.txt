@@ -1,13 +1,13 @@
 Duinbossen tussen Oostende en Wenduine met Concessie De Haan
 ============================================================
 
-Anker ID: A30052
-----------------
+:Ankerplaats ID: A30052
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats bevat het strand en de duinen van Oostende tot ten
 westen van Wenduine. Ze wordt in het zuiden begrensd door de N317 en de
@@ -78,12 +78,13 @@ gebouwd waarvan nog resten aanwezig zijn.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De graduele overgang van strand naar duinen is gaaf en natuurlijk
 waarbij sommige duinen restanten vormen van vroegere duinenlandschappen.
@@ -92,8 +93,8 @@ rijke flora die naar uitzicht gradueel verandert van oost (duinbos) naar
 west (duinstruweel en duingraslanden). De lang gerekte duinengordel
 vormt voor talrijke fauna een ideaal biotoop.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In 1889 werd het duinengebied De Haan in concessie gegeven met de
@@ -107,8 +108,8 @@ bouwkundig en militiar erfgoed als één van de weinige bewaarde forten
 uit het begin van de 19e eeuw én door zijn ligging nabij Oostende dat in
 vele conflicten een strategische rol had.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het grillige duinreliëf geeft samen met de
 veranderende openheid, te wijten aan verschillende begroeiing, de duinen
@@ -123,8 +124,8 @@ Normandische stijl. De Haan is uniek in België dankzij de weinige
 hoogbouw.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De duingordel vormt een visuele barrière tussen het strand en de
 bebouwing (tenzij De Haan) achter en in de rest van het duinfront. De
@@ -133,13 +134,14 @@ de kleur bakens langs de kust.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -155,7 +157,7 @@ overgang strand-duin (duinklif)
 
 strand - duinklif - duinen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
@@ -178,7 +180,7 @@ fort Napoleon; talrijke bunkersites in duinen
  **Andere:**
 zeepreventorium
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -188,7 +190,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 duinen tegen zeewerende dijken ontstaan
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -208,8 +210,9 @@ in duinakkers
 
 graslanden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De geomorfologische en ecologische kenmerken van het duinengebied dient
 gerespecteerd en behouden te blijven vanwege hun waarde en vanwege de

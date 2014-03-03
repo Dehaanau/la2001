@@ -1,15 +1,15 @@
 Maasterrassen en Schootsheide
 =============================
 
-Anker ID: A70041
-----------------
+:Ankerplaats ID: A70041
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het landschap bevindt zich in het grensgebied van Elen, Neeroeteren en
 Rotem, in de overgangszone van het Kempens Plateau naar de Maasvallei.
@@ -116,12 +116,13 @@ Schootsheide, nog een bijzondere betekenis.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De overgangszone tussen het Kempens Plateau en de Maasvallei wordt
 gekenmerkt door een eigen dynamiek. Het reliëf werd gevormd door een
@@ -134,8 +135,8 @@ Bergerven en De Warre. Het uitgesproken reliëf en talrijke gradiënten
 zijn de basis voor een gediversifieerd gebied, waarvan de
 landschappelijke verscheidenheid ook een hoge ecologische waarde bezit.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De cultuurhistorische ontwikkelingen hebben geleid tot een
@@ -147,8 +148,8 @@ landschap afgelezen worden. De elementen van bouwkundig en
 infrastructureel erfgoed zijn daarmee nauw verbonden. Ook het patroon
 van de landwegen hangt met de ontginningsgeschiedenis samen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 In zijn geheel benadert het gebied een
 compartimentenlandschap. Gesloten naaldhoutcomplexen of
@@ -164,7 +165,7 @@ Zuid-Willemsvaart in het landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied is educatief bijzonder
@@ -174,8 +175,8 @@ fietsroutenetwerk in de regio. Voor de omgevende dorpen heeft ook de
 kapel van de Weerstand, aan de rand van het Gemeentebos Schootsheide,
 nog een bijzondere betekenis.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vormingsgeschiedenis door de Maas, de aanleg van de
 Zuid-Willemsvaart en de noordoostgerichte Zanderbeek met zijn zijtakken
@@ -185,13 +186,14 @@ tussen Maaslandse Kempen en alluviale vlakte.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -241,7 +243,7 @@ groeve te Berg
  **Andere:**
 stuifzand
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -302,7 +304,7 @@ oorspronkelijke tapsluizen aan de Zuid-Willemsvaart
 
  **Archeologische elementen:**
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -332,7 +334,7 @@ As-Maaseik
 
 o.a. Zuid-Willemsvaart met voetgangersbrug, tapsluizen, Losbeek
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -400,8 +402,9 @@ o.a. Armenbos, gemeentebos Schootsheide
 bevloeiing van de wateringen, ontwatering via Losbeek, Zanderbeek
 e.a.
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Weliswaar is de woningbouw in het gebied nog beperkt, toch dreigt de
 lintbebouwing langs de verbinding Elen - Neeroeteren het landschap te

@@ -1,13 +1,13 @@
 Krekengebied Assenede
 =====================
 
-Anker ID: A40005
-----------------
+:Ankerplaats ID: A40005
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het krekengebied van Assenede, in het noorden van de provincie
 Oost-Vlaanderen, strekt zich uit tussen de Graaf- Jansdijk in het westen
@@ -159,12 +159,13 @@ het eigenlijke zeekleigebied van Zeeuws- Vlaanderen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze kreken zijn gelegen in het krekengebied van Zeeuws-Vlaanderen.
 Het zijn restanten van een oud krekenstelsel. Als gevolg van zware
@@ -172,8 +173,8 @@ zeeoverstromingen schuurde het water de diepe geulen in de laaggelegen
 gronden uit. De mariene oorsprong van de kreken is duidelijk door het
 voorkomen van zoutminnende planten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Loop van de kreek is duidelijk herkenbaar op Ferraris, Vandermaelen
 en MGI 1/20,000. In het patroon van de dijken zijn de doorbraakpunten
@@ -182,16 +183,16 @@ Nicasiuspolder is van groot archeologisch belang: er is een zandige
 opduiking met een grafheuvel uit de bronstijd.Tussen de Hollekesdijk en
 de Mariapolderdijk ligt de voormalige havengeul van Assenede.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kreken zijn gelegen in een open
 polderlandschap, met enkele bomenrijen langs de oever van de kreek.
 Resten van vroegere kreken te herkennen op de orthofoto, deze zijn nu
 verland.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kreken met de dijken zijn typeren voor de polders. De kreken
 hebben een hoekig verloop, dit doordat het instromende water bij het
@@ -201,13 +202,14 @@ bewoning is, op enkele hoeves na, aan de dijken gebonden (dijkhuisjes).
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -231,7 +233,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -249,7 +251,7 @@ molenhof
 **Archeologische elementen:**
 grafheuvel uit bronstijd in Nicasiuspolder
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -265,7 +267,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -304,8 +306,9 @@ Bodemloze Put, Verzelesput
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het waterpeil in het poldergebied wordt door de doorgedreven
 ontwatering, voornamelijk vanuit landbouwkundige en economische

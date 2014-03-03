@@ -1,15 +1,15 @@
 Daknamse Meersen
 ================
 
-Anker ID: A40020
-----------------
+:Ankerplaats ID: A40020
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Ten noorden van de bebouwde kern van Lokeren en ten oosten van de
 Durme ligt het meersengebied van Daknam. De Daknamse Meersen zijn
@@ -75,12 +75,13 @@ hoogstammige bomen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Daknamse meersen zijn in nat valleigebied gelegen. De
 getijdewerking is pas verdwenen in 1953, na het afdammen van de Durme in
@@ -88,8 +89,8 @@ Lokeren. In het noorden en het oosten van het gebied zijn landduinen
 aanwezig, ze zijn ongeveer 1 meter hoger dan de aanpalende meersen. Op
 bepaalde percelen is een rijke flora aanwezig.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de Ferrariskaart zien we meersen en natte weilanden, met een
@@ -98,8 +99,8 @@ het gebied veel kleinschaliger met perceelsrandbegroeiing en enkele
 bospercelen. De Daknamse meersen worden doorsneden door de oude
 spoorwegberm Lokeren - Moerbeke. Er zijn enkele kerkwegels aanwezig.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een zeer kleinschalig landschap
 met hooilanden, rietveldjes, natuurlijk ontwikkelde bosjes,
@@ -110,14 +111,14 @@ elzenstruiken.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Er is passieve recreatie vanop de
 spoorwergberm en rivierdijk mogelijk.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De meersen liggen, ten noorden van Lokeren, langs de Durme verspreid.
 De voormalige spoorwegberm doorsnijdt het gebied, van daarop en vanop de
@@ -128,13 +129,14 @@ zijn bijna volledig door bewoning ingepalmd.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -169,7 +171,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -179,7 +181,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 Kerk van Daknam
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -202,7 +204,7 @@ geasfalteerd
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -260,8 +262,9 @@ niet typisch voor een meersengebied
 
 vermoedelijk voorheen vloeiweide
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Om een natuurvriendelijk waterpeil in te stellen is het bouwen van
 stuwen noodzakelijk. Vanaf 1997 is al een stap in de goede richting

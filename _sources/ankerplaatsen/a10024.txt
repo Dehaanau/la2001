@@ -1,13 +1,13 @@
 Kasteel van Schoten
 ===================
 
-Anker ID: A10024
-----------------
+:Ankerplaats ID: A10024
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Kasteel van Schoten' betreft een waardevol kasteelpark
 gelegen in het zuiden van de gemeente, ten westen van de kruising van
@@ -41,19 +41,20 @@ sinds het in 1950 gemeente-eigendom werd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het kasteelpark bevat nog een behoorlijk oud en gevarieerd
 bomenbestand, dat een belangrijke dendrologische waarde
 vertegenwoordigt.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Reeds in 1232 wordt melding gemaakt van de hoeve 'Hof van Schoten'.
@@ -66,16 +67,16 @@ uitgevoerd. Ook te vermelden zijn de prachtige rococopoort met
 wapenschilden en embleem en de 'Valkentoren', die nog een overblijfsel
 is van de versterkte inrijpoort uit de 16de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het klein kasteelpark vormt nog een restant
 groene ruimte binnen de dichte bebouwing. Het park omvat tevens een
 oude, majestueus bomenbestand
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De oude beukendreef die naar het kasteel leidt is een opvallend
 element tussen de dichte bebouwing. Als geheel vormt het Kasteelpark nog
@@ -83,11 +84,11 @@ een kleine groene ruimte binnen bebouwd gebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -118,7 +119,7 @@ Riddershoeve
  * gedenkteken
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -137,8 +138,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het park, horende bij het kasteel van Schoten, kent een sterke
 recreatiedruk, die zich duidelijk maakt in de aanwezigheid van

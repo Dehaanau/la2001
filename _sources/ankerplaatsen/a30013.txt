@@ -1,13 +1,13 @@
 Westhoekduinen - Duinen Cabourg - De Moeren - overgang plateau van Izenberghe
 =============================================================================
 
-Anker ID: A30013
-----------------
+:Ankerplaats ID: A30013
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats omvat een landschappelijke sekwentie van zee-strand
 over de Jonge Duinen van het Westhoekreservaat - een stukje polder -
@@ -192,12 +192,13 @@ waardevol weilandcomplex.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Oud duinmassief. Opeenvolging van parallelle en secundaire
 duinvormen. Bestaat uit noordelijke duinengordel (zeereep, voorduinen,
@@ -210,8 +211,8 @@ tijdens WOII nog onder water gezet. Overgang naar het plateau van
 Izenberghe en de overgang van polder naar zandig Vlaanderen ten zuiden
 van de Bergenvaart is zeer opvallend.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Aanwezigheid van de "Oude Duinen van De Panne" onder het huidige
@@ -226,8 +227,8 @@ Nieuwpoort. Zeer late en systematische ontginning van De Moeren die nog
 gaaf en herkenbaar is. De overgangszone naar het plateau is een zeer
 vroeg ontgonnen gedeelte dat reeds zeer lagen onder landbouwland ligt.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Gaaf zicht, doorkijkpunt duinen - polders. Van in
 Cabourg duinen zeer ver zicht naar De Moeren en naar het plateau van
@@ -237,13 +238,13 @@ perceelsranden en bij boerderijen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Westhoekreservaat
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De twee duincomplexen (Westhoek en Cabourg) structureren de wegen
 volgens een WSW-ENE patroon evenals het Langgeleed. Ten zuiden van
@@ -254,12 +255,13 @@ geaccentueerd door de begeleidende dreven en bomenrijen.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -278,7 +280,7 @@ Langgeleed
  **Andere:**
 Moeren zijn een oud zandwadgebied en zoetwatermeer
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -324,7 +326,7 @@ oude bewoningspatronen in Wethoekduinen
  **Andere:**
 de vele brugjes in De Moeren; douaneposten in de Moeren
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -337,7 +339,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Ringslot en Bergenvaart rond Moeren met grachtenstelsel.
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -357,8 +359,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit omvangrijke gebied wordt doorsneden door de autostrade van Brugge
 naar Calais. Daardoor is de overgang van Cabourg duinen naar De Moeren

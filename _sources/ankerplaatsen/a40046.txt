@@ -1,13 +1,13 @@
 Omgeving van Tissenhovemolen
 ============================
 
-Anker ID: A40046
-----------------
+:Ankerplaats ID: A40046
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats is tussen de dorpjes Mater en Horebeke gelegen. Rond
 de Tissenhovemolen ligt de kouter van Horebeke. Ten westen daarvan ligt
@@ -88,12 +88,13 @@ geproduceerd zijn is hetzelfde landschapsbeeld behouden gebleven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De hoger gelegen kouterruggen zijn resistenter aan erosie vergeleken
 met de asymmetrisch ingesneden beekvalleien. Deze beekvalleien vormen
@@ -102,8 +103,8 @@ Perlinckbeek ontwateren. Karakteristiek zijn de brongebieden; deze
 bronzones ontstaan op het contact van tertiaire zand- en kleilagen met
 geassocieerde rijbewoning.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand bij Ferraris (ca. 1775): landschap met kleine percelen
@@ -115,8 +116,8 @@ sinds de Ferrariskaart weining gewijzigd. De watermolen op de Oossebeek
 was reeds op Ferraris aanwezig, van de kleinschalige dorpjes bleef de
 structuur bewaard.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Site van de molen gelegen in een open landschap
 met grote regelmatige percelen. Ten westen ervan is duidelijk een
@@ -127,7 +128,7 @@ Horebeke liggen in het glooiende landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In de Tempelstraat, de vroegere
@@ -139,8 +140,8 @@ Olijfberg'. Het oude wegkapelletje, onder linden naast de Sint-
 Amelbergakouter duidt de site aan. Het is het keerpunt van lokale
 processies en stoeten.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 de hooggelegen kouters liggen onder akkerland. Op een kouter staat de
 windmolen van Tissenhove. Ten westen van de kouter ligt de vallei van de
@@ -150,13 +151,14 @@ bebouwing situeert zich op de overgang van de kouters naar de valleien.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -181,7 +183,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 vallei van de Oossebeek, Spouwbeek en Borrebeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -229,7 +231,7 @@ Tissenhovemolen (windmolen) en Zwadderkotmolen (watermolen)
 
 kerk en pastorie van Mater en Horebeke
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -240,7 +242,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kasseiweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -278,8 +280,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recent neemt de residentiële bebouwing rond de dorpen Mater en
 Sint-Maria-Horebeke uitbreiding, Dit verstroord het oorspronkelijke

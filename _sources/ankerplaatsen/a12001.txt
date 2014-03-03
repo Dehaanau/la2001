@@ -1,13 +1,13 @@
 Dijlevallei tussen Mechelen en Rijmenam
 =======================================
 
-Anker ID: A12001
-----------------
+:Ankerplaats ID: A12001
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Dijlevallei tussen Mechelen en Rijmenam' is gelegen op
 grondgebied van de gemeenten Mechelen, Bonheiden en Boortmeerbeek in
@@ -85,12 +85,13 @@ waardevolle landschap.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurwetenschappelijke waarde van dit gebied wordt in de eerste
 plaats bepaald door de geologische herkenbaarheid en het gaaf gebleven
@@ -106,8 +107,8 @@ interessante randsituatie. Ook vanuit faunistisch opzicht is dit
 landschap buitengewoon interessant.Vooral vogels maar ook zeker
 amfibieën en insecten vinden er hun uitverkoren biotoop.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De nog talrijk aanwezige relicten van het oorspronkelijk alluvium,
@@ -128,8 +129,8 @@ Hottentothoeve uit het begin van de 18de eeuw. Ook te vermelden is het
 tolhuisje, gelegen ter hoogte van de Dijlebrug, dat vermoedelijk werd
 opgericht rond 1786 toen ook de houten Dijlebrug werd gelegd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit landschap in de Dijlevallei bezit nog alle
 ingrediënten van het oorspronkelijke oude rivierlandschap met dijken,
@@ -149,8 +150,8 @@ Duidelijk herkenbare beemdenstructuur langsheen meanderende beken
 en bosrestanten (cf. Ferraris); op grens met Vlaams-Brabant gelegen.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 We herkennen in deze ankerplaats direct het typische kleinschalige
 rivierlandschap, waar weilanden en broekbosjes elkaar afwisselen en
@@ -162,13 +163,14 @@ en de Hottentothoeve.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -192,7 +194,7 @@ Dijle, Boeimeerbeek, Molenbeek, Platte Beek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -227,7 +229,7 @@ tolhuisje
 
 Hottentothoeve, Mispeldonkhoeve
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -237,7 +239,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -286,8 +288,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op te merken knelpunten voor dit landschap zijn een steeds toenemende
 recreatiedruk -die zich landschappelijk uit onder vorm van visvijvers en

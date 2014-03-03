@@ -1,13 +1,13 @@
 Bos van Ranst
 =============
 
-Anker ID: A10038
-----------------
+:Ankerplaats ID: A10038
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Bos van Ranst ligt net ten noorden van de dorpskern van Ranst in
 de Centrale Antwerpse Kempen. De begrenzing wordt gevormd door de
@@ -71,12 +71,13 @@ ten stelligste vermeden te worden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Gelegen op een overgangszone waar afwisselend Kempische zand- en
 leemlagen te vinden zijn en kalkhoudende tot kalkrijke bodems dagzomen,
@@ -87,8 +88,8 @@ zijn reeds meer dan een eeuw onafgebroken bebost en hebben als gevolg
 daarvan een belangrijke wetenschappelijke waarde. Daarmee is het een van
 de belangrijkste boscomplexen van Antwerpen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Deze ankerplaats betreft een goed bewaard relict van het
@@ -104,8 +105,8 @@ moestuin en waterput. De ten westen gelegen hoeve 'Drogenhof' werd
 opgetrokken in de tweede helft van de 18de eeuw en heeft eveneens een
 moestuin, een waterput, alsook sporen van een omgrachting.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De afwisseling van oude gesloten bossen met open
 landbouwgebieden en de daarbij horende historische hoeven, wegen en
@@ -114,8 +115,8 @@ tussen de open en gesloten structuren, alsook de dreven en het
 parkachtige karakter van het Zevenbergenbos laten mooie zichten toe.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een bosrijk gebied net ten noorden van het
 dorp van Ranst en wordt verder omgeven door landbouwgebied. Door de
@@ -129,13 +130,14 @@ St.-Pancratiuskerk'.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -150,7 +152,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Merrebeek, Molenbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -181,7 +183,7 @@ Driepikkelhoeve, Gasthuishoeve + waterput
  * kapel
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -225,8 +227,9 @@ kasteelvijver
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De autoweg E19 vormt een onherstelbare landschapswonde en harde barrière
 doorheen dit waardevol gebied. Het Zevenbergenbos heeft te lijden onder

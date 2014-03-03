@@ -1,15 +1,15 @@
 Scheldemeersen tussen Zevergem en Schelderode
 =============================================
 
-Anker ID: A40033
-----------------
+:Ankerplaats ID: A40033
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats situeert zich tussen Zevergem en Schelderode, langs
 beide zijden van de Schelde gelegen. Dit deel van de Schelde maakt deel
@@ -104,12 +104,13 @@ Kriekestraat met een wederopgebouwde rococopoort.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied maakt deel uit van de Scheldevallei ten zuiden van Gent.
 In de brede alluviale vlakte domineren de kleigronden. De breedte van de
@@ -125,8 +126,8 @@ duidelijke steilrand die in feite samenvalt met de erosierand van de
 Vlaamse Vallei. De afgesneden meanders ontstonden vooral in de 18e eeuw
 en rond de eeuwwisseling.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de Ferrariskaart (ca. 1775) zien we een open meerslandschap met
@@ -140,8 +141,8 @@ en beplant met populieren. Het uitbrikken van de grond kende zijn
 hoogtepunt rond de eeuwwisseling. De alluviale vlakte van de
 Scheldevallei is een gebied met potentiële archeologische vindplaatsen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied heeft een vrij gesloten karakter. Er
 zijn perceelsranden (knotwilgenrijen) en bos aangeplant op de
@@ -152,14 +153,14 @@ zich de bewoning.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Aan de Sint- Elooiskapel is jaarlijks een
 ommegang met paardewijding, sinds 1960 ook een voertuigenwijding.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Centraal in de depressie ligt de Schelde met haar afgesneden
 meanders. Het alluviale gebied ligt voornamelijk onder graslanden en
@@ -169,13 +170,14 @@ en het kasteel op.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -212,7 +214,7 @@ steilrand aan Schelderode
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -259,7 +261,7 @@ kasteel van Schelderode en Welden, neerhof
 
 kerk van Schelderode en Zevergem, Sint- Elooiskapel
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -276,7 +278,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -321,8 +323,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 bosje rond Melsenbeek
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Calibrering van de Bovenschelde en de drainage van de meersgronden
 hebben een intensivering van het landbouwgebruik in de meersen

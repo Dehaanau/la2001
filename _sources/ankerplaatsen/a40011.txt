@@ -1,15 +1,15 @@
 St. Elooiskreek
 ===============
 
-Anker ID: A40011
-----------------
+:Ankerplaats ID: A40011
 
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Sint- Elooispolder, op grondgebied van Wachtebeke, aan de
 Nederlandse grens gelegen, is een complex bestaande uit akkers en weiden
@@ -106,12 +106,13 @@ dijkhuisjes.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Sint- Elooiskreek is gelegen in krekengebied ten oosten van het
 kanaal Gent-Terneuzen, te noorden van de overgang naar de dekzandrug
@@ -120,8 +121,8 @@ plantensoorten komen in en langs de kreek voor. De kreek is een restant
 van een oud krekenstelsel. Als gevolg van zware zeeoverstromingen
 schuurde het water de diepe geulen in de laaggelegen gronden uit.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De omliggende polder is ontgonnen in 1676. Op de Ferrariskaart is de
 kreek duidelijk herkenbaar, ze is gelegen in het open landschap van de
@@ -130,8 +131,8 @@ de kavelgrenzen afgezoomd met knotbomenrijen en Canadapopulieren. De
 dijken die deze polder omgeven vormen voor een groot deel de grens met
 Nederland.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De waterpartijen, met rietkragen afgezoomd, zijn
 in een vlak, open polderlandschap gelegen. Resten van vroegere kreken
@@ -140,8 +141,8 @@ met dijken omgeven, deze vormen grotendeels de grens met Nederland. De
 ligging van de dijken wordt door de bomenrijen bovenop het dijklichaam
 geaccentueerd.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kreken met de dijken zijn typerend voor de polders. De kreken
 hebben een hoekig verloop, dit doordat het instromende water bij het
@@ -152,13 +153,14 @@ Nederland omgeven.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -184,7 +186,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 kwel
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -200,7 +202,7 @@ Hoeve St- Elooi (1799)
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -217,7 +219,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Sluis voorzien van steen met jaartal 1784
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -252,8 +254,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit is een gebied waar er vrij weinig gegevens over zijn. Door
 intensivering van de landbouw en de toenemende bioindustrie is er een

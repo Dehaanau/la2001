@@ -1,13 +1,13 @@
 Abdij en bos van Averbode en Gerhagen
 =====================================
 
-Anker ID: A17003
-----------------
+:Ankerplaats ID: A17003
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De abdij van Averbode ligt op het grondgebied van drie gemeenten en
 provincies: Scherpenheuvel-Zichem (Vlaams-Brabant), Tessenderlo
@@ -102,12 +102,13 @@ geven verbinding met de ruimere regio, zoals ook richting abdij.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap strekt zich uit tussen de getuigenheuvels die hier als
 uitlopers van het Hageland aanwezig zijn, op de overgang naar de Kempen.
@@ -117,8 +118,8 @@ vochtigheid enz.) zijn de basis voor landschappelijke verscheidenheid
 met bossen, graslanden, heiderelicten, duin- en stuifzandvegetaties,
 lineaire landschapselementen, struwelen, vennen, vijvers enz.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De abdij speelde een zeer belangrijke rol bij de ontginning en
@@ -139,8 +140,8 @@ van een bakstenen Oude Molen aan de Houterenberg is er op de Molenberg
 in Achterheide een gelijknamige, houten windmolen van het
 bovenkruiertype. Ten oosten ligt de site van de Gerhagenschans.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De barokke abdijkerk, het gotische poortgebouw in
 diestiaanzandsteen en de overige gebouwen die werden opgetrokken in rode
@@ -151,7 +152,7 @@ Zandberg zichten op de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De abdij van Averbode is nog steeds een
@@ -163,8 +164,8 @@ gebied is volledig verkeersvrij. Vanuit het Bosmuseum vertrekken geleide
 wandelingen. Wandel-, fiets- en ruiterpaden zijn er uitgestippeld en
 geven verbinding met de ruimere regio, zoals ook richting abdij.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De aanwezigheid van de abdij en de invloed die er vanuit ging, waren
 bepalend voor de opbouw en organisatie van het landschap. De omgevende
@@ -172,13 +173,14 @@ bossen zijn door hun uitgestrektheid uniek voor deze regio.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -217,7 +219,7 @@ o.a. Pinnekenswijer
 **Andere:**
 stuifzand
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -269,7 +271,7 @@ Weëen
 
 o.a. graven van Ernest Claes en Armand Boni, muren, poorten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -280,7 +282,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 straalvormig patroon rond centrale abdij
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -327,8 +329,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. Averbodebos, Averbodeheide, Houterenberg, Nac
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap heeft plaatselijk erg te leiden onder de hoge
 recreatiedruk. De recente bebouwing levert geen bijdrage tot de

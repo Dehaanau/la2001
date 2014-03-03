@@ -1,13 +1,13 @@
 Hoge Netelaar - Groenenburgh
 ============================
 
-Anker ID: A30041
-----------------
+:Ankerplaats ID: A30041
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt tussen de Meense Weg van Ieper naar Menen, en de
 Komense Weg van Ieper naar Komen. Ze ligt gedeeltelijk op grondgebied
@@ -62,12 +62,13 @@ hun contrast met de open omgeving sterk op.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankeprlaats ligt rond het interfluvium tussen Ijzer- en
 Schelde-Leiebekken. Het reliëf en de hydrografie bepalen nog in grote
@@ -76,8 +77,8 @@ die waarschijnlijk door de geologische gesteldheid bepaald worden;
 Sommige beken hebben ter hoogte van hun bron een bos met waardevolle
 vochtminnende flora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De bossen langs deze kam liggen op marginale landbouwgronden en zijn
@@ -89,8 +90,8 @@ door een bosrijke omgeving. De meeste hoeves dateren van kort na WOI en
 Lindehof en Pollepelhof hebben nog een chicorei-ast vlakbij die
 belangrijk industrieel-archeloigsch erfgoed vormt van deze streek.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De grote natuurlijke reliëfsverschillen
 veroorzaakt door de hydrografie, zorgen voor een visueel-ruimtelijke
@@ -103,13 +104,13 @@ bij aan de esthetische waarde van het landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 \*
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De grote natuurlijke reliëfsverschillen veroorzaakt door de
 hydrografie, bepalen in grote mate het landgebruik en zorgen samen met
@@ -117,13 +118,14 @@ de boscomplexen voor een viuseel-ruimtelijek compartimentering.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -146,7 +148,7 @@ interfluvium Ijzer en Schelde-Leie
 
 Bassevillebeek, Vijverbeek, Drieblotenbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -180,10 +182,10 @@ restanten loopgraven, kerkhoven, hill62
 
 oorlogsmonumenten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -203,8 +205,9 @@ als perceelsrandbegroeiing, toegangsdreef kerkhof, dreven in bossen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De nieuwe uitbreidingen bij landbouwbedrijven doen afbreuk aan de
 esthetische waarde van het oorspronkelijke en vaak gaaf bewaard

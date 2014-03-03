@@ -1,13 +1,13 @@
 Neigembos
 =========
 
-Anker ID: A24006
-----------------
+:Ankerplaats ID: A24006
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Het Neigembos ligt op de grens van Oost- Vlaanderen en Brabant, ten
 zuidoosten van Ninove, op het grondgebied van de Ninoofse deelgemeenten
@@ -97,20 +97,21 @@ Deze kapel is nu nog steeds een bedevaartsoord.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Neigembos is gelegen op een zuidwest- noordoost gerichte
 heuvelrug die de waterscheiding vormt tussen het Dender en het
 Zennebekken. Door het dagzomen van geologisch lagen komen talrijke
 bronnen op de flank voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Dit bos was een deel van vroeger grote Kolenwoud, de natuurlijke
@@ -133,8 +134,8 @@ toponiem "Woestijn" verwijst naar "Wastina" was woestenij wil zeggen. De
 eerste kapel dateert van voor 1300, de huidige werd pas in de 17e eeuw
 gebouwd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Sterk wisselend reliëf, grote verscheidenheid aan
 landschappelijke elementen, intieme ruimten wisselen af met weidse
@@ -142,14 +143,14 @@ vergezichten.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Kruiskapel is nu nog steeds een
 bedevaartsoord.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De steile hellingen zijn bebost. De minder steile hellingen liggen
 onder akkerland. In de vallei van de Molenbeek, die aan de voet van de
@@ -160,12 +161,13 @@ de kleine dries van Neigem verbonden.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -198,7 +200,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -261,7 +263,7 @@ loopgraven uit WO I
 
 Kruiskapel, Kapel O-L-V van Bevingen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -271,7 +273,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -306,7 +308,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Lintvormige bewoning dringt het bos binnen.

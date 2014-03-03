@@ -1,13 +1,13 @@
 Vallei van de Grote Nete rond de Herenbossen
 ============================================
 
-Anker ID: A10067
-----------------
+:Ankerplaats ID: A10067
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap 'Vallei van de Grote Nete rond de Herenbossen' is
 gelegen op grondgebied van de gemeenten Hulshout en Heist op den Berg in
@@ -92,12 +92,13 @@ infiltreert.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van dit landschap wordt in de eerste
 plaats bepaald door de relatief gaaf bewaarde relatie tussen vooral de
@@ -109,8 +110,8 @@ loofbossen (Herenbossen), broekbos, struwelen, historisch permanente
 graslanden e.d., wat resulteert in een afwisselend landschap waar
 talrijke flora- en faunasoorten geschikt habitat vinden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het grondgebruik in dit valleilandschap gaat in oorsprong terug tot
@@ -130,8 +131,8 @@ opklimmen tot voor 1700; de stal, de schuur en het bakhuis zijn van
 latere datum. De mijlpaal 'Toreken' werd opgetrokken in 1842 bij de
 afwerking van de weg die Hulshout met Booischot verbindt.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit landschap betreft een mooi geheel van de
 Herenbossen met het valleigebied en gaaf bewaarde beemden van de Grote
@@ -142,8 +143,8 @@ van dit landschap. Dankzij de afwezigheid van visueel storende
 elementen, biedt deze ankerplaats tevens aantrekkelijke zichten.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een mooi bewaard voorbeeld van een
 beekdallandschap in de zuidelijke Kempen. De aaneensluiting van vochtige
@@ -159,13 +160,14 @@ landschap ontstaan.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -195,7 +197,7 @@ Grote Nete, Molenbeek, Oude Molenbeek, Steenkensbeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -243,7 +245,7 @@ Kasteelhoeve 't Bergske + bakhuis
 
 mijlpaal
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -254,7 +256,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -299,8 +301,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Teneinde de waarden van dit landschap voor de toekomst veilig te stellen
 dient erop worden toegezien dat de antropogene invloed, die duidelijk

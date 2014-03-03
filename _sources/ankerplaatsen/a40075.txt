@@ -1,13 +1,13 @@
 Sint-Antelinks en Duivenbos
 ===========================
 
-Anker ID: A40075
-----------------
+:Ankerplaats ID: A40075
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats bevindt zich op grondgebied van Herzele, tussen Sint-
 Lievens- Essen en Sint- Antelinks. Door de ankerplaats stroomt de
@@ -59,12 +59,13 @@ gedateerd. Een O-L-Vrouwekapelletje in baksteen dateert uit de 19e eeuw.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Duivenbos, dat ten noordoosten van de dorpskern van Sint-
 Antelinks ligt, is bodemkundig in de leemstreek te situeren.
@@ -72,8 +73,8 @@ Geomorfologisch betreft het een smal, diep ingesneden v- vormig,
 asymmetrisch valleitje. De Tertiaire afzettingen worden door Paniseliaan
 afzettingen gevormd.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De dorpsstructuur, inclusief wegennet, is nog perfect herkenbaar
@@ -83,16 +84,16 @@ kleinschaliger dan op Ferraris. Het gesloten karakter van de vallei, met
 knotbomen en houtkanten, bleef bewaard. In de vallei komen verschillende
 historische hoeves voor.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De diep ingesneden vallei met het deels gesloten,
 deels coulissenlandschap, geeft een gave indruk. De grote hoeves zijn
 mooi in het landschap ingeplant.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In de vallei, waar de percelen als grasland gebruikt worden, komen
 heel wat taluds voor. Op verschillende plaatsen komen bronnen voor. Op
@@ -104,13 +105,14 @@ Tortelboom. Het dorp Sint- Antelinks ligt bovenaan de heuvel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -140,7 +142,7 @@ bronnen
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -166,7 +168,7 @@ Hof te Ransbeke, Hof Tortelboom
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -176,7 +178,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

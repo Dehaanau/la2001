@@ -1,13 +1,13 @@
 's Herenbos, Heihuizen en Zalfen
 ================================
 
-Anker ID: A10016
-----------------
+:Ankerplaats ID: A10016
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats ''s Herenbos-Heihuizen-Zalfen is gelegen op grondgebied
 van de gemeente Malle (Oostmalle) in de Antwerpse Noorderkempen. De
@@ -52,12 +52,13 @@ waardevolle ruimte tussen Oostmalle, Zoersel en Wechelderzande.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het voorkomen van verschillende bostypes en een opmerkelijke
 horizontale structuurdiversiteit geven het complex 's Herenbos-Heihuizen
@@ -68,8 +69,8 @@ gelegen Domein de Renesse en het zuidelijk gelegen Blommerschot is dit
 landschap belangrijk als broedgebied voor een groot aantal roofvogels en
 ook vleermuizen vinden hier geschikte verblijfplaatsen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Reeds bij Ferraris (1777) betrof een belangrijk gedeelte van het
@@ -83,8 +84,8 @@ dit gehucht. Opmerkelijk is ook de St.-Antoniuskapel die teruggaat tot
 de grote pestepidemie van 1625-1628. Het kasteel Heihuizen in sobere
 neorococostijl werd opgetrokken in het begin van de 20ste eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De uitgestrektheid van dit gebied, alsook de
 afwisseling in bostypes en in vegetatiestructuur geven het een
@@ -94,15 +95,15 @@ historische karakter van dit landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De St.-Antoniuskapel van Zalfen vindt haar
 ontstaan tijdens een pestepidemie in de 17de eeuw en groeide in de loop
 der tijden uit tot een belangrijk bedevaartsoord.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een uitgebreid boscomplex dat grenst aan
 'Domein de Renesse' in het noordwesten, en 'Domein Blommerschot en
@@ -114,13 +115,14 @@ waardevolle ruimte tussen Oostmalle, Zoersel en Wechelderzande.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -135,7 +137,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Zalfense Beek, Lopende Beek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -166,7 +168,7 @@ Kasteel Heihuizen
 
 St.-Antoniuskapel van Zalfen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -176,7 +178,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oude wegenstructuur
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -213,8 +215,9 @@ historisch stabiel bos
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De slechte waterkwaliteit van de Lopende Beek heeft een nadelige invloed
 op de natuurwetenschappelijke waarde van dit gebied.

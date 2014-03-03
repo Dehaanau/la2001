@@ -1,13 +1,13 @@
 Houtsaegerduinen
 ================
 
-Anker ID: A30049
-----------------
+:Ankerplaats ID: A30049
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt tussen de bebouwing van De Panne en Koksijde. In
 het noorden wordt ze afgesneden van het strand en de zeereepduinen door
@@ -36,20 +36,21 @@ voor avifauna (als broed-, rust- en foerageerplaats).
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Houtsaegherduinen hebben een gefixeerd paraboolduinenlandschap dat
 aansluit op de Westhoekduinen. Dankzij de gevarieerde en graduele
 veranderingen van duinkam tot panne heeft het een floristische rijkdom.
 Het Kerkepannebos herbergt een rijke flora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Kerkepannebos aan de zuidelijke rand is één van de oudste
@@ -57,8 +58,8 @@ bosaanplantingen langs de Belgische Westkust. De restanten van
 duinakkers getuigen van de ontginning van de duinen als akkerland; de
 perceelsstructuur is goed herkenbaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De grote reliëfsverschillen op korte afstand én
 de afwisseling van struweelbegroeiing en duingraslanden geven deze
@@ -68,13 +69,14 @@ begrenzing van de duinen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -83,7 +85,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 paraboolduinen
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -103,8 +105,9 @@ Kerkepannebos; struweel in de duinen
  **Andere:**
 duingrasland
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het noorden liggen enkele tennispleinen binnen het duinengebied die
 landschappelijk storen. De ankerplaats is gekneld tussen de bebouwing

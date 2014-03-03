@@ -1,15 +1,15 @@
 Abdijsite Herkenrode
 ====================
 
-Anker ID: A70005
-----------------
+:Ankerplaats ID: A70005
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De abdijsite Herkenrode ligt in de Demervallei, in een overgangsgebied
 tussen de Lage Kempen en Haspengouw, ten zuiden van de dorpskern van
@@ -118,18 +118,19 @@ omvangrijke bakhuis bleven bewaard.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Engels park uit het tweede kwart van de 19de eeuw bezit een
 dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De abdijsite Herkenrode is een uitgestrekt historisch domein dat
@@ -143,8 +144,8 @@ andere lineaire elementen, de oude wegverbindingen, het grachtenstelsel
 en de verschillende rivierarmen, het voorkomen van plaggenbodems, de
 tuinrestanten en het Engels park.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De abdijsite vormt een structureel geheel van
 historische gebouwen, omringd door een variatie aan beemden, akkers,
@@ -154,7 +155,7 @@ ten oosten van het gebouwencomplex.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De 18de eeuwse abdisvleugel kreeg in 1972
@@ -164,8 +165,8 @@ en/of culturele vlak. Het domein is grotendeels toegankelijk voor
 wandelaars die er verpozing vinden aan de rand van de Hasseltse
 agglomeratie.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Demer was medebepalend voor de organisatie van het landschap rond
 de abdij, die na haar stichting zelf uitgroeide tot een monumentaal en
@@ -173,13 +174,14 @@ structurerend geheel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -205,7 +207,7 @@ o.a. Demer, Tuilterdemer
 
 vochtig grasland
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -254,7 +256,7 @@ voormalige abdij Herkenrode
 archeologische site rondom de centrale overblijfselen van de
 voormalige abdijkerk
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -273,7 +275,7 @@ verbindingen met het Altenhof en met Stokrooie
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -329,8 +331,9 @@ telkens een molenvijver achter de twee watermolens
 
 uitgebreid grachtensysteem voor bevloeiing en ontwatering
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De landbouwactiviteiten van de laatste decennia hadden als voornaamste
 gevolg de omzetting van weiden en hooilanden naar maïsakkers. Daarnaast

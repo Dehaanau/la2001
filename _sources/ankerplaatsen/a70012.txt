@@ -1,15 +1,15 @@
 Bellevuebos en kastelen van Gors-Opleeuw
 ========================================
 
-Anker ID: A70012
-----------------
+:Ankerplaats ID: A70012
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Gors-Opleeuw ligt op het overgangsgebied tussen Droog- en
 Vochtig-Haspengouw, door riviererosie plaatselijk sterk versneden.
@@ -85,12 +85,13 @@ witgekalkte, gesloten hoeve uit de 18de eeuw met latere verbouwingen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geografisch bevindt het landschap zich op het talud tussen Laag- en
 Midden-België. De steilrand valt hier samen met de grens tussen Droog-
@@ -100,8 +101,8 @@ landschapsvormende factor. Dergelijke overgangsgebieden worden
 gekenmerkt door een eigen dynamiek en zijn bijgevolg in geografisch
 opzicht uitermate belangrijk.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De dubbele identiteit van Gors-Opleeuw, bestaande uit Gorsleeuw en
@@ -115,8 +116,8 @@ historisch stabiele Bellevuebos (128 ha) - voormalig jachtdomein - als
 hellingbos op de steilere oosthelling van de vallei van de Winterbeek.
 Aan de rand ervan enkele vroegere jachtpaviljoenen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Van belang zijn de architecturale waarde van de
 pittoreske dorpskom van Gorsleeuw (o.a. kasteel met park, kerk,
@@ -130,7 +131,7 @@ omgeving, tot zelfs de Kempense en Luikse steenkoolbekkens toe.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Sinds 1999 is ongeveer de helft van het
@@ -140,8 +141,8 @@ trouwens erg attractief voor zachte recreatie. Verschillende fiets- en
 wandelroutes zijn er dan ook uitgestippeld. De bijnaam kastelendorp
 dankt het aan de aanwezigheid van maar liefst vier kastelen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Van ruimtelijk-structurerende waarde zijn enerzijds de door de
 Mombeek ingesneden, oost-west georiënteerde steilrand tussen Laag- en
@@ -150,13 +151,14 @@ beekbegeleidende Bellevuebos op de oostelijke valleihelling.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -186,7 +188,7 @@ Molenbeek of Mombeek, Winterbeek
 
 vochtige beemden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -250,7 +252,7 @@ Gallo-Romeinse vondsten
  **Andere:**
 voormalige school met onderwijzerswoning
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -260,7 +262,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Tongersesteenweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -313,8 +315,9 @@ akkergebied op hogere delen
 
 historisch stabiel Bellevuebos , hellingbos op oos
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ruilverkaveling in uitvoering. De recente bebouwing levert geen bijdrage
 tot de landschapswaarden.

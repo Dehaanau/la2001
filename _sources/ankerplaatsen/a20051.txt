@@ -1,13 +1,13 @@
 Gitterdal
 =========
 
-Anker ID: A20051
-----------------
+:Ankerplaats ID: A20051
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze archeologisch zeer belangrijke site is gelegen ten zuidwesten van
 Landen, tussen Overwinden en Walsbets. Ze is ongeveer 6,5 ha groot en
@@ -65,20 +65,21 @@ woning van Karloman, de vader van Pepijn van Landen, gestaan hebben.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze plaats heeft naast de reeds opgegraven verleden nog een groot
 archeologisch potentieel. Er bevinden zich 2 Mottes, op één van die
 mottes zou Pepijn van Landen gewoond hebben. De 2 mottes zouden
 respectievelijk een Frankische en een feodale verdedigingsheuvel zijn.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De Franken vestigden zich op de eerder door de Romeinen bewoonde
@@ -88,15 +89,15 @@ hertog Jan II van Brabant de stad Landen "Borchtlanden" op haar huidige
 plaats gesticht. Vanaf dan kwijnde de oude stad Sint-Gertrudis weg en in
 de 18 de eeuw werd de vervallen kerk afgebroken.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Men kan hier het archeologisch openluchtmuseum
 van de Ouderstad of Sint-Gertrudis bezichtigen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Deze plaats is de bakermat van de
@@ -106,12 +107,13 @@ hebben gehad op de geschiedenis.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -125,7 +127,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -159,10 +161,10 @@ enkel ruïne
  **Archeologische elementen:**
 Opgravingen, Merovingische en Karolingische nederzettingen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -171,8 +173,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Site ingesloten tussen terreinen met bestemming industrie- of woonzone.
 

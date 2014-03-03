@@ -1,13 +1,13 @@
 Duinpolderovergang Ten Bogaerde
 ===============================
 
-Anker ID: A30054
-----------------
+:Ankerplaats ID: A30054
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt op het grondgebied van de gemeenten Veurne en
 Koksijde, ten westen van het militair vliegveld van Koksijde. In de
@@ -76,12 +76,13 @@ landschap.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De gave duin-polderovergang én, in het bijzonder, de actieve
 overstuiving van poldergronden maken van dit gebied een unicum in
@@ -90,8 +91,8 @@ flora. Langs deze overgangszone zorgt kwelwater ook voor zeer specifieke
 flora. De duinen vormen een belangrijke standplaats voor
 buntgrasmosvegetatie die zeldzaam is.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De verschillende gebouwen bij hoeve Ten Bogaerde weerspiegelen haar
@@ -103,8 +104,8 @@ polders. Het Langgeleed vormt een relict van een transportkanaal voor
 grond- en afgeleide stoffen uit de omgeving; de loop volgt bovendien een
 toegeslibde kreek.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De duin-polderovergang wordt geaccentueerd door
 de lineaire begroeiing waarbij de onderbreking ervan het actief
@@ -116,8 +117,8 @@ Bovendien vallen de gebouwen (en zeker hoeve Ten bogaerde) op in dit
 open landschap.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De duin-polderovergang vormt een zeer sterke en opvallende
 landschappelijke grens. Het opvallend bouwkundig erfgoed van de
@@ -126,13 +127,14 @@ boomgaard, vormt een dominante blikvanger in dit open polderlandschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -148,7 +150,7 @@ noordoosten ankerplaats
 
 duin-polderovergang
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -167,7 +169,7 @@ Ten Bogaerde (met schuur!), Belvédère, Kapelhof
 
 Ten Bogaerde (voormalige kerk en abdij)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -178,7 +180,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Langgeleed
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -210,8 +212,9 @@ in duinen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats ligt gekneld tussen de industriezone ten noordwesten
 van Veurne en de bebouwing van Koksijde langs de Ten Bogaerdelaan en de

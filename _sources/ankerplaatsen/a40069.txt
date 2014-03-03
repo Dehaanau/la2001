@@ -1,13 +1,13 @@
 Noorddijk-Langedijk
 ===================
 
-Anker ID: A40069
-----------------
+:Ankerplaats ID: A40069
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats, op grondgebied van Boekhoute en Bentille gelegen,
 ligt in het krekengebied. Volgens een wetenschappelijke indeling maakt
@@ -50,20 +50,21 @@ naar het noorden, naar het Leopoldskanaal.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De St -Jorispolder, een deel van de Isabellapolder, is met
 kreekrestanten doorsneden. De dekzanden zijn onder een dun marien dek
 bedolven en het pleistocene microreliëf is onvoldoende ontwikkeld om de
 ruggen ervan te laten uitsteken.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De dijk- en wegenstructuur is doorheen de tijd (vanaf Ferraris, ca.
@@ -74,8 +75,8 @@ natte graslanden op die plaatsen. Ook de perceelsstructuur is nog
 herkenbaar in het huidig beeld. De beperkte perceelsrandbegroeiing bij
 Vandermaelen is nu bijna volledig verdwenen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het complex Noorddijk-Langedijk met
 kreekrestanten en het Leopoldskanaal vormt een landschappelijk waardevol
@@ -83,8 +84,8 @@ geheel. De bijna continue dijkbeplanting is sterk beeldbepalend in het
 open landbouwlandschap.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Naast enkele interessante hoeven, oa de Stenenschuur hoeve en de
 Kerkenhofstede, vormen de dijken een belangrijke ruimtelijke
@@ -103,13 +104,14 @@ dikwijls moerassig.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -138,7 +140,7 @@ grotendeels verlande kreek
 
 verlande kreken
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -162,7 +164,7 @@ dijkhuisjes
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -181,7 +183,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Leopoldskanaal
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**

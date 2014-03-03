@@ -1,15 +1,15 @@
 Krekengebied van Kieldrecht en Meerdonk
 =======================================
 
-Anker ID: A40021
-----------------
+:Ankerplaats ID: A40021
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het krekengebied van Kieldrecht en Meerdonk strekt zich uit tussen de
 dorpen Kieldrecht-Nieuw Namen in het noorden, tot aan de grens van de
@@ -93,20 +93,21 @@ verschillen op grond van bodemgebruik.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Grote Geule en Welen van Kieldrecht zijn van mariene oorsprong,
 dit is merkbaar door de zoutminnende planten. De Grote Geule van
 Meerdonk, het Sint- Jacobsgat, het Panneweel en het Rietland liggen aan
 de overgang naar het donk van Verrebroek.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De kreken zijn ontstaan als gevolg van militaire inundaties die de
@@ -116,8 +117,8 @@ te zien, als sporen van de vroegere overstromingen. De kreken zijn op de
 kaart van Ferraris aanwezig. Het wegenpatroon is nog bewaard. Ook op de
 kaart van Vandermaelen en MGI 1:20000 zijn ze zichtbaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kreken zijn duidelijk herkenbaar op de
 orthofoto met hun bochtig verloop, gedeeltelijk met bomenrijen langs de
@@ -127,8 +128,8 @@ zich voornamelijk ten noorden van de kreken.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kreken met de dijken zijn typeren voor de polders. De kreken
 hebben een hoekig verloop, dit omdat het instromende water bij het
@@ -139,13 +140,14 @@ beplant.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -174,7 +176,7 @@ Grote Geule, Konijnenpijpen, Kieldrechtse Watergang
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -184,7 +186,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 Riethoeve
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -201,7 +203,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -242,8 +244,9 @@ laagstamboomgaard
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langsheen de Kieldrechtse Watergang werden ophogingen uitgevoerd. Dit
 gebied is deels ruilverkaveld (R.V.K Meerdonk). Het gebied wordt sterk

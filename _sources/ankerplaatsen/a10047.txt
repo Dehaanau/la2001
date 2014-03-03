@@ -1,13 +1,13 @@
 Kasteel en Kleine Netebeemden van Grobbendonk
 =============================================
 
-Anker ID: A10047
-----------------
+:Ankerplaats ID: A10047
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Kasteel en Kleine Netebeemden van Grobbendonk' is
 gelegen op grondgebied van de gemeenten Grobbendonk, Vorselaar en
@@ -111,12 +111,13 @@ infrastructuur.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats vertegenwoordigt met het alluvium van de Kleine Nete
 en de Aa en de heuvel- en duinenrug die de waterscheiding vormt tussen
@@ -129,8 +130,8 @@ uiting komt in een zeer afwisselende vegetatiestructuur. Daarnaast
 vinden ook verschillende faunasoorten geschikt voedsel- en broedhabitat
 in dit valleilandschap.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In dit landschap in de vallei van de Kleine Nete en de Aa vinden we
@@ -159,8 +160,8 @@ losstaande stal en schuur, opklimmend tot de eerste helft van de 19de
 eeuw, alsook een alleenstaand woonhuis, teruggaande tot het einde van de
 19de en begin van de 20ste eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde van deze ankerplaats wordt
 in de eerste plaats bepaald door de variatie in vegetatietypes met
@@ -174,7 +175,7 @@ valleilandschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De priorij O.-L.-Vrouw-ten-Troon, bestemd
@@ -183,8 +184,8 @@ werd na haar oprichting in 1414 al vlug een wetenschappelijk en literair
 centrum -een zogenaamd scriptorium- ter verspreiding van de
 geestescultuur.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschapsbeeld van deze ankerplaats wordt zeer sterk beïnvloed
 door het hydrografisch net, waarbij vooral de Kleine Nete en de Aa met
@@ -198,13 +199,14 @@ van een groter aaneengesloten gebied met stuifduinen en valleien.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -240,7 +242,7 @@ Schupleerloop
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -274,7 +276,7 @@ Voormalig voorgebouw v/h kasteel van Grobbendonk
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -294,7 +296,7 @@ plaatselijk oud wegenpatroon
 
 + voormalige zwaaikom
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -328,8 +330,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunten in deze ankerplaats zijn een centraal gelegen
 serrecomplex, alsook verspreid voorkomende recreatieve infrastructuur.

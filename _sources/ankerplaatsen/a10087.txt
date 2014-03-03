@@ -1,13 +1,13 @@
 Het Hemelrijk
 =============
 
-Anker ID: A10087
-----------------
+:Ankerplaats ID: A10087
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Hemelrijk' te Essen is gelegen tussen de Nederlandse
 grens in het noorden, (de straat) Hemelrijk in het oosten, de
@@ -48,19 +48,20 @@ de meest complete arboreta van de provincie Antwerpen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het arboretum Hemelrijk vertegenwoordigt een belangrijke
 dendrologische waarde en is één van de meest complete arboreta van de
 provincie Antwerpen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De historische waarde van deze ankerplaats wordt vooral
@@ -69,8 +70,8 @@ dateert uit de 19de eeuw. De quarantainestallen zijn hierbij het meest
 opvallend. Daarnaast is er het drevenpatroon dat gedeeltelijk herkenbaar
 is op de kaarten van het MGI uit 1909.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De weloverwogen combinatie van bloeiende,
 verkleurende, besdragende bomen en heesters maken het landschap
@@ -78,8 +79,8 @@ schilderachtig. Lijnen van hellingen en oevers, elementen als
 boomgroepen en vijvers resulteren in een indrukwekkend en gaaf geheel.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Als resultaat van moderne landschapsarchitectuur, hebben we hier te
 maken met een, in de omgeving ingepast, gerenoveerd en volgens plan
@@ -90,13 +91,14 @@ ook landelijke tafereel te creëren.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Hydrografische Elementen:**
 
@@ -105,7 +107,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Spillebeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -149,7 +151,7 @@ Quarantainestallen
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -173,7 +175,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  **Andere:**
 arboretum
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen.

@@ -1,13 +1,13 @@
 Vlaamse Ardennen van Koppenberg tot Kluisberg
 =============================================
 
-Anker ID: A40056
-----------------
+:Ankerplaats ID: A40056
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats van de Vlaamse Ardennen van Koppenberg tot Kluisberg,
 in het zuidwesten van de provincie Oost-Vlaanderen tussen Oudenaarde en
@@ -118,12 +118,13 @@ heuvels rond de stad kwamen vestigen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De getuigenheuvels van de Vlaamse Ardennen zijn de overblijfselen van
 de Diestiaanse zandbanken. In bepaalde theorieën neemt men aan dat ze op
@@ -141,8 +142,8 @@ voor de streek. De uitsijpelingsbronnen zijn in verschillende
 bronniveaus met bronamfitheaters aanwezig, daar waar de waterhoudende
 zandlagen en ondoordringbare kleilagen elkaar snijden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand op de kaart van Ferraris (ca. 1775): het Koppenbergbos
@@ -159,8 +160,8 @@ van Ferraris een aaneengesloten geheel. Later kromp hun oppervlakte en
 waren ze als verschillende boscomplexen op de kaarten waar te nemen. De
 bossen deden vroeger occasioneel dienst als schuilplaats.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarden van de Vlaamse Ardennen
 bestaan voornamelijk uit panoramische en gerichte vergezichten waarvan
@@ -177,15 +178,15 @@ en de Vlaamse Ardennen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De verschillende steile kasseiwegen over
 de heuvels van de Vlaamse Ardennen zijn berucht in het kader van de
 klassieke Vlaamse wielerwedstrijden zoals de Ronde van Vlaanderen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In het golvende landschap van de Vlaamse Ardennen hebben de grote
 verscheidenheid in bodemgesteldheid en het heuvelig reliëf geleid tot
@@ -201,13 +202,14 @@ landbouw ongeschikt zijn omwille van hun Diestiaan of Lediaan zand.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -238,7 +240,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Diestiaanzand en ijzerzandsteen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -296,7 +298,7 @@ Kwaremont
 
 Karel Van Wijnedaele (Kluisbergen)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -316,7 +318,7 @@ Kerkhove)
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -358,8 +360,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op vlak van de toekomstige ontwikkelingen is het van groot belang de
 kwaliteit van de open ruimte te vrijwaren en de visuele vervuiling tegen

@@ -1,13 +1,13 @@
 Kruiskensberg
 =============
 
-Anker ID: A10052
-----------------
+:Ankerplaats ID: A10052
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Kruiskensberg' is gelegen op grondgebied van de
 gemeenten Bevel, Nijlen en Itegem in de Zuiderkempen. De begrenzing
@@ -68,12 +68,13 @@ omgeving in de toekomst gevrijwaard blijven van nadelige invloeden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt bepaald door
 de vrij grote reliëfverschillen en de talrijke gradiënten in de
@@ -84,8 +85,8 @@ hoogte van de afgesneden Nete-armen. Het zuidelijke gedeelte van de
 ankerplaats -ter hoogte van de oude Nete-armen- biedt ideale
 mogelijkheden voor libellen en vleermuizen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In het landschap van vandaag vinden we nog heel wat structurerende
@@ -98,8 +99,8 @@ de voet van de Kruiskensberg zijn er vijf waterputten -als symbool van
 de wonden van de gekruisigde Christus- die dateren van 1691. De 'Blauwe
 Hoeve' klimt in kern mogelijk op tot de 18de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De ankerplaats 'Kruiskensberg' betreft een
 esthetisch aantrekkelijk landschap met uitgesproken reliëf en een
@@ -112,14 +113,14 @@ toe op de vallei van de Grote Nete toe.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Kruiskensberg betreft een oude
 bedevaartsplaats, waarvan de oorsprong zou opklimmen tot de 13de eeuw.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een zeldzame en intacte natuurlijke overgang
 tussen heide- en beemdlandschap. De Kruiskensberg is naar de Grote Nete
@@ -128,13 +129,14 @@ vorm van steilranden langsheen de afgesneden Nete-armen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -166,7 +168,7 @@ Grote Nete, Heiloop
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -194,7 +196,7 @@ ijzeren kruis
  **Archeologische elementen:**
 waterputten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -203,7 +205,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -237,8 +239,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een te vermelden knelpunt is de aanwezigheid van een weekendverblijfzone
 ter hoogte van de Kruiskensberg.

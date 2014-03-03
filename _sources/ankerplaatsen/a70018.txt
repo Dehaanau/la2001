@@ -1,15 +1,15 @@
 Kanne en plateau van Caestert
 =============================
 
-Anker ID: A70018
-----------------
+:Ankerplaats ID: A70018
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Kanne is gelegen aan de benedenloop van de Jeker, die enkele
 kilometers verder in de Maas uitmondt. Het Jekerdal, evenals het in
@@ -101,12 +101,13 @@ inkerven van oude inscripties, vuur stoken).
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Jeker is diep in het krijtsubstraat ingesneden, de oostelijke
 dalhelling doorsneden met droge valleien. De Sint-Pietersberg is het
@@ -121,8 +122,8 @@ karstverschijnselen als orgelpijpen, dolinen e.a. De wanden en plafonds
 van de groeves bieden door hun onregelmatige vormen en het aanwezige
 microklimaat overwinteringsplaatsen (hibernacula) voor vleermuizen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Kanne en het plateau van Caestert hebben een vroege en rijke
@@ -138,8 +139,8 @@ ondergrondse galerijen met een oppervlakte van tientallen ha ontstond.
 Zij bevatten tal van verwijzingen (zoals inscripties, graafkervingen,
 schilderingen e.a.) naar hun gebruik, ouderdom of uitbatingstechniek.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Kanne wordt wel eens het "witte dorp" genoemd
 omwille van de talrijke met mergelzandsteen opgetrokken of met
@@ -154,15 +155,15 @@ Kanne en het Albertkanaal.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Kanne, veruit de meest toeristische
 deelgemeente van Riemst, is vooral bekend omwille van zijn
 mergelgrotten, die er in groepsverband bezocht kunnen worden.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mede bepalend voor de configuratie van het landschap waren enerzijds
 de diep ingesneden vallei van de Jeker en anderzijds het recenter
@@ -172,13 +173,14 @@ oriënterend voor het traditionele krijtland van Millen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -217,7 +219,7 @@ Ternaaien-Boven en -Beneden
  **Andere:**
 dassenburchten, zwerfstenen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -293,7 +295,7 @@ Merovingische en latere tijden
  **Andere:**
 oud gemeentehuis, oude rijkswachtkazerne
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -304,7 +306,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 bruggen over Albertkanaal te Kanne en Vroenhoven
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -346,8 +348,9 @@ graslanden in vallei en op hellingen
 
 o.a. Carrébos, Overbos
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Uitbreiding van de cementindustrie, die nu actief is in het Luikse en
 Nederlandse gedeelte van het mergelgebied, blijft een bedreiging vormen.

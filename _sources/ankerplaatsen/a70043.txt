@@ -1,15 +1,15 @@
 Duinengordel van Opglabbeek - Gruitrode
 =======================================
 
-Anker ID: A70043
-----------------
+:Ankerplaats ID: A70043
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Nabij de grens tussen Gruitrode en Opglabbeek strekt zich een
 langgerekte duinengordel uit, die ooit als nagenoeg enige element de
@@ -100,12 +100,13 @@ meer dan ooit noodzakelijk.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Landduinen zijn één van de meest uitgesproken reliëfvormen in
 Vlaanderen. De laat-historische duinen zijn, naast rivierbeddingen,
@@ -114,8 +115,8 @@ uitzonderlijke geomorfologische waarde. Het areaal landduinen dat hier
 voorkomt behoort tot één van de grootste duinencomplexen van de
 Limburgse Kempen, 5 à 6 km lang en 500 m breed.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Eeuwenlang hield hier een gevarieerd cultuurlandschap stand. Het
@@ -135,8 +136,8 @@ aflatende inzet van de dorpsbewoners om het opschuivend stuifzand d.m.v.
 begroeiing en houtwallen tegen te houden. Bovendien zijn de duinen en
 hun omgeving belangrijke archeologische vindplaatsen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Duinlandschappen worden door velen positief
 gewaardeerd. Zij bieden een gevarieerde beleving met steeds wisselende
@@ -146,14 +147,14 @@ kerktorens en mijnterrils in de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich tot zachte
 recreatie. Wandel- en fietsroutes zijn er uitgestippeld.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het voorkomen van het duinmassief, in relatie tot de andere
 landschapseenheden, was hier bepalend voor de landschapsopbouw en
@@ -161,13 +162,14 @@ organisatie.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -201,7 +203,7 @@ o.a. Busselzijp, Kattebeek, vallei van de Bosbeek
 **Andere:**
 stuifzand
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -215,7 +217,7 @@ Zandberg
  **Archeologische elementen:**
 o.a. mesolithische vindplaatsen in de omgeving van duinen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -225,7 +227,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Geuzenbaan
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -271,8 +273,9 @@ restanten van heide en kleinschalige landbouwpercelen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Slechts op de plekken waar vegetatie ontbreekt, treedt nog aktieve
 verwaaiing op. Hoge recreatiedruk en harde recreatievormen leiden

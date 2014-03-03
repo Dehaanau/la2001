@@ -1,13 +1,13 @@
 Plateau van Duisburg
 ====================
 
-Anker ID: A20059
-----------------
+:Ankerplaats ID: A20059
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Het plateau van Duisburg is gelegen tussen de vallei van de Voer in
 het noorden en de vallei IJse-Dijle in het zuiden. Het ligt ten zuiden
@@ -70,20 +70,21 @@ verbonden met de waterbeheersingsproblematiek.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het plateau heeft een bijzonder waarde op geomorfologisch gebied
 (diepe holle wegen, diverse typen van holle wegen, asymmetrische
 colluviale dalen). Inzake flora liggen de zones met de grootste
 soortendiversiteit rond de bossen en de steilranden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op sommige plaatsen is het Romeinse kadaster zichtbaar. De Brede Weg
@@ -93,8 +94,8 @@ uit de Merovingische tijd. Rond het Raffelberghof en het Tersaarthof
 vertoont de veldindeling kenmerken van de hoogmiddeleeuwse ontginning
 (grote blokken).
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De schoonheid van het gebied is een gevolg van de
 afwezigheid van bebouwing, het golvend soms diep ingesneden reliëf en de
@@ -103,12 +104,13 @@ diepe holle wegen en droge dalen met begroeide taluds.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -129,7 +131,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -152,7 +154,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 **Archeologische elementen:**
 sporen van voormalige Romeinse heerbaan (Brede weg)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -162,7 +164,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -186,8 +188,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing langs dwarswegen, vooral bij Korbeek-Dijle, Vossem
 en Neerijse. Camping tussen Neerijse en Huldenberg, zandgroeve nabij

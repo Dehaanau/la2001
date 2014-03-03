@@ -1,15 +1,15 @@
 Vijverbroek
 ===========
 
-Anker ID: A70029
-----------------
+:Ankerplaats ID: A70029
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het Vijverbroek, met een oppervlakte van ongeveer 140 ha, bevindt zich
 in het uiterste noordoosten van de provincie Limburg bij de Nederlandse
@@ -76,12 +76,13 @@ beddensysteem.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap is bijzonder door zijn reliëfvorming. In het
 Vijverbroek komt een zeldzaam voorbeeld van een gaaf bewaarde verlande
@@ -93,8 +94,8 @@ drijftillen voor, waarop zich één van de grootste en meest intakte
 grondwaterafhankelijke elzenbroekbossen en wilgenstruwelen met diverse
 trofiegradienten ontwikkelde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In het Vijverbroek werden verschillende Romeinse munten gevonden. De
@@ -109,8 +110,8 @@ burchttoren van Kessenich als een 12de eeuwse constructie beschouwd
 worden. Het slotenstelsel aansluitend op de Raambeek werd aangelegd ten
 behoeve van de turfwinning gedurende de tweede helft van de 19de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De ligging van het Vijverbroek tussen de
 historische woonkernen Thorn, Neeritter Ittervoort en Kessenich, de
@@ -121,27 +122,28 @@ esthetische belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Vijverbroek staat bekend als een
 Stiltegebied.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bepalend is hier de verlaten maasmeander, samenvallend met de
 steilrand tussen het laagterras en de alluviale vlakte.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -171,7 +173,7 @@ Itterbeek, Raambeek, verlaten Maasmeander
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -211,7 +213,7 @@ Sint-Martinuskerk, grafkapel Michiels
  **Archeologische elementen:**
 archeologica uit Romeinse tijd en rond motte
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -227,7 +229,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Raambeek met grachtenstelsel, zogenaamde Raampjes
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -264,8 +266,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verdroging is hier een gevolg van de grondwaterwinningen in Nederland en
 Vlaanderen, het uitdiepen van de Raambeek en enkele grachten en de

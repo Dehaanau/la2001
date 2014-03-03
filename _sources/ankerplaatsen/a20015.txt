@@ -1,14 +1,14 @@
 Walenbos
 ========
 
-Anker ID: A20015
-----------------
+:Ankerplaats ID: A20015
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Walenbos is gelegen ten noorden van Sint-Joris-Winge, tussen
 Houwaart en Tielt. Het ligt ten zuiden van de drassige vallei van de
@@ -56,12 +56,13 @@ twee zijbeuken vergroot en in 1965 werd een nieuwe kruisweg aangelegd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Walenbos bestaat uit een mozaïek van bos- en
 moerasvegetatietypen, waarvan de rijkdom niet alleen een gevolg is van
@@ -70,8 +71,8 @@ drainagetoestand,maar ook van de geobotanische grenssituatie, nl. de
 vermenging van plantensoorten uit het Kempische en het Brabantse
 plantendistrict.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In het Walenbos, toponiem dat oorspronkelijk slechts op een beperkt
@@ -84,8 +85,8 @@ Onze-Lieve-Vrouw-Tielt, het kapelletje van de Roeselberg en de
 strookpercelen tussen het straatdorp Houwaart en de noordrand van het
 Walenbos.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De grote afwisseling aan vegetatietypen, de
 hellingen van de Roeselberg en Alsberg met ontsluitingen van Diestiaan
@@ -94,13 +95,14 @@ belevingswaarde heeft.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -127,7 +129,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -158,7 +160,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -175,7 +177,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -206,8 +208,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing vooral aan de zuidelijke en oostelijke rand: de
 omgeving van de Alsberg, Optielt en Tielt-Berg.

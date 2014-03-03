@@ -1,15 +1,15 @@
 Landcommanderij Alden Biesen
 ============================
 
-Anker ID: A70014
-----------------
+:Ankerplaats ID: A70014
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Alden Biesen is gelegen aan de Kasteelstraat te Rijkhoven (Bilzen),
 een voormalig landbouwdorp. In 1220 werd door de abdis van Munsterbilzen
@@ -104,19 +104,20 @@ verdwijnen van waardevolle landschapselementen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het uitgesproken reliëf met een kleinschalig bronnengebied en
 talrijke gradiënten is het gevolg van de zuidoost-noordwest verlopende
 scheiding tussen twee Haspengouwse leemplateaus.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De landcommanderij Alden Biesen van de Duitse Orde was de hoofdzetel
@@ -133,8 +134,8 @@ bewaarde, landschapseigen hoogstamboomgaarden, als restanten van het
 oorspronkelijke landbouwareaal. Karakteristiek zijn ook de historische
 bossen en de resterende holle wegen, hagen, houtkanten en poelen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De site ontleent zijn charme aan het rijke
 historische verleden, dat de samenhang tussen de gebouwen en het
@@ -145,7 +146,7 @@ valleigebied anderzijds.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De culturele en recreatieve mogelijkheden
@@ -158,8 +159,8 @@ recreatief medegebruik werden veeroosters, hagen, afsluitingen en
 voetgangerstoegangen gecreërd. Het domein van Alden Biesen zorgt voor
 een vrij intens ééndagstoerisme.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ruimtelijk structurerend waren het bronnengebied op de de
 zuidoost-noordwest verlopende scheiding tussen twee Haspengouwse
@@ -170,13 +171,14 @@ factor.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -207,7 +209,7 @@ vochtige beemden
  **Andere:**
 voorkomen van dassenburchten
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -260,7 +262,7 @@ o.a. kapel van de landcommanderij
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -268,7 +270,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 straalvormig drevenpatroon
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -318,8 +320,9 @@ vochtige beemden in vallei
 
 o.a. parkbos, Winterbergbos
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Weliswaar gingen de eigenlijke ruilverkavelingsaktiviteiten te Rijkhoven
 gepaard met een grotere aandacht voor landschapszorg, toch werd

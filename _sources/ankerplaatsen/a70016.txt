@@ -1,15 +1,15 @@
 ('s Graven)Voeren, Sint-Marten en Sint-Pieter
 =============================================
 
-Anker ID: A70016
-----------------
+:Ankerplaats ID: A70016
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het landschap strekt zich uit over delen van 's Gravenvoeren,
 Sint-Martens- en Sint-Pietersvoeren. Het wordt in het noorden en het
@@ -262,12 +262,13 @@ beton.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Van belang zijn o.a. het dagzomen van primaire gesteenten (harde
 kalksteen uit het Onder Carboon) in de oever van de Veurs en de
@@ -278,8 +279,8 @@ gesteenten (krijt en grind) zoals droge dalen, grubben, dolinen,
 pleistocene puinkegels en holle wegen. Er is tevens een fossiele
 maasbedding aanwezig.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Wat betreft het bouwkundig patrimonium maakt het landschap deel uit
@@ -291,8 +292,8 @@ historisch verband tussen de hoevebouw, het bodemgebruik (akker of
 weide) en de ondergrond (aanwezigheid van water en silex) is duidelijk
 zichtbaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De grote verscheidenheid in het gradiëntrijke
 landschap met zijn oude Maasterrasen, uitgestrekte leemplateaus en
@@ -304,14 +305,14 @@ harmonieuze verwevenheid van het landschap met het gebouwde patrimonium.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich uitermate goed voor
 wandel- en fietstoerisme.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De valleien van Voer, Noorbeek en Veurs waren samen met de dorpen en
 gehuchten en de grote hoeven op de plateaus bepalend voor de ruimtelijke
@@ -319,13 +320,14 @@ struktuur van de streek.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -373,7 +375,7 @@ mergel, grind, harde kalksteen (Onder-Carboon), vuursteen
  **Andere:**
 dellen, terrassen, puinkegels, asymmetrische dalen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -439,7 +441,7 @@ en Sint-Pieterskerk
 
 **Archeologische elementen:**
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -463,7 +465,7 @@ spoorweg met tunnel en boogbruggen
 
 boogbrug, bruggetjes over de Voer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -516,8 +518,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. hellingbossen, plateaubossen
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Landschapsverstorend zijn o.a. de schaalvergroting in de landbouw met
 verdwijnen van lineaire landschapselementen zoals graften, hagen enz.,

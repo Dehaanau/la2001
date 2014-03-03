@@ -1,15 +1,15 @@
 Kasteeldorpen Heers en Veulen
 =============================
 
-Anker ID: A70002
-----------------
+:Ankerplaats ID: A70002
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Heers en Veulen ontstonden nabij de Heerse of Veulense Beek - één van
 de bovenlopen van de Herk -, die er het golvend open-field landschap van
@@ -72,12 +72,12 @@ de parochiekerk OLV-Tenhemelopneming met ommuurd kerkhof.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Heers en Veulen situeren zich in de vallei van de Heerse of Veulense
@@ -98,8 +98,8 @@ vroegste begin 19de eeuw het park in landschapsstijl aangelegd en het
 eerdere grachtensysteem omgevormd tot vijvers. Aan het schooltje in het
 dorp staat nog een haag van gevlochten gele kornoelje.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het kasteel van Heers is een compact geheel, de
 vier vleugels gelegen rond een vrijwel vierkante binnenplaats. Ook de
@@ -111,8 +111,8 @@ vijvers, dat naadloos aansluit bij de aangrenzende beemden en bossen en
 uitdeint in enkele dreven, boomgaarden en holle wegen in de omgeving.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Zowel Heers en Veulen ontstonden als hoopdorp in het gebied van
 vochtige beemden nabij de Heerse of Veulense Beek, die beide dorpen met
@@ -121,13 +121,14 @@ Droog-Haspengouw.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -156,7 +157,7 @@ de Herk
 
 vochtige beemden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -213,7 +214,7 @@ OLV Tenhemelopneming, St-Rochus
 Gallo-Romeinse vondsten
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -260,8 +261,9 @@ vochtige beemden (veelal aangeplant met populieren)
 
 kleine loofbosjes, aangrenzend populierenbossen
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recente bebouwing levert geen bijdrage tot de landschapswaarden.
 Noordwestelijk zijn serres gelegen.

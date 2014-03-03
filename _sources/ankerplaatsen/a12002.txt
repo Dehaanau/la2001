@@ -1,13 +1,13 @@
 Langdonken
 ==========
 
-Anker ID: A12002
-----------------
+:Ankerplaats ID: A12002
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Langdonken' is gelegen in de gemeente Herselt op de
 overgang Kempen-Hageland. De begrenzing wordt gevormd door de
@@ -48,12 +48,13 @@ landschap bovendien een rijke en waardevolle flora en fauna.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dankzij de aanwezigheid van onontgonnen alluviale gronden,
 driesgronden, meerdalbodems en gradiënten van voedselarm naar
@@ -63,8 +64,8 @@ waardevolle en rijke flora, maar evengoed door het voorkomen van een
 heel wat diersoorten. Zo biedt de Langdonken een uitstekend habitat voor
 vogels, vlinders en verschillende soorten zoogdieren.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De historische waarde van Langdonken wordt bepaald door de
@@ -72,8 +73,8 @@ aanwezigheid van talrijke relicten van het oorspronkelijk landschap,
 zoals het er eeuwen geleden uitzag. De huidige bosstructuur komt nog
 overeen met wat we terugvinden op de kaarten van het MGI (1907).
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het reliëf en de afwisseling in structuur en
 vegetatietypes maken dit landschap esthetisch waardevol. De afwisseling
@@ -83,8 +84,8 @@ de Venusberg kan men spreken van een zo goed als ongeschonden
 heuvellandschap dat mooie vergezichten toelaat.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Herseltse Loop in het zuiden vormt de natuurlijke grens tussen de
 provincies Antwerpen en Vlaams Brabant. De Langdonken sluiten aan op de
@@ -92,13 +93,14 @@ Herseltse Beek en het valleigebied in Vlaams-Brabant.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -123,7 +125,7 @@ Langdonkse beek, Herseltse beek
  * ven
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -132,7 +134,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -161,8 +163,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten in het gebied zijn het verspreid voorkomen van groepjes
 weekendverblijven, alsook de hoge dichtheid aan visputten.

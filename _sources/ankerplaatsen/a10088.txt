@@ -1,13 +1,13 @@
 Dal van de Kleine Nete tussen Lier en Kessel
 ============================================
 
-Anker ID: A10088
-----------------
+:Ankerplaats ID: A10088
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het 'Dal van de kleine Nete tussen Lier en Kessel' is gelegen op
 grondgebied van de gemeenten Lier en Kessel in de Zuiderkempen. De
@@ -69,12 +69,13 @@ op het landschapsbeeld.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De geleidelijke overgang van klei naar zand en van nat naar droog in
 dit gebied, heeft een grote vegetatiekundige en daarmee ook structurele
@@ -84,8 +85,8 @@ heiderelicten. Bovendien heeft de Kleine Netevallei als geheel en dus
 ook het deelgebied van de ankerplaats een aanzienlijk avifaunistisch
 belang.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Dit gebied in het dal van de Kleine Nete betreft een relatief gaaf
@@ -99,8 +100,8 @@ omgeven door een park, waarin 18de eeuwse arduinen vazen op sokkels,
 afkomstig van de abdij van Nazareth- staan. 'Maison des Bains' gaat
 terug tot een herberg uit 1897.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit halfopen landschap, beheerst door een nog
 behoorlijk meanderende Kleine Nete, afgelijnd door dijken met een
@@ -110,8 +111,8 @@ meanders en kleine landschapselementen dragen in belangrijke mate bij
 tot de esthetische waarde.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het meest opvallend ruimtelijk-structurerend element in dit landschap
 is de centraal lopende Kleine Nete, geflankeerd door natte weilanden en
@@ -122,13 +123,14 @@ kempische laaglandbeek.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -153,7 +155,7 @@ Kleine Nete, Krekelbeek, Elstbeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -200,7 +202,7 @@ bareelwachterhuis, 'Maison des Bains', breedhuis
 
 arduinen vazen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -210,7 +212,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -247,8 +249,9 @@ heiderelict
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Belangrijkste knelpunt in deze ankerplaats is de aanwezigheid van
 recreatieve infrastructuur met een hoge dichtheid aan visvijvers en

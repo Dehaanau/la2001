@@ -1,15 +1,15 @@
 Vallei van de Abeek (bovenloop) en straatdorp Plokrooi
 ======================================================
 
-Anker ID: A70021
-----------------
+:Ankerplaats ID: A70021
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het landschap is gelegen tussen Zwartberg en Meeuwen en situeert zich
 rond de bovenloop van de Abeek, op het Kempens Plateau. Landschappelijk
@@ -68,12 +68,13 @@ Karrewiel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied bezit een verscheidenheid aan reliëfelementen en
 gradiënten (bodem, vochtigheid), die elk op zich weinig opvallend zijn,
@@ -83,8 +84,8 @@ hoogveen voor. De afwisseling van verruigde hooilanden, broekbossen,
 moerassen en plassen, en de overgangen naar heidevelden, stuifduinen en
 vennen brengen bovendien een ecologische waarde met zich mee.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Van belang is hier de historische samenhang tussen het straatgehucht
@@ -97,8 +98,8 @@ verlaten hooilanden en turfputten, en het verderop gelegen heidegebied.
 Het stroomopwaartse gedeelte van het landschap is bovendien rijk aan
 archeologica.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De landschapsovergangen - zoals bijvoorbeeld van
 het straatgehucht naar het achterliggende, kleinschalige akker- en
@@ -108,7 +109,7 @@ aantal kapelletjes, dat het gehucht siert.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Zachte recreatievormen maakten de laatste
@@ -117,21 +118,22 @@ landschappelijk erfgoed en leent zich tot fiets- en wandeltoerisme,
 waartoe verschillende routes werden uitgestippeld. In de nabijheid ligt
 het heemkundig museum Karrewiel.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Abeek was hier bepalend voor de opbouw en
 organisatie van het landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -166,7 +168,7 @@ vochtige beemden
  **Andere:**
 stuifzand
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -197,7 +199,7 @@ langgevelhoeven
 
 **Archeologische elementen:**
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -217,7 +219,7 @@ opstrekkend patroon van paden en wegen achter Plokrooi
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -270,8 +272,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. kleinschalige waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De weekendhuisjes in de beekvalleien zijn landschapsverstorend en moeten
 geweerd worden. De grote golf van buitenverblijfjes is weliswaar over

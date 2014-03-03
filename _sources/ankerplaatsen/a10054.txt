@@ -1,13 +1,13 @@
 Abdij van Tongerlo
 ==================
 
-Anker ID: A10054
-----------------
+:Ankerplaats ID: A10054
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Abdij van Tongerlo en Kasteel de Meeûs d' Argenteuil'
 is gelegen op grondgebied van de gemeente Westerlo in de Antwerpse
@@ -89,20 +89,21 @@ heeft op het historische karakter van het abdijcomplex.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt vooral bepaald
 door het oude bomenbestand van de bossen en dreven, dat een belangrijke
 dendrologische waarde vertegenwoordigt en goede kansen biedt voor de
 avifauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De abdij van Tongerlo klimt op tot de stichting van een dubbel
@@ -117,8 +118,8 @@ interieur is een getrouwe nabootsing van de 17de
 eeuwse-renaissance-architectuur. Zowel het kasteel als het omringende
 domein met Franse tuin en landschapspark zijn mooi bewaard gebleven.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Vooral de combinatie van de eeuwenoude
 abdijgebouwen en dreven in een nog relatief open omgeving, maken dit
@@ -129,7 +130,7 @@ renaissance-architectuur een esthetisch zeer waardevol element.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Sinds het begin van haar bestaan, reiken
@@ -140,8 +141,8 @@ in deze twee dorpen monopoliseerde de abt immers ook alle rechten. De
 abdij kan bestempeld worden als de bakermat van zielzorg en agrarische
 ontginning in de Antwerpse Kempen sinds de middeleeuwen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De dominerende elementen in deze ankerplaats zijn de
 Norbertijnerabdij en het Kasteeldomein de Meeûs d' Argenteuil'. De
@@ -154,13 +155,14 @@ ankerplaats vormt.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -176,7 +178,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Wimp, Oevelse Dreefloop
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -225,7 +227,7 @@ Norbertijnerabdij + ringmuur + toren
  **Andere:**
 voormalige dienst- en bedrijfsgebouwen bij abdij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -235,7 +237,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oude, gekasseide dreef
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -262,8 +264,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunt in deze ankerplaats is de commerciële uitbating van een aantal
 gebouwen en de bijhorende parkeerinfrastructuur die een storend element

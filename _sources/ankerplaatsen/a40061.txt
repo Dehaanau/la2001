@@ -1,15 +1,15 @@
 Dendervallei tussen Idegem en Ninove en het Geitebos
 ====================================================
 
-Anker ID: A40061
-----------------
+:Ankerplaats ID: A40061
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats beslaat de Dendervallei tussen Idegem en Ninove. De
 Dender heeft hier rond haar oevers een vrij breed meersengebied. Ter
@@ -105,18 +105,19 @@ dateren uit de 18e en de 19e eeuw.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Dendervallei ligt op alluviale gronden, het Geitebos ligt op een
 steile helling waar Tertiaire lagen dagzomen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de kaart van Ferraris (ca.1775) is de vallei zeer duidelijk te
@@ -147,8 +148,8 @@ stond er in de 12e eeuw een versterkt kasteel en zou het verwoest
 geweest zijn door de geuzen in de 16e eeuw en door de hertog van
 Malborough in 1708. Het werd in de 18e eeuw hersteld.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dender heeft een vrijwel recht verloop, vallei
 duidelijk te onderscheiden aan grondgebruik (overwegend weilanden),
@@ -157,8 +158,8 @@ geaccentueerd door verschillende delen van bomenrijen langs de oever.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Dender heeft hier rond haar oevers een vrij breed meersengebied.
 Ter hoogte van Zandbergen staat juist op de grens van het alluvium het
@@ -171,13 +172,14 @@ juist buiten het alluvium.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -214,7 +216,7 @@ bronniveau's
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -254,7 +256,7 @@ Grimminge en Idegem
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -275,7 +277,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

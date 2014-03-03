@@ -1,13 +1,13 @@
 Ijzer tussen Diksmuide en Stuivekenskerke
 =========================================
 
-Anker ID: A30015
-----------------
+:Ankerplaats ID: A30015
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats bevat de Ijzer tussen Diksmuide en Stuivekenskerke
 (gem. Diksmuide) met aansluitend waardevolle en gave graslandcomplexen,
@@ -75,12 +75,13 @@ linkeroever van de Ijzer nog een oorlogsmonument voor de Grenadiers.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ondergrond bestaat uit de sedimenten van de zee-inbraken
 (Duinkerke-transgressies) vlakbij de Ijzer. Ten noorden van Diksmuide
@@ -88,8 +89,8 @@ mondt de Handzamevaart, één van de belangrijkste gekanaliseerde
 zijbeken, in de Ijzer uit. Diksmuide zelf ligt op een uitloper van het
 zandleemgebied. Ijzer heeft lokaal nog een zeer natuurlijk oeverprofiel.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De bedijking langs de Ijzer maakte de ontginning van deze polders
@@ -97,8 +98,8 @@ mogelijk en structureerde de percelering enigszins. De nederzetting
 Oud-Stuivekenskerke werd verplaatst en heropgebouwd rond 1870 in
 Stuivekenskerke met een kasteelhoeve.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De enorme open ruimte geeft wijdse vergezichten
 in alle richtingen( o.a. naar Ijzertoren). De Ijzer met aansluitende
@@ -110,14 +111,14 @@ eroderende oevers.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De vele oorlogsmonumenten en -restanten
 benadrukken de historiek van de streek in WOI.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ijzer en zijn begeleidende dijken structureren het landschap in de
 ruime omgeving. De interfluviale kam tussen Ijzer en Handzame (waarop
@@ -126,12 +127,13 @@ o.a. Diksmuide ligt) heeft een ander landgebruik dan de beide valleien.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -151,7 +153,7 @@ Ijzer
 
 ter hoogte van kleiputten (natuurreservaat) bij Stuivekenskerke
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -192,7 +194,7 @@ Stuivekenskerke)
 oorlogsmonumenten
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -226,8 +228,9 @@ broeken
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De schaalvergroting in de landbouw heeft nefaste gevolgen voor de
 perceelsgrootte en het aandeel perceelsrandbegroeiing. Daarnaast zorgt

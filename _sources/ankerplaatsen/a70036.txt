@@ -1,15 +1,15 @@
 Valleien van Dommel en Bollisserbeek tussen Wijchmaal, Peer en Kleine Brogel
 ============================================================================
 
-Anker ID: A70036
-----------------
+:Ankerplaats ID: A70036
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Rondom de samenvloeiing van de Dommel en de Bollisserbeek tussen Peer,
 Wijchmaal en Kleine Brogel strekt zich een landschap uit dat in
@@ -110,12 +110,13 @@ thans veelal tusen een dubbele prikkeldraadafsluiting.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het interfluvium tussen de Dommel en de Bollisserbeek enerzijds en
 tussen de Dommel en de Peerderloop anderzijds vertoont een convex
@@ -125,8 +126,8 @@ geomorfologisch aspect. In de valleien komen naast grote
 laagveengebieden enkele beperkte, en voor laag – en midden België
 uiterst zeldzame, hoogvenen voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In de omgeving van de oude woonkernen (Wijchmaal, Mollem, Voort,
@@ -149,8 +150,8 @@ landschapselement zijn de houtwallen als perceelsscheiding. Omgrachte
 schansen werden tijdens de middeleeuwen aangelegd ter beveiliging van de
 bevolking van de omliggende dorpen en gehuchten
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kleinschaligheid van het landschap, het
 specifieke convexe reliëf met asymmetrische dalen, de talrijke
@@ -161,28 +162,29 @@ belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het landschap leent zich goed voor stille
 recreatie (wandelen, fietsen). Een aantal bewegwijzerde wandelpaden
 werden uitgestippeld.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De bedding van de Dommel en Bollisserbeek en van de Peerderloop zijn
 determinerend voor de opbouw van het omringende landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -212,7 +214,7 @@ Dommel, Bollisserbeek, Peerderloop
 
 laag- en hoogveen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -259,7 +261,7 @@ talrijke veldkapellen
  **Archeologische elementen:**
 prehistorische grafheuvels uit Neolithicum, Bronstijd en Ijzertijd
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -278,7 +280,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 diepe sloten als perceelsscheiding
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -324,8 +326,9 @@ vijvers, oorspronkelijk veenuitgravingen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recente bebouwing levert geen bijdrage tot de landschapswaarden.
 Talrijke weekendverblijven (weekendhuisjes en caravans al dan niet met

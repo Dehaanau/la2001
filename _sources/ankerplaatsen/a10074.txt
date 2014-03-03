@@ -1,13 +1,13 @@
 Antitankgracht
 ==============
 
-Anker ID: A10074
-----------------
+:Ankerplaats ID: A10074
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De antitankgracht situeert zich ter hoogte van de tweede fortengordel
 rond de stad Antwerpen en loopt van de Antwerpse Baan te Stabroek via de
@@ -76,12 +76,13 @@ waarden te verzekeren.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langsheen de antitankgracht vindt men een rijk gevarieerde begroeiing
 terug daar zij voor een groot deel van de in het Kempens district
@@ -93,8 +94,8 @@ een rijke, -al dan niet permanent- aan water gebonden fauna en de
 forten, bunkers en schansen bieden mogelijkheden als overwinteringplaats
 voor vleermuizen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De kenmerkende opbouw en het typische tracé van de antitankgracht
@@ -105,8 +106,8 @@ zich ook een historische waarde als restant van een verdedigingstactiek
 die sinds de Belgische onafhankelijkheid de stad Antwerpen heeft moeten
 beschermen tegen vijandelijke aanvallen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De antitankgracht kent een grote variatie over
 haar kilometers lange traject. Als waterbouwkundig element is zij soms
@@ -119,7 +120,7 @@ esthetische waarde geeft.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De antitankgracht en de bijhorende
@@ -129,8 +130,8 @@ in tijden van oorlog kreeg toebedeeld. Antwerpen had de functie van
 toevluchtsoord dat tot op het laatste moment gevrijwaard moest blijven
 van vijandelijke invallen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De antitankgracht betreft een opvallend lineair landschapselement dat
 zich van noordwest richting zuidoost doorheen de Antwerpse
@@ -140,13 +141,14 @@ andere plaatsen gaat ze dan weer helemaal op in de omgeving.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -164,7 +166,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
@@ -176,7 +178,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -192,7 +194,7 @@ Antitankgracht, grachten rondom de forten en schansen
  **Andere:**
 aarden dammen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -217,8 +219,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een gebrek aan onderhoud en beheer hebben ongunstige gevolgen voor de
 antitankgracht als natuurwetenschappelijk en esthetisch waardevol

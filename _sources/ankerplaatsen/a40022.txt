@@ -1,15 +1,15 @@
 Oude Durmearm en Sombeke
 ========================
 
-Anker ID: A40022
-----------------
+:Ankerplaats ID: A40022
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten oosten van Waasmunster. De Durmevallei
 heeft, in tegenstelling tot de Scheldevallei, zijn open karakter
@@ -79,12 +79,13 @@ draaibare middenstuk werd in 1922 vervangen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De oude meander van de Durme is nu een stilstaand water, deze meander
 werd in 1934-35 bij de rechttrekking van de Durme afgesneden. De
@@ -92,8 +93,8 @@ schorren zijn één van de weinige overblijvende zoetwatergetijdengebieden
 in Oost-Vlaanderen. De rietsnijderij is een klein natuurreservaat op een
 breed aangeslibd zoetwaterschor langs de Durme.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De Oude Durme werd rond 1935 afgesneden door het graven van een
@@ -104,8 +105,8 @@ bos. De structuur van het kasteeldomein en de dries van Sombeke is
 herkenbaar op Ferraris en is in onbebouwde toestand, omgeven door een
 identieke wegenstructuur, bewaard gebleven.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Oude arm van de Durme heeft kronkelend verloop.
 Op de schorren komen rietvelden en struwelen voor. De dries en het
@@ -113,7 +114,7 @@ kasteeldomein liggen aan het cuestafront.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Mirabrug over de Durme verbindt Hamme
@@ -124,8 +125,8 @@ weggekwijnd. Voornamelijk economische factoren liggen hier aan aan de
 basis. Af en toe wordt het oude ambacht in het reservaat de
 "Rietsnijderij" nog eens beoefend.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Oude Arm van de Durme en de eigenlijke Durme zijn door dijken
 omringd. De schorren liggen buiten de dijken, deze zijn met wilg en riet
@@ -136,13 +137,14 @@ straat met de hoger gelegen Dries verbonden.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -182,7 +184,7 @@ Durme, Oude arm Durme, Rodebeek, bron
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -213,7 +215,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 **Archeologische elementen:**
 rietsnijderij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -237,7 +239,7 @@ oude spoorwegdijk van spoorweg 56 Sint-Niklaas- Hamme- Dendermonde
 
 Mirabrug
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -290,8 +292,9 @@ bronbosje
 
 Zoetwaterschorren van de Durme
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Naast de turfputjes liggen er weekendverblijven en visserskoten. Moderne
 verkavelingen liggen aan de grens van de ankerplaats en zijn visueel

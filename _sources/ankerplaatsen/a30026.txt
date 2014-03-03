@@ -1,13 +1,13 @@
 Ijzerbroeken en Lovaart bij Pollinkhove
 =======================================
 
-Anker ID: A30026
-----------------
+:Ankerplaats ID: A30026
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats strekt zich uit van de Ijzertoren in Diksmuide, naar
 de Blankaart en naar de Ijzerbroeken , tot Elzendamme (gem. met een
@@ -126,12 +126,13 @@ ruimte een extra dimensie.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het geopatromonium van venige en kleiige afzettingen in de ondergrond
 herinnert aan de mariene/estuariene invloed in de Ijzervallei en de
@@ -156,8 +157,8 @@ graduele overgang van ondiep water naar moeras en oevers in de Blankaart
 treft men hier een zeer rijke vegetatie aan waarbij alle successies van
 verlandingsvegetaite aanwezig zijn.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De Ijzer is sinds de middeleeuwen rechtgetrokken en bedijkt langs
@@ -185,8 +186,8 @@ vanaf de middeleeuwen dienst als transportkanaal. In Fintele, gelegen
 bij de samenloop van de Ijzer, zijn de sluizen op Ijzer en Lovaart goed
 bewaard en vormen belangrijk industrieel-archeologisch erfgoed.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De openheid en wijdsheid van de aaneengsloten
 graslanden doorsneden door grachten met reitkragen zonder bebouwing
@@ -206,7 +207,7 @@ de Ijzervallei.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Ijzertoren als symbool van de Vlaamse
@@ -218,8 +219,8 @@ als handelsnederzetting ontstaan aan het kruispunt van Lovaart en Ijzer
 bewaard landelijk gehucht belangrijk bouwkundig en sociaal-cultureel
 erfgoed van de ankerplaats.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Ijzertoren van Diskmuide vormt een baken in dit vlakke en open
 landschap. De valleien van Ijzer en zijbeken(specifeik de
@@ -237,12 +238,13 @@ open landschap een baken voor de omgeving ten noorden van Knokkebrug.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -276,7 +278,7 @@ Ijzer en met zijbeken, vaarten, kanalen; Dode Ijzer bij Elzendamme
 
 Blankaart
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -321,7 +323,7 @@ Vaubanvestingresten rond Knokkebrug; Ijzertoren
 
 kerk Pollinkhove
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -343,7 +345,7 @@ vlakbij Elzendamme
 dijk bij Ijzer; sluizen op Lovaart en Ijzer ter hoogte van Fintele;
 grachten
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -388,8 +390,9 @@ rond Blankaart
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuur- en cultuurwaarden dienen maximaal gevrijwaard te worden. De
 afwezigheid van bebouwing in de winterbedding van de Ijzer dient

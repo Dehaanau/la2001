@@ -1,13 +1,13 @@
 Stuifduincomplex bij de Molse en de Grote Nete
 ==============================================
 
-Anker ID: A10057
-----------------
+:Ankerplaats ID: A10057
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap 'Stuifduincomplex bij de Molse en de Grote Nete' is
 gelegen in de Antwerpse Kempen tussen Geel en Meerhout. De ankerplaats
@@ -68,12 +68,13 @@ waarde van dit gebied.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit landschap omvat vele verschillende biotopen, gepaard gaande met
 evenzoveel verschillende overgangszones. Deze diversiteit uit zich in
@@ -89,8 +90,8 @@ karakteriseren, zijn een uiterst zeldzaam geomorfologisch verschijnsel
 voor de Antwerpse Kempen. Deze ankerplaats heeft dan ook een belangrijke
 geomorfologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het betreft enerzijds een nog duidelijk herkenbare topo- en
@@ -115,8 +116,8 @@ Kretkenshoeve en Monnikenhoeve of Grote Hoeve vermeldenswaardig. Deze
 laatste werd reeds in de 13de eeuw vermeld, maar de huidige gebouwen
 dateren grotendeels uit de 18de eeuw. Mogelijk is de paardenstal ouder.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde van dit gesloten
 valleilandschap met hoger gelegen cultuurland en bosgebied wordt bepaald
@@ -129,15 +130,15 @@ landschapselementen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Belseheide was rond de eeuwwisseling
 19de - 20ste eeuw een belangrijk ontginningsgebied voor de inwoners van
 Bel en Meerhout.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De nog duidelijk herkenbare topo- en chorosequentie van
 achtereenvolgens het straatdorp Bel, het akker- en weilandcomplex, de
@@ -147,13 +148,14 @@ geheel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -187,7 +189,7 @@ Grote Nete, Zeeploop, Belseheideloop, Scherpenbergloop
 
 laagveen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -200,7 +202,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 Kretkenshoeve, Monnikenhoeve of Grote Hoeve
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -216,7 +218,7 @@ dambordvormig wegenpatroon
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -265,8 +267,9 @@ relicten van natte heide
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn de steeds oprukkende recreatie, de aanwezigheid van
 landbouw met negatieve effecten op het behoud van het kleinschalige

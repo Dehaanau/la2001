@@ -1,15 +1,15 @@
 Mijnsite Eisden
 ===============
 
-Anker ID: A70031
-----------------
+:Ankerplaats ID: A70031
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Tot in de 19de eeuw vertoonde Eisden het traditionele patroon van een
 Maaslands dorp: ten oosten de dorpskern en de vruchtbare
@@ -127,12 +127,13 @@ werd toen geopend als toeristische spoorlijn.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De overgangszone tussen het Kempens Plateau en de Maasvallei wordt
 gekenmerkt door een eigen dynamiek met een uitgesproken reliëf en
@@ -143,8 +144,8 @@ kenmerkende reliëfeenheden. In het gebied komen vennen voor, evenals de
 schaarse, autochtone restanten van wintereikenbosjes. Bovendien bezit
 het een belangrijke ecologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het mijncomplex - met o.a. de bovengrondse installaties, de aanleg
@@ -162,8 +163,8 @@ windelstenen, herinneren aan het traditioneel Limburgs heide- en
 bosgebied. Op het plateau en bij de Teutelberg werden prehistorische
 bewoningssporen terruggevonden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied is aantrekkelijk gevarieerd en aan
 elkaar geregen langs het kolenspoor, dat zich in een droge vallei omhoog
@@ -178,7 +179,7 @@ tegenstelling tot het charmante stationnetje van As.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het gebied vindt de bezoeker niet
@@ -193,8 +194,8 @@ arbeidershuizen is als Mijnwerkersmuseum ingericht. Het station van As
 wordt beheerd door de vzw Kolenspoor. In september 2000 werd de
 verbinding Genk-As-Maasmechelen als toeristische spoorlijn geopend.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het mijnverleden was bepalend voor de configuratie van het landschap.
 Daarin zijn de mijnterrils visueel dominant aanwezig en de loof- en
@@ -203,13 +204,14 @@ oriënterend als mijngebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -252,7 +254,7 @@ vennen op het plateau
 ontsluitingen op de hellingen van de steilrand en valleien, in de
 groeves en andere uitgravingen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -319,7 +321,7 @@ prehistorische bewoningssporen, industrieel-archeologisch erfgoed
 gebouwen en installaties van de voormalige mijn van Eisden, stations
 van As en Eisden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -343,7 +345,7 @@ kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
 
 Zuid-Willemsvaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -383,8 +385,9 @@ heiderestanten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden. De
 initiatieven voor een passende herbestemming van het

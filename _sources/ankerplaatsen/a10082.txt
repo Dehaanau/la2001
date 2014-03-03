@@ -1,13 +1,13 @@
 Turnhouts vennengebied
 ======================
 
-Anker ID: A10082
-----------------
+:Ankerplaats ID: A10082
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap 'Turnhouts Vennengebied' is gelegen in de gemeenten
 Turnhout en Merksplas op de waterscheiding tussen Maas en Schelde en
@@ -77,12 +77,13 @@ bewaren.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Turnhouts Vennengebied is een mozaïek van aan natte condities
 gebonden vegetaties, die hier en daar worden doorbroken door
@@ -96,8 +97,8 @@ boscomplexen, vormen deze open waters het ideale biotoop voor talrijke
 diersoorten, waarvan vooral de vogels, vlinders en libellen
 vermeldenswaardig zijn.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Tot op vandaag weerspiegelt het landschap onder de vorm van de
@@ -115,8 +116,8 @@ spoelreservoir (vijver) met grachtenstelsel voor watervoorziening. De
 Engelandhoeve, voormalige tijkweverij en verblijfplaats voor werknemers
 van de blekerij, gaat terug tot de eerste helft van de 19de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Open en gesloten structuren wisselen elkaar af en
 zorgen voor een landschappelijk gevarieerde structuur, die wordt
@@ -128,7 +129,7 @@ waarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het hele gebied heeft een belangrijke rol
@@ -137,8 +138,8 @@ vennen in het gebied werden gebruikt voor het bleken omdat de bijzondere
 kwaliteit en de zuurtegraad van het water het textiel een 'perfekt
 witte' kleur gaf.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats vertegenwoordigt een mooi voorbeeld van een, voor de
 Noorderkempen typisch, coulisselandschap met een afwisseling van
@@ -148,13 +149,14 @@ op deze manier zorgen voor extra openheid.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -176,7 +178,7 @@ Nattenloop, Meergorenloop, Mark, Noordermark
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -201,7 +203,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -214,7 +216,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -248,8 +250,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recreatiedruk, die de laatste decennia reeds sterk is afgenomen, moet
 in goede banen worden geleid om negatieve gevolgen op de ontwikkeling

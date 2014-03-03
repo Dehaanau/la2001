@@ -1,13 +1,13 @@
 Montfortcollege
 ===============
 
-Anker ID: A20055
-----------------
+:Ankerplaats ID: A20055
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 De cisterciënzinnenabdij van Vrouwenpark werd omstreeks 1200 gesticht
 en in 1796 opgeheven. Ze ligt te Rotselaar, ten noorden van Leuven. 16de
@@ -85,17 +85,18 @@ educatief vlak een grote potentiële waarde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het domein heeft een grote dendrologisxche waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het domein, in zijn hudige vorm herkenbaar als een uniek voorbeeld
@@ -104,8 +105,8 @@ middeleeuwse gewelf als grot werd gerecylcleerd) rond een
 'gecastelliseerd' abdissenkwartier, bevat nog diverse sporen van de
 gotische cisterciënzinnenabdij.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Alhoewel sterk aangetast door de uitbouw van
 pensionaat en school na 1928, is het parkgedeelte van het domein nog
@@ -114,12 +115,13 @@ tamelijk mooi,
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -134,7 +136,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -165,7 +167,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 **Archeologische elementen:**
 opgravingen voormalige cisterciënzerinnenabdij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -175,7 +177,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -188,8 +190,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Volgens het gewestplan is het deel langs de steenweg parkgebied, het
 achterliggend deel van het 19de-eeuws park gebied voor

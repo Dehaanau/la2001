@@ -1,13 +1,13 @@
 Het Moer te Eikevliet
 =====================
 
-Anker ID: A10034
-----------------
+:Ankerplaats ID: A10034
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap van het Moer te Eikevliet behoort tot de gemeente
 Bornem, gelegen in Klein Brabant. De begrenzing van dit landschap wordt
@@ -49,12 +49,13 @@ structuren dienen in het landschap te worden ingepast.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten gevolge van voornamelijk de fysische gradiënten en het gebruik
 door de mens, zijn in het Moer talrijke soortenrijke overgangsvegetaties
@@ -62,8 +63,8 @@ aanwezig. Verder komen structureel sterk verschillende biotopen voor,
 gaande van weilanden en moerassen tot hoogstammige bossen en
 hakhoutbestanden, wat ook heel wat potenties biedt naar avifauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Uit historisch kaartmateriaal kan worden afgeleid dat de
@@ -75,16 +76,16 @@ van het einde van de 17de eeuw, zijn eveneens van historische waarde. De
 noordelijk gelegen kouter heeft tijdens WOII dienst gedaan als vliegveld
 voor de bezetter.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gaat hier om een gaaf, kleinschalig landschap
 met afwisseling van gesloten en open structuren, doorsneden met talrijke
 lineaire en puntvormige landschapselementen.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het centrale beboste gedeelte en de omliggende open ruimte rondom
 bepalen in grote lijnen de structuur van het gebied. De noordelijk
@@ -95,12 +96,13 @@ fluviatiel stelsel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -125,7 +127,7 @@ De Vliet
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
@@ -139,7 +141,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -149,7 +151,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -181,8 +183,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verschillende, eerder kleine knelpunten zijn: - de aanwezigheid van
 enkele a-typische huizen in het noordwesten, - tuinkwekerij De Pauw,

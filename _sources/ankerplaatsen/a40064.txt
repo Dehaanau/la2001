@@ -1,13 +1,13 @@
 Vallei van de Maarkebeek stroomafwaarts Maarke
 ==============================================
 
-Anker ID: A40064
-----------------
+:Ankerplaats ID: A40064
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats situeert zich rond de vallei van de Maarkebeek, op
 het grondgebied van de dorpen Etikhove, Edelare, Leupegem en Maarke-
@@ -96,19 +96,20 @@ kernen terug.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei van de Maarkebeek heeft een asymmetrische vorm. De
 noordhelling is veel steiler dan de zuidhelling. Op deze steilste
 helling zijn er verschillende bronniveau's.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de kaarten van Ferraris (ca. 1775) en Vandermaelen (ca. 1850)
@@ -140,15 +141,15 @@ de Maarkebeek staan verschillende indrukwekkende gesloten hoeven.
 Dikwijls uit de 18e eeuw, met aanpassingen in de 19e en 20e eeuw.
 Sommige gaan op oudere kernen terug.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Geopend landbouwland rond een beboste strook
 langs de beek.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kapel van Kerselare is nog steeds een
@@ -157,8 +158,8 @@ bedevaartskapel ligt de ommegang van 'O-L- Vrouw van zeven Weeën';
 daterend uit de jaren zestig. Op de Kapelleberg staat de Sint-
 Vincentiuskapel, een bedevaartskapel op de zuidflank van de heuvel.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In het zuiden van de ankerplaats meandert de Maarkebeek, met daarrond
 enkele weiden. De beek is dikwijls vergezeld van beekbegeleidende
@@ -170,13 +171,14 @@ verschillende holle wegen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -201,7 +203,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 bronnen op Kapelleberg (oa 'Fontanabronnen')
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -247,7 +249,7 @@ Kezelfort
 
 O-L-V van Kerselare met Rozenkransommegang
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -258,7 +260,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -291,8 +293,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een hoogspanningslijn doorkruist het gebied.
 

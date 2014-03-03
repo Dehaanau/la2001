@@ -1,13 +1,13 @@
 Domeinen Klaverblad en Cleydael en kasteel van Hemiksem
 =======================================================
 
-Anker ID: A10028
-----------------
+:Ankerplaats ID: A10028
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap gevormd door de domeinen 'Klaverblad' en 'Cleydael 'en
 het 'Kasteel van Hemiksem' is gelegen op grondgebied van de gemeenten
@@ -71,12 +71,13 @@ groene ruimten aan de rand van het verstedelijkte gebied van Antwerpen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door de aanwezigheid van heel wat microreliëf, het
@@ -85,8 +86,8 @@ restanten historisch stabiel loofbos. Daarnaast is er -dankzij de
 structuur en typische begroeiing- de nog mooi in het landschap
 herkenbare vallei van de Vliet.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De eerste vermelding van 'Kasteel Klaverblad', hof van plaisantie,
@@ -103,8 +104,8 @@ een vierkante waterburcht uit de 14de tot 17de eeuw, met centrale
 vierkante binnenkoer. Ook de vele bijgebouwen en het omliggende
 kasteelpark hebben een belangrijke cultuurhistorische waarde.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats omvat 3 gaaf bewaarde
 kasteeldomeinen binnen een ruimere landelijke omgeving, rijk aan kleine
@@ -113,8 +114,8 @@ waarbinnen de samenhang met de riviervallei van de Vliet overigens nog
 mooi visueel waarneembaar is.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De open, landelijke omgeving langs de oost- en zuidkant bepaalt de
 visuele samenhang met de riviervallei van de Vliet. De Struisbeek met
@@ -128,13 +129,14 @@ kasteel Cleydael, op een eiland gevormd door de splitsing van de Vliet.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -154,7 +156,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Bovenvliet, Hollebeek en Grote Struisbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -199,7 +201,7 @@ dienstwoningen, serres, omheiningsmuur, brug
 
 Kapel bij Monnikenhof
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -215,7 +217,7 @@ Geplaveide weg naar kasteel Cleydael
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -237,8 +239,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Zowel aan de oostkant als centraal in de ankerplaats gaat de
 gewestplanbestemming (met industriezone en reservatiestok voor grote

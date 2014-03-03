@@ -1,13 +1,13 @@
 Kalkense Meersen en Heisbroek
 =============================
 
-Anker ID: A40025
-----------------
+:Ankerplaats ID: A40025
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats bevindt zich tussen Kalken en Schellebelle.
 Waarschijnlijk vond in het begin van het Laatglaciaal (15 500 tot 11 500
@@ -140,12 +140,13 @@ het jaartal 1679, het vermoedelijke bouwjaar van deze "cipierage".
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit gebied maakt deel uit van de Scheldevallei. Het is een
 "natuurlijk" periodisch overstromingsgebied, lager gelegen dan
@@ -155,8 +156,8 @@ wordt door veel sloten ontwatert, in het noorden en oosten komen enkele
 turfputten voor. Vooral in het oosten zijn enkele zandige duinen
 aanwezig.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand op de kaart van Ferraris (ca. 1775) is als volgt: loop
@@ -170,8 +171,8 @@ Middeleeuwen, blijft ongewijzigd tov Ferraris. Het oorspronkelijk
 moerasbos werd weggekapt. Turfgesteken gebeurde tijdens de Franse
 revolutie op de plaatsen waar de kleilaag het dunst aanwezig was.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een open, vlak en kleinschalig
 landschap met kleine percelen bos. de oude meander van de Schelde is
@@ -184,8 +185,8 @@ populier.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het meest typerende landschapselement van de Kalkense meersen is de
 uitgestrekte grasvlakte, doorsneden met brede sloten en beken. Het
@@ -209,13 +210,14 @@ schaal aan akkerbouw en horticultuur gedaan.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -253,7 +255,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -276,7 +278,7 @@ Dries van Schellebelle, half bebouwd
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -295,7 +297,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 veer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -348,8 +350,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs de noordelijke rand wordt het landschap verstoord door
 weekendverblijven met visvijvers en tuinen.

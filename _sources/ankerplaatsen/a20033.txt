@@ -1,13 +1,13 @@
 Zevenborre
 ==========
 
-Anker ID: A20033
-----------------
+:Ankerplaats ID: A20033
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Zevenborren is gelegen tussen het Hallerbos en het kasteeldomein van
 Revelingen, ten zuiden van Dworp en Alsemberg. Het is een gebied met
@@ -48,27 +48,28 @@ einde van de 18de eeuw weinig veranderd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het gebied Zevenborren, vooral in de bronzones en langs de
 vijverboorden, komen interessante vegetaties voor. Het park bij het
 kasteel van Zevenbronnen heeft grote dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De site van Zevenbronnen is een boeiend voorbeeld van een abdij- of
 priorijsite, die in de loop van de 19de-eeuw werd heraangelegd tot
 kasteeldomein met landschappelijk park. Oude patronen, onder meer de
 terssanen van de vroegere baroktuin, zijn nog aanwezig.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het is een mooi ensemble bestaande uit de
 voormalige abdijhoeve en watermolen, de vijvers omringd door bos en het
@@ -76,13 +77,14 @@ in de 19de eeuw gebouwde kasteel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -104,7 +106,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -145,7 +147,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 funderingen van vroegere abdijgebouwen
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -155,7 +157,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -179,8 +181,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing, vooral in het noordelijk deel langs de kant van Dworp (cfr.
 Het beschermingsbesluit uit 1947 maakte deze bebouwing mogelijk!)

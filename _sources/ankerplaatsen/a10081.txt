@@ -1,13 +1,13 @@
 Heuvelrug tussen Lichtaart en Kasterlee
 =======================================
 
-Anker ID: A10081
-----------------
+:Ankerplaats ID: A10081
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Heuvelrug Kasterlee' situeert zich tussen de
 bewoningskernen van Lichtaart en Kasterlee in de centrale Antwerpse
@@ -46,20 +46,21 @@ doorsnijden, dragen bij tot de esthetische waarde van het gebied.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats vertegenwoordigt een belangrijke geomorfologische
 waarde, die eveneens resulteert in een aanzienlijke biotische waarde. De
 stuifduinen geven immers een variatie aan bodemstructuren en
 microgradiënten, wat resulteert in een structuurrijke vegetatie.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De actuele structuur en vegetatie van het gebied is het resultaat van
@@ -75,8 +76,8 @@ Ferraris (1777), Vandermaelen (1854) en het MGI (1925) waarop het gebied
 wordt gedomineerd door landbouwzones. In de oostelijke rand ligt een
 Brits militair kerkhof uit WOII.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Ten noorden van de zuidflank van de heuvelrug
 wordt het landschap doorsneden door een aantal zeer mooi, typische en
@@ -86,7 +87,7 @@ van 'De Zegge' toe.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In de oostelijke rand komt een Brits
@@ -94,21 +95,22 @@ militair kerkhof -voor 97 Britse en 3 Canadese soldaten- uit WOII voor.
 Het werd aangelegd en wortd onderhouden door de 'Commonwealth War Graves
 Commision'.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze heuvelrug is een schakel uit de duinenketen Nijlen-Kasterlee, en
 is bedekt met stuifzandduinen, waarvan de Hoge Mouw de opvallendste is.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -125,7 +127,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 stuifduinen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -140,7 +142,7 @@ Brits militair kerkhof
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -166,7 +168,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen opmerkingen of knelpunten.

@@ -1,13 +1,13 @@
 Doelbos en Reutelbos
 ====================
 
-Anker ID: A30042
-----------------
+:Ankerplaats ID: A30042
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt in de gemeente Zonnebeke (Beselare) ten oosten
 van de autoweg A19 Ieper – Kortrijk en ten westen van Beselare. De
@@ -48,20 +48,21 @@ loop van de beken geven een grote esthetische waarde aan het landschap.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze bossen zijn gelegen op de kam van de rug van Westrozebeke. De
 beken hebben een vrij natuurlijke en meanderende loop die langs hun loop
 bomen en struiken en zelf s kline bosjes hebben. Deze bosjes hebben een
 specifieke vochtminnende waardevolle flora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De huidige bossen zijn restanten van een groter boscomplex uit
@@ -70,8 +71,8 @@ paardenrenbaan en werd na WOI opnieuw aangeplant. Het Polygon Wood
 Cemetery en het Buttes New British Cemetery herinneren aan het
 oorlgosverleden van deze streek tijdens WOI.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De aanwezig bossen benadrukken de rug van
 Westrozebeke. De beeekbegeleidende bomen en struiken accentueren de
@@ -84,20 +85,21 @@ wegenpatroon in het bos.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Reutelbos is een natuureservaat.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -112,7 +114,7 @@ interfluvium Schelde-Leie en Ijzer
 
 Reutel- en Polygonebeek; brongebied Polygonebeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
@@ -121,7 +123,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 militaire kerkhoven WOI; doelbos voormalige militaire paardenrenbaan
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -140,8 +142,9 @@ begeleidende bomenrijen langs beken
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De autostrade in het westen van de ankerplaats scheidt ze van de
 Nonnebossen en maakt dat de loop van de Reutelbeek verstoord is door de

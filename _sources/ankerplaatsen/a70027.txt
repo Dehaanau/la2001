@@ -1,15 +1,15 @@
 Vallei van de Warmbeek en kasteel van Beverbeek
 ===============================================
 
-Anker ID: A70027
-----------------
+:Ankerplaats ID: A70027
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het gebied ligt in de vallei van de Warmbeek, ten oosten van de
 dorpskern van Achel. Het is een vlak landschap dat zich uitstrekt vanaf
@@ -138,19 +138,20 @@ Demseylaan nr. 1.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het gebied liggen meerdere archeologische zones zoals de
 archeologische zone van de Grote Haart met o.a. grafheuvels uit de
 IJzertijd, de Tomp en de Waag.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In het gebied liggen meerdere historische domeinen en sites zoals de
@@ -170,8 +171,8 @@ opgeplant met populieren. De spoorwegverbinding Antwerpen - Hamont
 dwarst het gebied van west naar oost doch dit stuk is niet langer in
 gebruik.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een noordzuid georiënteerde, uitgestrekte groene
 zone ten oosten van de woonkern van Achel met als voornaamst elementen
@@ -180,7 +181,7 @@ naaldhoutbestanden en verspreid gelegen historische domeinen en sites.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied is rijk aan architecturale en
@@ -190,8 +191,8 @@ gebied zijn meerdere wandel - en fietsroutes bewegwijzerd. De in 1962-63
 gevonden urnen worden bewaard in het gemeentelijk z.g. Museum
 Grevenbroek.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De noord-zuid georiënteerde vallei van de Warmbeek vormt samen met de
 verspreid gelegen historische domeinen en sites en de daarbij
@@ -201,13 +202,14 @@ Hamont.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Hydrografische Elementen:**
 
@@ -226,7 +228,7 @@ Warmbeek, Beverbeekloop, de Vliet
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -279,7 +281,7 @@ Kluis, Catharinadal, Kapel Onze-Lieve-Vrouw in de Nood
  **Archeologische elementen:**
 o.a. de Tomp, Grote Haart, de Waag
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -292,7 +294,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -343,8 +345,9 @@ heiderelicten, plaggenbodems in de omgeving van bebouwingskernen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden. Een
 knelpunt is ook het beheer van de Watering.

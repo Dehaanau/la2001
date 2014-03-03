@@ -1,15 +1,15 @@
 Osbroek
 =======
 
-Anker ID: A40077
-----------------
+:Ankerplaats ID: A40077
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Ter hoogte van Erembodegem en Aalst, zowat op de overgangszone van de
 middenloop naar de benedenloop van de Dender, vindt men de laatste
@@ -99,12 +99,13 @@ huisvuil te storten vanaf 1973, tot 1977.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door zijdelingse of laterale erosie kon de Dender hier gedurende het
 Laatglaciaal, een komvormige depressie uitschuren. De kronkelende rivier
@@ -122,8 +123,8 @@ tot in historische tijden doorgaan, mede door een nieuwe
 sedimentenaanvoer ingevolge ontbossingen en bodembewerking van de
 stroomopwaarts gelegen heuvel- en plateaugebieden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de Ferrariskaart (ca. 1775) worden binnen het Osbroek slechts twee
@@ -144,15 +145,15 @@ wijmencultuur. Het stadspark, in het noordoosten van het gebied, was
 vanaf 1915 aanwezig. In 1914 wordt het Osbroekkasteel aangelegd. In de
 huidige toestand is de bebouwing sterk toegenomen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Osbroek, aansluitend op het stadspark, is een
 beboomd domein met vijvers.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Osbroek is een beboste depressie die in het zuiden en westen door
 een dalflank begrensd is. Deze flank is erg steil. In het zuiden van het
@@ -161,13 +162,14 @@ stadspark en bijhorende sportterreinen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -197,7 +199,7 @@ steilrand van Dender
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -214,7 +216,7 @@ stadspark
 
 Osbroekkasteel
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -229,7 +231,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**

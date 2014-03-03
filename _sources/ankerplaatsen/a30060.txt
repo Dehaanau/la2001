@@ -1,13 +1,13 @@
 Kasteel van Loppem en hof van Breda
 ===================================
 
-Anker ID: A30060
-----------------
+:Ankerplaats ID: A30060
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt tussen de autoweg A17 Brugge-Kortrijk, de E 40
 Oostende-Brussel, en de bebouwing van Loppem (gem. Zedelgem). Ze omvat
@@ -54,18 +54,19 @@ bomenrij die een buffer vormt tegen de recente bebouwing.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Waardevolle en zeldzame flora met unieke stinsenplanten in het park
 van Loppem.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteel heeft door zijn gaafheid, door de bijhorende
@@ -79,8 +80,8 @@ hoevekarakter een onderdeel van de gave landelijke omgeving met
 weilanden met perceelsrandbegroeiing. De grachtenstructuur ten
 zuidwesten van het hof van Breda getuigt van vroegere bewoning.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De dreven in en rond het kasteelpark en rond het
 hof van Breda zorgen voor een landschappelijke samenhang. Het
@@ -91,26 +92,26 @@ vooral weilandpercelen met perceelsrandbegroeiing en dreven.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het verblijf van koning AlbertI in het
 kasteel van Loppem en de belangrijke politieke gebeurtenissen geven het
 kasteeldomein een bepaalde symbolische waarde.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteeldomein is een blikvanger vanop de autostrade door het
 omringende park en de gebouwen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -155,7 +156,7 @@ aan toegangsdreef naar hoeve
 doolhof
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -186,8 +187,9 @@ bij kasteel
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats ligt gekneld tussen twee autowegen en tussen de
 bebouwing van Loppem. Verdere versnijding of verstoring van de

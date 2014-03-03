@@ -1,15 +1,15 @@
 De Maten
 ========
 
-Anker ID: A70053
-----------------
+:Ankerplaats ID: A70053
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De Maten, op de grens van de gemeenten Genk en Diepenbeek, zijn een
 deel van een moerassige zone die zich uitstrekt langsheen de
@@ -70,12 +70,13 @@ landschap.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Waardevol is het voorkomen in een aaneensluitend logisch geheel van
 voor de Kempen typische en steeds zeldzamer wordende landschapselementen
@@ -87,8 +88,8 @@ van het klassieke Kempense moeras- en heidelandschap met een
 aaneenschakeling van evenwijdige duinruggen, parallel met de
 Stiemerbeek.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De visvijvers (weyers) in de vallei van de Stiemerbeek werden vanaf
@@ -103,8 +104,8 @@ als dusdanig herkenbaar en integrerend onderdeel van het landschap rond
 de Stiemerbeek. Waar zich nu de Slagmolen bevindt, werd immers reeds
 omstreeks 1523 een eerste molen gebouwd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Van op de duinkammen heeft men mooie vergezichten
 over de d.m.v. smalle dijkjes van elkaar gescheiden omliggende vijvers
@@ -113,7 +114,7 @@ resulteert in een mozaïek van begroeiing.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Te midden van het industriële en
@@ -121,21 +122,22 @@ verstedelijkte hart van Limburg biedt dit stukje ongerepte landschap
 verpozing. Wandelpaden brengen de bezoeker tot in het hart van het
 landschap.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het voorkomen van de Stiemerbeek en zijn zijtakken was hier bepalend
 voor de organisatie van het landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -165,7 +167,7 @@ o.a. Stiemerbeek, Miezerikbeek, Achterbeek
 
 vochtige beemden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -185,7 +187,7 @@ Slagmolen
  **Archeologische elementen:**
 Slagmolen als industrieel-archeologisch relict
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -205,7 +207,7 @@ wandelpaden
 
 molensloot, vijvercomplex
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -254,8 +256,9 @@ zogenaamde weyers
 
 kleinschalige waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bedreigingen gaan uit van de mindere kwaliteit van het water dat de
 vijvers voedt, de teloorgang van het open landschap door verlanding en

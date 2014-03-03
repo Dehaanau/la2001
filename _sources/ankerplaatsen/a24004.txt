@@ -1,13 +1,13 @@
 Kravaalbos
 ==========
 
-Anker ID: A24004
-----------------
+:Ankerplaats ID: A24004
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Het overgrote deel van het Kravaalbos, op grondgebied van Aalst,
 Opwijk en Asse, maakte sinds de 14e eeuw deel uit van het domein van de
@@ -71,19 +71,20 @@ aanpassingen en restauraties in 1891en 1969.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In vochtige delen van het bos vindt men veenmos, aan de rand van het
 bos heiderelicten. Er is een klein brongebied aanwezig. Dit bos maakte
 deel uit van het Kolenwoud.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Dit bos is een overblijfsel van het vroegere grote Kolenwoud. Later
@@ -94,8 +95,8 @@ steengroeves ontstonden in de 18de eeuw voor het ontginnen van
 kalksteen. Een groot deel van het Kravaalbos is gekapt in WOII. De kerk
 van Meldert is in de plaatselijke zandsteen gebouwd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een groot boscomplex dat door
 landbouwgronden omgeven is. Het landschap is zacht golvend. Er zijn
@@ -103,15 +104,15 @@ delen van het gebied vergraven bij het ontginnen van de zandsteen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In de 17e en 18e eeuw was er een befaamd
 bezembindercentrum rond de heiden en bossen van Asse, o.a. het
 Kravaalbos.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Kravaalbos- Herenbos, op een cuesta gelegen, bestaat uit loof-
 naaldhout. Aan de rand van het bos is het bos wat versnipperd. Er
@@ -123,12 +124,13 @@ voor.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -158,7 +160,7 @@ bij groeves
 
 twee zandsteengroeven
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -183,7 +185,7 @@ Hof te Putte
 
 kerk van Meldert
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -193,7 +195,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -232,7 +234,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De verbouwde Kiekenvilla ligt midden in het gebied.

@@ -1,13 +1,13 @@
 Kasteeldomein van Sint-Martens-Leerne
 =====================================
 
-Anker ID: A40091
-----------------
+:Ankerplaats ID: A40091
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Centraal in deze ankerplaats ligt het kasteeldomein van Sint- Martens-
 Leerne. Het kasteel ligt in een bosrijk park. Rond het kasteel staan
@@ -83,12 +83,13 @@ erf omhaagd en soms is een ovengedeelte aanwezig.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De kouter ligt op open, drogere gebieden terwijl de bulken op lagere
 en nattere stukken gelegen zijn. Het landschap is er meer gesloten door
@@ -101,8 +102,8 @@ linkeroever van de Leievallei. De structuur van het cultuurlandschap,
 namelijk de kouters, bulken en meersengebieden, zijn duidelijk door de
 morfologie en bodemtypes beïnvloed.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 In de 17e eeuw werd het domein van Crombrugghe voor het eerst vermeld
@@ -113,8 +114,8 @@ hebben. Het domein staat in een bulkenlandschap. Dit gebied werd later
 en anders ontgonnen dan het open kouterlandschap dat zich voor het
 domein bevindt en vanwaaruit de kasteeldreef vertrekt.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het zuiden van de ankerplaats is een open
 koutergebied. De kasteeldreef accentueert de ligging van het
@@ -123,8 +124,8 @@ door het voorkomen van perceelsrandbegroeiing. Rond het kasteeldomein
 liggen verschillende pittoreske hoevetjes.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Centraal in deze ankerplaats ligt het kasteeldomein van Sint-
 Martens- Leerne. Het kasteel ligt in een bosrijk park. Rond het kasteel
@@ -135,13 +136,14 @@ een gehucht in het bulkengebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -154,7 +156,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -190,7 +192,7 @@ boerenarbeidershuisjes
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -200,7 +202,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

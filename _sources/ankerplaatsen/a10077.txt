@@ -1,13 +1,13 @@
 Omgeving van Gestel
 ===================
 
-Anker ID: A10077
-----------------
+:Ankerplaats ID: A10077
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 'Het landschap in de omgeving van Gestel' is gelegen op grondgebied
 van de gemeenten Berlaar en Nijlen in de vallei van de Grote Nete. De
@@ -116,12 +116,13 @@ invloeden in de toekomst vermeden te worden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Gelegen in de alluviale vlakte van de sterk meanderende Grote Nete en
 gekenmerkt door een schakering van verschillende bodemtypes en
@@ -134,8 +135,8 @@ van de kasteelparken, talrijke kleine landschapselementen en open
 watertjes, biedt dit gebied ideale mogelijkheden voor tal van
 diersoorten, waarbij vooral de vogels goed vertegenwoordigd zijn.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschap in de omgeving van Gestel betreft een landbouwgebied
@@ -164,8 +165,8 @@ structuurbepalende en behoorlijk gaaf bewaarde elementen, waaronder een
 schandpaal uit 1779, het door een bakstenen muur omgeven kerkhof en de
 pastorie uit 1869-1875.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Gelegen in de vallei van de mooi meanderende
 Grote Nete en opgebouwd rondom het gaaf bewaarde gehucht Gestel en
@@ -176,8 +177,8 @@ waardevol, bouwkundig erfgoed dragen bij tot de hoge belevingswaarde van
 deze ankerplaats.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het open landbouwgebied rondom de dorpskern van Gestel wordt
 ruimtelijk gedomineerd door de, van oost naar west lopende, Grote Nete
@@ -187,13 +188,14 @@ geïsoleerd karakter behouden.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -219,7 +221,7 @@ Grote Nete, Gestelse Beek, Kiekensloop
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -282,7 +284,7 @@ St.-Lambertuskerk, 'Kapel van O.L.- Vrouw Troost der Bedrukten'
 **Andere:**
 Kerkhof met grafmonumenten, bakhuis, waterput
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -300,7 +302,7 @@ aarden weg
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -342,8 +344,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten in dit landschap zijn het verspreid voorkomen van atypische
 bebouwing -die vooral ter hoogte van Gestel storend werkt-,

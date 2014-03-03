@@ -1,13 +1,13 @@
 Brechtse Heide
 ==============
 
-Anker ID: A10085
-----------------
+:Ankerplaats ID: A10085
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Brechtse Heide is een uitgestrekt en gevarieerd Noordkempisch
 landschap, gelegen op grondgebied van de gemeenten Brecht, St.-Lenaerts,
@@ -81,12 +81,13 @@ gaaf bewaarde landschappen van de provincie Antwerpen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Brechtse Heide is een halfnatuurlijk- en op sommige plaats
 cultuurlandschap, dat door de verschillende menselijke invloeden,
@@ -96,8 +97,8 @@ een typische vegetatie, flora en hieraan verbonden fauna. Als landschap
 vertegenwoordigt dit gebied dan ook een belangrijke
 natuurwetenschappelijke waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Doorheen het hele landschap van de Brechtse Heide vinden we sporen
@@ -116,8 +117,8 @@ aangelegde kanaal. Tot het te vermelden kerkelijk erfgoed behoren de
 de ankerplaats loopt de Tilburgse weg, een oude,onverharde postbaan en
 verbindingsweg naar Breda.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Vooral de uitgestrektheid en de weidsheid van dit
 landschap zijn overweldigend. De afwisseling in vegetatietypes, de
@@ -127,15 +128,15 @@ Kempische landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Na de aanleg van het kanaal
 Schoten-Turnhout-Dessel, werd er in de Brechtse Heide klei uitgegraven
 ten behoeve van de zich langs het kanaal gevestigde steenbakkerijen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschap van de Brechtse Heide vormt een uitgestrekte open
 ruimte binnen de bewoningskernen van Brecht, St.-Lenaerts, St.
@@ -145,13 +146,14 @@ Antwerpen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -177,7 +179,7 @@ Schaggelenbeek
 
 Marbelenven, Moffenven, Muizeven, Kelderven
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -207,7 +209,7 @@ tuin bij abdij
 
 Onze-Lieve-Vrouw van Nazareth abdij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -226,7 +228,7 @@ aarden wegen, Tilburgse weg
 
 Kanaal Schoten-Turnhout-Dessel
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -263,8 +265,9 @@ oude kleiputten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een belangrijk knelpunt in de Brechtse Heide is het verspreid en
 chaotisch voorkomen van weekendverblijven wat zowel op de esthetische-

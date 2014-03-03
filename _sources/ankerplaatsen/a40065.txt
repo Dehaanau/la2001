@@ -1,13 +1,13 @@
 Dries van Kaprijke
 ==================
 
-Anker ID: A40065
-----------------
+:Ankerplaats ID: A40065
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het centrum van Kaprijke wordt door twee grote ruimten gevormd.
 Enerzijds is er het trapeziumvormig 'Plein' en daarop aansluitend is er
@@ -75,18 +75,19 @@ einde van de 19e en het begin van de 20e eeuw.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Voorstraat is een dries van het zelfde type als Doornzele. Het
 Plein had een proto-industriële functie.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Kaprijke, dat in 1240 stadsrechten verwierf, moet gezien worden in
@@ -103,8 +104,8 @@ gegraven met de bedoeling de commerciële activiteit van het stadje te
 stimuleren; het verbond het plein met de Burggravenstroom die langs
 Kluizen naar Gent leidde.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De bebouwing aan de dries bestaat nog
 hoofdzakelijk uit de 19de - begin 20ste eeuwse woningen,
@@ -113,7 +114,7 @@ daar is wel banaal te noemen doch stoort geenszins in de dorpskern.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Tot voor enkele decennia werd het Plein
@@ -121,8 +122,8 @@ gebruikt om er de was te drogen. Drie keer per jaar vind er nog een
 grote manifestatie plaats: de nieuwjaarsreceptie, de kermis en de
 jaarmarkt.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het centrum van Kaprijke wordt door twee grote ruimten gevormd.
 Enerzijds is er het trapeziumvormig 'Plein' en daarop aansluitend is er
@@ -135,13 +136,14 @@ de brede Voorstraat die op het noordwesten van het Plein uitkomt.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -149,7 +151,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -177,7 +179,7 @@ standbeeld voor de gesneuvelden
  **Andere:**
 stadshuis, jongensschool
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -187,7 +189,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

@@ -1,13 +1,13 @@
 Vallei van de Wimp en de Grote Nete te Herenthout
 =================================================
 
-Anker ID: A10053
-----------------
+:Ankerplaats ID: A10053
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Vallei van de Wimp en de Grote Nete' is gelegen op
 grondgebied van de gemeenten Herenthout en Itegem (Heist o/d Berg) in de
@@ -74,12 +74,13 @@ infrastructuur, e.d. te worden vermeden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurwetenschappelijke waarde van deze ankerplaats wordt in de
 eerste plaats bepaald door de oude, goed ontwikkelde loofbossen met hun
@@ -89,8 +90,8 @@ laagveenmoeras. De combinatie van vochtige vegetatietypes met rijpe
 bossen biedt ideale habitatmogelijkheden voor tal van zeldzame en minder
 zeldzame broedvogels, alsook voor amfibieën en zoogdieren.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Deze ankerplaats met de meanderende Grote Nete en de Wimp, restanten
@@ -105,8 +106,8 @@ een bewaard traditioneel 'Kempens' waterwiel en een geheel bewaard
 houten binnenwerk uit de 17de eeuw. De herberg ''t Schipke', eertijds
 ook veerhuis, klimt op tot de eerste helft van de 19de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De afwisseling in dit landschap met een aantal
 waterlopen, restanten van de oude perceelsstructuur en het wegenpatroon,
@@ -117,8 +118,8 @@ valleigebied dan ook een belangrijke esthetische waarde.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De verschillende waterlopen met hun valleien geven samen met de
 opvallende reliëfverschillen ontstaan aan een structuurrijk landschap.
@@ -128,13 +129,14 @@ centraal gelegen kasteel van Herlaar met omgevend park.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -163,7 +165,7 @@ Wimp, Grote Nete, Heibeek, Otterloop, Maasloop
 
 laagveen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -209,7 +211,7 @@ herberg 't Schipke, molenhuis, molenaarswoning
 
 O.-L.-Vrouw-hofkapel
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -220,7 +222,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 voetbrug
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -257,8 +259,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunten in dit landschap zijn het voorkomen van
 atypische bebouwing, visvijvers en een serrecomplex.

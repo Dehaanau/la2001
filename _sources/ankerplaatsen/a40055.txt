@@ -1,13 +1,13 @@
 Scheldemeersen tussen Bevere, Petegem en Melden en kouter van Petegem
 =====================================================================
 
-Anker ID: A40055
-----------------
+:Ankerplaats ID: A40055
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats situeert zich ten oosten van Petegem-aan-de-Schelde.
 De oostelijke grens wordt door de Schelde gevormd, de dorpskom Melden.
@@ -86,20 +86,21 @@ tijdens WO II en is nadien grondig gerestaureerd tot taverne in de jaren
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is in de Scheldevallei gelegen, op een brede
 alluviale vlakte. Het steilrandje toont de overgang van het alluvium
 naar de zandleemruggen aan. Er bevinden zich een antropogeen afgesneden
 meander in het gebied.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Toestand op de kaart van Ferraris (ca. 1775): een groot meersgebied,
@@ -118,8 +119,8 @@ voormalige abdij: het poortgebouw, het gastenkwartier, het kapelaanshuis
 en bijgebouwen. Vele delen raakten in beide wereldoorlogen beschadigd en
 werden eind de jaren tachtig gerestaureerd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De dominantie van weiland als grondgebruik en het
 schaarse voorkomen van populieren- of wilgenrijen geven in de
@@ -133,8 +134,8 @@ zichten gericht op de Scheldevallei, de Vlaamse Ardennen. Zichten naar
 de Scheldemeersen vanop het lemig Leie-Scheldeinterfluvium.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats situeert zich ten oosten van Petegem-aan-de-Schelde.
 De oostelijke grens wordt door de Schelde gevormd, de dorpskom Melden.
@@ -151,13 +152,14 @@ Wortegem- Petegem.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -187,7 +189,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -225,7 +227,7 @@ Melden
 
 voormalige abdij van Beaulieu
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -245,7 +247,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Rietgracht of Coupure
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -281,8 +283,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten westen van de ankerplaats bevindt zich een golfterrein. Op die
 plaats is de topografie totaal gewijzigd en is het voormalige landschap

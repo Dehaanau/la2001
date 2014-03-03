@@ -1,13 +1,13 @@
 Zoniënwoud N.O., Kapucijnenbos, Bos van Marnix en Arboretum van Tervuren
 ========================================================================
 
-Anker ID: A20037
-----------------
+:Ankerplaats ID: A20037
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Dit deel van het Zoniënwoud is gelegen tussen Oudergem, Tervuren en
 Overijse. Het Zoniënwoud is een restant van het historische "Kolenwoud"
@@ -77,11 +77,12 @@ een open agrarisch gebied.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het geografisch arboretum (belang als illustratie van
 fytogeografische inzichten en voor de studie van de acclimatisatie van
@@ -90,8 +91,8 @@ domein de Marnix hebben een grote dendrologische en - bijv. bij de
 bronnenvan de Voer of de heidevegetaties in het domein de Marnix -
 floristische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het Kapucijnenbos is een momenteel beboste archeologische site, waar
 het rond 1800 gesloopte klooster stond. Een aantal dreven en het
@@ -101,8 +102,8 @@ uitgestrekte Kolenwoud dat nadien stelselmatig kleiner werd. Het
 arboretum van Tervuren is belangrijk voor studie van de geschiedenis der
 wetenschappen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een groot uitgestrekt bos met hoge eeuwenoude
 beuken en eiken die een "natuurlijke gotische kathedraal" vormen -
@@ -114,12 +115,13 @@ parkaanleg en hebben dankzij hun reliëf een hoge belevingswaarde.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -140,7 +142,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 bronnen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -154,7 +156,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 **Andere:**
  * jachtpaviljoen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -164,7 +166,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -188,7 +190,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een grote verkeersader doorsnijdt het westelijk deel.

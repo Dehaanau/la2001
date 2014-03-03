@@ -1,13 +1,13 @@
 Kasteel Nieuwburg en Breidels
 =============================
 
-Anker ID: A30061
-----------------
+:Ankerplaats ID: A30061
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt in de gemeente Oostkamp, ten westen van de
 Kortrijkse steenweg tussen Waardamme en Oostkamp. Deze weg volgt min of
@@ -64,19 +64,20 @@ weliswaar onderbroken, dreef.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De zeldzame florasoorten en de speciale variëteiten die in de
 kasteelparken voorkomen, hebben een belangrijke wetenschappelijke
 waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De gave kastelen met het aansluitend bouwkundig erfgoed (als
@@ -88,8 +89,8 @@ Nieuwburg, de restanten ervan en de vermoedelijk Genuese bouwheren
 dragen bij aan zijn historische waarde. Ook het uitgesproken
 drevenpatroon getuigt van de 18e-19e eeuwse aanleg.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kastelen en afhankelijke gebouwen krijgen een
 esthetische meerwaarde door hun gaafheid en door het omliggende park in
@@ -100,8 +101,8 @@ visueel-ruimtelijke compartimentering en voor de samenhang, verbinding
 tussen beide kasteeldomeinen.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kamlijn vormt de basis voor de Kortrijkse steenweg die de
 strcutuur geeft aan de percelering en wegenpatroon. Door de parkaanleg
@@ -109,13 +110,14 @@ worden vista's gecreëerd naar opvallende elementen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -128,7 +130,7 @@ interfluviale kam
 
 zijbeek Marsbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -166,7 +168,7 @@ de gebouwen nabij kasteeldomein Nieuwburg door hun uniform kleur
 landgoed bij kast. Nieuwburg en omliggende hoeves
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -214,8 +216,9 @@ bij kast Nieuwburg
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten zuiden van het kasteeldomein Breidels ligt een residentiële wijk in
 bos. Het bebost karakter moet bewaard blijven om de storende invloed van

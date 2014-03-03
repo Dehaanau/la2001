@@ -1,13 +1,13 @@
 Kasteel van Schiplaken en Steentjesbos
 ======================================
 
-Anker ID: A20009
-----------------
+:Ankerplaats ID: A20009
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het kasteel van Schiplaken ligt in Hever (Boortmeerbeek) nabij de
 grens met Elewijt (Zemst) in de vallei van de Zwarte beek, de Bergbeek
@@ -40,19 +40,20 @@ grotendeels.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Zowel het kasteeldomein van Schiplaken als het aanpalende
 Steentjesbos herbergen talrijke oude soms zeldzame bomen en interessante
 vegetaties.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het gaat om een landschappelijk aangelegd domein, waarin echter nog
@@ -62,8 +63,8 @@ heropgebouwde versie na de brand van 1914. De monumentale ijskelder, de
 oranjerie en de ommuurde moestuin, die nog in gereduceerde vorm bewaard
 bleef, geven een idee van de 19de-eeuwse leefcultuur.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Eén groot landschappelijk geheel gevormd door een
 kasteelpark met boeiende gezichten, en het daarbij aansluitende
@@ -71,13 +72,14 @@ Steentjesbos.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -92,7 +94,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -128,7 +130,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -143,7 +145,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -168,8 +170,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Enkele verspreide hoeven, verspreide bebouwing ten noorden van het
 Steentjesbos.

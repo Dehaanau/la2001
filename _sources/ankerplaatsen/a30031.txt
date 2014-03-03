@@ -1,13 +1,13 @@
 Groenhove
 =========
 
-Anker ID: A30031
-----------------
+:Ankerplaats ID: A30031
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt ten oosten van Torhout en ten westen van de A17
 Brugge-Kortrijk die de oostelijke grens van de ankerplaats vormt. In het
@@ -55,20 +55,21 @@ zicht op het boscomplex en de achterliggende landbouwgronden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is gelegen aan de voet van een oostelijke uitloper
 van het plateau van Wijnendaele met enkel bronnen. Het gebied herbergt
 een rijke flora en fauna door het beheer, door de bodemvariaties en door
 de resten van heidevegetatie.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het is waarschijnlijk een oud veldgebied dat reeds op de
@@ -76,8 +77,8 @@ Ferrariskaarten bebost was met lage bebouwingsdichtheid. Van het
 vroegere jachtkasteel rest enkel een deel van de gracht en het
 kasteelbos. De resten van een V1-lanceerplatform uit WOII.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gesloten boscomplex aan de voet van een
 helling vormt van op het plateau een aaneengesloten geheel. Het wordt
@@ -88,15 +89,15 @@ overzicht op het bosbestand en de verdere omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het klooster Virgo Fidelis binnen de
 bosrijke omgeving is een verblijfplaats voor o.a. bezinningen en andere
 bijeenkomsten.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De percelering van het omringend landbouwland is loodrecht op de
 bosrand geënt.
@@ -104,18 +105,19 @@ bosrand geënt.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
 aan de voet van het Wijnendaeleplateau
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -138,7 +140,7 @@ betonnen platform rest van een V1-lanceerplatform
 
 klooster Virgo Fidelis
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -165,8 +167,9 @@ zwemdok en visvijver
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De weilanden in het westen en zuiden van de ankerplaats kunnen best
 weiland (grasland) blijven wegens de relatie met de nattere gronden en

@@ -1,16 +1,16 @@
 Kasteel van Hasselbroek
 =======================
 
-Anker ID: A70064
-----------------
+:Ankerplaats ID: A70064
+
 
 **Landschap**
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het kasteel van Hasselbroek ligt ten zuiden van de dorpskern van Jeuk
 (Gingelom), tegen de grens met de provincie Luik. De andere
@@ -83,17 +83,18 @@ uit de eerste helft van de 19de eeuw.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteel van Hasselbroek is in oorsprong een kasteel in Maaslandse
@@ -108,8 +109,8 @@ Haspengouwse structuur, m.n. een kasteeldomein met aanhorigheden in een
 beekvallei, een dorpskapel en monumentale vierkantsboerderijen die het
 straatbeeld van het gehucht mede bepalen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde is vervat in de krachtige
 en beeldbepalende aanwezigheid van het kasteeldomein in het straatbeeld.
@@ -118,13 +119,13 @@ bijdragen tot de belevingswaarde van het geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteeldomein is door zijn ligging in de beekvallei en
 monumentaliteit beeldbepalend en ruimtelijk-structurend.
@@ -132,13 +133,14 @@ monumentaliteit beeldbepalend en ruimtelijk-structurend.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -153,7 +155,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Cicindria
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -209,7 +211,7 @@ hekwerk, muren
  **Andere:**
 tuinmeubilair, -paviljoen en -ornamenten (hondenhok, zonnewijzer)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -219,7 +221,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 brug als toegang tot kasteelhoeve
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -257,8 +259,9 @@ restant van voormalige omgrachting
 
 parkbossen
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de zuidelijke kwadranten van de moestuin is een schietclub
 gehuisvest. Het is wenselijk dat bij een herwaardering van het domein

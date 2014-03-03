@@ -1,13 +1,13 @@
 Hertberg
 ========
 
-Anker ID: A10070
-----------------
+:Ankerplaats ID: A10070
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Hertberg' is legen op grondgebied van de gemeenten
 Herselt en Laakdal en vormt de overgang tussen de vallei van de Grote
@@ -51,12 +51,13 @@ hebben op het geheel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van dit bosrijke gebied wordt in
 belangrijke mate bepaald door de geomorfologische kenmerken. Hertberg
@@ -65,8 +66,8 @@ aaneengesloten bosgebied, gelegen op de overgang tussen de vallei van de
 Grote Nete en de eerste hellingen van het Hageland, is het bovendien
 deel van een cluster van waardevolle landschappen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Reeds in de 18de eeuw (Ferraris, 1777) werd het gebied van Hertberg
@@ -80,8 +81,8 @@ gelegen 'Denneboshoeve' klimt op tot de 18de eeuw, doch werd
 herhaaldelijk aangepast en ter hoogte van Kipdorp staat nog een typische
 dorpswoning in leem- en vakwerk uit 1947.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het landschap van 'Hertberg' betreft een mooi
 aaneengesloten bosgebied, waarbinnen het macroreliëf en enkele dreven
@@ -89,8 +90,8 @@ zorgen voor afwisseling. Het is vooral de uitgestrektheid die de
 belevingswaarde van dit boscomplex bepaalt.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Belangrijke elementen met betrekking tot de ruimtelijk-structurerende
 waarde van deze ankerplaats, zijn de tertiaire heuvels 'Hertberg' en
@@ -102,13 +103,14 @@ uiterste zuiden van de provincie Antwerpen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -121,7 +123,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * macroreliëf
  * heuvel
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
@@ -137,7 +139,7 @@ dorpswoning in leem
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -146,7 +148,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -166,8 +168,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten in dit landschap zijn de verspreid voorkomende atypische
 bewoning en recreatieve infrastructuur.

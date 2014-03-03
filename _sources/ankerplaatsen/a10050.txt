@@ -1,12 +1,12 @@
 De Zegge
 ========
 
-Anker ID: A10050
-----------------
+:Ankerplaats ID: A10050
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap 'De Zegge' situeert zich in de zuidelijke Antwerpse
 Kempen op grondgebied van Geel. De begrenzing van de ankerplaats wordt
@@ -63,12 +63,13 @@ van dit gebied.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap 'De Zegge' is een relict van een typisch Kempens
 beekdallandschap met turfkuilen, trilvenen, rietvelden,
@@ -81,8 +82,8 @@ vormen daarnaast ideale biotopen voor vele vogelsoorten. De Zegge is
 daarenboven de enige plaats in Vlaanderen waar nog ringslangen worden
 waargenomen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschap dat we vandaag waarnemen t.h.v. 'De Zegge' en omgeving
@@ -93,8 +94,8 @@ landschapselementen, e.d. Vermeldenswaardig bouwkundig erfgoed is de
 'Elsummolen' of ' de molen van 't veld', een houten windmolen uit 1796
 die op de Zeggendijk staat.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het noordelijke deel van de ankerplaats betreft
 een mooi gesloten moerassig gebied, uniek en opvallend binnen een sterk
@@ -108,14 +109,14 @@ kleinschalig en daarmee esthetisch waardevol karakter.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het moerassige gedeelte van 'De Zegge' was
 vroeger een belangrijk turfwingebied.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De structuur en topografie van het gebied is historisch stabiel
 gebleven en vormt met de turputten, rietvelden e.d. in het noordelijk
@@ -125,13 +126,14 @@ verstoorde omgeving.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -153,7 +155,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 laagveen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Molens:**
@@ -163,7 +165,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 Elsummolen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -175,7 +177,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -211,8 +213,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunt is de verspreid voorkomende atypische bewoning en het
 geleidelijke verlies van de resterende bewoning met kleinschalig

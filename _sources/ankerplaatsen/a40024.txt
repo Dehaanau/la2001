@@ -1,13 +1,13 @@
 Polder van Kruibeke, Bazel en Rupelmonde
 ========================================
 
-Anker ID: A40024
-----------------
+:Ankerplaats ID: A40024
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 In Bazel is er slechts sprake van een inpoldering in een geschreven
 bron in het midden van de 13e eeuw. Vermoedelijk was er reeds voordien
@@ -99,12 +99,13 @@ smeedijzeren hangbrug gemaakt.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deel van de Scheldevallei, westelijke grens wordt gevormd door de
 steile helling van cuesta van het land van Waas. Alluviale gronden,
@@ -112,8 +113,8 @@ rivierkleiafzetting, veen aanwezig onder het alluviaal materiaal.
 Bestaat overwegend uit kleigronden en natte bodems. In de polder van
 Bazel is een kleine donk in het landschap aanwezig.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Reeds ingedijkt in de 13de eeuw. Grote overstroming in 1715 zorgde
@@ -126,8 +127,8 @@ van Bazel kent samen met het kasteeldomein van Wissekerke een oude
 ontstaansgeschiedenis. Het Kallebeekveer verbindt de polder van Bazel
 met Hermiksem.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een zeer regelmatige percelering
 met kleine percelen bos, behalve ter hoogte van Bazel, zeer weinig
@@ -143,8 +144,8 @@ van Wissekerke bewonderen.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De polders zijn door de cuesta van het Waasland en de schelde met
 haar dijken gegrensd. Het betreft een gecompartimenteerd landschap met
@@ -155,13 +156,14 @@ vooral op het cuestafront.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -193,7 +195,7 @@ kreek, Twissels
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -249,7 +251,7 @@ Kerk van Bazel
  **Andere:**
 Scheepswerf van Rupelmonde, veer over Schelde (2)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -269,7 +271,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 stoompompgemaal
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -321,8 +323,9 @@ linden op wegensplitsingen (met kapelletjes)
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bij Bazel ligt de sporthal Dulpop in de polder. Tussen Bazel en
 Rupelmonde bevinden zich verschillende weekendhuisjes. Langs de

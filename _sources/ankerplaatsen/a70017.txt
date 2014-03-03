@@ -1,15 +1,15 @@
 Vallei van de Gulp bij Teuven
 =============================
 
-Anker ID: A70017
-----------------
+:Ankerplaats ID: A70017
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het landschap bevindt zich tussen de Nederlandse grens in het noorden
 en het oosten, de provinciegrens met Luik in het zuiden en een weg
@@ -183,12 +183,13 @@ leenhoven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Er komen landschapsvormen voor, typisch voor waterdoorlatende
 gesteenten (krijt en grind) zoals droge dalen, amfitheatervormige
@@ -196,8 +197,8 @@ bronkommen, grubben, dolinen, , holle wegen enz. De kalkrijke bodems
 resulteren in een soortenrijke en zeldzame vegetatie met een
 uitgesproken voorjaarsaspect in de historisch stabiele oude bossen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Wat betreft het bouwkundig patrimonium maakt het landschap deel uit
@@ -219,8 +220,8 @@ belang zijn de aanwezigheid van talrijke waardevolle historische
 kastelen, abdijen, kloosters en boerderijen van waaruit de omgeving
 ontgonnen werd, en het voorkomen van historisch stabiele oude bossen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De grote verscheidenheid in het gradiëntrijke
 landschap met zijn oude Maasterrasen, uitgestrekte leemplateaus en
@@ -233,27 +234,28 @@ met het gebouwde patrimonium.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich uitermate goed voor
 wandel- en fietstoerisme.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Gulp is bepalend voor de vormgeving en uitbouw van
 het landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -294,7 +296,7 @@ vochtig grasland
 **Andere:**
 Vaalser groenzand, krijt, dolines
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -331,7 +333,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -348,7 +350,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 aftakking watermolen, spoorwegbrug
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -396,8 +398,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 historisch stabiele bossen
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Landschapsverstorend zijn de schaalvergroting in de landbouw met
 verdwijnen van lineaire landschapselementen zoals graften, hagen enz.,

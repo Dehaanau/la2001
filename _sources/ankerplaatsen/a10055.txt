@@ -1,13 +1,13 @@
 Zammels Broek en Trichelbroek
 =============================
 
-Anker ID: A10055
-----------------
+:Ankerplaats ID: A10055
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap 'Zammels Broek en Trichelbroek' is gelegen op
 grondgebied van de gemeenten Geel en Laakdal in de vallei van de Grote
@@ -64,12 +64,13 @@ landschapselementen spelen hierin een belangrijke rol.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurwetenschappelijke waarde van het Zammels Broek en
 Trichelbroek wordt bepaald door de aanwezigheid van de oorspronkelijke
@@ -81,8 +82,8 @@ tevens een zeer rijke avifauna. Door de twee Nete-armen in het noorden
 wordt een complex gebied met bijzondere milieufactoren afgesloten van de
 rest van de vallei.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Dit gebied omvat nog talrijke relicten van het oorspronkelijk
@@ -97,8 +98,8 @@ ook de historisch waardevolle St.-Bavokapel die teruggaat tot de
 In het noordelijke deel van het gebied werden sporen van bewoning in de
 late IJzertijd gevonden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een mooi gesloten
 valleilandschap, bepaald door de sterk meanderende loop van de Grote
@@ -110,15 +111,15 @@ kleine landschapselementen maakt het landelijk karakter compleet.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Tot WOII werd in het gebied
 moerasijzererts gewonnen. De St. Bavokapel wordt aangehaald als de
 oudste woonkern van Eindhout.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Zammels Broek of noordelijke gedeelte van de ankerplaats wordt
 gedomineerd door de sterk meanderende loop van de Nete en het omgevende
@@ -129,13 +130,14 @@ is hier grilliger.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -164,7 +166,7 @@ Grote Nete, Grote- en Kleine Laak, Trichelbeek, Hoefkensloop
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -186,7 +188,7 @@ St. Bavokapel, Kruisweg
  **Archeologische elementen:**
 sporen van bewoning uit late Ijzertijd
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -203,7 +205,7 @@ oude wegenstructuur
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -253,8 +255,9 @@ moerkuilen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Belangrijk knelpunt in dit gebied is het waterkwaliteitsprobleem van de
 Laak die regelmatig overstroomt en zo vervuild water in het gebied

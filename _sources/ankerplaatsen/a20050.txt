@@ -1,13 +1,13 @@
 Valleien van Grote en Kleine Gete tussen Grimde, Budingen en Dormaal
 ====================================================================
 
-Anker ID: A20050
-----------------
+:Ankerplaats ID: A20050
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De beschouwde delen van de valleien van de Grote en de Kleine Gete
 worden gesitueerd ten noorden van de steenweg Tienen-Sint-Truiden. Het
@@ -90,11 +90,11 @@ samenvloeit met de Grote Gete ter hoogte van Budingen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gaat om gave beemdenlandschappen, doorgaans met veldindelingen en
 patronen van heggen en houtkanten die tijdens de laatste eeuwen weinig
@@ -104,8 +104,8 @@ dorpskernen en een historische en kunsthistorisch belangrijk stadje,
 Zoutleeuw. In de omgeving van de stad zijn nog sporen van de oude
 omwalling en citadel zichtbaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kleinschaligheid en gaafheid van het
 beemdenlandschap en de architecturale kwaliteit van het Zoutleeuws
@@ -116,11 +116,12 @@ het "Spiegelhuis".
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -145,7 +146,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -188,7 +189,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 resten omwallingen en opgravingen te Zoutleeuw
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -207,7 +208,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -236,8 +237,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing in de omgeving van Oplinter, Wommersom, Drieslinter, Bos,
 Dormaal, Helen en Zoutleeuw.

@@ -1,15 +1,15 @@
 Maasvallei van Maasmechelen tot Stokkem met kasteeldomein Vilain XIV
 ====================================================================
 
-Anker ID: A70044
-----------------
+:Ankerplaats ID: A70044
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het beoogde landschap bevindt zich in de alluviale vlakte van de Maas,
 tegen de Nederlandse grens, tussen Maasmechelen en Stokkem. Vrijwel
@@ -119,12 +119,13 @@ waartoe het gebied zich leent, maken elders voetveren weer opgang.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Rivierlandschappen hebben een dynamisch karakter. In geomorfologisch,
 bodemkundig en hydrografisch opzicht is de alluviale vlakte van de Maas
@@ -141,8 +142,8 @@ o.i.v. het kalkhoudende Maaswater een specifieke vegetatie. Het
 kasteelpark Vilain XIV bevat een bijzondere verzameling boomsoorten en
 is in dendrologisch opzicht belangrijk.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De historische verplaatsingen van de Maas zijn in het landschap
@@ -161,8 +162,8 @@ een rijke verscheidenheid aan cultuurhistorische landschapselementen
 struwelen enz.). Oude kuilen getuigen van de kleinschalige, plaatselijke
 leem- of grindwinning.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het grillige stroompatroon van de Maas met zijn
 grindbanken, sterk wisselend debiet, uiterwaarden, historisch dijken- en
@@ -179,7 +180,7 @@ knotbomen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich uitermate goed voor
@@ -188,21 +189,22 @@ bevaarbaar met kajak en andere kleine vaartuigen. Het Meeswijk veer is
 de enige nog resterende permanente veerdienst over de Grensmaas, en
 geschikt voor gemotoriseerd verkeer.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Maas was determinerend voor de opbouw en organisatie van het
 volledige gebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -235,7 +237,7 @@ o.a. Maas, Genootsbeek, Langbroekbeek, Kikbeek
 
 kleinschalige grind- en leemputten, grindbanken
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -315,7 +317,7 @@ prehistorische vondsten
  **Andere:**
 voormalige school en gemeentehuis
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -337,7 +339,7 @@ o.a. winterdijken, zomerdijken
  **Andere:**
 veer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -389,8 +391,9 @@ weerden
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Schaalvergroting in de landbouw, lozingen van afvalwater en zwerfvuil na
 overstromingen doen afbreuk aan het landschap. Verstorend is ook het

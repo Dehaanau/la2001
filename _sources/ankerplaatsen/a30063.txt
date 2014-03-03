@@ -1,13 +1,13 @@
 Duinakkers Koksijde
 ===================
 
-Anker ID: A30063
-----------------
+:Ankerplaats ID: A30063
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt ten noorden van het militair vliegveld van
 Koksijde rond de Robert Van Dammestraat en de Leopold III laan (gem.
@@ -28,20 +28,21 @@ historische en esthetische waarde van dit relict landschap.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De zandige bodem en de grote reliëfsverschillen op korte afstand in
 de duinen laten landbouw slechts toe in de laag gelegen pannes waar
 gedurende het gehele jaar voldoende vocht aanwezig is voor de
 begroeiing.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De zeer goeie bewaring van de percelen en perceelsrandbegroeiing, én
@@ -49,8 +50,8 @@ het bestendig landbouwgebruik van deze gronden maken van deze
 duingronden een vrij uniek voorbeeld van duinontginning. Het
 kleinschalig bouwkundig erfgoed draagt bij aan dit historisch karakter.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De kleine percelen hebben door hun gave
 perceelsrandbegroeiing en hun graslandgebruik een grote esthetische
@@ -58,18 +59,19 @@ waarde.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
  * kustduin
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -78,7 +80,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 kleinschalige boerderijtjes
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -98,8 +100,9 @@ smalle, kleine percelen
  **Andere:**
 duinakkers
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze panne wordt doorsneden door de Robert Van Dammestraat die door de
 aanwezige dreef minder storend overkomt. De oprukkende lintbebouwing

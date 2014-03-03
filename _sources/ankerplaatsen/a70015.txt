@@ -1,15 +1,15 @@
 Dal van de Berwijn
 ==================
 
-Anker ID: A70015
-----------------
+:Ankerplaats ID: A70015
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De Berwijn, met zijn sterk meanderende bedding, ontspringt in de
 omgeving van Aubel en mondt uit in de Maas bij de Belgisch-Nederlandse
@@ -99,12 +99,13 @@ fungeert.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Berwijn is de enige vrij meanderende waterloop met zulk een groot
 debiet en met kenmerken van een bergrivier in Vlaanderen. Het dal van de
@@ -119,8 +120,8 @@ Berwijn komen talrijke gradiënten voor (vochtgradiënt,
 temperatuurgradiënt, trofiegradiënt enz.). De grote landschappelijke
 verscheidenheid is hier een gevolg van.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De gedeeltelijk beboste helling en de vochtige weiden in de omgeving
@@ -133,8 +134,8 @@ gebouw dat tijdens Wereldoorlog 1 afbrandde. Op een kalkstenensluitsteen
 wordt het jaartal 1744 vermeld. De overige gebouwen dateren van de
 wederopbouw in neotraditionele stijl.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De steile dalflank, deels bebost met een goed
 ontwikkeld eiken-haagbeukenbos waarin talrijke voorjaarsbloeiers
@@ -149,27 +150,28 @@ plateau, doorsneden met holle wegen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het landschap bevinden zich
 verschillende wandelpaden, waaronder een Grote Routepad.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De meanderende Berwijn is bepalend voor de landschappelijke opbouw
 van het volledige gebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -208,7 +210,7 @@ vochtig grasland
 
 o.a. primaire gesteenten (harde kalksteen uit het Onder Carboon)
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Molens:**
@@ -222,7 +224,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -240,7 +242,7 @@ historische holle wegen
 
 molensloot met stuw en zalmtrap
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -285,8 +287,9 @@ hellings- en valleigraslanden
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een hoogspanningsleiding beïnvloed de visuele belevingswaarde van het
 landschap negatief. Er bevindt zich een gebouwencomplex van een

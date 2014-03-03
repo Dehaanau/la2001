@@ -1,15 +1,15 @@
 Jekervallei tussen Tongeren en Mal
 ==================================
 
-Anker ID: A70009
-----------------
+:Ankerplaats ID: A70009
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Aan de zijde van Tongeren en in het zuiden wordt het gebied begrensd
 door de huidige spoorweg naar Luik, langs de oostzijde door het gehucht
@@ -113,12 +113,13 @@ verwijderen van landschapselementen, bouwwerken en wegenaanleg.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied heeft een opmerkelijke waarde op hydrografisch vlak. In
 tegenstelling tot de Herk en de Demer, die hun dalen verder eroderen,
@@ -126,8 +127,8 @@ hoogt de Jeker haar dal aan. Dat opvullingsstadium is hier duidelijk
 waarneembaar. Tussen Jeker en Oude Jeker strekt zich een ca. 1 km breed
 alluvium uit. Venige depressies kenmerken de oude Jekermeanders.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het gehucht Blaar is één van de stedelijke buitingen die in de 12de
@@ -140,8 +141,8 @@ grotendeels herkenbaar. Het kasteel Scherpenberg was een belangrijk
 leengoed, afhankelijk van het leenhof van Hamal en Rutten. Het restant
 van een dreef gaat richting Nerem.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied wordt gekenmerkt door een grote
 landschappelijke variatie: hooilanden, drassige terreinen, moerassen en
@@ -154,7 +155,7 @@ esthetisch belang.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied heeft een educatief en
@@ -162,21 +163,22 @@ recreatief belang. Het fungeert als een groene long voor de in de
 onmiddellijke nabijheid gelegen stedelijke agglomeratie. Fiets- en
 wandelroutes zijn er uitgestippeld.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Jeker was hier bepalend voor de opbouw en
 organisatie van het landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -211,7 +213,7 @@ vochtige beemden
  **Andere:**
 voorkomen van dassenburchten
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -261,7 +263,7 @@ prehistorische en Gallo-Romeinse vondsten
  **Andere:**
 typische smeedijzeren weidepoorten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
@@ -276,7 +278,7 @@ Tongeren-Aken
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -333,8 +335,9 @@ rondom de bewoning
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied wordt bedreigd door verstoringen in de waterhuishouding,
 verwijderen van landschapselementen, bouwwerken en wegenaanleg. De

@@ -1,15 +1,15 @@
 Demervallei met kasteel 't Looi
 ===============================
 
-Anker ID: A70056
-----------------
+:Ankerplaats ID: A70056
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Kasteeldomein ‘t Looi is gelegen ten zuiden van de dorpskern van
 Lummen, op de noordelijke oever van de Demer. Morfologie noch
@@ -96,18 +96,19 @@ omhaagde lanen, uitzonderlijke solitairen en tunnels.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het kasteeldomein bezit een dendrologische waarde omwille van zijn
 omhaagde lanen, uitzonderlijke solitairen en tunnels.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Morfologie noch bodemgebruik ondergingen tijdens de laatste eeuwen
@@ -118,8 +119,8 @@ ook cultuurhistorisch belangrijk, met interessante tuinaanleg en omgeven
 door bossen, vijvers, wei-, hooi- en bouwland. Als integrerend onderdeel
 van dat landschap liggen op de Demer de Grote Molen en de Veldekemolen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het kasteeldomein biedt een aangename variatie
 van bouwkundig erfgoed, tuinaanleg, bossen en waterpartijen. Het geheel
@@ -128,7 +129,7 @@ ijle bomenrijen of houtkanten op de perceelsgrenzen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Elk jaar opnieuw op de laatste zondag van
@@ -136,8 +137,8 @@ mei wordt ‘t Looi opengesteld voor het brede publiek tijdens de Lummense
 kastelenwandeling, onder begeleiding van natuur- en cultuurgidsen. De
 Sterkapel is in de meimaand vrij toegankelijk.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In eerste instantie was de Demer met zijn zijbeken bepalend voor de
 opbouw en organisatie van het landschap. Het kasteeldomein, dat zich
@@ -146,13 +147,14 @@ vallei van de Demer.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -178,7 +180,7 @@ o.a. Demer, Voortbeek en verschillende zijbeken
 
 valleibeemden van de Demer
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -217,7 +219,7 @@ o.a. kasteelhoeve 't Looi
 
 Grote Molen, Veldekemolen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -241,7 +243,7 @@ tuinpaden, dreven en wegen van kasteeldomein 't Looi
 gekanaliseerde Demer, vijvercomplex, molens, stelsel van beken en
 grachten
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -294,7 +296,8 @@ hooi- en weiland van de Demerbroeken, graspartijen in het park
 
 beemden en bevloeiingen in de Demervallei
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden.

@@ -1,13 +1,13 @@
 Kalmthoutse Heide
 =================
 
-Anker ID: A10002
-----------------
+:Ankerplaats ID: A10002
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De 'Kalmthoutse Heide' is volledig gelegen op grondgebied van de
 gemeente Kalmthout in de Antwerpse Noorderkempen. De begrenzing van deze
@@ -70,12 +70,13 @@ geweerd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Kalmthoutse Heide heeft in de eerste plaats een aanzienlijke
 wetenschappelijke waarde door haar uitgestrektheid, ongeschondenheid en
@@ -86,8 +87,8 @@ soorten die of erg zeldzaam zijn of bedreigd doordat het biotoop heide
 sterk in verdrukking geraakt. Ook internationaal wordt het gebied erkend
 voor zijn flora en als belangrijk habitat voor water- en broedvogels.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het landschapstype heide, zoals wij het nu kennen, is het resultaat
@@ -97,8 +98,8 @@ van turfwinningen tussen de 14de en 19de eeuw. Verder vinden we in de
 Kalmthoutse Heide waardevolle relicten van cultuurhistorische elementen
 als landgoederen en 'oude wegen'.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Rijk aan historische relicten en zeer gevarieerd
 in structuur en voorkomen, vertegenwoordigt dit uitgestrekte en zeer
@@ -110,7 +111,7 @@ op de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De heide, een halfnatuurlijk landschap, is
@@ -118,8 +119,8 @@ ontstaan en in stand gehouden doordat het deel uitmaakte van een oud
 landbouwsysteem. In het verleden leverde de heide bijna alles wat de
 mens nodig had om op arme zandgrond aan landbouw te doen.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ruimtelijk-structurerende waarde van dit landschap ligt vooral in
 de afwisseling van gesloten bosgebied en open heidegebied enerzijds en
@@ -131,13 +132,14 @@ uitgestrekter landschappelijk waardevol gebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -160,7 +162,7 @@ Hazenduinen, Wilgenduinen, Kambuusduinen
 
 Talrijke vennen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -181,7 +183,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 + oude molensteen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -197,7 +199,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -234,8 +236,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deels ten gevolge van aanpalende waterwinning, leidt het hele gebied
 onder verdroging.

@@ -1,13 +1,13 @@
 Korsele
 =======
 
-Anker ID: A40045
-----------------
+:Ankerplaats ID: A40045
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Korsele is een gehucht op grondgebied van Horebeke gelegen. Korsele is
 een Romaans toponiem uit de Merovingische periode afgeleid uit het
@@ -67,19 +67,20 @@ van oudsher open gebied.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ankerplaats ligt in een sterk golvend landschap dat uit parallele
 ruggetjes bestaat. De tussengelegen valleitjes ontwateren in de
 Perlinckbeek.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand op de kaart van Ferraris (ca. 1775): een straat met
@@ -95,8 +96,8 @@ handhaafde sinds de 16e eeuw. De eerste protestantse kerk, nu de
 zogenaamde 'De Oude Kerk', dateert uit 1795 en bleef in gebruik tot de
 bouw van de neogotische kerk in 1872, de zogenaamde 'De Nieuwe Kerk'.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De structuur van het straatgehucht is duidelijk
 herkenbaar. De perceelsranden zijn zo goed als allemaal verdwenen. In
@@ -104,15 +105,15 @@ het oosten ligt een beekvalleitje; de omliggende akkers zijn open.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Korsele of 'Geuzenhoek' is waarschijnlijk
 de enige protestantse gemeenschap in Vlaanderen die zich onafhankelijk
 handhaafde sinds de 16e eeuw.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het straatgehucht Korsele, met in het midden de tempel, bevindt zich
 bijna bovenaan een heuvelrug. Ten oosten ervan ligt een beekvalleitje
@@ -121,13 +122,14 @@ parallel aan elkaar.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -147,7 +149,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -178,10 +180,10 @@ protestantse gemeenschap
 
 tempel
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -209,8 +211,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 **Andere:**
 kleine boomgaarden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recente bebouwing tast het originele karakter van het protestantse
 gehucht aan.

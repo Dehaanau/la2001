@@ -1,13 +1,13 @@
 Wullebos
 ========
 
-Anker ID: A40018
-----------------
+:Ankerplaats ID: A40018
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Wullebos - de Baggaart, op de grens tussen Moerbeke en Stekene, is
 begrensd door de expresweg Knokke- Antwerpen in het noorden, de
@@ -74,18 +74,19 @@ Heirnisse in gebruik.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit bos maakt deel uit van de bosgordel die op de dekzandrug Maldegem
  *  Stekene gelegen is. Het bos is reeds in 1743 op kaart te zien.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De toestand op de kaart van Ferraris (ca. 1775): een groot boscomplex
@@ -96,8 +97,8 @@ landbouwgebied die op alle kaarten met een duidelijk perceelspatroon en
 perceelsrandvegetatie staat aangeduid. De nabijgelegen Baudeloabdij
 heeft een grote rol in de ontginningsgeschiedenis gespeeld.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het boscomplex heeft een duidelijke regelmatige
 structuur doordat het met dreven is doorsneden. Er komen open percelen
@@ -105,8 +106,8 @@ in voor. Het zuidelijk gelegen landbouwgebied is met knotbomen omzoomd.
 Dit vormt een gecompartimenteerd landschap.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het bos is via een regelmatig drevenpatroon in een duidelijke
 structuur gegoten. De twee waterlopen die het gebied noord- zuid
@@ -117,13 +118,14 @@ door de perceelsrandbegroeiing erg gecomparimenteerd.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -147,10 +149,10 @@ grote dekzandrug Maldegem- Stekene
 
 Vlaamse Vallei
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -168,7 +170,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Papdijk
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -209,8 +211,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De autoweg in het noorden van het gebied snijdt een stuk van het
 Wullebos af van het grotere, zuidelijke deel. De gronden van het

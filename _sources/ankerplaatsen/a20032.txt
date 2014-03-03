@@ -1,14 +1,14 @@
 Hallerbos
 =========
 
-Anker ID: A20032
-----------------
+:Ankerplaats ID: A20032
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Hallerbos is gelegen ten zuiden van Dworp en ten zuidoosten van
 Halle. Het is een restant van het zogenaamde grote kolenwoud en vormde
@@ -43,17 +43,18 @@ einde van de 19de eeuw aangelegd werd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het bos herbergt een rijke fauna en flora, voioral in debrongebieden
 en beekvalleitjes. Het heeft ook dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het is een restant van het grote kolenwoud maar het werd na Ferraris
 gesplitst van het Zoniënwoud. Het was eeuwenlang eigendom van de adel,
@@ -66,8 +67,8 @@ leger het gehele bos, enkel de jonge bomen bleven staan. Na de oorlog
 werd het bos staatseigendom en werd het in 1932 herbebost, de meeste
 bossen zijn dus niet ouder dan 70 jaar.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een mooi bos met heel wat ondergroei dat voor
 heel wat variatie zorgt. Begin mei kleuren duizenden hyacinten de bodem
@@ -76,13 +77,14 @@ van het Hallerbos blauw.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -110,10 +112,10 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -123,7 +125,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -142,8 +144,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing vooral op de ruggen tussen de noordelijk gelegen
 valleitjes en in het gehucht Keldergat.

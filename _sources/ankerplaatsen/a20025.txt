@@ -1,12 +1,12 @@
 Sint-Wivina-abdij en Wolfsputten
 ================================
 
-Anker ID: A20025
-----------------
+:Ankerplaats ID: A20025
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats strekt zich uit ten noorden van Dilbeek en omvat het
 Sint-Alenapark, de Wolfsputten en de Sint-Wivina-abdij. De
@@ -78,20 +78,21 @@ fragmenten van de funderingen van de oude waterburcht blootgelegd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Wolfsputten is een gebied met verschillende biotopen dat een grote
 biologische waarde heeft met een aantal zeldzame planten. Het park van
 de abdij heeft een bijzondere dendrologische waarde. Het Sint-Alenapark
 heeft bijzonder dendrologisch belang.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Wolfsputten vinden hun ontstaan in de steengroeven van Lediaanse
 kalkzandsteen, waaruit een groot gedeelte van de Brusselse gotiek werd
@@ -105,8 +106,8 @@ historische lagen zien: 1° de feodale site met hooghof-neerhof-structuur
 en de nog bestaande toren; 2° het 19de-eeuwse landschappelijke park; 3°
 sporen van tuinaanleg uit het interbellum.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Sint-Wivina-abdij wordt omgeven door een
 aantrekkelijk park; de schoonheid Wolfsputten houdt vooral verband met
@@ -114,12 +115,13 @@ de steile hellingen, soms met hagen en bomenrijen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -145,7 +147,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -183,7 +185,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 Opgravingen waterburcht Dilbeek
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -198,7 +200,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -223,8 +225,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing nabij de kern van Dilbeek (Westrand). Ten zuiden van de
 Sint-Wivina-abdij wordt het gebied doorsneden door de spoorlijn

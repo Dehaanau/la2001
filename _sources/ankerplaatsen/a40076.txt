@@ -1,15 +1,15 @@
 Parkbos-Hasseltbos
 ==================
 
-Anker ID: A40076
-----------------
+:Ankerplaats ID: A40076
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt op het grondgebied van de gemeenten Ophasselt
 (Geraardsbergen) en Steenhuize- Wijnhuize (Herzele). Het gebied wordt
@@ -28,13 +28,13 @@ landschap bewaard gebleven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de Ferrariskaart (ca. 1775) is het bos beperkt tot de vallei van
@@ -45,16 +45,16 @@ veranderd. Rond de Parkbosbeek, die ten opzichte van Ferraris wat in
 oppervlakte is afgenomen, is het gesloten karakter van het landschap
 bewaard gebleven.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Rond de Parkbosbeek is er een gesloten weide- en
 boslandschap. Ten oosten hiervan ligt het Hasseltbos. Op het
 interfluvium tussen de Parkbosbeek en de Kakebeek ligt een kouter.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het gebied wordt sinds enkele jaren in twee gesneden door de aanleg
 van de autoweg N42. De vallei van de Parkbosbeek loopt centraal door het
@@ -65,13 +65,14 @@ graslanden komt wat perceelsrandbegroeiing voor.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -95,7 +96,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 bronnen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -111,7 +112,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -121,7 +122,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -154,8 +155,9 @@ Beekbegeleidende bossen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het nieuwe stuk van de A42 doorsnijdt gebied tussen het Parkbos en het
 Hasseltbos in.

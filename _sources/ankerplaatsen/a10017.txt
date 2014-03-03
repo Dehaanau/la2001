@@ -1,13 +1,13 @@
 Grotenhoutbos - Gierlebos
 =========================
 
-Anker ID: A10017
-----------------
+:Ankerplaats ID: A10017
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Grotenhoutbos betreft een restant van een historisch uitgestrekt
 bosgebied van meer dan 2000 ha, gelegen tussen de dorpskernen van Gierle
@@ -51,12 +51,13 @@ structuren, geeft het Grotenhoutbos een bijzondere waarde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Als oud boscomplex herbergt het Grotenhoutbos waardevolle oude
 bosvegetaties en dankzij het voorkomen van een dicht slotenstelsel,
@@ -68,8 +69,8 @@ ecologische netwerk voor een aantal minder algemene diersoorten en vormt
 het een uiterst waardevol gebied voor autochtone genenbronnen voor
 bosplanten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Grotenhoutbos betreft een aanzienlijk restant van een eertijds
@@ -83,8 +84,8 @@ gebieden -droge zandruggen langsheen de beekvalleien- hebben een
 belangrijk archeologisch potentieel omdat zij van oudsher uitgelezen
 nederzettingszones zijn.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het aaneengesloten bosgebied vormt een mooi
 contrast met het open, gave landbouwgebied rondom. De indrukwekkende
@@ -93,8 +94,8 @@ percelen resulteren in afwisseling en mooie zichten binnen het beboste
 complex.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ruimtelijk structureel vormt het gesloten bos met een aantal
 imposante dreven en een uitgebreid grachtenstelsel een sterk
@@ -102,13 +103,14 @@ contrasterend element binnen het omliggende open landbouwgebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -122,7 +124,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Bosloop, Oude Dijkloop, Breemloop
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -142,7 +144,7 @@ Verlaten boerderij
  **Archeologische elementen:**
 Vrij hoge archeologische potentiewaarde
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -156,7 +158,7 @@ Veldwegen
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -180,7 +182,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen knelpunten of opmerkingen.

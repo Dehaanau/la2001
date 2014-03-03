@@ -1,13 +1,13 @@
 Peerdsbos en Park van Brasschaat
 ================================
 
-Anker ID: A10084
-----------------
+:Ankerplaats ID: A10084
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Het Peerdsbos' is gelegen in de Antwerpse Kempen op
 grondgebied van de gemeenten Schoten en Brasschaat, aan beide kanten van
@@ -79,12 +79,13 @@ deze ontwikkelingen in de toekomst ten stelligste worden vermeden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Peerdsbos betreft een complex van redelijk structuurrijke bossen,
 met geleidelijke overgangen naar meer beekbegeleidende bostypen. Dit
@@ -95,8 +96,8 @@ waarde. Naast de floristische waarde, herbergt dit uitgebreide
 boscomplex ook een aanzienlijke faunistische waarde. Vooral vogels, maar
 ook zoogdieren en amfibieën vinden geschikt habitat in dit landschap.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Peerdsbos werd voor de eerste keer vermeld in 1434 als deel van
@@ -117,8 +118,8 @@ parkaanleg, kwam er in 1872. De in de nabijheid van het kasteel gelegen
 Hemelhoeve vertoont een neoclassicistische inslag en werd opgetrokken in
 1926.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De visuele aantrekkelijkheid van het Peerdsbos
 wordt in de eerste plaats bepaald door de aanwezigheid van verschillende
@@ -129,8 +130,8 @@ uitschieter, draagt eveneens bij tot de esthetische waarde van deze
 ankerplaats.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Grenzend aan het centrum van Brasschaat, vormt het Peerdsbos een
 belangrijke 'groene long' tussen de bewoningskern en de autostrade E19.
@@ -139,13 +140,14 @@ structuur van de ankerplaats.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -159,7 +161,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Laarse Beek, Zeurtbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -196,7 +198,7 @@ Melkerij + bakhuis, Hemelhoeve
 
 Parochiekerk St.-Antonius
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -205,7 +207,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -237,8 +239,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De belangrijkste knelpunten voor deze ankerplaats zijn de hoge
 recreatiedruk, die gepaard gaat met de aanleg van allerlei

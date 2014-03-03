@@ -1,13 +1,13 @@
 Abdij van Postel en de Ronde Put
 ================================
 
-Anker ID: A10023
-----------------
+:Ankerplaats ID: A10023
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Abdij van Postel en de Ronde Put is gelegen in het
 noorden van de gemeente Mol, tegen de grens met Nederland. De begrenzing
@@ -90,12 +90,13 @@ van recreatieve infrastructuur.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Ronde Put en omgeving betreft op natuurwetenschappelijk gebied één
 van de interessantste gebieden van de Kempen. Gelegen in het brongebied
@@ -109,8 +110,8 @@ water- en prooivogels, waarvan enkele zeldzame exemplaren in het gebied
 broeden. Maar ook insecten, vlinders, reptielen en amfibieën gedijen
 hier goed.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Deze ankerplaats is een getuige van het vroegere grootgrondbezit met
@@ -129,8 +130,8 @@ kasteel uit het midden van de 19de eeuw en enkele oudere hoeven en
 woningen, herbergt deze ankerplaats eveneens heel wat bouwkundig
 erfgoed.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De combinatie van een ongerept natuurgebied (de
 Ronde Put) temidden van een oud cultuurlandschap met bossen en
@@ -141,7 +142,7 @@ ongereptheid, de uitgestrektheid en het afwezig zijn van
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De abdij van Postel heeft doorheen haar
@@ -150,8 +151,8 @@ van het gehucht Postel en omgeving. Vanaf de late middeleeuwen tot in de
 helft van de 19de eeuw werden sommige veenmoerassen uitgebaat ten
 behoeve van brandstofvoorziening.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gelegen in de centrale Kempen, heeft dit landschap de typische
 compartimentenstructuur van eenheden bos, afgewisseld met eenheden
@@ -163,13 +164,14 @@ haar omgeving.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -192,7 +194,7 @@ Zwarte Nete
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -253,7 +255,7 @@ Norbertijnerabdij + ringmuur,St. - Nikolaaskerk
 **Andere:**
 beiaardtoren, brouwerij, kaasmakerij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -269,7 +271,7 @@ oud wegenpatroon
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -310,8 +312,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De aanleg van de autostrade E34 Turnhout-Eindhoven resulteerde in een
 opsplitsing van een eertijds veel uitgestrektere landschappelijke

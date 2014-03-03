@@ -1,15 +1,15 @@
 Jongenbos
 =========
 
-Anker ID: A70013
-----------------
+:Ankerplaats ID: A70013
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het 104 ha grote Jongenbos ligt ten noordoosten van het centrum van
 Vliermaalroot, in het noordelijk gedeelte van Vochtig-Haspengouw. Tot
@@ -56,12 +56,12 @@ noordrand van Vochtig-Haspengouw beperkt.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Park en bos van het domein Jongenbosch zijn de historisch stabiele
@@ -70,8 +70,8 @@ het gelijknamige Loons leengoed fungeerde. De randzones, vooral in
 westelijke en noordelijke richting (De Wale Weyde), zijn overblijfselen
 van een meer gesloten bos.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het domein Jongenbosch omvat het kasteel met park
 en vijver, dat overgaat in het aanpalende bos. Het geheel is bepalend in
@@ -85,21 +85,22 @@ restanten, verspreid voorkomende bosjes en struikgewas belangrijke
 structuren.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Door zijn oppervlakte (ca. 104 ha) is het Jongenbosch
 ruimtelijk-structureel bepalend.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -119,7 +120,7 @@ Winterbeek
 
 gebrekkige natuurlijke drainage en hoge bodemvochtigheid
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -142,7 +143,7 @@ kasteel Jongenbosch met voormalig koetshuis
 middeleeuwse vondsten
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -184,8 +185,9 @@ historisch stabiel bos en weilanden
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ruilverkaveling in uitvoering. De recente bebouwing levert geen bijdrage
 tot de landschapswaarden.

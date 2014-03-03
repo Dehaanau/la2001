@@ -1,13 +1,13 @@
 Grote Netevallei te Balen met De Most
 =====================================
 
-Anker ID: A17001
-----------------
+:Ankerplaats ID: A17001
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het landschap 'Netevallei Balen en de Most' is gelegen in de gemeente
 Balen in de Antwerpse Zuiderkempen en behoort tot het bekken van de
@@ -75,12 +75,13 @@ omtrent deze knelpunten ten zeerste gewenst.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats wordt in de eerste
 plaats bepaald door haar ligging in een uitgestrekte alluviale vlakte
@@ -96,8 +97,8 @@ goed tot zuiver is, vormt een belangrijk biotoop voor heel wat
 vissoorten. Verder herbergt het gebied ook een aanzienlijke
 reeënpopulatie.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Meer dan twee eeuwen lang heeft de mens dit kleinschalige
@@ -112,8 +113,8 @@ het gebied twee waardevolle molens voor: de oorsprong van de Hoolstmolen
 gaat terug tot de 13de eeuw en de Topmolen heeft nog een molensteen die
 dateert uit 1850.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit uitgestrekte landschap betreft een mooi
 restant van een kleinschalig landbouwgebied in het alluvium van de Grote
@@ -123,7 +124,7 @@ esthetisch zeer waardevol en voor de streek zeer typisch landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Volgens de overlevering zou tijdens de
@@ -133,8 +134,8 @@ bevindt zich het Odradaputteke, een bron waaraan een heilzame werking
 wordt toegeschreven. Hier werd in 1896 een bedevaartskapel ter ere van
 de Heilige Odrada opgericht.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een gesloten valleigebied met centraal de
 opvallend meanderende loop van Grote Nete en van daaruit vertrekkend
@@ -146,13 +147,14 @@ coulisselandschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -178,7 +180,7 @@ Grote Nete, Visbeek, Hanske Selsloop, Heiloop
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Molens:**
@@ -199,7 +201,7 @@ St.-Odrada kapel
 Archeologische potenties ter hoogte van het voormalige 'Hof van
 Scheps'
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -216,7 +218,7 @@ zandwegen
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -252,8 +254,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunten voor dit gebied zijn het voorkomen van talrijke
 visputten en weekendverblijven, alsook de verspreide atypische

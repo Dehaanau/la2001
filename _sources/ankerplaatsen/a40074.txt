@@ -1,15 +1,15 @@
 Vallei van de Molenbeek tussen Herzele en Mere
 ==============================================
 
-Anker ID: A40074
-----------------
+:Ankerplaats ID: A40074
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De vallei van de Molenbeek tussen Herzele en Mere, met zijn vele
 molens op de waterloop, heeft een heuvelig karakter doordat de vallei
@@ -89,19 +89,20 @@ huidige hoeve dateert uit de 19e en 20e eeuw.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vallei is asymmetrisch. Er komen plaatselijk bronzones en
 stuwwatertafels voor met daarbijhorende bronbossen en
 stuwwaterverschijnselen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Op de kaart van Ferraris (ca. 1775) en Van der Maelen (ca.1850) zijn
@@ -115,8 +116,8 @@ dreef met het dorp verbonden. In de vallei ten zuiden daarvan komen vele
 hagen voor. Er komen enkele hoeves in de vallei voor die op oude kernen
 terug gaan.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gesloten landschap ligt langs de Molenbeek,
 het is hoofdzakelijk weiland met nog enkele percelen bos. Op de
@@ -127,8 +128,8 @@ en komen veel hagen rond de weilanden voor. Het kasteel van Herzele ligt
 ongeveer op het hoogste punt.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Molenbeek, met de vele molens, loopt centraal door
 de ankerplaats. Daarrond komen vele weilanden in de asymmetrische vallei
@@ -141,13 +142,14 @@ voor op de valleihellingen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -175,7 +177,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -219,7 +221,7 @@ dienstwoningen
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -230,7 +232,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

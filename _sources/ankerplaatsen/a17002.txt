@@ -1,13 +1,13 @@
 Rammelaars
 ==========
 
-Anker ID: A17002
-----------------
+:Ankerplaats ID: A17002
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het gebied ligt in de noordwesthoek van de gemeente Ham, op de grens
 van de provincies Limburg en Antwerpen. In het oosten wordt het gebied
@@ -45,19 +45,20 @@ ijzererts ontgonnen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Grote delen van het gebied zijn bedekt met een dikke veenlaag van
 gemiddeld 1m dikte. Het continue beheer van het gebied resulteerde
 tevens in een grote diversiteit.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het bekenpatroon, het grachtensysteem en het perceleringspatroon van
@@ -65,8 +66,8 @@ begin 19de eeuw, bleef tot op heden min of meer ongewijzigd. Het gebied
 De Rammelaars is een getuige van een 19de eeuwse waterbeheersing. In het
 gebied werd tot in de 20ste eeuw turf gestoken en ijzererts ontgonnen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Vooral het zuidelijk gelegen deel is een levende
 getuige van een voormalig kleinschalig Kempens beekdallandschap. Dit
@@ -77,28 +78,29 @@ is met een zeer gevarieerd landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied is vrij toegankelijk op de
 paden. In het gebied ligt een bezoekerscentrum van waaruit regelmatig
 geleide wandelingen worden georganiseerd.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het is een uitgebreid gebied met een typische structuur namelijk het
 z.g. coulissenlandschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -120,7 +122,7 @@ Dode of Luikse Beek, Gerhoevenloop, Kleine Beek
  * rietland
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -131,7 +133,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 afwateringsgrachten, sluis met zgn. moederzoeg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -177,8 +179,9 @@ elzen- en wilgenbroekstruweel
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een groot gedeelte van het gebied is nog kleinschalig. Voor de huidige
 beheerders is kleinschaligheid een ernstige belemmering. Het in stand

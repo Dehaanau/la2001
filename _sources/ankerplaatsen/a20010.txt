@@ -1,13 +1,13 @@
 Floordambos en kasteel de Ribeaucourt
 =====================================
 
-Anker ID: A20010
-----------------
+:Ankerplaats ID: A20010
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats is gelegen nabij de dorpskernen van Melsbroek en Perk
 op het grondgebied van de gemeenten Steenokkerzeel, Kampenhout,
@@ -66,12 +66,13 @@ dorpsgezicht.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Floordambos ligt in een oud alluvium dat deel uit maakt van een
 fossiele oost-west gerichte riviervallei die momenteel via een aantal
@@ -85,8 +86,8 @@ Ook op het vlak van de fauna is het gebied zeer waardevol. In het
 kasteeldomein de Ribeaucourt herbergt talrijke oude en zeldzame bomen en
 inhet bosgedeelte komen interessante vegetaties voor.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteel de Ribeaucourt gaat terug tot de hoge middeleeuwen maar
@@ -99,8 +100,8 @@ kastelen Ravaert en Huinhoven werden gebouwd in 1850-1860 en omringd van
 landschappelijke tuinen. Bij Ravaert is nog een prachtige 19de-eeuwse
 moestuin bewaard gebleven.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het Floordambos is een langgerekt bosmassief met
 een bijzonder grillige perimeter, talrijke enclaves en open plekken. In
@@ -116,13 +117,14 @@ vijvers en monumentale bomen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -142,7 +144,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -173,7 +175,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -188,7 +190,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

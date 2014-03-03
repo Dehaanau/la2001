@@ -1,13 +1,13 @@
 Steenbergbos
 ============
 
-Anker ID: A40073
-----------------
+:Ankerplaats ID: A40073
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt op grondgebied van Everbeek (gemeente Brakel).
 In de Vlaamse Ardennen komt een twaalftal heuvels voor die sterk
@@ -63,18 +63,19 @@ werd in 1873 als parochiekerk erkend.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het zuiden van het gebied ontspringen verschillende bronnen die de
 Molenbeek vormen. Het bos is een hellings- en bronbos.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De vorm van het huidige bos is nog goed herkenbaar t.o.v. Ferraris
@@ -86,16 +87,16 @@ topografische kaarten blijft deze structuur behouden. Op Ferraris staat
 op de kouter ten oosten van het bos een molen, Steenbergmolen,
 ingetekend. Deze molen is vanaf de kaart van 1923 niet meer aangeduid.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het bos is op een steile helling gelegen. Er
 ontspringen verschillende bronnen die de Molenbeek voeden. De gebieden
 rond de vallei liggen onder akkerland.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het bos bevindt zich in de vallei van de Molenbeek. Rond het bos
 komen nog wat akker voor op de vlakkere, hogere stukken. Het gehucht
@@ -104,13 +105,14 @@ staat aan de rand ervan ingeplant.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -131,7 +133,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 bronnen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -142,7 +144,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 kerk van Bovenkwartier
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -153,7 +155,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**

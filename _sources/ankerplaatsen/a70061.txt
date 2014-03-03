@@ -1,14 +1,14 @@
 Kasteeldorp Genoelselderen
 ==========================
 
-Anker ID: A70061
-----------------
+:Ankerplaats ID: A70061
+
 
 **Landschap**
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Genoelselderen is een straatdorpje in het brongebied van de Demer. De
 oudste bewoningssporen van Genoelselderen dateren uit de Gallo-Romeinse
@@ -49,17 +49,18 @@ omgevende landschap.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De onmiddellijke omgeving van het kasteel met staatsieplein,
@@ -70,8 +71,8 @@ stabiel. Vlakbij zijn twee tumuli gelegen. De Sint-Martinuskerk vormt
 een aanknopingspunt met de heren van Elderen, waarvan verschillende er
 begraven liggen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De Kasteelstraat biedt een imposant zicht op
 voorgevel, staatsieplein en dienstgebouwen van het kasteel. Daarvoor
@@ -84,15 +85,15 @@ landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kasteelsite is onderdeel van een gaaf
 landschappelijk dorpsbeeld. Momenteel wordt het domein als wijnkasteel
 beheerd.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het noordelijk gedeelte van het dorp wordt landschappelijk volledig
 beheerst door het kasteelverleden, waarvan het kasteel met park en de
@@ -100,13 +101,14 @@ verbindingsdreef met het Grootbos de voornaamste getuigen zijn.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -121,7 +123,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 zcht glooiend reliëf van het Haspengouws leemplateau
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -165,10 +167,10 @@ Sint-Martinuskerk, Sint-Apolloniakapel, Sint-Jozefkapel
  **Archeologische elementen:**
 Gallo-Romeinse vondsten zoals tumuli
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -218,8 +220,9 @@ wijnbouw
 
 o.a. Grootbos, Heidebos, Kiezelingenbos
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het open akkerbouwgebied wint de laagstammige fruitteelt evenals de
 wijnbouw veld. De recente bebouwing levert geen bijdrage tot de

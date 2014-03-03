@@ -1,15 +1,15 @@
 Site ten Doele
 ==============
 
-Anker ID: A30069
-----------------
+:Ankerplaats ID: A30069
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats ligt in Hoeke (gem. Damme) tussen de Zwinnevaart en
 de Kalsijdeader. Centraal ligt een zeer goed bewaarde mottesite in de
@@ -38,18 +38,19 @@ en het zicht op de terp moeten gevrijwaard blijven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De hoge grondwaterstand gedurende het gehele jaar vormt de fysische
 omkadering van de site in deze polder.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De uitstekende bewaring van de motte en de grote zeldzaamheid ervan
 in de polders geven deze motte een grote historische waarde die getuigt
@@ -58,29 +59,30 @@ herkenbare historische perceelstructuur gelinkt aan de motte, dragen bij
 tot de historische waarde. De oorspronkelijke militaire functie werd
 later vervangen door een bescherming tegen de zee (vluchteiland).
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het relatief grote reliëfsverschil van de motte
 in dit vlakke en open polderlandschap is opvallend en heeft door het
 graslandgebruik een gaaf voorkomen.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De motte vormt een opvallende ophoging in het open polderlandschap.
 
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -88,7 +90,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
@@ -98,7 +100,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 site ten doele
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -106,7 +108,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Zwinnevaart en Kalsijdeader
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Historisch stabiel landgebruik:**
@@ -120,8 +122,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Voor de ankerplaats is de omliggende bebouwing van weinig belang maar
 deze dient echter beperkt te zijn in hoogte om de terp voldoende te

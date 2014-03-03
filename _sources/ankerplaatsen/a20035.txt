@@ -1,13 +1,13 @@
 Goede Lucht, Ter Kluizen en Waterloos Veld
 ==========================================
 
-Anker ID: A20035
-----------------
+:Ankerplaats ID: A20035
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats is gelegen ten zuiden van Sint-Genesius-Rode, tussen
 Zevenborren en het Zoniënwoud. Het gebied is langs alle kanten door
@@ -52,19 +52,20 @@ volledig ingenomen door verkavelingen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het kasteeldomein van Revelingen heeft een grote dendrologische
 waarde; sommige gedeelten van het Revelingen domein en de vallei van de
 Kwede Beek zijn eveneens botanisch waardevol.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 In 1399 werd hier de Priorij Ter kluizen opgericht toen het
 Zoniënwoud nog tot hier reikte. In 1456 werd het door een brand verwoest
@@ -77,8 +78,8 @@ verkavelingen. Het domein Revelingen is een deel van het Zoniënwoud dat
 rond 1850 werd ge-landscaped; J.P. Cluysenaer ontwierp het kasteel en de
 hoeve; een uniek voorbeeld van een bospark..
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een open kouterlandschap met vergezichten. Het
 kasteel en de kasteelhoeve van Revelingen vormen een stijlvol geheel in
@@ -86,13 +87,14 @@ een bospark met diep ingesneden dalen en mooie vista's.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -113,7 +115,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -148,7 +150,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 **Archeologische elementen:**
 neolithische vondsten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -159,7 +161,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 **Spoorweg:**
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -189,8 +191,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing aan de westelijke rand. Een spoorlijn doorsnijdt
 oostelijk deel.

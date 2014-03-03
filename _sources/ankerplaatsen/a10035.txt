@@ -1,13 +1,13 @@
 Domein Catershof en Kasteel van 's Gravenwezel
 ==============================================
 
-Anker ID: A10035
-----------------
+:Ankerplaats ID: A10035
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats gevormd door het Domein Katershof en het Kasteel van 's
 Gravenwezel is gelegen op grondgebied van 's Gravenwezel, een
@@ -56,12 +56,13 @@ verenigbaar is met het historisch waardevolle karakter ervan.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 We vinden hier op een relatief beperkte ruimte nog een behoorlijke
 variatie in vegetatietypes en landschapselementen. Het domein van het
@@ -70,8 +71,8 @@ dendrologische waarde. Deze elementen samen maken dit gebied, en dan met
 name het noordoostelijke deel, interessant voor verschillende vogel- en
 zoogdiersoorten.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het 'Kasteel van 's Gravenwezel' is een vierkant waterslot dat
@@ -88,8 +89,8 @@ teruggaan tot de 18de eeuw. De 'Kapel van de ovenbuur' is een als O.-
 L.- Vrouwekapel ingericht gemeenschappelijk bakhuisje uit de 2de helft
 van de 18de eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats omvat, met twee kastelen met
 talrijke bijgebouwen, twee 18de eeuwse hoeves en een oude kapel, een
@@ -99,8 +100,8 @@ omringende graslanden geven het geheel een aantrekkelijk en typisch
 karakter met een hoge esthetische waarde.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats vormt een groene oase en tevens open ruimte binnen
 de steeds verder oprukkende bewoning van de gehuchten rondom. Een grote
@@ -110,13 +111,14 @@ paviljoendreef, met de Zwanebeek.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -130,7 +132,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Hofbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -176,7 +178,7 @@ Duyvendaelhoeve, Hoeve Marijnissen
 
 als O. L. - Vrouwkapel ingericht bakhuis
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -192,7 +194,7 @@ kasseiweg
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -229,8 +231,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunten zijn de commerciële bestemmingen van een aantal
 van de gebouwen, wat niet altijd verenigbaar is met het historisch

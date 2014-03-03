@@ -1,13 +1,13 @@
 Leiemeersen - Kanaal Brugge-Gent
 ================================
 
-Anker ID: A30053
-----------------
+:Ankerplaats ID: A30053
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats ligt langs het kanaal Gent-Oostende ten oosten van
 Moerbrugge in de gemeente Oostkamp met een stukje in de gemeente
@@ -74,12 +74,13 @@ benadrukt door kleine landschapselementen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het deels bewaard tracé van de Zuidleie waarin de bedding van het
 kanaal werd gegraven, verwijst naar het oorspronkelijk hydrografisch en
@@ -90,8 +91,8 @@ dankzij de hoge grondwaterstand. In de graslanden komen dankzij
 hooilandbeheer en begrazing ook zeldzame flora voor. Het kanaal zelf
 vormt een belangrijke corridor voor flora en fauna.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kanaal vormt belangrijk historisch erfgoed als oud
@@ -104,8 +105,8 @@ relatie met de omgeving een belangrijk elementen van het landschap
 waarbij enkele door uitzonderlijke elementen opvallen. De bunkers langs
 het kanaal getuigen van het strategisch belang van dit kanaal.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Vele landschapsstructuren worden door begroeiing
 geaccentueerd in het landschap waarbij het kanaal als belangrijkste
@@ -116,8 +117,8 @@ natuurlijk karakter. De stroken graslanden aansluitend bij waterlopen
 hebben tevens een natuurlijk karakter en benadrukken deze structuren in
 het landschap.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kanaal en zijbeken structureren in belangrijke mate het
 landgebruik en zij worden ook visueel geaccentueerd. De spoorwegtalud in
@@ -125,13 +126,14 @@ het zuiden vormt een visueel-ruimtelijke begrenzing van de ankerplaats.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -156,7 +158,7 @@ Zuidleie; Borne-, Merle, Zuiddam- en Geuzenbeek
 
 in Leiemeersen
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -189,7 +191,7 @@ restanten van mottestructuur en walgracht
 
 bij hoeve Grote Linde
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -199,7 +201,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kanaal Oostende-Gent
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -239,8 +241,9 @@ No
 
 rijshout/tuinbouw
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De toenemende bebouwing rond Stuivenberg en de lintbebouwing vanuit
 Moerbrugge bedreigen de openheid en de natuurlijkheid van het gebied.

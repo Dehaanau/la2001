@@ -1,13 +1,13 @@
 Kastelen Gruuthuyse - Cellen - Erkegem en Kampveld
 ==================================================
 
-Anker ID: A30056
-----------------
+:Ankerplaats ID: A30056
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats strekt zich uit langs de Rivier- en de Hertsbergebeek
 inbegrepen het kasteeldomein van Gruuthuyse ten oosten van de dorpskern
@@ -89,12 +89,13 @@ het park en wordt aangewend in de parkaanleg.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De meanderende loop van de Rivier- en de Hertsbergebeek heeft een
 grote wetenschappeliejk waarde vanwege de natuurlijkheid van de oevers
@@ -106,8 +107,8 @@ kasteelparken komen enkele zeldzame flora's en merkwaardige planten
 voor. Het Kampveld herbergt nog heidelfora op bepaalde plaatsen wat
 herinnert aan de nabijheid van veldgebieden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De kastelen en domeinen dateren meestal uit de 18e en 19e eeuw. De
@@ -122,8 +123,8 @@ veldgebied. De overstroombare bossen en weilanden langs de beken zijn
 intact bewaard waarbij de weilanden nog gave perceelsrandbegroeiing
 hebben.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De valleien van de Rivier- en Hertsbergebeek zijn
 goed herkenbaar in het landschap door de beekbegeleidende natte
@@ -137,21 +138,22 @@ interfluvium en het gave drevnepatroon benadrukt de systematische
 ontginning van het gebied.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De valleien van de Rivier- en de Hertsbergebeek zijn ruimtelijk
 structurerend voor het landgebruik.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -171,7 +173,7 @@ interfluvium Hertsberghe- en Rivierbeek
 
 Rivier- en Hertsberghebeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -208,7 +210,7 @@ hoeve op Kampveld
 kasteeldomein Gruuthuyse
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -242,8 +244,9 @@ bij weilanden en langs beken
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ankerplaats wordt doorsneden door de autostrade E40 Oostende-Brussel
 wat de landschappelijke samenhang verbreekt. Deze ankerplaats vormt een

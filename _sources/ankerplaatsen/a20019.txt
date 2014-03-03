@@ -1,13 +1,13 @@
 Kloosterberg en vallei van Begijnenbeek
 =======================================
 
-Anker ID: A20019
-----------------
+:Ankerplaats ID: A20019
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De Begijnenbeek behoort tot het Demerbekken. In deze ankerplaats wordt
 het deel van de vallei ten zuidwesten van Diest in aanmerking genomen.
@@ -34,24 +34,25 @@ heuvelrug. Enkele veldkapelletjes werden in deze omgeving genoteerd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De beemden langs de Begijnenbeek en het Gasthuisbos herbergen een
 uitzonderlijke flora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Deze ligt vooral in het recent ingestelde,maar historisch
 verantwoorde middelhoutbeheer van het Gasthuisbos.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Een open landschap, bestaande uit akkers,
 laagstam boomgaarden, bos en holle wegen, met een wijds panorama op de
@@ -59,12 +60,13 @@ omgeving waaronder Diest en de Begijnenbeek vanop de Kloosterberg.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -84,7 +86,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * vallei
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -94,7 +96,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
  * stal
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -109,7 +111,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -141,8 +143,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Oprukkende bebouwing aan de noordzijde en de westelijke flank van de
 Kloosterberg evenals in het zuiden vanuit Assent (Papenbroek).

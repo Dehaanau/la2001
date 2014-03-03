@@ -1,13 +1,13 @@
 Vidaigneberg - Rodeberg met Hellegatbos - Douvevallei
 =====================================================
 
-Anker ID: A30039
-----------------
+:Ankerplaats ID: A30039
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Deze ankerplaats wordt in het westen begrensd door de Frans-Belgische
 grens en loopt van de Douvevallei nabij Dranouter over de heuvels van
@@ -148,12 +148,13 @@ bewoningsgeschiedenis van deze heuvel.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Vlaamse heuvelrij van Vidaigne- en Rodeberg sluit in westen aan op
 de Zwarte berg (Frankrijk) en in oosten op Scherpenberg en Kemmelberg.
@@ -177,8 +178,8 @@ knotbomen. In het noorden van de ankerplaats zorgt de ondergrond
 (formatie van Kortrijk) voor weinig ingesneden beekvalleien zoals de
 Pandoenebeek en de Franse beek.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De talrijke archeologische sporen uit verschillende tijdperken,
 aangetroffen op en rond de heuveltoppen, wijzen op de lange
@@ -193,8 +194,8 @@ het strategisch belang en de wapenfeiten van deze heuvelachtige streek
 tijdens WOI.
 
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 In dit open landschap bieden de grote reliëfsverschillen panoramische zichten aan in alle richtingen (naar
 Heuvelland en Ieper, naar de Leievallei, naar de Douvevallei,polders,
@@ -214,8 +215,8 @@ oriënteringspunten en blikvangers in het landschap. De lage versnijding
 door wegen, de talrijke holle wegen, onverharde wegen met houtkanten en
 taluds,… bieden het gebied een esthetische meerwaarde.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het reliëf en de hydrografie (op hun beurt bepaald door de geologie)
 bepalen het landgebruik, het wegenpatroon, de bewoning,… Tegelijk vormt
@@ -224,13 +225,14 @@ bodemkundige en hydrografische eenheden.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -261,7 +263,7 @@ Douvevallei; talrijke beken
 zgn. Diestiaanafzettingen op toppen
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -289,7 +291,7 @@ Lijstermolen
 archeologische resten op vidaigne- en rodeberg???
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -316,8 +318,9 @@ bij kasteel Behaeghel
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landelijke karakter van dit landschap dient behouden en versterkt te
 worden via uitbreiding van de perceelsrandbegroeiing en beekbegeleidende

@@ -1,12 +1,12 @@
 Zalfens Gebroekt
 ================
 
-Anker ID: A10080
-----------------
+:Ankerplaats ID: A10080
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Het Zalfens Gebroekt' is gelegen op grondgebied van de
 gemeenten Oostmalle (Malle) en Zoersel in de Antwerpse Noorderkempen. De
@@ -41,12 +41,13 @@ waardevolle open ruimte tussen Oostmalle, Zoersel en Wechelderzande.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door de zeer natte bodems en het voorkomen van kwelsituaties, wordt
 dit gebied gekenmerkt door plantensoorten die in hun verspreiding sterk
@@ -56,8 +57,8 @@ talrijke kleine landschapselementen herbergt het gebied waarschijnlijk
 een grote diversiteit aan insecten. De combinatie van de boscomplexen en
 het omliggende landbouwgebied trekt daarnaast ook vele vogels aan.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Reeds bij Vandermaelen wordt het gebied vermeld als 'Broek', wat
@@ -66,8 +67,8 @@ karakteriseren. Hoewel niet eeuwenoud, heeft het mooi bewaarde
 kleinschalige karakter van het landschap een historische waarde binnen
 de grootschalige landschapsstructuur die eigen is aan de Noorderkempen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het kleinschalige karakter en de diversiteit in
 opbouw maken het Zalvens Gebroekt tot een aantrekkelijk landschap dat
@@ -78,8 +79,8 @@ afwisselende bostypes en natte weilanden resulteren in een esthetisch
 waardevol geheel.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats wordt gekenmerkt door centraal gelegen bos, omgeven
 door kleinschalige landbouwzones; de sterk meanderende Visbeek gaat als
@@ -93,13 +94,14 @@ Blommerschot.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -115,7 +117,7 @@ Zalfense Beek, Lopende Beek
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -124,7 +126,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -155,7 +157,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen.

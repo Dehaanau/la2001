@@ -1,15 +1,15 @@
 Heidegebied rond Laambeek, Roosterbeek en Slangebeek
 ====================================================
 
-Anker ID: A70054
-----------------
+:Ankerplaats ID: A70054
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 In de gemeenten Houthalen en Zonhoven strekt zich een aaneengesloten
 heide- en bosgebied uit in de overgangszone tussen de Hoge en de Lage
@@ -116,12 +116,13 @@ aan, afgewisseld met enkele moerassige zones en historische loofbosjes.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap strekt zich uit in de overgangszone tussen het Kempens
 Plateau en de Lage Kempen. Dergelijke overgangsgebieden worden
@@ -135,8 +136,8 @@ Met de landschappelijke verscheidenheid hangen een bijzondere flora en
 fauna samen. Een eigenaardig unicum is de Holsteen, een ensemble van een
 tiental enorme en grillig gevormde, dagzomende zandsteenblokken.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De heide is een belangrijke en steeds zeldzamer wordende
@@ -156,8 +157,8 @@ schilfer van een gepolijst voorwerp in verband gebracht worden met het
 gebruik van één van de stenen als zogenaamde prehistorische
 polijststeen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De uitgestrekte heidegebieden en het mozaïek van
 duinen, vennen, vijvercomplexen, houtkanten, bosjes en struwelen geven
@@ -165,14 +166,14 @@ aan het landschap een hoge belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich tot zachte
 recreatie. Verschillende fiets- en wandelroutes zijn er uitgestippeld.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De valleien van Laambeek en de Roosterbeek, ingesneden in de
 zuidwestelijke steilrand van het Kempens Plateau, waren hier bepalend
@@ -180,13 +181,14 @@ voor de opbouw en organisatie van het landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -221,7 +223,7 @@ o.a. Laambeek, Roosterbeek en Slangebeek
 
 vochtige graslanden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -260,7 +262,7 @@ Brelaarschans, Molenschans
 **Archeologische elementen:**
 Mesolithische vondsten en polijststeen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -284,7 +286,7 @@ wandel- en fietspaden
 
 molensloot, vijvercomplex
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -338,8 +340,9 @@ o.a. Molenheide, de Teut, Tenhaagdoornheide
 
 kleinschalige waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verderschrijdende bebossing, omvorming tot landbouwgrond,
 industrialisatie, woonuitbreiding en recreatiezones zijn er de oorzaak

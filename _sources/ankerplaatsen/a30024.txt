@@ -1,13 +1,13 @@
 Gijverinkhove - Bampoelbeek
 ===========================
 
-Anker ID: A30024
-----------------
+:Ankerplaats ID: A30024
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt tussen de bebouwde kernen van Gijverinkhove en
 Hoogstade (bieden gem. Alveringem) met een noordelijke uitloper naar
@@ -44,12 +44,13 @@ kleine percelen en restanten van perceelsrandbegroeiing.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ankerplaats bevindt zich in een gaaf deel op het Plateau van
 Izenberge waar de zandleemgrond gezorgd heeft voor een vroege
@@ -57,8 +58,8 @@ ontginning. De komvormige depressie van het brongebied van de
 Bampoelbeek is een geomorfologisch verschijnsel dat landschappelijk
 opvalt door hoogteverschillen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het gebied is zeer vroeg ontgonnen geweest als landbouwland waarbij
@@ -68,8 +69,8 @@ walgracht. De kerk van Gijverinkhove en pastorie (deels omwald) zijn op
 het hoogste punt gelegen. Het militair kerkhof van Hoogstade herinnert
 aan de strategische ligging van het plateau tijdens WOI.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De grote gaafheid van het bouwkundig erfgoed (de
 hoeves, kerk van Gijverinkhove met kerkhof, en pastorie en ommuurde tuin
@@ -78,8 +79,8 @@ waarde van het omliggende oude landbouwland met vrij intacte
 percelering. Dankzij het open landschap heeft men in verschilende
 richtingen op het plateau een goed zicht.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het aanwezige wegenpatroon (overal op plateau van Izenberghe)
 vertoont twee patronen die de inplanting van bewoning/bebouwing bepaald
@@ -88,12 +89,13 @@ hebben.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -108,7 +110,7 @@ depressie rond brongebied van Bampoelbeek
 
 Bampoelbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
@@ -125,7 +127,7 @@ vele hoeves zijn waardevol en zonder storende nieuwbouw; Kasteelhof
 
 kerk van Gijverinkhove met kerkhof en aansluitend de pastorie en tuin
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -144,8 +146,9 @@ restanten van bomenrijen langs weilandgrenzen en rond hoeves
 **Andere:**
 huisweiden bij de hoeves
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Hoogspanning doorsnijdt dit gebied en doet afbreuk aan de esthetische en
 belevingswaarde. Vanuit de bestaande kernen dient men nieuwe bebouwing

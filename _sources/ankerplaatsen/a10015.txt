@@ -1,13 +1,13 @@
 Abdij van Westmalle
 ===================
 
-Anker ID: A10015
-----------------
+:Ankerplaats ID: A10015
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Abdij van Westmalle' betreft de Trappistenabdij met
 omgevend domein, gelegen ten westen van de dorpskom van Westmalle en in
@@ -54,12 +54,13 @@ hoge belevingswaarde.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van het gebied wordt voornamelijk bepaald
 door de aanwezige heiderestanten en de oude bosrelicten die een
@@ -67,8 +68,8 @@ waardevolle flora herbergen. Deze laatste hebben ook een belangrijke
 faunistische waarde, temeer daar ze aansluiten op de boscomplexen van de
 ankerplaats 'Brechtse Heide' en zo één groot boshabitat vormen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het 'Klooster van O.L.-Vrouw van het Heilig Hart', gesticht in 1794
@@ -84,8 +85,8 @@ belangrijke historische waarde. Het Zandven, gelegen in de
 noordwestelijke punt van de ankerplaats, was vroeger het grenspunt voor
 Malle, Brecht en Schilde.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het domein van de abdij en de directe omgeving
 vormen een vrij intact landschap, waarvan rust en stilte uitgaat. Door
@@ -96,7 +97,7 @@ belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Trappistenabdij of het 'Klooster van
@@ -106,8 +107,8 @@ haar oprichting op het einde van de 18de eeuw, hebben de abdij en haar
 bewoners een belangrijke rol gespeelt in de ontwikkeling en evolutie van
 Westmalle en omgeving.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een uitgestrekt landschap met een
 orthogonaal patroon -zo goed als intact bewaard sinds de helft van de
@@ -116,13 +117,14 @@ door een complex en imposant drevenstelsel.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -135,7 +137,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -172,7 +174,7 @@ Trappistenabdij
  **Andere:**
 brouwerij bij abdij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -190,7 +192,7 @@ oud wegenpatroon
 **Andere:**
 watertoren
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -221,8 +223,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een te vermelden knelpunt is het voorkomen van weekendverblijven in de
 zuidwestelijke rand van de ankerplaats. Verder uitdijing van deze

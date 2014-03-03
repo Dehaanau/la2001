@@ -1,15 +1,15 @@
 Watering van Lommel-Kolonie
 ===========================
 
-Anker ID: A70001
-----------------
+:Ankerplaats ID: A70001
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Midden 19de eeuw werden grootschalige vloeiweiden aangelegd om de
 onvruchtbare heidegebieden in de Limburgse en Antwerpse Kempen
@@ -142,12 +142,13 @@ gedeeltelijk geïrrigeerd worden.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wisselwerking tussen de oorspronkelijke zure Kempense zandbodem en
 de bevloeiing met het kalkrijke kanaalwater resulteerde in een grote
@@ -155,8 +156,8 @@ diversiteit in plantensoorten en een uitzonderlijke vegetatie met o.a.
 relicten van de inzaaiing met alpiene soorten tijdens de aanleg van de
 vloeiweiden.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Erbarmelijke levensomstandigheden in het 19de eeuwse agrarische
@@ -181,8 +182,8 @@ gehouden worden dankzij een intensief beheer. Van de Rijkskolonie, die
 ermee samenhing, zijn de hoeve Corens en restanten van de erfbeplanting
 behouden.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Op zich reeds heeft het landschap een esthetische
 waarde door de aanwezigheid van lange, smalle graslandpercelen, van
@@ -194,7 +195,7 @@ bebouwing, de rust en stilte in het gebied van belang.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het oude wateringhuis op blok III werd
@@ -204,8 +205,8 @@ spijssloot vanaf het kanaal en in de aanvoersloot tot aan het
 bezoekerscentrum. Een aantal vijvers in de wateringen worden verpacht
 aan de meestbiedende.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De watering van Lommel-Kolonie heeft een uitzonderlijk grote
 oppervlakte van 230 ha en is hier bepalend voor de opbouw en organisatie
@@ -214,13 +215,14 @@ ingegrepen in het voordien traditioneel Kempense landschap.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -240,7 +242,7 @@ Heuvelse loop
 
 kunstmatig aangelegde, vochtige weiden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
@@ -276,7 +278,7 @@ hoeve Corens
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -300,7 +302,7 @@ steenweg 's Hertogenbosch-Luik, verbindingswegen en -paden
 bevloeiingssysteem met kunstwerken, spijssloten e.a., gevoed door
 kanaal Bocholt-Herentals
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -351,8 +353,9 @@ kunstmatig aangelegde, vochtige weiden
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De meeste boerderijen van de Rijkskolonie zijn vervangen door nieuwbouw
 en de boerderijpercelen zijn in de loop der tijd steeds verder

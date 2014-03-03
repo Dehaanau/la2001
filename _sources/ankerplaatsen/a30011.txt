@@ -1,13 +1,13 @@
 Duinen Ter Yde - Hannecartbos - Oostvoorduinen
 ==============================================
 
-Anker ID: A30011
-----------------
+:Ankerplaats ID: A30011
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Deze ankerplaats ligt tussen de bebouwing van Oostduinkerke-Bad (gem.
 Koksijde), Oostduinkerke (idem) en Groenendijk-Bad (idem). In het zuiden
@@ -56,12 +56,13 @@ ligt nog steeds onder weiland en bevat specifieke flora.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De gave opeenvolging en graduele overgang van strand naar duinen
 heeft een grote geomorfologische waarde dankzij de actieve natuurlijke
@@ -74,8 +75,8 @@ België en ze watert af volgens een oude Ijzergeulvertakking. De
 Hannecartdepressie vormt de scheiding tussen de jonge duinen ten noorden
 ervan en de oude ten zuiden ervan.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De relicten van de ontginning van het duinengebied als landbouwland
@@ -86,8 +87,8 @@ zelfs nog steeds in gebruik,... Het aanwezige bos werd aangeplant in
 1930 als jachtbos, en vormt nu een botanisch waardevol gebied rond de
 beek.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De esthetische waarde van het gebied wordt
 bepaald door de gave overgang van strand naar gevarieerde duinen, door
@@ -95,8 +96,8 @@ het gave zicht van deze opeenvolging, het wisselende landschap met
 hoogteverschillen op korte afstand, de verschillende vegetatietypes (van
 mos, grasland, struweel tot bos), het voorkomen van duinakkers,…
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Hannecartbos vormt door zijn gesloten karakter een sterke grens
 tussen de oude en de jonge duinen die ook in landschappelijk uitzicht
@@ -105,12 +106,13 @@ verschillen van elkaar.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Macroreliëf:**
 
@@ -123,13 +125,13 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 in de depressie van Hannecat ligt een grote duinbeek
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bijzondere waterhuishouding:**
@@ -137,8 +139,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 waterwinningsgebied
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De versnijding door de Koninklijke Baan is een zeer storende factor en
 verhindert de natuurlijke processen van duinmigratie onder invloed van

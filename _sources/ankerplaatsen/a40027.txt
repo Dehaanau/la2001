@@ -1,13 +1,13 @@
 Slot van Laarne
 ===============
 
-Anker ID: A40027
-----------------
+:Ankerplaats ID: A40027
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het Kasteel of Slot van Laarne is architectuurhistorisch gezien één
 van de voornaamste uit het kastelenpatrimonium van het land. Het
@@ -80,12 +80,12 @@ dateren van 1739.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De hof-kerkrelatie wordt de verbinding van de laan tussen de kerk en
@@ -95,8 +95,8 @@ verdedigingsgordel ter bescherming van Gent. De torens en wallen dateren
 uit de 11de tot de 13de eeuw. Vanaf de 15de eeuw verloor de burcht zijn
 militaire betekenis en werd omgebouwd tot luxueuze patriciërswoning.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De waterburcht is gebouwd op een vlak land
 middenin een moeras. Het slot is omgeven door een dubbele ringgracht en
@@ -106,14 +106,14 @@ voor de visuele relatie tussen kasteel en dorp.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het Kasteel van Laarne bevindt zich een
 restaurant.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het omwalde kasteel staat via dreven met zijn omgeving in relatie. De
 gekasseide laan met dubbele bomenrij, tussen kasteel en kerk, is het
@@ -121,13 +121,14 @@ indrukwekkenst. Achter het kasteel liggen nog enkele dreven.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -142,7 +143,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 Heusdensloot
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -186,7 +187,7 @@ gemeentehuis
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -202,7 +203,7 @@ kasseiweg
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -240,8 +241,9 @@ binnen- en buitengrachten
 
 boomgaard
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verschillende soorten bomen zijn in de dreef die naar de kerk loopt
 aangeplant. In de buurt van het kasteeldomein staan verschillendende

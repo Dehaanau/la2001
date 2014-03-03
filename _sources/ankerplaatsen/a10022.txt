@@ -1,13 +1,13 @@
 Priorij van Corsendonk en de Tikkebroeken
 =========================================
 
-Anker ID: A10022
-----------------
+:Ankerplaats ID: A10022
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats gevormd door de Priorij van Corsendonk en de
 Tikkebroeken is gelegen in de gemeenten Kasterlee en Oud-Turnhout op de
@@ -84,12 +84,13 @@ teneinde het karakter van het geheel niet te verstoren.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurwetenschappelijke waarde van deze ankerplaats wordt in de
 eerste plaats bepaald door het valleigebied van de Rodeloop, waar men
@@ -104,8 +105,8 @@ langsheen de Wamp dragen eveneens bij tot de natuurwetenschappelijke
 waarde van de ankerplaats en hebben vooral voor de avifauna een
 belangrijke waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Archeologische sporen verwijzen naar een eerste, vermoedelijke
@@ -122,8 +123,8 @@ De opstrekkende perceelsstructuur langsheen de Rodeloop komt redelijk
 goed overeen met wat we vinden op de kaarten van het MGI uit het begin
 van de 20ste eeuw.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De openheid van het centrale gedeelte,
 gedomineerd door de voormalige priorij, en de gesloten omgeving met de
@@ -133,15 +134,15 @@ indrukwekkende dreven die het zicht op de omgeving 'filteren'.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De voormalige priorij Corsendonk heeft
 doorheen de geschiedenis een belangrijke rol gespeeld in de religieuze
 geschiedenis van de streek.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Twee belangrijke structurerende elementen in dit landschap zijn de
 Rodeloop met vallei in het westen en de Wamp met vallei in het oosten.
@@ -152,13 +153,14 @@ priorij benadrukt.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -182,7 +184,7 @@ Rodeloop, Rooise Loop, Wamp
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -215,7 +217,7 @@ Corsendonk
 
 Priorij Corsendonk + bijgebouwen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -225,7 +227,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -258,8 +260,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Met de aanleg van de autostrade E34 Antwerpen-Eindhoven werden de
 omgeving van de priorij en de structuurbepalende dreven ruimtelijk

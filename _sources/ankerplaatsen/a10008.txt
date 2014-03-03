@@ -1,13 +1,13 @@
 Kasteel van Wuustwezel en de Vloeikens
 ======================================
 
-Anker ID: A10008
-----------------
+:Ankerplaats ID: A10008
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats met het Kasteel van Wuustwezel en de Vloeikens is
 gelegen ten oosten van de bewoningskern van Wuustwezel in de vallei van
@@ -63,12 +63,13 @@ geschiedenis van het landschap weerspiegelt.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats betreft een gevarieerd gebied met een sterk bebost
 kasteeldomein, een aantal open akkers en weilanden met een dens netwerk
@@ -81,8 +82,8 @@ mogelijkheden voor de avifauna. Het kasteeldomein vertegenwoordigt een
 belangrijke dendrologische waarde door het voorkomen van imposante
 dreven en een aantal oude solitaire bomen.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het Hof van Wuustwezel werd reeds bij Ferraris (1777) vermeld. De
@@ -107,8 +108,8 @@ Daarnaast is ook het 'Bouwke' vermeldenswaardig. Het ligt op een
 verhevenheid nabij de Grote Beek en betreft een dienstgebouwtje en een
 voormalige jagersafspanning uit respectievelijk 1828 en 1826.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het contrast tussen het gesloten en beboste
 kasteeldomein binnen een open ruimte van akkers en weiland is visueel
@@ -119,8 +120,8 @@ een aantrekkelijk geheel dat tevens de geschiedenis van het gebied
 weerspiegelt.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats betreft een dicht beboomd kasteeldomein met een
 opvallende drevenstructuur dat in sterk contrast staat met de ,eveneens
@@ -130,13 +131,14 @@ afwateringsysteem, doorsnijdt de valleigronden van de Grote Beek.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -158,7 +160,7 @@ Grote Beek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -188,7 +190,7 @@ dienstgebouwtje en jagersafspanning
 
 Vloeikenshoeve, bakhuis, duiventoren
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -204,7 +206,7 @@ aardenweg
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -238,8 +240,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen opmerkingen of knelpunten.
 

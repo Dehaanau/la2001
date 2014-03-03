@@ -1,15 +1,15 @@
 Berlingen en Kuttekoven
 =======================
 
-Anker ID: A70051
-----------------
+:Ankerplaats ID: A70051
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het beoogde landschap is gelegen aan de noordwestrand van het massief
 van Borgloon, dat zich ruim 30 m verheft boven de schiervlakte ten
@@ -94,12 +94,13 @@ en wandelroutes zijn er uitgestippeld.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het beoogde landschap is gelegen aan de noordwestrand van het massief
 van Borgloon, dat zich ruim 30 m verheft boven de schiervlakte ten
@@ -117,8 +118,8 @@ verzameling van verschillende kersen- en pruimenbomen. Ook de andere
 hoogstamboomgaarden in de omgeving zijn van belang voor het behoud van
 oude fruitvariëteiten (dendrologische waarde).
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Uit landschap en bebouwing spreekt een rijke landbouwtraditie. Er is
@@ -135,8 +136,8 @@ kasteel in neotraditionele stijl bewaard. Eveneens eigen aan de
 landbouwtraditie zijn de watermolens op de Herk. Van de oude spoorlijn,
 de zogenaamde fruitlijn, is het opgehoogde tracé nog aanwezig.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het aangename en pittoreske omgevingsbeeld wordt
 bepaald door de variatie van beemden en weiden, steile hellingen met
@@ -146,7 +147,7 @@ Verder bepaalt de berm van de oude spoorlijn het dorpsbeeld.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De hele omgeving is erg attractief voor
@@ -156,8 +157,8 @@ kasteeldomein van Rullingen werd door de Provincie Limburg verworven en
 als toeristisch-recreatief centrum gerevaloriseerd. Het domein werd voor
 het publiek toegankelijk gesteld.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mede bepalend voor de configuratie van het landschap waren enerzijds
 de ligging van de vallei van de Herk en de haaks daarop lopende
@@ -166,13 +167,14 @@ De Klee en de voormalige kasteelhoeve van Rullingen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -202,7 +204,7 @@ Herk, Rullingenbeek met bronamfitheater
 
 vochtige beemden
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -262,7 +264,7 @@ o.a. OLV van Lourdes, Sint-Jan-de-Doper, Sint-Agatha
  **Archeologische elementen:**
 prehistorische en Gallo-Romeinse vondsten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -278,7 +280,7 @@ Tongeren-Herentals-Antwerpen
 
 Sint-Truiden - Tongeren
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -323,8 +325,9 @@ open karakter
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ruilverkaveling in voorbereiding. Recente bebouwing levert geen bijdrage
 tot de landschapswaarden.

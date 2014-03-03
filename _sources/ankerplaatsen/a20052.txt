@@ -1,13 +1,13 @@
 Sint-Martens-Bodegem
 ====================
 
-Anker ID: A20052
-----------------
+:Ankerplaats ID: A20052
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Sint-Martens-Bodegem is gelegen ten westen van Dilbeek. Het
 afgebakende gebied, grotendeels beschermd als dorpsgezicht, wordt in het
@@ -50,18 +50,19 @@ eeuw.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De parken bij het kasteel van Bodegem en dat van Storms hebben een
 grote dendrologische waarde.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De dorpskern omvat tal van oude, waardevolle gebouwen. Zeer
@@ -69,8 +70,8 @@ interessant is de site van het dorpskasteel (oorspronkelijk
 hooghof-neerhof-structuur), waar een landschappelijke heraanleg uit
 circa 1860 een barokke watertuin heeft vervangen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De schoonheid van de dorpskern houdt verband met
 de topografie en de architecturale kwaliteit van de kerk.
@@ -78,12 +79,13 @@ de topografie en de architecturale kwaliteit van de kerk.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -103,7 +105,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -130,7 +132,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -140,7 +142,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -164,8 +166,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing in de dorpskern en vooral in de omgeving van de
 Walravenshoeve.

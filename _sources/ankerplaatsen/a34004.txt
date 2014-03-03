@@ -1,15 +1,15 @@
 Burkel, Kallekensbos en Koningsbos
 ==================================
 
-Anker ID: A34004
-----------------
+:Ankerplaats ID: A34004
 
 
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Burkel, Kallekensbos en het Koningsbos situeren zich op de cuesta van
 Oedelem-Zomergem. Hier dagzoomt het Tertiair, meerbepaald de klei van
@@ -83,12 +83,13 @@ maar weinig overgebleven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Gelegen op de cuesta van Zomergem - Oedelem, zandige bodem. De
 Kwartaire mantel is heel miniem en de bodem is weinig voor landbouw
@@ -97,8 +98,8 @@ kenmerkende vegetatie van dit bostype situeert zich op vochtige
 voedselrijke bodems, dus in beekdalen en depressies, en niet op de hoger
 gelegen gebieden waar er zich hellingsbos bevindt.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dit gebied bevindt zich in een zeer laat en systematisch ontgonnen
 gebied. Er zijn relicten van de oude heidegebieden die
@@ -113,8 +114,8 @@ het bosgebied. Het kasteel van Wapenaar en haar parkaanleg sluiten via
 de dreven aan bij het loofbos. Het kasteel is op Ferraris als Hoeve
 Waelestraete te zien.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 In het boscomplex is duidelijk een dambordvormig
 patroon aanwezig, het omliggend landbouwland heeft hetzelfde patroon, Er
@@ -123,13 +124,13 @@ landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Maldegemveld is lang onontgonnen
 gebleven, in 1736 werd daar de laatste wolf van beide Vlaanderen gedood.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het betreft hier een gesloten, deels bebost gebied. Het wegen- en
 verkavelingspatroon heeft nog dezelfde structuur als de 18e eeuwse
@@ -140,13 +141,14 @@ vertonen en afgezoomd zijn met dreven.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -179,7 +181,7 @@ beekdalbos
 
 Bartoonklei (cuesta van Oedelem)
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -205,7 +207,7 @@ Kasteel Wapenaar
 
 Burkelhoeve
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -216,7 +218,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -262,8 +264,9 @@ canadapopulier
 
 stuwgronden
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De dreven in het Burkelbos liggen er dikwijls wat vochtig bij. Deze
 natte dreven zijn een doorn in het oog van veel bosbouwers en van de

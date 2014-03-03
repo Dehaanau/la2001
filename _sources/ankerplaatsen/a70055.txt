@@ -1,15 +1,15 @@
 Herkenrodebos en kasteel van Stevoort
 =====================================
 
-Anker ID: A70055
-----------------
+:Ankerplaats ID: A70055
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Het gebied Herkenrodebos ligt ten zuiden van de spoorweg Hasselt-Diest
 op het knooppunt van drie vroegere deelgemeenten van Hasselt m.n.
@@ -110,18 +110,19 @@ De moestuin ten oosten van het wagenhuis is verdwenen.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Opmerkelijk zijn de historisch stabiele bossen met een rijke
 voorjaarsflora, als restanten van het Herkenrodebos.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De historisch stabiele bossen in de omgeving zijn de relicten van het
@@ -141,8 +142,8 @@ waterkasteel van Stevoort. Als restanten van eeuwenoude
 grensaanduidingen en van vroeger bosbeheer zijn oude knotlinden en
 olmenstoven aanwezig.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het gebied heeft grotendeels een kleinschalig en
 gesloten karakter. Het ontleent zijn charme aan het samenspel van het
@@ -151,13 +152,14 @@ worden gesierd door een rijke voorjaarsflora.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -181,7 +183,7 @@ o.a. de Herk, Cijnsbroekbeek, Busselkesbeek, Sterrebeek, Heustenbeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -238,7 +240,7 @@ smeedijzeren hekwerk
 **Andere:**
 restanten van vakwerkbouw
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -257,7 +259,7 @@ onverharde wegen en voetwegen volgens Atlas van de Buurtwegen
 
 toegangsbrug over de watergracht van het kasteel van Stevoort
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -304,8 +306,9 @@ historisch stabiele bosrelicten
 
 relicten van voormalig Herkenrodebos, Sterrebos op
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het gebied en dan vooral in het westelijk gedeelte liggen een
 heleboel ingeschreven voetwegen. In de praktijk blijken echter een

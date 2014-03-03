@@ -1,15 +1,15 @@
 Oudenberg
 =========
 
-Anker ID: A40088
-----------------
+:Ankerplaats ID: A40088
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Deze ankerplaats bevindt zicht ten oosten van Geraardsbergen. De
 omgeving van Geraardsbergen is heuvelachtig, met, naar Vlaamse normen,
@@ -78,12 +78,13 @@ Er is een schermeffect door de beplanting gevormd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Oudenberg is gelegen langs de rand van de Dendervallei op een
 hoger gelegen heuvelkam, uitloper van de heuvelrug van de Vlaamse
@@ -95,8 +96,8 @@ niets meer dan een steil, klein hoedje dat op een langgestrekte
 heuvelkam, de Buizemont (70 à 80 meter), staat. Die ligt parallel aan de
 Dender en beschermt het stadje.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het kasteel van Onkerzele is een 19e eeuws domein in een park in
@@ -112,7 +113,7 @@ Oudenberg bevindt zich nog verschillend ander klein historisch erfgoed.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Oudenberg is een beboste helling waar
@@ -125,8 +126,8 @@ O-L-Vrouw-van- Oudeberg in de 17e eeuw, waar een miraculeus beeldje werd
 ondergebracht en nog steeds aanwezig is. De kasseiwegen zijn een
 belangrijk onderdeel van verschillende wielerklassiekers.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Oudenberg ligt ten oosten van Geraardsbergen en beschermt het
 stadje. De steile heuveltop is bebost, er lopen enkele kasseiwegen naar
@@ -136,13 +137,14 @@ op een steile helling.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -170,7 +172,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -206,7 +208,7 @@ paardenstallen,dienstgebouwen
 
 oriëntatietafel, kolom van poort
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -221,7 +223,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**

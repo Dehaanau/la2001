@@ -1,13 +1,13 @@
 Abdij van 't Park
 =================
 
-Anker ID: A20046
-----------------
+:Ankerplaats ID: A20046
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De abdij van 't Park ligt ten zuidoosten van Leuven in de vallei van
 de Molenbeek. Deze historische site, de abdij, de watermolen, de
@@ -86,18 +86,19 @@ voormalige hoeve en de aanpalende schuur.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Binen het abdijdomein, vooral langs de vijvers, komen diverse
 waardevolle vegetaties voor. De vijvers hebben ook ornithologisch
 belang.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 De huidige gebouwen (boerderij, stallen, watermolen) - inclusief de
 fraaie barokke kloostergebouwen met dito interieurs - dateren uit de
@@ -107,8 +108,8 @@ houden vooral verband met de evoluerende tuincultuur: een Louis XV
 tuinprieel en een embryo van landschappelijke sierbeplanting ten oosten
 van het kloostercomplx.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De site dankt haar schoonheid aan de kwaliteiot
 van de architectuur en aan de topografische ligging aan de rand van een
@@ -116,12 +117,13 @@ beekdal met vijvers.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -143,7 +145,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -178,7 +180,7 @@ ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -191,7 +193,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
  * spoorlijnen Leuven-Waver en Leuven-Tienen
  
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -209,8 +211,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Beperkte bebouwing ten zuiden van de vijvers evenals in de nabijheid van
 het Sint-Albertuscollege. Waterwinning nabij de vijvers.

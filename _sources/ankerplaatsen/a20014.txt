@@ -1,13 +1,13 @@
 Diestiaanruggen te Wezemaal
 ===========================
 
-Anker ID: A20014
-----------------
+:Ankerplaats ID: A20014
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het noordelijke deel van het Hageland wordt gekenmerkt door
 zuidwest-noordoost georiënteerde Diestiaanruggen. Deze waren op het
@@ -56,12 +56,13 @@ Wijngaardberg staat een monumentaal Heilig-Hartbeeld.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De zuidwest-noordoost georïenteerde heuvel van het Hageland zijn
 relicten van de Diestiaanzee; hun opbouw kan vergeleken worden met die
@@ -70,8 +71,8 @@ aanwezigheid van talrijke fossielen, hebben zij ook een groot
 paleontologisch belang. De zuidflanken hebben een bijoznder microklimaat
 en herbergen een speciale fauna en flora.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De ijzerzandseten stapelmuur op de kam van de Wijngaardberg,
@@ -82,8 +83,8 @@ houden daar misschien ook verband mee. Op alle heuvel zijn sporen van
 ijzerzandsteenwinning aanwezig, soms zeer oude (de 'Demergotiek'), maar
 ook recente.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Dank zij de afwisseling van beboste hellingen,
 rotswanden van de oude steengroeven, heidevegetaties of
@@ -92,13 +93,14 @@ hebben deze heuvels een hoge esthetische waarde.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -114,7 +116,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * holle weg
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Klein historisch erfgoed:**
@@ -126,7 +128,7 @@ monumentaal Heilig Hartbeeld op westelijke punt van de Wijngaardberg
 wijngaardmuur
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -136,7 +138,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -163,8 +165,9 @@ recent aangeplante wijngaarden
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing, vooral aan de zuidkant van de Wijngaardberg
 evenals tussen Hondsheuvel en Klarenbos. In het dal tussen Wijngaardberg

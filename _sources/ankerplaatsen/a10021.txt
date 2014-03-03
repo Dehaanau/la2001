@@ -1,13 +1,13 @@
 Kwade Putten
 ============
 
-Anker ID: A10021
-----------------
+:Ankerplaats ID: A10021
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 De ankerplaats 'Kwade Putten' is gelegen in de gemeente Arendonk in de
 Antwerpse Noorderkempen. De begrenzing wordt gevormd door weg De
@@ -69,12 +69,13 @@ landschap ingepast worden of blijven.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Gedomineerd door naaldbossen, is het vooral de uitgestrektheid en het
 onbebouwde karakter van dit landschap dat het een aanzienlijke
@@ -89,8 +90,8 @@ belangrijke ecologische infrastructuur als het kanaal, vormt dit
 bosgebied een habitatkern van waaruit diersoorten in de omgevende
 gebieden migreren.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Bij Ferraris betrof dit gebied nog uitgestrekte heide met vennen. Bij
@@ -111,8 +112,8 @@ het koetsgebouw bewaard. De Kapel van Lusthoven met geveltoren, kruis en
 klok, werd in 1952 gebouwd ter toewijding van het H. Hart en de H.
 Lutgardis. Kapel ter Hoge Heide werd in 1920 opgericht als beloftekapel.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 We ervaren deze ankerplaats overwegend als een
 gesloten landschap, hier en daar onderbroken door open structuren als
@@ -124,8 +125,8 @@ onbebouwde karakter dragen bij tot de belevingswaarde van dit landschap.
 
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Omgeven door open landbouwgebied, vormt dit uitgestrekt gesloten
 boscomplex een dominerend element in de landschapsstructuur. Opvallende
@@ -136,13 +137,14 @@ rijksweg op Ravels.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -166,7 +168,7 @@ Hoge Vijversloop, Kijkverdrietloop, Mierdseloop, Molengoorloop0
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -210,7 +212,7 @@ O.-L.-Vrouw-van -Lourdes kapel, Kapel ter Hoge Heide
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
@@ -221,7 +223,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Kanaal Dessel-Schoten, Brug 6
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
@@ -258,8 +260,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De privé-kliniek ter hoogte van Lusthoven dient in het landschap
 ingepast te blijven.

@@ -1,13 +1,13 @@
 Kasteel van Hoogstraten
 =======================
 
-Anker ID: A10006
-----------------
+:Ankerplaats ID: A10006
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Het grootste deel van de structuur van deze ankerplaats is reeds
 herkenbaar bij Ferraris. Het gaat daarbij om het Kasteel van Hoogstraten
@@ -49,12 +49,13 @@ westen en de bewoning van Wortel in het oosten en zuidoosten.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De wetenschappelijke waarde van deze ankerplaats situeert zich
 voornamelijk ter hoogte van de nog sterk meanderende Mark en de
@@ -62,8 +63,8 @@ aanpalende lagere gronden die een behoorlijke floristische diversiteit
 vertegenwoordigen. Verder bieden de bospercelen een geschikt
 overwinteringbiotoop voor roofvogels.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Van het Kasteel van Hoogstraten wordt reeds melding gemaakt bij
@@ -78,8 +79,8 @@ uit verschillende perioden, de voormalige pastorie 't Withof in
 overwegend classicistisch getinte stijl, alsook de Laarmolen
 (watermolen), waarvan de oorsprong opklimt tot circa 1620.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het compartimentlandschap van open
 landbouwgronden en gesloten bospercelen met daarin het voormalige
@@ -88,7 +89,7 @@ sterk meanderende Mark.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In 1810 werd het kasteel van Hoogstraten
@@ -98,8 +99,8 @@ verblijfplaats van de zusters norbertinessen en zenuwzieke patiënten en
 tot slot strafschool of penitentiair schoolcentrum; een functie die het
 tot op vandaag nog vervult.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het patroon van dreven en bomenrijen rond het kasteel vormt een
 opvallend ruimtelijk-structurerend netwerk langsheen de vallei van de
@@ -108,13 +109,14 @@ een belangrijke ruimtelijk-structurerende waarde voor het gebied.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -135,7 +137,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 De Mark
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -178,10 +180,10 @@ kerkhof
 **Andere:**
 werkplaatsen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -207,8 +209,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een knelpunt is de in de ankerplaats aanwezige bewoning in de
 noordoostelijke hoek, waarvan uitbreiding moet worden vermeden. De

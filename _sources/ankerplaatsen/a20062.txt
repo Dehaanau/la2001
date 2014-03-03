@@ -1,13 +1,13 @@
 Liedekerkebos
 =============
 
-Anker ID: A20062
-----------------
+:Ankerplaats ID: A20062
+
 
 
 
 A.TEKSTUELE Omschrijving
-------------------------
+------------
 
 Liedekerkebos is gelegen op het grondgebied van de gemeenten
 Liedekerke, Sint-Katharina-Lombeek, Borchtlombeek en Wambeek. In het
@@ -44,25 +44,26 @@ voor. Ook inzake fauna is Liedekerkebos waardevol.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Sommige gedeelten van het bos en de graslanden in de omgeving van het
 Liedekerkebos zijn biologisch waardevol.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 Het huidige Liedekerkebos is een relict van een groot bosgebied dat
 zich tot in de 19de eeuw tot Pamel uitstrekte.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 De sterk versneden bosranden met talrijke
 weide-enclaves geven het gebied een hoge belevingswaarde.
@@ -70,12 +71,13 @@ weide-enclaves geven het gebied een hoge belevingswaarde.
 
 
 C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -95,7 +97,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
@@ -109,7 +111,7 @@ enkel ruïne
  **Archeologische elementen:**
 relicten van de priorij van Muylem
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -126,7 +128,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -147,8 +149,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing aan de zuidelijke rand, vooral in de omgeving van het
 Radio-Elektrisch Centrum.

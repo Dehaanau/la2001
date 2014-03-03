@@ -1,15 +1,15 @@
 De Brand
 ========
 
-Anker ID: A70025
-----------------
+:Ankerplaats ID: A70025
+
 
 **Landschap**
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 De landelijke omgeving rond de Brand is gelegen in het grensgebied van
 de gemeenten Bree, Kinrooi en Maaseik. Ten noorden loopt de Itter- of
@@ -91,12 +91,13 @@ beheer van het gebied nodig.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het zwak tot zeer zwak golvend microreliëf is gevormd in een laag
 dekzand. Omwille van het zwak reliëf en de daarmee gepaard gaande
@@ -108,8 +109,8 @@ op een drogere duinrug. De afwisseling met heiderelicten, moerassige
 zones, loofbosjes en struwelen maken het gebied ook ecologisch
 interessant.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De Brand is een relict-bocagelandschap. De grote waarde van de Brand
@@ -124,8 +125,8 @@ meestal kunstmatige zijbeken aangelegd. Het wegennet in het gebied is
 beperkt en evenals de percelering grotendeels historisch stabiel. Rond
 de site van kasteeldomein De Oude Kuil gedijen drogere bossen.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het relict-bocagelandschap van de Brand wordt
 thans nog steeds gedomineerd door de typische, brede houtwallen die de
@@ -134,7 +135,7 @@ haast onbestaande woningbouw bezit het gebied een hoge belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het is weliswaar attractief voor zachte
@@ -143,8 +144,8 @@ verliezen, waardoor het juist behouden bleef. De recreatieve functie
 moet dan ook eerder gesitueerd worden in de randgebieden rond De Brand,
 die een duidelijker waarde op dit vlak bezitten.
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Itterbeek was bepalend voor de opbouw en organisatie van het
 gebied. Mede door zijn geïsoleerde ligging tegen de beek als natuurlijke
@@ -152,13 +153,14 @@ grens bleef De Brand al die tijd vrij gaaf behouden.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -180,7 +182,7 @@ Itterbeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
@@ -200,7 +202,7 @@ kasteel De Oude Kuil
 
 Keyaertmolen en Galdermansmolen.
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -220,7 +222,7 @@ grotendeels historisch stabiel wegenpatroon
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -273,8 +275,9 @@ vochtig hooi- en weiland
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Nefast zijn de aantastingen van houtwalstructuren door slopen,
 versmalling, het ontstaan van een holle wal of het achterwege blijven

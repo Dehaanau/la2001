@@ -1,13 +1,13 @@
 Nokere
 ======
 
-Anker ID: A40051
-----------------
+:Ankerplaats ID: A40051
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+
+Omschrijving
+------------
 
 Binnen Kruishoutem is de dorpskom van Nokere één van de vier haast
 intact behouden voorbeelden van kasteeldorpen met tot de middeleeuwen
@@ -112,19 +112,20 @@ het nog uitgebreid en gerenoveerd.
 
 
 
-B.landschapswaarden
--------------------
+Landschapswaarden
+-----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is in het zandig Leie-Schelde interfluvium,
 grotendeels zandige tot licht- zandleem bodem. Door de ankerplaats loopt
 een vallei waar de Malebeek door een relatief breed alluvium loopt.
 
-Historische waarde:
-~~~~~~~~~~~~~~~~~~~
+Historische waarde
+~~~~~~~~~~~~~~~~~~
 
 
 De structuur van het kasteel, het park en het omliggende landschap is
@@ -145,8 +146,8 @@ residentieel 'huis van plaisance'.De hof-kerkrelatie wordt door een
 rechte beboomde laan tussen het kasteel en de kerk van Nokere
 geaccentueerd.
 
-Esthetische waarde:
-~~~~~~~~~~~~~~~~~~~
+Esthetische waarde
+~~~~~~~~~~~~~~~~~~
 
 Het kasteel met omliggende park ligt in de vallei
 van de Hollebeek, in een licht heuvelend landschap. De lange
@@ -156,8 +157,8 @@ nog gave vallei met knotboompjes. Verder westwaarts liggen bospercelen
 die zichten vanuit het kasteelpark begrenzen.
 
 
-Ruimtelijk-structurerende waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ruimtelijk-structurerende waarde
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteeldomein met verschillende grote vijvers is in de vallei van
 de Hollebeek gelegen. Achter het kasteeldomein loopt de Malebeek dat
@@ -169,13 +170,14 @@ hoeves. Er zijn twee omgrachte hoeven in de vallei zelf gelegen.
 
 
 
-A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
------------------------------------------------
+Landschapselementen en opbouwende onderdelen
+--------------------------------------------
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Microreliëf:**
 
@@ -198,7 +200,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
@@ -245,7 +247,7 @@ pastorietuin, park van kasteeldomein van Nokere
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
@@ -256,7 +258,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
@@ -301,8 +303,9 @@ een 750m lange kasteeldreef verbindt het kasteel met het dorp
 
 
 
-OPMERKINGEN EN KNELPUNTEN
+Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Aan de westelijke en zuidelijke grens van de ankerplaats en ook juist
 ten zuiden van het kasteeldomein, lopen enkele hoogspanningskabels door
