@@ -49,7 +49,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Ankerplaatsen Landschapsatlas'
+project = u'Landschapsatlas 2001'
 copyright = u'2014, Onroerend Erfgoed'
 
 # The version info for the project you're documenting, acts as replacement for
