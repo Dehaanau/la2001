@@ -124,6 +124,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De vallei van de Winge-Molenbeek heeft een bijzondere
 geomorfologische en geobotanische betekenis. Ter hoogte van Horst maakt
 de Winge aan bij een brede noordoost-zuidwest gerichte vallei, die door
@@ -172,28 +173,29 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * steilrand
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
@@ -202,18 +204,18 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
  * hof
 
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -221,7 +223,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * kasteelgracht
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -229,75 +231,76 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * wagenhuis
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 enkel relicten
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * motte
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
  * klooster
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * sluis
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * struweel
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verspreide bebouwing tussen Horst en Kleerbeek met talrijke hoeves,
 eveneens bebouwing ten zuiden van de Gemp

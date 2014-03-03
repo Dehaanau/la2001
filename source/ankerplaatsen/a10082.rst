@@ -84,6 +84,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het Turnhouts Vennengebied is een mozaïek van aan natte condities
 gebonden vegetaties, die hier en daar worden doorbroken door
 vennencomplexen met een behoorlijke oppervlakte. Deze laatste zijn een
@@ -128,7 +129,7 @@ waarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het hele gebied heeft een belangrijke rol
@@ -154,15 +155,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -170,7 +172,7 @@ Geomorfologie/hydrografie
 
 Nattenloop, Meergorenloop, Mark, Noordermark
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
@@ -179,68 +181,68 @@ Nattenloop, Meergorenloop, Mark, Noordermark
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * villa
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -248,8 +250,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recreatiedruk, die de laatste decennia reeds sterk is afgenomen, moet
 in goede banen worden geleid om negatieve gevolgen op de ontwikkeling

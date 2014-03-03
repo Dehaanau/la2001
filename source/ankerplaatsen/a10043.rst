@@ -76,6 +76,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Door de overgang van valleigebied naar hogere, drogere gronden, wordt
 de wetenschappelijke waarde van deze ankerplaats in de eerste plaats
 bepaald door de afwisseling in abiotische condities, wat resulteert in
@@ -113,7 +114,7 @@ bij tot de belevingswaarde van dit gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Tot in de jaren 50 zou in het beekdal van
@@ -140,22 +141,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * rietland
@@ -165,56 +167,56 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
 
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 'Krabbelshof' met bijgebouwen
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
 landhuis 'Driehoekhof'
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * schuur
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 aarden wegen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -222,13 +224,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
@@ -236,7 +238,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 heiderelicten
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -246,8 +248,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn een toenemende recreatiedruk, m.n. rondom de vijvers met
 weekendverblijven en het voorkomen van atypische bebouwing. Tevens

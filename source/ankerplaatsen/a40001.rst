@@ -4,7 +4,7 @@ Krekengebied Sint- Margriete- Sint-Jan-in-Eremo
 :Ankerplaats ID: A40001
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -138,6 +138,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De kreken hebben een zeer typische vegetatie door het weinige water
 (varenvegetatie op drijftillen) en de grote hoeveelheid zout. Doordat
 bij het onstaat van de kreken het wegen- en grachtenpatroon gevolgd
@@ -163,7 +164,7 @@ meer gesloten karakter.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op de Boerekreek vindt er heel wat
 watergebonden recreatie plaats.
@@ -186,19 +187,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * kreek
@@ -207,7 +209,7 @@ Geomorfologie/hydrografie
 Bentillekreek, Boerekreek, Blokkreek, Roeselarekreek, Molenkreek,
 Vrouwkeshoekkreek, Haantjesgat
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * rietland
@@ -217,14 +219,14 @@ Vrouwkeshoekkreek, Haantjesgat
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * herberg
 
 
 Palinghuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -233,31 +235,31 @@ Palinghuis
 
 Torenhof, Hoeve Engelendaal
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
 
 Sint-Jan- in- Eremo en Sint- Margriete
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * grenspaal
 
 
-**Andere:**
+*Andere:**
 gemeentehuis Sint- Margriete
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -267,21 +269,21 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 Graaf Jansdijk, Oostpolderdijk, Sint Lievenpolderdijk,
 Brandkreekdijk, Zonnebrug, Leopoldkanaal
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * perceelsrandbegroeiing
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * blokvormig
@@ -289,20 +291,21 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recreatie op de Boerekreek vormt een dreiging voor de fauna en flora
 van de Boerekreek. Het waterpeil in het poldergebied wordt door de

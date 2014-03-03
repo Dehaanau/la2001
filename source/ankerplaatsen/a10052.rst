@@ -75,6 +75,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wetenschappelijke waarde van deze ankerplaats wordt bepaald door
 de vrij grote reliëfverschillen en de talrijke gradiënten in de
 abiotische condities, zoals nat-droog en kleibodem-zandbodem. Dit alles
@@ -112,7 +113,7 @@ toe op de vallei van de Grote Nete toe.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Kruiskensberg betreft een oude
@@ -134,15 +135,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -150,7 +152,7 @@ Geomorfologie/hydrografie
 
 Kruiskensberg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -160,7 +162,7 @@ Kruiskensberg
 
 Grote Nete, Heiloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
@@ -169,7 +171,7 @@ Grote Nete, Heiloop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -177,14 +179,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Blauwe Hoeve + bakhuis
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 kruisweg
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
 
@@ -194,42 +196,42 @@ ijzeren kruis
  **Archeologische elementen:**
 waterputten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
 heiderelicten
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -237,8 +239,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een te vermelden knelpunt is de aanwezigheid van een weekendverblijfzone
 ter hoogte van de Kruiskensberg.

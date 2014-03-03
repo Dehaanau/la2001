@@ -72,6 +72,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Pannebossen langs de zuidelijke rand van de ankerplaats
 vertegenwoordigen dankzij een natuurlijke kruid- en struiklaag een
 belangrijke waarde met betrekking tot de flora. Samen met de omliggende
@@ -116,14 +117,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -133,14 +135,14 @@ Mandoerse beek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 park bij kasteel
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -150,14 +152,14 @@ park bij kasteel
 
 Groeningenhof +duiventoren, Solhof, Lillaarschrans
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 dienstwoningen bij kasteel
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -167,57 +169,58 @@ dienstwoningen bij kasteel
 
 Kapittelhoeven
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 kasseiweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * sluis
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * hagen
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
 
 
 Pannebossen
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten gevolge van de steeds toenemende bebouwing langsheen de randen, ligt
 deze ankerplaats volledig ingesloten. Het gebied verder vrijwaren van

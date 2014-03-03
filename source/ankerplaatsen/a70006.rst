@@ -4,7 +4,7 @@ Heide- en stuifzandcomplex van Hechtel - Helchteren met vallei van de Zwarte Bee
 :Ankerplaats ID: A70006
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -121,6 +121,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het landschap strekt zich uit aan de rand van het Kempens Plateau.
 Dergelijk overgangsgebied wordt gekenmerkt door een eigen dynamiek en is
 bijgevolg in geografisch opzicht belangrijk. Het voorkomen van
@@ -175,7 +176,7 @@ effect en gunstig microklimaat.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In de omgeving zijn bewegwijzerde
@@ -200,23 +201,24 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 oeverwallen, stuifzandreliëfs
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
 duinreliëfs
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -225,7 +227,7 @@ duinreliëfs
 
 o.a. Zwarte Beek, Oude Beek, Winterbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -241,7 +243,7 @@ stuifzand
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
@@ -249,26 +251,26 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 oude landbouwkernen De Hoef, Fonteintje, Hemelbrug, Hemelrijk,
 Spiekelspade
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Stalse Molen
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * schans
 
 
 o.a. Vurtense schans
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
@@ -278,10 +280,10 @@ o.a. kapel van Onze-Lieve-Vrouw-aan-de-Staak
  **Archeologische elementen:**
 archeologische vindplaatsen in de omgeving van duinen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -289,7 +291,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 opstrekkend patroon van paden en wegen naar en door de vallei
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -300,27 +302,27 @@ opstrekkend patroon van paden en wegen naar en door de vallei
 stelsel van grachten en zijbeken in de broeken van de Zwarte
 Beekvallei
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * opstrekkend
  * historisch stabiel
@@ -328,7 +330,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 in de Zwarte Beekvallei
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
@@ -337,7 +339,7 @@ in de Zwarte Beekvallei
 
 beemden, hier broeken genoemd
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -347,7 +349,7 @@ beemden, hier broeken genoemd
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
@@ -356,8 +358,9 @@ beemden, hier broeken genoemd
 
 voormalige, bevloeide waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De grootste bedreigingen voor het landschap gaan uit van de
 woonuitbreiding aan de randen en in de bewoningskernen in het gebied, de

@@ -4,7 +4,7 @@ Kasteeldomein Breivelde
 :Ankerplaats ID: A40090
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -106,6 +106,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 In het park van het kasteeldomein komt talrijke merkwaardige bomen
 voor. Het domein is een goed voorbeeld van een 19e eeuwse
 landschapstuin, met bijzondere kwaliteiten op het gebied van de
@@ -153,14 +154,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -168,52 +170,52 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * middelhout

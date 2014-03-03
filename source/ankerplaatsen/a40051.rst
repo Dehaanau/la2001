@@ -119,6 +119,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankerplaats is in het zandig Leie-Schelde interfluvium,
 grotendeels zandige tot licht- zandleem bodem. Door de ankerplaats loopt
 een vallei waar de Malebeek door een relatief breed alluvium loopt.
@@ -175,21 +176,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -201,7 +203,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -209,13 +211,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 pastorietuin, park van kasteeldomein van Nokere
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
  * gehucht
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -224,20 +226,20 @@ pastorietuin, park van kasteeldomein van Nokere
  * kasteelgracht
 
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
  * herberg
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -245,10 +247,10 @@ pastorietuin, park van kasteeldomein van Nokere
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -256,10 +258,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -267,7 +269,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 Vrijheidsboom op centrale plein van Nokere
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -278,18 +280,18 @@ Vrijheidsboom op centrale plein van Nokere
 
 een 750m lange kasteeldreef verbindt het kasteel met het dorp
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -301,8 +303,9 @@ een 750m lange kasteeldreef verbindt het kasteel met het dorp
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Aan de westelijke en zuidelijke grens van de ankerplaats en ook juist
 ten zuiden van het kasteeldomein, lopen enkele hoogspanningskabels door

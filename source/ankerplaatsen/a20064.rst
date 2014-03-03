@@ -71,6 +71,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Op verschillende plaatsen, vooral rond de Cluts, komen bosvegetaties
 voor met zeer zeldzame soorten.
 
@@ -103,34 +104,35 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -139,22 +141,22 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * muur
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -162,49 +164,49 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * wagenhuis
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 neolithische en Romeinse vondsten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -212,8 +214,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Talrijke grote hoeven, verspreide bebouwing ondermeer in de nabijheid
 van het Brugmanninstituut, in de omgeving van Meigemheide en Dworp.

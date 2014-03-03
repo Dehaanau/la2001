@@ -4,7 +4,7 @@ Bolderberg, Terlamen en Vogelzang
 :Ankerplaats ID: A70063
 
 
-**Landschap**
+*Landschap**
 
 
 Omschrijving
@@ -129,6 +129,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De getuigenheuvel van Bolderberg is een overblijfsel van een groot
 duinengebied. De ondergrond bestaat er o.a. uit de bruine Diestiaanse
 ijzerzandsteen. In combinatie met de natte laagtes in de beekvalleien
@@ -175,7 +176,7 @@ panoramisch zicht op de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kluis op de Bolderberg was in het
@@ -200,9 +201,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -210,14 +212,14 @@ Geomorfologie/hydrografie
  * steilrand
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
  * meander
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -229,13 +231,13 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
 
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -245,12 +247,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * kasteelgracht
 
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -258,28 +260,28 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * wagenhuis
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Andere:**
+*Andere:**
 kluis op de Bolderberg
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -289,16 +291,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 vijvercomplex
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -306,28 +308,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hagen
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -337,8 +339,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Aan de voet van de Bolderberg bevindt zich een smalle, venige zone. Om
 de ontwikkelingskansen van heide- en hoogveenrelicten gaaf te houden is

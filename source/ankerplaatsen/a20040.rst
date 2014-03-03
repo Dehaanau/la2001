@@ -69,28 +69,29 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
@@ -99,38 +100,38 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
 
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -138,24 +139,25 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
-**Bos:**
+*Bos:**
 
  * loof
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Enkele verspreide gebouwen, woonkern rond de kerk

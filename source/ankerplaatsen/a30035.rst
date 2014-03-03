@@ -99,6 +99,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De geologische ondergrond en de variërende dikte van de Kwartaire
 mantel bepalen grotendeels het landgebruik op deze interfluviale kam
 tussen de bekkens van de Poperingse Vaart en de Grote Kemmelbeek. De
@@ -149,7 +150,7 @@ bomen en struiken de grillige en natuurlijke loop van de beken.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De naam "Galgebossen" verwijst naar de
@@ -174,20 +175,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 langs randen beekvalleien
 
-**Macroreliëf:**
+*Macroreliëf:**
 
 interfluvium
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -199,14 +201,14 @@ Poperingse Vaart
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 bij kastelen
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -215,19 +217,19 @@ bij kastelen
  * muur
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Hospitaalhoeveen andere (soms restant walgracht)
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
 
 begraafplaatsen WOI (vnl. Britse)
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -236,23 +238,23 @@ begraafplaatsen WOI (vnl. Britse)
 kerk van Elverdinge
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
 bij kapellen
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
 
 zuidelijke grens
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
@@ -260,7 +262,7 @@ zuidelijke grens
 
 bij kastelen; poelen in bossen
 
-**Bos:**
+*Bos:**
 
  * loof
  * hakhout
@@ -268,8 +270,9 @@ bij kastelen; poelen in bossen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Tussen Elverdinge en Poperinge loopt parallel aan de weg een
 bovengrondse hoogspanningsleiding die afbreuk doet aan de esthetische

@@ -87,6 +87,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het landschap strekt zich uit tussen de getuigenheuvels die hier als
 uitlopers van het Hageland aanwezig zijn, en ten zuiden van de vallei
 afwisselen met een aantal depressies. Het voorkomen van verschillende
@@ -128,7 +129,7 @@ zichten mogelijk.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De omgeving biedt de ruimte voor een
@@ -150,15 +151,16 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -166,7 +168,7 @@ Geomorfologie/hydrografie
 
 getuigenheuvels en ten zuiden van de vallei enkele depressies
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -175,7 +177,7 @@ getuigenheuvels en ten zuiden van de vallei enkele depressies
 
 o.a. Zwarte Beek, Bakelsbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * rietland
@@ -187,7 +189,7 @@ hooilanden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -195,14 +197,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. kasteel Lobos, Geesthuis
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
 
 driehoekig plein in het straatdorp Zelem
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -211,7 +213,7 @@ driehoekig plein in het straatdorp Zelem
 
 kasteel Lobos
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -219,7 +221,7 @@ kasteel Lobos
 
 o.a. Geesthuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -228,14 +230,14 @@ o.a. Geesthuis
 
 o.a. Eksterhoek, kasteelhoeve Lobos, Oude Pastorij
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * schans
 
 
 Oude Schans
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * klooster
@@ -245,10 +247,10 @@ Oude Schans
 o.a. klooster Sint-Jansberg, Sint-Willibrorduskerk,
 Sint-Lambertuskerk met kerkhof
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -259,33 +261,33 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 stelsel van grachten en zijbeken in de broeken van Demer en Zwarte
 Beek
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
@@ -294,12 +296,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 beemden, hier broeken genoemd, akkers aan de valleirand,
 heiderelicten
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -309,14 +311,15 @@ heiderelicten
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Hoewel het valleigebied relatief weinig intensief gebruikt wordt,
 veroorzaken het soms smalle beekdal, de bewoningsdruk en de verstoring

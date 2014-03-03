@@ -83,6 +83,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Langsheen de antitankgracht vindt men een rijk gevarieerde begroeiing
 terug daar zij voor een groot deel van de in het Kempens district
 voorkomende begroeiingtypes een toevluchtsoord betekent. Tegelijkertijd
@@ -119,7 +120,7 @@ esthetische waarde geeft.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De antitankgracht en de bijhorende
@@ -146,19 +147,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * markante terreinovergang
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -167,7 +169,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
  * schans
@@ -176,10 +178,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
  * sluis
@@ -192,33 +194,34 @@ Antitankgracht, grachten rondom de forten en schansen
  **Andere:**
 aarden dammen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * struweel
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een gebrek aan onderhoud en beheer hebben ongunstige gevolgen voor de
 antitankgracht als natuurwetenschappelijk en esthetisch waardevol

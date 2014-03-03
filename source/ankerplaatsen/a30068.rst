@@ -4,7 +4,7 @@ Groot Ter Doest
 :Ankerplaats ID: A30068
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -65,6 +65,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De dunne bovenste afzettingen van klei en zavel zorgen dat lokaal ook
 oudere getijdeafzettingen aan de oppervlakte liggen. De natte
 bodemcondities van deze poldergronden en het historisch graslandgebruik
@@ -98,7 +99,7 @@ perceleringspatroon.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het natuurreservaat Monnikenwerve heeft
 door zijn status een socio-culturele waarde.
@@ -119,16 +120,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 natuurlijk en/of artificieel
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -138,7 +140,7 @@ Monnikenwerve
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -147,18 +149,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Groot Ter Doest en kleinere hoeve; toegangspoort
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 restanten van vroegere abdij Ter Doest
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * grachtenstelsel
@@ -166,36 +168,37 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Lissewegevaartje
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
 
 vlakbij hoeve zeer gave perceelsrandbegroeiing; rond hoeve
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 boomgaard bij Ter Doest
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is gekneld tussen de bebouwing van Lissewege in het
 noorden, de industriezone in het zuiden, het kanaal in het oosten en de

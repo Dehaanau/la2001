@@ -122,6 +122,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De mislukte kanaalsleuf heeft een bijzondere geologische en
 geomorfologische waarde door de ontsluiting van de formaties van Gent en
 Ieper en door de talrijke verglijdingsfenomenen langs de hellingen.
@@ -179,7 +180,7 @@ waarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Palingbeek is momenteel provinciaal
 domein en vormt tijdens de zomermaanden een toeristische trekpleister.
@@ -207,9 +208,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * graft
  * talud
@@ -217,19 +219,19 @@ Geomorfologie/hydrografie
 
 langs Palingbeek
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
 
 interfluviale kam Ijzer- Schelde&Leie
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
 
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -240,21 +242,21 @@ Tielt
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * hof
 
 
 Lankhof met motte; Pollepelhof
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 Kasteel Palingbeek
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
  * bunker
@@ -267,16 +269,16 @@ grotendeels uit WOI
 vermoedelijk resten van middeleeuwse buitenwijk rond Verdronken
 Weiden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 Ieper - Komen nu als fietspad in gebruik
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
@@ -286,10 +288,10 @@ Ieper - Komen nu als fietspad in gebruik
 kan. Ieper-Komen met talrijke sluizen erop; dam voor Zillebeekse
 vijver
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -298,21 +300,21 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 dreef palingbeek; restanten knot/bomenrijen; bomenrijen langs
 vestingswallen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 zillebeekse vijver; vijvers bij kasteel Palingbeek
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * meersen
 
 
 Verdronken Weide
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -322,8 +324,9 @@ Verdronken Weide
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De lintbebouwing vanuit Hollebeke in verschillende richtingen bedreigt
 het zicht op het kanaal en op de omgeving. Ook vanuit Ieper bedreigt de

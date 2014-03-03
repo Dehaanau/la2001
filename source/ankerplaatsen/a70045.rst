@@ -4,7 +4,7 @@ Mergelgrotten van Val-Meer en Zichen-Zussen-Bolder
 :Ankerplaats ID: A70045
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -99,6 +99,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Op de hellingen dagzomen de krijtlagen van het Maastrichtiaan, vaak
 ontsloten door ondergrondse groeves. Zij zijn rijk aan fossielen
 (paleontologisch belang). De krijtformaties met vuursteenbanken in de
@@ -136,7 +137,7 @@ microklimaat en het historische karakter van de groeven.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Tot enkele decennia geleden genoot de
@@ -165,20 +166,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
  * karsten
@@ -190,7 +192,7 @@ Coolen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -198,13 +200,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. kasteeltje Sint-Pieter
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 aaneengroeien van oorspronkelijke hoopdorpen
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -212,7 +214,7 @@ aaneengroeien van oorspronkelijke hoopdorpen
 
 o.a. kasteeltje Sint-Pieter
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -223,7 +225,7 @@ o.a. kasteeltje Sint-Pieter
 o.a. Burrefetwinning (met duiventil), Coenegrachts (met duifhuis),
 Liesens
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -233,7 +235,7 @@ Liesens
 o.a. Sint-Stefanuskerk, Sint-Pieterskerk, Sint-Genovevakerk,
 Banneux-kapel
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
  * gedenkteken
@@ -249,23 +251,23 @@ evenals in de groeven
 oud gemeentehuis
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
@@ -273,7 +275,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 in het algemeen onregelmatig, op enkele gedeelten historisch stabiel
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -281,12 +283,12 @@ in het algemeen onregelmatig, op enkele gedeelten historisch stabiel
 traditioneel open akkerbouwgebied op de hoger gelegen delen,
 permanent grasland rond de dorpskommen
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
@@ -295,8 +297,9 @@ permanent grasland rond de dorpskommen
 
 enkele, kleine hellingbosjes
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden. De
 bebouwing in het open akkergebied beperkt zich voorlopig tot enkele

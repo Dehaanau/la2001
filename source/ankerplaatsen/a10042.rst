@@ -61,6 +61,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Door de verscheidenheid in reliëf en vochtigheidsgraad van de bodem
 treffen we in dit gebied -met beekvalleien, stuifduinen, vennen, bossen
 en heide- een grote verscheidenheid aan biotooptypen aan, wat gepaard
@@ -112,18 +113,19 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * landduin
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -135,66 +137,66 @@ Molenbeek, Visbeek, Vlimmerse Loop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 Blommerschot
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 'Heiligenaert'
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 Kapel van O.-L.-Vrouw van Lourdes
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  **Andere:**
 militair vliegveld
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
 heiderelicten
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -203,8 +205,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Met de aanleg van het militair vliegveld in 1953 werd het eeuwenoude
 wegenpatroon verstoord en verdween een behoorlijke oppervlakte

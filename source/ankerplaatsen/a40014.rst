@@ -83,6 +83,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit bossencomplex is op de dekzandrug Maldegem-Stekene gelegen. Dit
 gebied heeft een zandige bodem. Dit is nog een typische heidevegetatie
 op een beperkte oppervlakte.
@@ -110,7 +111,7 @@ vormen een gecompartimenteerd landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 
@@ -134,27 +135,28 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
 Grote Dekzandrug
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
 
 
-**Geologie:**
+*Geologie:**
 
 
 Vlaamse Vallei
@@ -162,12 +164,12 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
  * verdedingingslinie
@@ -175,18 +177,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 resten van "Fort Francipanie", Spaans fort uit de 80-jarige oorlog
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Spoorweg:**
+*Spoorweg:**
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * pompgemaal
@@ -194,33 +196,33 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Parmavaart: vermoedelijk oude turfvaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
 
 wal rond fort
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
 
 Door bebossing is heide sterk gereduceerd
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -228,8 +230,9 @@ Door bebossing is heide sterk gereduceerd
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs de autoweg die het gebied in het noorden begrensd komt wat
 bewoning voor. Het is deze expresweg die het oorspronkelijke bos

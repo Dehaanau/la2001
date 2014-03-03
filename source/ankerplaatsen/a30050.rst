@@ -87,9 +87,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische Elementen:**
+
+*Hydrografische Elementen:**
 
  * beek
 
@@ -99,7 +100,7 @@ Grote Spierebeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -107,7 +108,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 park in Engelse landschapsstijl
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * muur
@@ -115,41 +116,42 @@ park in Engelse landschapsstijl
 
 moestuin en boomgaard;hoofd- en dienstgebouwen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 site van Kasteelhoeve
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * motte
 
 
 site van kasteelhoeve op neerhof van vermoedelijk middeleeuwse motte
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * knotbomenrij
 
-**Bos:**
+*Bos:**
 
  * loof
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De oprukkende lintbebouwing vanuit Spiere belemmert soms het zicht op
 het kasteel. Bij sommige hoeves staan recente uitbreidingen (loodsen)

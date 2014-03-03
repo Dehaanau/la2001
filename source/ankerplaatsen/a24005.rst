@@ -81,6 +81,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze bossen zijn gelegen op de Moerbekeberg. Deze heuvel ligt in het
 overgangsgebied tussen de Vlaamse Ardennen en het Pajottenland.
 Dalletjes op de heuvel hebben een amfitheatervormig dalhoofd. Er zijn
@@ -116,7 +117,7 @@ struwelen nagenoeg verdwenen uit de regio.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Bij de Sint- Pauluskapel is er de unieke
@@ -144,22 +145,23 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -168,12 +170,12 @@ Geomorfologie/hydrografie
 
 bronnen
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -182,14 +184,14 @@ bronnen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * hof
 
 
 Hof ten Steenborre
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
@@ -197,7 +199,7 @@ Hof ten Steenborre
 Boskant: gehucht aan de bosrand (op Ferraris), specifiek
 nederzettingspatroon
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -207,17 +209,17 @@ nederzettingspatroon
 Verschillende (vierkant) hoeves die zich op plaatsen bevinden waar er
 tijdens Ferraris bos was.
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 Juffrouwkapel, Sint- Pauluskapel, Atembekekapel,…
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -226,15 +228,15 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Kasseiweg (Bosberg), Keltische weg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -242,29 +244,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 oud bos
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
 
 medische planten
 
-**Bos:**
+*Bos:**
 
  * loof
  * hakhout
@@ -273,8 +275,9 @@ medische planten
 
 Bronbos
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het ruiter-en mountainbikeparcours veroorzaken degradatie van de paden
 en verstoring van de rust.

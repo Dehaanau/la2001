@@ -66,6 +66,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Gelegen in de vallei van de nog sterk meanderende Molse Nete, wordt
 dit landschap gekenmerkt door talrijke overgangssituaties van nat naar
 droog. Daarnaast is er een grote dichtheid aan -vooral lijnvormige-
@@ -102,7 +103,7 @@ esthetische waarde van dit typisch Kempisch landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In de tweede helft van de 19de eeuw werd
@@ -127,15 +128,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * vallei
@@ -144,46 +146,47 @@ Geomorfologie/hydrografie
 
 Molse Nete, Millegemloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * opstrekkend
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
 
-**Bos:**
+*Bos:**
 
  * broek
  * struweel
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een aan te halen knelpunten in dit gebied is de recreatiedruk, m.n. de
 talrijke visvijvers.

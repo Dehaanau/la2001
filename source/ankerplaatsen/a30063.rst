@@ -35,6 +35,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De zandige bodem en de grote reliëfsverschillen op korte afstand in
 de duinen laten landbouw slechts toe in de laag gelegen pannes waar
 gedurende het gehele jaar voldoende vocht aanwezig is voor de
@@ -63,25 +64,26 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * kustduin
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
 
 kleinschalige boerderijtjes
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -90,7 +92,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 langs perceelsgrenzen
 
-**Topografie:**
+*Topografie:**
 
 
 smalle, kleine percelen
@@ -98,8 +100,9 @@ smalle, kleine percelen
  **Andere:**
 duinakkers
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze panne wordt doorsneden door de Robert Van Dammestraat die door de
 aanwezige dreef minder storend overkomt. De oprukkende lintbebouwing

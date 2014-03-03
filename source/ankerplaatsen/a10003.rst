@@ -48,6 +48,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wetenschappelijke waarde van dit landschap wordt bepaald door de
 deels historisch stabiele, hoogstammige bossen van afwisselend loof- en
 naaldhout. Langs de zuidrand vormen bomenrijen van eik en knotwilg een
@@ -93,14 +94,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * heuvel
 
@@ -109,14 +111,14 @@ zandheuvel de Hoge Berg of Huzarenberg
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * muur
@@ -125,14 +127,14 @@ kasteelpark
 
 kasteelremises; muur oude moestuin
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * wagenhuis
 
 
 koetshuis bij het kasteel
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * grenspaal
 
@@ -143,23 +145,23 @@ rijksgrens met Nederland
 vlakke brug over hofgracht
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 spiegelvijver bij kasteel
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -168,8 +170,9 @@ spiegelvijver bij kasteel
 
 deels historisch stabiel
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De westgrens wordt gevormd door een weg als fysisch baken. De resterende
 bospercelen langs de westkant van deze weg werden niet mee opgenomen in

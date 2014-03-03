@@ -66,6 +66,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wetenschappelijke waarde van deze ankerplaats wordt bepaald door
 het relict kleinschalig landbouwgebied tussen het park en de
 autosnelweg, dat dienst doet als refugium voor plant- en diersoorten die
@@ -111,15 +112,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -128,7 +130,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -136,40 +138,40 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Vrijbroekpark + rozentuin
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * standbeeld
 
 
 bronzen buste van Albert Nobels
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -177,8 +179,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Tengevolge van de expansie van de stad Mechelen en de verdichting van de
 wegeninfrastructuur is het Vrijbroekpark en aangrenzend relict

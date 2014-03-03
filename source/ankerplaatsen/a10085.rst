@@ -88,6 +88,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Brechtse Heide is een halfnatuurlijk- en op sommige plaats
 cultuurlandschap, dat door de verschillende menselijke invloeden,
 aangevuld met stukjes spontane natuur, een hele variatie aan
@@ -127,7 +128,7 @@ Kempische landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Na de aanleg van het kanaal
@@ -151,26 +152,27 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
 
 Schaggelenbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
@@ -180,26 +182,26 @@ Marbelenven, Moffenven, Muizeven, Kelderven
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
 
 
 tuin bij abdij
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * schans
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
  * abdij
@@ -207,17 +209,17 @@ tuin bij abdij
 
 Onze-Lieve-Vrouw van Nazareth abdij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 aarden wegen, Tilburgse weg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
@@ -226,35 +228,35 @@ aarden wegen, Tilburgse weg
 
 Kanaal Schoten-Turnhout-Dessel
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 oude kleiputten
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -263,8 +265,9 @@ oude kleiputten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een belangrijk knelpunt in de Brechtse Heide is het verspreid en
 chaotisch voorkomen van weekendverblijven wat zowel op de esthetische-

@@ -4,7 +4,7 @@ Maasvallei van Maasmechelen tot Stokkem met kasteeldomein Vilain XIV
 :Ankerplaats ID: A70044
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -126,6 +126,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Rivierlandschappen hebben een dynamisch karakter. In geomorfologisch,
 bodemkundig en hydrografisch opzicht is de alluviale vlakte van de Maas
 een zeldzaam gegeven in Vlaanderen omdat een aantal natuurlijke
@@ -179,7 +180,7 @@ knotbomen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich uitermate goed voor
@@ -202,21 +203,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -228,7 +230,7 @@ Geomorfologie/hydrografie
 
 o.a. Maas, Genootsbeek, Langbroekbeek, Kikbeek
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -238,7 +240,7 @@ kleinschalige grind- en leemputten, grindbanken
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -246,7 +248,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. kasteelpark Vilain XIV
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
@@ -254,7 +256,7 @@ o.a. kasteelpark Vilain XIV
 
 dorpsplein Leut, gehucht Mazenhoven
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -266,7 +268,7 @@ dorpsplein Leut, gehucht Mazenhoven
 
 kasteel Vilain XIV
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -275,7 +277,7 @@ kasteel Vilain XIV
 
 o.a. brouwerij en herberg Paenhuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -284,14 +286,14 @@ o.a. brouwerij en herberg Paenhuis
 
 o.a. kasteelhoeve, Oude Maashof, Palmenhof
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 molen Nieuw Leven
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -301,7 +303,7 @@ molen Nieuw Leven
 o.a. Sint-Pieterskerk met kerkhof, kapel Onze-Lieve-Vrouw van
 Overwinning
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
  * grenspaal
@@ -315,10 +317,10 @@ prehistorische vondsten
  **Andere:**
 voormalige school en gemeentehuis
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -326,7 +328,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 o.a. Klein Kampwegske
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * lijnpad
@@ -337,16 +339,16 @@ o.a. winterdijken, zomerdijken
  **Andere:**
 veer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -356,25 +358,25 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 Maasheggen
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 weerden
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hakhout
@@ -382,15 +384,16 @@ weerden
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * uiterwaarden
  * buitendijks
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Schaalvergroting in de landbouw, lozingen van afvalwater en zwerfvuil na
 overstromingen doen afbreuk aan het landschap. Verstorend is ook het

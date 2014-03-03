@@ -61,6 +61,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het geheel van dreven en bospercelen vertegenwoordigt een belangrijke
 dendrologische waarde en de kleinschalige graslanden langsheen de randen
 van de ankerplaats zijn dankzij het mooie microreliëf en de afwisseling
@@ -114,14 +115,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -131,7 +133,7 @@ Bossnepbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -139,7 +141,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
@@ -147,46 +149,46 @@ kasteelpark
  * kasteelgracht
 
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 conciërgewoning
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * wagenhuis
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -194,8 +196,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door een steeds toenemende bebouwing rondom de ankerplaats is de relatie
 tussen het kasteeldomein en de eertijds landelijke omgeving zo goed als

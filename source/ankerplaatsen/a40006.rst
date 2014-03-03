@@ -102,6 +102,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze bosgordel is op de dekzandrug Maldegem-Stekene gelegen. Deze
 zandige bodem is een restant van een oude stuifduin. Deze zandrug is
 grotendeels herkenbaar in het landschap door de licht hogere ligging.
@@ -128,7 +129,7 @@ gecompartimenteerd landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De kapel van de 'Bevende Hazelaar', is een
 thans gehavende Kleinbladige linde met houten kapelletje met datum 1494
@@ -163,15 +164,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
 
@@ -181,32 +183,32 @@ Burggravenstroom
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 Kapel 'O-L-V van de Bevende Hazelaar'
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * pompgemaal
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -214,18 +216,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -235,8 +237,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Scheutbos wordt in de nabije toekomst verkaveld, de oprukkende
 bewoning is een bedreiging voor deze versnipperde bosgordel. De

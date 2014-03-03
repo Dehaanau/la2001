@@ -4,7 +4,7 @@ Vallei van de Abeek (bovenloop) en straatdorp Plokrooi
 :Ankerplaats ID: A70021
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -75,6 +75,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het gebied bezit een verscheidenheid aan reliëfelementen en
 gradiënten (bodem, vochtigheid), die elk op zich weinig opvallend zijn,
 maar niettemin de basis voor landschappelijke diversiteit vormen.
@@ -108,7 +109,7 @@ aantal kapelletjes, dat het gehucht siert.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Zachte recreatievormen maakten de laatste
@@ -131,20 +132,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
 
 Kempens Plateau
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -153,7 +155,7 @@ Kempens Plateau
 
 Abeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -169,14 +171,14 @@ stuifzand
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 straatgehucht Plokrooi
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -185,22 +187,22 @@ straatgehucht Plokrooi
 
 langgevelhoeven
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -208,7 +210,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 opstrekkend patroon van paden en wegen achter Plokrooi
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -217,41 +219,41 @@ opstrekkend patroon van paden en wegen achter Plokrooi
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * opstrekkend
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -261,7 +263,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
@@ -270,8 +272,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. kleinschalige waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De weekendhuisjes in de beekvalleien zijn landschapsverstorend en moeten
 geweerd worden. De grote golf van buitenverblijfjes is weliswaar over

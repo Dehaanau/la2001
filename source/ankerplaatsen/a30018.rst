@@ -105,6 +105,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Grote floristische en faunistische waarde van nat graslandgebied in
 polder. Oude stadswallen goed herkenbaar in het reliëf. Floristische
 waarde van de oude wallen : zeer waardevolle moeras- en
@@ -154,21 +155,22 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 typisch voor Oudlandpolder
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * kreek
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -178,37 +180,37 @@ in verlande stukken van kreek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
 stad Damme
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
 
 St-Janshospitaal
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 St-Christoffelhoeve, Hoeve Bonem
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 Schellemolen
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * verdedingingslinie
 
 
 Vaubanvestingswallen bewaard
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -216,10 +218,10 @@ Vaubanvestingswallen bewaard
 
 kerk te Damme: toren met plat dak; kapel Ter Mikkem
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -229,10 +231,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Damse Vaart in oude Zwingeul; o.a. Romboutswervedijk;
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
@@ -240,33 +242,34 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 rond hoeves: bomenrijen; af en toe resten van perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
 veedrinkput
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 in de komgronden
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door de bewerking met zwaar landbouwmateriaal worden de oevers van
 kreken met waardevolle rietvegetatie schade berokkend. Door de open

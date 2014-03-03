@@ -54,6 +54,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het zuidelijke deel van 'De Nol' sluit aan bij de Kalmthoutse Heide
 en dit zowel wat betreft vegetatiestructuur als landschappelijk. Het
 geheel wordt gekarakteriseerd door een rijke diversiteit in structuur en
@@ -82,7 +83,7 @@ ankerplaats.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Nol was vroeger een turfwinningsgebied
 en gedurende eeuwen van essentieel belang voor de streek, die
@@ -104,19 +105,20 @@ Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -127,48 +129,49 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 Turfvaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Nol was oorspronkelijk een ven van om en bij de 100 ha, maar is nu
 sterk verdroogd ten gevolge van waterwinning door de PIDPA. De gebouwen

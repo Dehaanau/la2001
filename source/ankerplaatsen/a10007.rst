@@ -72,6 +72,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wetenschappelijke waarde van Kolonie Wortel wordt voornamelijk
 bepaald door de afwisseling aan biotooptypes, de uitgestrektheid van het
 gebied, alsook de relatieve rust die er nog heerst. De dreven en
@@ -108,7 +109,7 @@ zichten ontstaan.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kolonie van Wortel is een nog intact
@@ -140,19 +141,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * landduin
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
@@ -161,62 +163,62 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 personeelswoningen met tuin
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 kerkhof
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * grenspaal
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 archeologische vondsten in de nabije omgeving
 
  **Andere:**
 werkplaatsen, feestzaal (voormalige kazerne), wachthuisje
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 rationeel, symmetrisch wegenpatroon
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -224,7 +226,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Geen opmerkingen of knelpunten.

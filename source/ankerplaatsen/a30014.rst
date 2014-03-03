@@ -41,6 +41,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Zeereepduinen met doornstruweel en kalkminnende vegetatie. In het
 parkdomein van prins Karel heeft men nog een gave duin-polderovergang.
 
@@ -77,9 +78,10 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * kustduin
 
@@ -88,21 +90,21 @@ met bijhorend strand
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 park bij Provinciaal domein Prins Karel
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * villa
 
 
 domein Prins Karel met visserswoningen gerestaureerd
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
  * verdedingingslinie
@@ -113,27 +115,28 @@ resten van Atlantikwal nu als open lucht museum uitgebaat
  **Archeologische elementen:**
 historisch vissersdorp Walraversijde met enkele opgravingen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
 
 
 Graaf Jansdijk vormt grens tussen duinen en achterliggende polder
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuurlijke structuur van strand en duinen wordt verstoord door de
 dijk en golfbrekers die de ruimte compartimenteren. De natuurlijke

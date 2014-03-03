@@ -61,6 +61,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wetenschappelijke waarde van het gebied wordt voornamelijk bepaald
 door de aanwezige heiderestanten en de oude bosrelicten die een
 waardevolle flora herbergen. Deze laatste hebben ook een belangrijke
@@ -96,7 +97,7 @@ belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Trappistenabdij of het 'Klooster van
@@ -122,14 +123,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
@@ -138,28 +140,28 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
 
 
 abdijtuin
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
 landhuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve bij abdij
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -172,57 +174,58 @@ Trappistenabdij
  **Andere:**
 brouwerij bij abdij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 oud wegenpatroon
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
-**Andere:**
+*Andere:**
 watertoren
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een te vermelden knelpunt is het voorkomen van weekendverblijven in de
 zuidwestelijke rand van de ankerplaats. Verder uitdijing van deze

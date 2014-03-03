@@ -69,6 +69,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Staatsbossen van Ravels zijn gesitueerd op voormalige heide met
 vennen in de Antwerpse Noorderkempen. Het is een uitgestrekt en rustig
 gebied met een grote landschappelijke en abiotische diversiteit die
@@ -131,21 +132,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
 
 
 Marelse Loop, Witvenloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * ven
@@ -155,45 +157,45 @@ Marelse Loop, Witvenloop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * grenspaal
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
@@ -201,7 +203,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 heiderelicten
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -210,8 +212,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een ruilverkaveling 'oude stijl' heeft in de jaren '80 ter hoogte van
 het Kijkverdriet de oorspronkelijke situatie van zeer gevarieerde

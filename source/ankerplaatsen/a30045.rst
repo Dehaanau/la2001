@@ -61,6 +61,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Langs de taluds van het kanaal dagzomen enkele tertiaire formaties
 die zeldzame bodemcondities bieden omdat ze elders in Vlaanderen heel
 weinig dagzomen. Het Kraaibos vormt een floristisch rijk gebied met
@@ -103,16 +104,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 langs opgespoten terrein en langs kanaal
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -122,23 +124,23 @@ langs taluds kanaal tertiaire formaties Tielt en Ieper
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 o.a. St-Pietershof, hoeve ten westen van Kraaibos
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 Zwevegem-Heestert
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
@@ -146,25 +148,26 @@ Zwevegem-Heestert
 
 St-pietersbrug op oude kanaalarm
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * knotbomenrij
 
 struweelbegroeiing langs talud
 
-**Bos:**
+*Bos:**
 
  * struweel
 
 
 Kraaibos
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De huidige sluisgebouwen werken storend op de visuele waarde van het
 kanaal, evenals de brug over het kanaal.

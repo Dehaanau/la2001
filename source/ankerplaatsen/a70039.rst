@@ -4,7 +4,7 @@ Jagersborg
 :Ankerplaats ID: A70039
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -85,6 +85,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het zwak tot zeer zwak golvend microreliëf is gevormd in een laag
 dekzand. Omwille van het zwak reliëf en de daarmee gepaard gaande
 gebrekkige ontwatering is het gebied van nature drassig. Bovendien komen
@@ -125,7 +126,7 @@ haast onbestaande.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De sociaal-culturele functie van het
@@ -149,19 +150,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -169,7 +171,7 @@ Geomorfologie/hydrografie
 
 o.a. Itterbeek, Zwart Water of Witbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -181,14 +183,14 @@ o.a. Itterbeek, Zwart Water of Witbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 Jagersborg
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -197,7 +199,7 @@ Jagersborg
 
 Jagersborg met boerenburgerhuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -208,10 +210,10 @@ o.a. Jagersborg, Hof ter Heide
 
  **Archeologische elementen:**
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -219,7 +221,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 blokvormig, regelmatig wegenpatroon
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -228,40 +230,40 @@ blokvormig, regelmatig wegenpatroon
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * houtwal
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -270,14 +272,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De hoeve Jagersborg ligt thans ingesloten tegen het gelijknamige
 industrieterrein van Maaseik. In het noordelijke deel van het gebied

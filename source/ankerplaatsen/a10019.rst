@@ -64,6 +64,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De bossen rond 'De Schrieken' zijn behoorlijk oud en omvatten nog
 enkele heiderelicten; het vijvercomplex zou een restant zijn van een
 vroeger moeras en mogelijkheden bieden voor water- en moerasvegetaties.
@@ -94,7 +95,7 @@ met mooie zichten.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Gelegen langsheen de grens met Nederland
@@ -118,14 +119,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -135,7 +137,7 @@ Leibeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -143,67 +145,68 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 De Schrieken + paviljoen + huisje uit boomstammen
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * villa
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * grenspaal
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 patrouillelaantje
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
 
 
 Bedafse brug
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunt is de toenemende schaalvergroting van de omgevende
 landbouw.

@@ -59,6 +59,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het voorkomen van verschillende bostypes en een opmerkelijke
 horizontale structuurdiversiteit geven het complex 's Herenbos-Heihuizen
 een belangrijke vegetatiekundige en floristische waarde. Bovendien vindt
@@ -94,7 +95,7 @@ historische karakter van dit landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De St.-Antoniuskapel van Zalfen vindt haar
@@ -120,14 +121,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -138,20 +140,20 @@ Zalfense Beek, Lopende Beek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 Zalfen
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 Kasteel Heihuizen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -159,53 +161,53 @@ Kasteel Heihuizen
  * wagenhuis
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 St.-Antoniuskapel van Zalfen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 oude wegenstructuur
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
 
 historisch stabiel bos
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -213,8 +215,9 @@ historisch stabiel bos
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De slechte waterkwaliteit van de Lopende Beek heeft een nadelige invloed
 op de natuurwetenschappelijke waarde van dit gebied.

@@ -86,6 +86,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het Peerdsbos betreft een complex van redelijk structuurrijke bossen,
 met geleidelijke overgangen naar meer beekbegeleidende bostypen. Dit
 laatste dankzij de aanwezigheid van de Laarse Beek die zorgt voor een
@@ -145,14 +146,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -162,7 +164,7 @@ Laarse Beek, Zeurtbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
  * hof
@@ -170,7 +172,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Kasteelpark, Hof ter List
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -179,7 +181,7 @@ Kasteelpark, Hof ter List
 
 Kasteel van Brasschaat, Hof ter List
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -188,7 +190,7 @@ Kasteel van Brasschaat, Hof ter List
 
 Melkerij + bakhuis, Hemelhoeve
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * pastorie
@@ -196,40 +198,40 @@ Melkerij + bakhuis, Hemelhoeve
 
 Parochiekerk St.-Antonius
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -237,8 +239,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De belangrijkste knelpunten voor deze ankerplaats zijn de hoge
 recreatiedruk, die gepaard gaat met de aanleg van allerlei

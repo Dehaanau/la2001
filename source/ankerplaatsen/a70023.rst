@@ -4,7 +4,7 @@ Lozerheide en kasteel Het Lo
 :Ankerplaats ID: A70023
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -61,6 +61,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Watering heeft, als gevolg van de bevloeiing met kalkrijk
 Maaswater, een specifieke plantengroei die men normaal niet aantreft in
 het Kempens milieu.
@@ -83,7 +84,7 @@ Het is een uitgestrekt en gevarieerd groengebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het is een gebied met zeer veel
@@ -105,20 +106,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -130,12 +132,12 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -143,16 +145,16 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * kasteelgracht
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * wagenhuis
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
@@ -162,16 +164,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Zuid-Willemsvaart met sluizen en ophaalbruggen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -179,14 +181,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. bomenrijen van Zomereik langs de Zuid-Willemsvaart
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
 heiderelicten
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -194,15 +196,16 @@ heiderelicten
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Watering is in onbruik geraakt. De hooilandjes zijn grotendeels
 verruigd en de aan- en afvoerkanalen zullen zonder beheer, op termijn

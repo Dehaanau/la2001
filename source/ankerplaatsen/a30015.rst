@@ -82,6 +82,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De ondergrond bestaat uit de sedimenten van de zee-inbraken
 (Duinkerke-transgressies) vlakbij de Ijzer. Ten noorden van Diksmuide
 mondt de Handzamevaart, één van de belangrijkste gekanaliseerde
@@ -110,7 +111,7 @@ eroderende oevers.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De vele oorlogsmonumenten en -restanten
@@ -131,22 +132,23 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * markante terreinovergang
 
 ter hoogte van Diksmuide overgang vallei en nederzetting Diksmuide
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
 
 
 Ijzer
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 ter hoogte van kleiputten (natuurreservaat) bij Stuivekenskerke
@@ -154,20 +156,20 @@ ter hoogte van kleiputten (natuurreservaat) bij Stuivekenskerke
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 Stuivekenskerke
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 omwalde kasteelhoeve op motte
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
  * verdedingingslinie
@@ -175,7 +177,7 @@ omwalde kasteelhoeve op motte
 
 resten van loopgraven in Dodengang
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -184,7 +186,7 @@ resten van loopgraven in Dodengang
 kerk Stuivekenskerke en kapel bij kasteelhoeve (beide in
 Stuivekenskerke)
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * gedenkteken
 
@@ -192,10 +194,10 @@ Stuivekenskerke)
 oorlogsmonumenten
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
@@ -203,31 +205,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 bomenrij langs wegen en dijken; knotbomen soms als
 perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 in natuurreservaat Kleiputten door uitgraving
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 broeken
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De schaalvergroting in de landbouw heeft nefaste gevolgen voor de
 perceelsgrootte en het aandeel perceelsrandbegroeiing. Daarnaast zorgt

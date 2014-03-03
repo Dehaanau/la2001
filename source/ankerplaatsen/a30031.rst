@@ -62,6 +62,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankerplaats is gelegen aan de voet van een oostelijke uitloper
 van het plateau van Wijnendaele met enkel bronnen. Het gebied herbergt
 een rijke flora en fauna door het beheer, door de bodemvariaties en door
@@ -88,7 +89,7 @@ overzicht op het bosbestand en de verdere omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het klooster Virgo Fidelis binnen de
@@ -109,28 +110,29 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
 aan de voet van het Wijnendaeleplateau
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteelgracht
 
 
 restant jachtkasteel; kasteelbos
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
 
 betonnen platform rest van een V1-lanceerplatform
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
  * klooster
@@ -138,10 +140,10 @@ betonnen platform rest van een V1-lanceerplatform
 
 klooster Virgo Fidelis
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -150,14 +152,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 dreven vnl. in bos; bomenrij langs beken en perceelsgrenzen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 zwemdok en visvijver
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -165,8 +167,9 @@ zwemdok en visvijver
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De weilanden in het westen en zuiden van de ankerplaats kunnen best
 weiland (grasland) blijven wegens de relatie met de nattere gronden en

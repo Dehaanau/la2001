@@ -4,7 +4,7 @@ Watering van Lommel-Kolonie
 :Ankerplaats ID: A70001
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -149,6 +149,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wisselwerking tussen de oorspronkelijke zure Kempense zandbodem en
 de bevloeiing met het kalkrijke kanaalwater resulteerde in een grote
 diversiteit in plantensoorten en een uitzonderlijke vegetatie met o.a.
@@ -194,7 +195,7 @@ bebouwing, de rust en stilte in het gebied van belang.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het oude wateringhuis op blok III werd
@@ -220,14 +221,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -235,7 +237,7 @@ Geomorfologie/hydrografie
 
 Heuvelse loop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 kunstmatig aangelegde, vochtige weiden
@@ -243,43 +245,43 @@ kunstmatig aangelegde, vochtige weiden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 voormalige Rijkslandbouwkolonie (huidige Koloniestraat)
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 wateringhuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve Corens
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * pastorie
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * grenspaal
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -288,7 +290,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 steenweg 's Hertogenbosch-Luik, verbindingswegen en -paden
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -300,10 +302,10 @@ steenweg 's Hertogenbosch-Luik, verbindingswegen en -paden
 bevloeiingssysteem met kunstwerken, spijssloten e.a., gevoed door
 kanaal Bocholt-Herentals
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -311,7 +313,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. paardekastanjes als voormalige erfbeplanting in de Kolonie
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -319,24 +321,24 @@ o.a. paardekastanjes als voormalige erfbeplanting in de Kolonie
 
 o.a. bomenrijen op de dijken
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 kunstmatig aangelegde, vochtige weiden
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -344,15 +346,16 @@ kunstmatig aangelegde, vochtige weiden
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De meeste boerderijen van de Rijkskolonie zijn vervangen door nieuwbouw
 en de boerderijpercelen zijn in de loop der tijd steeds verder

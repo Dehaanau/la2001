@@ -129,6 +129,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Vroeger uitgestrekt schorregebied, oude Zwinmond. Nog actief
 slikke-schorre-gebied in natuurreservaat van het Zwin met waardevolle
 flora en fauna. Bijzonder complexe geomorfologische, pedologische en
@@ -175,7 +176,7 @@ open en grootschalig polderlandschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Natuurreservaat van het Zwin
@@ -198,20 +199,21 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 in weilanden op oude duingronden
 
-**Macroreliëf:**
+*Macroreliëf:**
 
 duinengebieden
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * kreek
@@ -225,7 +227,7 @@ estuariene afzettingen van de Zwingeul
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -233,7 +235,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 grote hoeves (o.a. Prinsenhoeve en langs de Schapersdijk)
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
  * verdedingingslinie
@@ -241,20 +243,20 @@ grote hoeves (o.a. Prinsenhoeve en langs de Schapersdijk)
 
 fort St.-Pol, Cantelmolinie, Oud fort Isabella
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
 
 
 Graaf Jansdijk in zuiden en Schapersdijk in noorden
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
@@ -262,14 +264,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 langs dijk, wegen en perceelsranden
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
 enkele veedrinkpoelen
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
@@ -277,7 +279,7 @@ enkele veedrinkpoelen
 blokvormig en grootschalig in recentere polders, kleinschalig in
 oudere polders
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -285,15 +287,16 @@ oudere polders
 
 Koningsbos en Zwinbosjes
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 brak grondwater op geringe diepte
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het vogelreservaat rond het natuurreservaat is een storend element
 aangezien de gebouwen in dit natuurlijke duinengebied niet thuis horen.

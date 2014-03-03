@@ -4,7 +4,7 @@ Jekervallei tussen Tongeren en Mal
 :Ankerplaats ID: A70009
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -120,6 +120,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het gebied heeft een opmerkelijke waarde op hydrografisch vlak. In
 tegenstelling tot de Herk en de Demer, die hun dalen verder eroderen,
 hoogt de Jeker haar dal aan. Dat opvullingsstadium is hier duidelijk
@@ -154,7 +155,7 @@ esthetisch belang.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied heeft een educatief en
@@ -176,20 +177,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * vallei
@@ -199,7 +201,7 @@ Geomorfologie/hydrografie
 
 Jekervallei
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -214,7 +216,7 @@ voorkomen van dassenburchten
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -222,13 +224,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 Blaar
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -236,56 +238,56 @@ Blaar
 
 Scherpenberg
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Blaarmolen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 prehistorische en Gallo-Romeinse vondsten
 
  **Andere:**
 typische smeedijzeren weidepoorten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 Tongeren-Aken
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -294,32 +296,32 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 rondom de bewoning
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -327,14 +329,15 @@ rondom de bewoning
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied wordt bedreigd door verstoringen in de waterhuishouding,
 verwijderen van landschapselementen, bouwwerken en wegenaanleg. De

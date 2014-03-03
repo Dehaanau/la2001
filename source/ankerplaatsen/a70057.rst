@@ -4,7 +4,7 @@ Kastelen Nieuwenhoven, Terkelen, Nieuwerkerken en Kortenbos
 :Ankerplaats ID: A70057
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -104,6 +104,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het kasteelpark Terkelen - ongeveer 14 ha groot - is dendrologisch
 waardevol omwille van zijn variatie aan vaak monumentale bomen.
 
@@ -130,7 +131,7 @@ hoofdrol spelen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Kasteel, hoeve en een deel van het park
@@ -155,22 +156,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 golvend reliëf
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -180,7 +182,7 @@ Kelsbeek, Raasbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -190,13 +192,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 hoeves Kasselaar en Schorrenbos, kastelen Kortenbos, Nieuwenhoven,
 Nieuwerkerken, Terkelen
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 Kortenbos, ontstaan als bedevaartsoord langs de weg naar Hasselt
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -210,7 +212,7 @@ Kortenbos, ontstaan als bedevaartsoord langs de weg naar Hasselt
 
 kastelen Kortenbos, Nieuwerkerken, Nieuwenhoven, T
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -221,7 +223,7 @@ kastelen Kortenbos, Nieuwerkerken, Nieuwenhoven, T
 o.a. hoeves Kasselaar en Schorrebos, kasteelhoeves Nieuwenhoven,
 Nieuwerkerken, Terkelen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -230,7 +232,7 @@ Nieuwerkerken, Terkelen
 
 o.a. basiliek Onze-Lieve-Vrouw-Hemelvaart
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
 
 o.a. barriers, hekwerk, muren
@@ -238,10 +240,10 @@ o.a. barriers, hekwerk, muren
  **Andere:**
 o.a. tuinpaviljoenen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -249,23 +251,23 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 bos- en parkpaden en -wegen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
@@ -273,24 +275,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 o.a. parkvijvers, kanaalvormige vijver met waterbekkens aan de hoeve
 Schorrebos
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 grasland onder boomgaarden of populierenaanplantingen
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -300,8 +302,9 @@ grasland onder boomgaarden of populierenaanplantingen
 
 kleinere, verspreide (park)bossen zowel als uitges
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De landelijke omgeving wordt begrensd door de uitdeinende bebouwing van
 naburige dorpen en wegen. De recente bebouwing levert geen bijdrage tot

@@ -70,6 +70,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het landschap 'De Zegge' is een relict van een typisch Kempens
 beekdallandschap met turfkuilen, trilvenen, rietvelden,
 schraalgraslanden, elzenbroekbossen en eiken-berkenbossen. Deze variatie
@@ -108,7 +109,7 @@ kleinschalig en daarmee esthetisch waardevol karakter.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het moerassige gedeelte van 'De Zegge' was
 vroeger een belangrijk turfwingebied.
@@ -131,20 +132,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -156,17 +158,17 @@ laagveen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 Elsummolen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * pompgemaal
@@ -175,35 +177,35 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * turfput
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * opstrekkend
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -211,8 +213,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunt is de verspreid voorkomende atypische bewoning en het
 geleidelijke verlies van de resterende bewoning met kleinschalig

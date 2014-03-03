@@ -69,6 +69,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dankzij een afwisseling van geomorfologie en bodemgesteldheid, alsook
 ten gevolge van een lange geschiedenis met talrijke natuurlijke en
 antropogene invloeden, omvat deze ankerplaats een grote verscheidenheid
@@ -121,26 +122,27 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * oude rivierarm
 
 
 Oude Schelde
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * rietland
@@ -150,34 +152,34 @@ Oude Schelde
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * schuur
  * stal
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * eendenkooi
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 dijkweg, oude steenweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sas
@@ -186,27 +188,27 @@ dijkweg, oude steenweg
 
 vaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -214,14 +216,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hooghout
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn de hoge dichtheid aan 'vissershuisjes' langs de Oude
 Schelde en de verspreid voorkomende atypische bebouwing (o.a. straat

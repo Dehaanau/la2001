@@ -91,6 +91,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De natuurwetenschappelijke waarde van deze ankerplaats wordt in de
 eerste plaats bepaald door het valleigebied van de Rodeloop, waar men
 een typische beekdalvegetatie terugvindt. Een complex van natte
@@ -133,7 +134,7 @@ indrukwekkende dreven die het zicht op de omgeving 'filteren'.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De voormalige priorij Corsendonk heeft
@@ -158,15 +159,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -175,7 +177,7 @@ Geomorfologie/hydrografie
 
 Rodeloop, Rooise Loop, Wamp
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -185,7 +187,7 @@ Rodeloop, Rooise Loop, Wamp
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -193,13 +195,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 park en tuinen bij Priorij
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 Corsendonk
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -207,7 +209,7 @@ Corsendonk
  * wagenhuis
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
  * klooster
@@ -215,42 +217,42 @@ Corsendonk
 
 Priorij Corsendonk + bijgebouwen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
  * stuw
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * opstrekkend
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * broek
@@ -258,8 +260,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Met de aanleg van de autostrade E34 Antwerpen-Eindhoven werden de
 omgeving van de priorij en de structuurbepalende dreven ruimtelijk

@@ -75,6 +75,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit landschap omvat vele verschillende biotopen, gepaard gaande met
 evenzoveel verschillende overgangszones. Deze diversiteit uit zich in
 een belangrijke floristische waarde met pioniers- en heidevegetaties op
@@ -129,7 +130,7 @@ landschapselementen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Belseheide was rond de eeuwwisseling
@@ -153,21 +154,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
  * steilrand
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -177,7 +179,7 @@ Geomorfologie/hydrografie
 
 Grote Nete, Zeeploop, Belseheideloop, Scherpenbergloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -190,7 +192,7 @@ laagveen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -200,38 +202,38 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Kretkenshoeve, Monnikenhoeve of Grote Hoeve
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 dambordvormig wegenpatroon
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * houtwal
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * turfput
@@ -239,14 +241,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 Malesbroek
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
 dambordvormig
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * voormalige communautaire akker
  * permanent grasland
@@ -255,7 +257,7 @@ dambordvormig
 
 relicten van natte heide
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -265,8 +267,9 @@ relicten van natte heide
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn de steeds oprukkende recreatie, de aanwezigheid van
 landbouw met negatieve effecten op het behoud van het kleinschalige

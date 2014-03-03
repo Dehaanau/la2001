@@ -51,6 +51,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De ankerplaats bevindt zich in een gaaf deel op het Plateau van
 Izenberge waar de zandleemgrond gezorgd heeft voor een vroege
 ontginning. De komvormige depressie van het brongebied van de
@@ -93,15 +94,16 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * markante terreinovergang
 
 depressie rond brongebied van Bampoelbeek
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -111,24 +113,24 @@ Bampoelbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 vele hoeves zijn waardevol en zonder storende nieuwbouw; Kasteelhof
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
 
 kerk van Gijverinkhove met kerkhof en aansluitend de pastorie en tuin
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -136,16 +138,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 restanten van bomenrijen langs weilandgrenzen en rond hoeves
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Andere:**
+*Andere:**
 huisweiden bij de hoeves
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Hoogspanning doorsnijdt dit gebied en doet afbreuk aan de esthetische en
 belevingswaarde. Vanuit de bestaande kernen dient men nieuwe bebouwing

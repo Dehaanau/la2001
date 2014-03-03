@@ -4,7 +4,7 @@ Kasteeldorpen Heers en Veulen
 :Ankerplaats ID: A70002
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -127,22 +127,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 golvend reliëf
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -151,7 +152,7 @@ golvend reliëf
 kleinschalige vallei rond de Heerse of Veulense Beek, bovenloop van
 de Herk
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 vochtige beemden
@@ -159,7 +160,7 @@ vochtige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -167,13 +168,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelparken van Heers en Veulen
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 hoopdorp Heers, kerndorp Veulen
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -182,13 +183,13 @@ hoopdorp Heers, kerndorp Veulen
 
 kastelen van Heers en Veulen
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -198,7 +199,7 @@ kastelen van Heers en Veulen
 
 o.a. de Heusch, kasteelhoeves
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -213,16 +214,16 @@ OLV Tenhemelopneming, St-Rochus
 Gallo-Romeinse vondsten
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -231,28 +232,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 gevlochten haag van Gele Kornoelje
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
 
 vochtige beemden (veelal aangeplant met populieren)
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
@@ -260,8 +261,9 @@ vochtige beemden (veelal aangeplant met populieren)
 
 kleine loofbosjes, aangrenzend populierenbossen
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recente bebouwing levert geen bijdrage tot de landschapswaarden.
 Noordwestelijk zijn serres gelegen.

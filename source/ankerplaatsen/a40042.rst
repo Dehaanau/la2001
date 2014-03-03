@@ -122,6 +122,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Zwalmvallei, een zijloop van de Schelde, is polycyclisch
 ingesneden. Het is de centrale waterloop in een systeem van
 asymmetrische valleien met karakteristieke brongebieden. De bronzones
@@ -157,7 +158,7 @@ hun openheid op.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Waterkersgrachten, sinds 1927 uitgebaat,
@@ -184,15 +185,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -200,7 +202,7 @@ Geomorfologie/hydrografie
  * markante terreinovergang
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -208,7 +210,7 @@ Geomorfologie/hydrografie
  * meander
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
@@ -217,7 +219,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
  * hof
@@ -225,7 +227,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Schaliënhof, kasteelpark van Roborst
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * dries
@@ -234,7 +236,7 @@ Schaliënhof, kasteelpark van Roborst
 
 Velzeke, Knutsegem, Roborst, Hundelgem
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -245,21 +247,21 @@ Velzeke, Knutsegem, Roborst, Hundelgem
 
 kasteel van Brakel, Roborst, Norman, koetshuis
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
  * herberg
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
@@ -267,14 +269,14 @@ kasteel van Brakel, Roborst, Norman, koetshuis
 Bostmolen, Pedesmolen, Zwalmmolen, Boembekemolen en de Vanden
 Borremolen
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * motte
 
 
 motte te Roborst ('tumulus' genoemd)
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -282,7 +284,7 @@ motte te Roborst ('tumulus' genoemd)
  * pastorie
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
 
@@ -292,20 +294,20 @@ fontein
  **Andere:**
 voormalige brouwerij (Roborst)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
@@ -313,10 +315,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 waterkersgrachten
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -324,7 +326,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 boom op Vollanderkouter
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -333,24 +335,24 @@ boom op Vollanderkouter
  * kaphaag
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek

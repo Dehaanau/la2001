@@ -90,6 +90,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Gelegen op de cuesta van Zomergem - Oedelem, zandige bodem. De
 Kwartaire mantel is heel miniem en de bodem is weinig voor landbouw
 geschikt. In Burkel is het beekdalbos goed vertegenwoordigd. De
@@ -123,7 +124,7 @@ landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Maldegemveld is lang onontgonnen
 gebleven, in 1736 werd daar de laatste wolf van beide Vlaanderen gedood.
@@ -146,33 +147,34 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
 cuesta van Oedelem
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
 
 Waarschootbeek, Splenterbeek, Vijverbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 beekdalbos
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -182,21 +184,21 @@ Bartoonklei (cuesta van Oedelem)
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Kasteel Wapenaar
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 Kasteel Wapenaar
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -205,10 +207,10 @@ Kasteel Wapenaar
 
 Burkelhoeve
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -216,10 +218,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -227,27 +229,27 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 vijver bij kasteel Wapenaar en bij Burkelhoeve
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * historisch stabiel
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 canadapopulier
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -257,13 +259,14 @@ canadapopulier
  * hooghout
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
 
 stuwgronden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De dreven in het Burkelbos liggen er dikwijls wat vochtig bij. Deze
 natte dreven zijn een doorn in het oog van veel bosbouwers en van de

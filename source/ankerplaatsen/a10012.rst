@@ -59,6 +59,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Door de uitgestrektheid van het domein en de grote verscheidenheid
 aan biotopen, heeft het gebeid een belangrijke waarde voor fauna. Het
 immense drevenpatroon van voornamelijk zomereik en beuk, alsook de
@@ -88,7 +89,7 @@ waardevol geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kolonie van Merksplas is een nog intact
@@ -123,19 +124,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * landduin
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
@@ -144,14 +146,14 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 personeelswoningen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -159,7 +161,7 @@ personeelswoningen
 
 750m² aan aardappelkelders
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
@@ -173,38 +175,38 @@ prehistorische bewoning en grafheuvels
 strafinrichting, schoolgebouw, werkplaatsen, oude steenbakkerij,
 wachttorentje
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 rastervormig wegenpatroon
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 ringgracht
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -212,11 +214,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * struweel
 
 
-**Andere:**
+*Andere:**
 ontginningsputten
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Belangrijke knelpunten zijn de aanwezigheid van een stortplaats van de
 PIDPA en ernstige historische bodemvervuiling. Verder komen in het

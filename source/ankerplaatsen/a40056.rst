@@ -125,6 +125,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De getuigenheuvels van de Vlaamse Ardennen zijn de overblijfselen van
 de Diestiaanse zandbanken. In bepaalde theorieën neemt men aan dat ze op
 één enkele relatief lange zandbank liggen. Hun ijzerrijke toppen zijn
@@ -177,7 +178,7 @@ en de Vlaamse Ardennen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De verschillende steile kasseiwegen over
@@ -207,15 +208,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -223,7 +225,7 @@ Geomorfologie/hydrografie
  * markante terreinovergang
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -231,7 +233,7 @@ Geomorfologie/hydrografie
  * meander
 
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -241,14 +243,14 @@ Diestiaanzand en ijzerzandsteen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
  * hof
 
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
@@ -256,7 +258,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Kwaremont
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -265,7 +267,7 @@ Kwaremont
  * afspanning
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -273,14 +275,14 @@ Kwaremont
  * wagenhuis
 
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 Kwaremont, Hotondberg
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -289,17 +291,17 @@ Kwaremont, Hotondberg
 
 Kwaremont
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * standbeeld
 
 
 Karel Van Wijnedaele (Kluisbergen)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -310,22 +312,22 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 Romeinse weg ten zuiden van Kwaremont (van Blicquy naar Berchem en
 Kerkhove)
 
-**Spoorweg:**
+*Spoorweg:**
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -334,19 +336,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * kaphaag
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -358,8 +360,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op vlak van de toekomstige ontwikkelingen is het van groot belang de
 kwaliteit van de open ruimte te vrijwaren en de visuele vervuiling tegen

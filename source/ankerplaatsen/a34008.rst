@@ -4,7 +4,7 @@ Vallei van de Poekebeek met kasteeldomein van Poeke
 :Ankerplaats ID: A34008
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -133,6 +133,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Een goed onderhouden parkbos met grote verscheidenheid aan landschap
 en biotopen: graslanden, beekdalbossen, hakhoutbosbestanden, middel- en
 hooghoutbossen, poelen, natuurlijke waterlopen en waterpartijen,
@@ -166,7 +167,7 @@ het kasteel te herstellen. Het kasteel is in barokstijl opgetrokken.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het kasteelpark staat voor passieve
 recreatie open. Er is tevens een educatieve functie (Natuureducatief
@@ -193,15 +194,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -209,12 +211,12 @@ Geomorfologie/hydrografie
  * meander
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * veen
 
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -224,14 +226,14 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Park van Poeke
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -244,14 +246,14 @@ Park van Poeke
 
 koetshuis, hondenkennel
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -259,39 +261,39 @@ koetshuis, hondenkennel
 
 kerk van Poeke
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * standbeeld
 
 
 H. Hartmonument
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -299,24 +301,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hakhout

@@ -43,6 +43,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Houtsaegherduinen hebben een gefixeerd paraboolduinenlandschap dat
 aansluit op de Westhoekduinen. Dankzij de gevarieerde en graduele
 veranderingen van duinkam tot panne heeft het een floristische rijkdom.
@@ -74,25 +75,26 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * kustduin
 
 paraboolduinen
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * houtwal
 
 rond vroegere duinakkers
 
-**Bos:**
+*Bos:**
 
  * loof
  * struweel
@@ -103,8 +105,9 @@ Kerkepannebos; struweel in de duinen
  **Andere:**
 duingrasland
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het noorden liggen enkele tennispleinen binnen het duinengebied die
 landschappelijk storen. De ankerplaats is gekneld tussen de bebouwing

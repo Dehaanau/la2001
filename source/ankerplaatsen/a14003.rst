@@ -100,6 +100,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit gebied ligt aan de Durmemonding. De monding lag voorheen op een
 andere plaats zodat dit stuk van de Schelde de historische Durme is. De
 Durmeschorren zijn uiterst waardevol als rivierschor en
@@ -123,7 +124,7 @@ een contrast met de achterliggende meer open gebieden en de rivieren.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Aan de Durmemondig staat een monument ter
@@ -137,14 +138,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -152,7 +154,7 @@ Geomorfologie/hydrografie
  * meander
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -163,58 +165,58 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * herberg
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * standbeeld
 
 
 Het Pillecijn monument
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * sluis
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
 
 riet en wilgen
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -222,15 +224,16 @@ riet en wilgen
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * uiterwaarden
  * buitendijks
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Vele voormalige turfputten zijn nu als visvijver in gebruik. Daarrond
 staan er vissershuisjes en weekendverblijven.

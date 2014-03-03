@@ -4,7 +4,7 @@ Drongengoedbos
 :Ankerplaats ID: A40002
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -110,6 +110,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit gebied maakt deel uit van de cuesta van Oedelem - Zomergem. Vijf
 beken stromen door het gebied, in de winter zijn er stuwwatertafels,
 door de Bartoonklei veroorzaakt. Een Kwartaire mantel ontbreekt. Dit
@@ -140,7 +141,7 @@ van de ontginning van het Maldegemveldt, het dambordpatroon is aanwezig.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Maldegemveld is lang onontgonnen
 gebleven, in 1736 werd daar de laatste wolf van beide Vlaanderen gedood.
@@ -162,14 +163,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -177,19 +179,19 @@ Geomorfologie/hydrografie
 
 cuesta van Oedelem
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
 
 Wagenmakersbeek, Driesbeek,,,,
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 stuwgronden
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -199,14 +201,14 @@ Bartooncuesta van Oedelem
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 Kasteel van Prinseveld
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -215,15 +217,15 @@ Kasteel van Prinseveld
 
 Drongengoedhoeve, Porcelijnegoed, Papinglohoeve
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
 
 militair domein
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -232,10 +234,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oude Gentweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -243,18 +245,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
@@ -262,7 +264,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 enkele kleine stukjes op het militair domein, zaadbank nog in de
 bossen aanwezig
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -272,11 +274,12 @@ bossen aanwezig
  * struweel
 
 
-**Andere:**
+*Andere:**
 militair domein
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Militair domein ligt midden in het Drongengoedbos, de aanleg ervan ging
 met ontbossing gepaard. Het opstijgen en landen van vliegtuigen zorgt

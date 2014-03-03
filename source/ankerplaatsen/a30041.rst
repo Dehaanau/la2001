@@ -69,6 +69,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankeprlaats ligt rond het interfluvium tussen Ijzer- en
 Schelde-Leiebekken. Het reliëf en de hydrografie bepalen nog in grote
 mate het landgebruik. Deze kam wordt door talrijke bronnen aangesneden
@@ -103,7 +104,7 @@ bij aan de esthetische waarde van het landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 \*
@@ -123,23 +124,24 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 langs wegen en hellingen
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * heuvel
  * holle weg
 
 interfluvium Ijzer en Schelde-Leie
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -149,44 +151,44 @@ Bassevillebeek, Vijverbeek, Drieblotenbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * hof
 
 
 Pollepelhof en Lindenhof met chicorei-ast
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 Godschalk en Catalunya
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
 
 restanten loopgraven, kerkhoven, hill62
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * gedenkteken
 
 
 oorlogsmonumenten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -195,7 +197,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 als perceelsrandbegroeiing, toegangsdreef kerkhof, dreven in bossen
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -203,8 +205,9 @@ als perceelsrandbegroeiing, toegangsdreef kerkhof, dreven in bossen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De nieuwe uitbreidingen bij landbouwbedrijven doen afbreuk aan de
 esthetische waarde van het oorspronkelijke en vaak gaaf bewaard

@@ -4,7 +4,7 @@ Kastelen van Groenendaal en Zangerhei
 :Ankerplaats ID: A70047
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -109,6 +109,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het landschap strekt zich uit in de (natte) zandleemstreek, een
 overgangsgebied tussen de Haspengouwse Leemstreek in het zuiden en het
 Kempens Hoogplateau (zandstreek) in het noorden. Dergelijke
@@ -161,20 +162,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
 
 vlak tot zachtgolvend
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -182,7 +184,7 @@ vlak tot zachtgolvend
 
 o.a. Elsterbeek, Meersbeek, Molenbeek, Wilderbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * rietland
@@ -193,14 +195,14 @@ vochtige graslanden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteelparken Groenendaal en Zangerhei
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -209,12 +211,12 @@ kasteelparken Groenendaal en Zangerhei
 
 kastelen Groenendaal en Zangerhei
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -223,19 +225,19 @@ kastelen Groenendaal en Zangerhei
 
 o.a. hoeven Hommelen en Klein Hommelen, kasteelhoeve Groenendaal
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 o.a. Sint-Rochuskapel
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
 
 gietijzeren pomp met waterbekken
@@ -243,42 +245,42 @@ gietijzeren pomp met waterbekken
  **Andere:**
 burchtruïne Jonckholt
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 Hasselt-Maastricht
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -286,7 +288,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 vochtige hooi- en graslanden, al dan niet beplant of begrensd met
 populieren
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -297,8 +299,9 @@ populieren
 
 o.a. Bonijtersbos, Groenendaal, Zangerheide (deels
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De gaafheid van het landschap wordt bedreigd door de uitbouw van
 boomkwekerijen. Er is een sterke druk vanuit het tuinbouwcentrum

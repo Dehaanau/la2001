@@ -54,6 +54,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Overgang kust-strand-duinen. De Fonteintjes bestaan uit een zestal
 laagten achter de zeereepduinen. Deze laagten zijn gevormd tussen
 parallelle dijken, daterend uit de 14de-15de eeuw, die met elkaar
@@ -91,9 +92,10 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Moerassige gronden:**
+
+*Moerassige gronden:**
 
  * rietland
 
@@ -103,34 +105,35 @@ gedeeltelijk verlande vijvers
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
 
 
 begraven onder zand
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 vijvers ontstaan door uitgraven duingrond voor dijken
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recreanten doen afbreuk aan de flora en fauna van het gebied. Het zicht
 vanuit de duinen op de achterliggende polders dient behouden te blijven.

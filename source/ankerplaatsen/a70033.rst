@@ -4,7 +4,7 @@ Hageven
 :Ankerplaats ID: A70033
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -75,6 +75,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De grote verscheidenheid in de textuur van de bodem (dekzanden,
 stuifzanden, maasgrind), de grote verscheidenheid aan bodems (regosolen,
 plaggenbodems, veen, alluviale gronden enz.), extreme vochtgradiënten
@@ -104,7 +105,7 @@ biedt een hoge esthetische belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Een bezoekerscentrum, een natuurleerpad en
@@ -123,19 +124,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -144,7 +146,7 @@ Geomorfologie/hydrografie
 
 grotendeels rechtgetrokken Dommel
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * veen
  * rietland
@@ -155,12 +157,12 @@ grotendeels rechtgetrokken Dommel
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
  * grenspaal
@@ -169,17 +171,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Verkeerde Lieveheer, oude grenssteen in blauwe arduin naast recentere
 metalen grenspalen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * pad
 
 
 knuppelpad
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -187,46 +189,47 @@ knuppelpad
 
 Bergeikse dijk
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De Dommel werd omstreeks 1950 rechtgetrokken en uitgediept, met als
 gevolg een daling van het grondwaterpeil, verlanding van waterpartijen

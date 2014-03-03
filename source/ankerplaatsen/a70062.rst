@@ -4,7 +4,7 @@ Vijvergebied rond Roosterbeek en Slangebeek
 :Ankerplaats ID: A70062
 
 
-**Landschap**
+*Landschap**
 
 
 Omschrijving
@@ -80,6 +80,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Waardevol is het voorkomen in een aaneensluitend logisch geheel van
 voor de Kempen typische en steeds zeldzamer wordende landschapselementen
 zoals vijvers met verlandingszones, vochtige en droge heiderelicten,
@@ -111,7 +112,7 @@ belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich tot zachte
@@ -131,19 +132,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -152,7 +154,7 @@ Geomorfologie/hydrografie
 
 o.a. Roosterbeek, Slangebeek, Zonderikbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -165,30 +167,30 @@ vochtig grasland
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Olmenwinning
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * schans
 
 
 Donckse of Vranckenschans
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -196,7 +198,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 fiets- en wandelroutes
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -207,35 +209,35 @@ fiets- en wandelroutes
 
 Albertkanaal, vijvercomplex
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * houtwal
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
@@ -243,7 +245,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 vochtige beemden en weilanden
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -253,7 +255,7 @@ vochtige beemden en weilanden
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
@@ -261,8 +263,9 @@ vochtige beemden en weilanden
 
 kleinschalige waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Van de typische oever- en rietvegetatie is door de jaren heen veel
 verloren gegaan t.g.v. de intensieve viskweek. Sommige dijken werden

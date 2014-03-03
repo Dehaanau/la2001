@@ -4,7 +4,7 @@ Hoeve Hobos en omgeving
 :Ankerplaats ID: A70028
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -112,6 +112,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wetenschappelijke waarde ligt o.a. vervat in de kleinschalige
 gebieden rondom het natuurgebied 't Plat en de beekvallei van de
 Gortenloop. Enkele naald- en loofhoutbestanden uit de eerste
@@ -150,7 +151,7 @@ historisch domein, het Hobos.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Door het gebied loopt een fietsroute van
@@ -178,19 +179,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -198,7 +200,7 @@ Geomorfologie/hydrografie
 
 o.a. Gortenloop, Gortenbuitenloop, Holvense Beek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -209,14 +211,14 @@ o.a. Gortenloop, Gortenbuitenloop, Holvense Beek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
 
 
 omhaagde tuin en moestuin op het domein Hobos
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -226,7 +228,7 @@ omhaagde tuin en moestuin op het domein Hobos
 
 domein Hobos, barrierhuis De Trapkens
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -237,10 +239,10 @@ domein Hobos, De Grote Hof
  **Archeologische elementen:**
 grafveld uit metaaltijd
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -250,10 +252,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 Steenweg van Luik naar Den Bosch uit 1777, onverhard wegenpatroon
 domein Hobos
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -261,7 +263,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. monumentale esdoorn op het erf van domein Hobos
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -273,33 +275,33 @@ o.a. monumentale esdoorn op het erf van domein Hobos
 linde- en eikendreef, bomenrijen, houtkanten en -wallen op de
 perceelsgrenzen,
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
 ter hoogte van Hobosdomein en 't Plat in de vallei van de Gortenloop
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
 voormalig gemeen klodveld
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 gemengde fruitboomgaard en kastanjeboomgaard op het domein Hobos
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -310,8 +312,9 @@ gemengde fruitboomgaard en kastanjeboomgaard op het domein Hobos
 
 relicten van de eerste experimentele bosbouwcultuu
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op meerdere plaatsen in het gebied is er sprake van een verdroging o.a.
 in het Hobosdomein en het natuurgebied van 't Plat als gevolg van

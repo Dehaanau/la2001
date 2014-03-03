@@ -4,7 +4,7 @@ Bourgoyen-Ossemeersen
 :Ankerplaats ID: A40037
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -122,6 +122,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 In de Bourgoyen- Ossemeersen kunnen we de volgende gebieden
 onderscheiden. Vooreerst is er de grote, opgevulde geul van een
 laatglaciale Leie-arm. Hiervan is het gedeelte met de Grijtgracht,
@@ -183,15 +184,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -199,7 +201,7 @@ Geomorfologie/hydrografie
 
 donk
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -208,14 +210,14 @@ donk
  * oude rivierarm
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
 
-**Geologie:**
+*Geologie:**
 
 
 Vlaamse Vallei
@@ -223,7 +225,7 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -232,42 +234,42 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Valkenhuis
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Hoosmolen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -275,30 +277,30 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * meersen
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 populier
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -308,14 +310,15 @@ populier
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * vloeiweide
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het gebied is volledig ingesloten door bewoning, recreatiegebieden, de
 ringvaart, de N466 en een pompstation. Deze zijn opvallend in de vista's

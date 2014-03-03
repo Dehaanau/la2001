@@ -4,7 +4,7 @@ Kanne en plateau van Caestert
 :Ankerplaats ID: A70018
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -108,6 +108,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Jeker is diep in het krijtsubstraat ingesneden, de oostelijke
 dalhelling doorsneden met droge valleien. De Sint-Pietersberg is het
 langgerekte en smalle interfluvium tussen Jeker en Maas, tijdens het
@@ -154,7 +155,7 @@ Kanne en het Albertkanaal.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Kanne, veruit de meest toeristische
@@ -178,9 +179,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * graft
@@ -189,7 +191,7 @@ Geomorfologie/hydrografie
 
 ook dassenburchten
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
@@ -198,14 +200,14 @@ ook dassenburchten
 diepe insnijding van Jeker, Maas (Nederland en Wallonië) en het
 uitgegraven Albertkanaal
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
 
 
 Jeker, in Kanne grotendeels gekanaliseerd
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
  * karsten
@@ -220,20 +222,20 @@ dassenburchten, zwerfstenen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 valleisite
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 terrassenkasteel van Neerkanne, echter gelegen in
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -242,7 +244,7 @@ terrassenkasteel van Neerkanne, echter gelegen in
 o.a. notarishuis Rendorp, panden in de Kleine Molenstraat en het
 Avergat
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -252,14 +254,14 @@ Avergat
 o.a. Avergat, Cilissen, Vrancken, Vrijens, Caesterhoeve op plateau
 (Wallonië) met vermelding 1686
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 molen van Neerkanne (Kleine molen, Smokkelmolen), molen van Opkanne
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
 
@@ -267,7 +269,7 @@ molen van Neerkanne (Kleine molen, Smokkelmolen), molen van Opkanne
 bunker nabij Albertkanaal te Vroenhoven, onderdeel van
 verdedigingslinie
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -278,7 +280,7 @@ verdedigingslinie
 o.a. Sint-Hubertuskerk, H.-Grafkapel, voormalig rectorshuis van de
 kanunniken van Hoogcruts-Noorbeek
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * gedenkteken
  * grenspaal
@@ -293,10 +295,10 @@ Merovingische en latere tijden
  **Andere:**
 oud gemeentehuis, oude rijkswachtkazerne
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
@@ -304,26 +306,26 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 bruggen over Albertkanaal te Kanne en Vroenhoven
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * houtkant
  * hagen
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -331,12 +333,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 open akkerbouwgebied en bos op het hoger gelegen leemplateau,
 graslanden in vallei en op hellingen
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hakhout
@@ -346,8 +348,9 @@ graslanden in vallei en op hellingen
 
 o.a. Carrébos, Overbos
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Uitbreiding van de cementindustrie, die nu actief is in het Luikse en
 Nederlandse gedeelte van het mergelgebied, blijft een bedreiging vormen.

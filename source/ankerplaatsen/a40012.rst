@@ -4,7 +4,7 @@ Grote Kreek en Pereboomsgat
 :Ankerplaats ID: A40012
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -144,6 +144,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze kreken zijn gelegen in krekengebied ten oosten van het kanaal
 Gent-Terneuzen, op de overgang naar de dekzandrug Maldegem-Stekene.
 Het gebied wordt door een grote vogelrijkdom gekenmerkt. Het stukje
@@ -175,7 +176,7 @@ een peer.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 
@@ -196,18 +197,19 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * kreek
@@ -215,7 +217,7 @@ Geomorfologie/hydrografie
 
 Watergang van de Moerbekepolder, Grote Kreek en Pereboomsgat
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -226,7 +228,7 @@ Watergang van de Moerbekepolder, Grote Kreek en Pereboomsgat
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * grenspaal
 
@@ -237,46 +239,46 @@ langs de grens met Nederland bevinden zich verschillende grenspalen
 voormalige onderwijzerswoning met achterliggend de voormalige
 klaslokalen van de gemeenteschool
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Spoorweg:**
+*Spoorweg:**
 
  * oude tramroute
 
 nu een betonweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
 
 
 Papdijk, Oude Zeedijk
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
 
 akkers in polder
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -284,14 +286,15 @@ akkers in polder
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ruilverkaveling heeft binnen het afgebakende gebied de gebruikskavels
 veranderd; de akkers zijn groter geworden. Een grote visuele invloed

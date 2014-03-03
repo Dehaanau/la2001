@@ -4,7 +4,7 @@ Mijnsite Waterschei, Klaverberg en Heiderbos
 :Ankerplaats ID: A70019
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -114,6 +114,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het duinenveld van de Klaverberg is in geomorfolgisch en
 natuurhistorisch opzicht belangrijk. Naast een relatief grote
 paraboolduin domineren langgerekte duinvormen, zuidwest-noordoost
@@ -154,7 +155,7 @@ van een industrieel verleden met een grote impact.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het gebied vindt de bezoeker niet
@@ -184,15 +185,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -200,7 +202,7 @@ Geomorfologie/hydrografie
 
 mijnterrils, duinreliëfs
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -208,7 +210,7 @@ mijnterrils, duinreliëfs
 
 Lietenbeek, valleirand van de Bosbeek
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -221,19 +223,19 @@ stuifzand
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
 
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 tuinwijken van Waterschei
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -243,7 +245,7 @@ tuinwijken van Waterschei
 tuinwijken met mijnwerkershuizen en villa's voor ingenieurs en
 directieleden
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * klooster
@@ -251,7 +253,7 @@ directieleden
 
 o.a. parochiekerk Chrtistus-Koning
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * gedenkteken
 
@@ -266,10 +268,10 @@ neolithicum, Merovingische periode, industrieel-archeologisch erfgoed
 gebouwen en installaties van de voormalige mijn van Waterschei,
 station van Waterschei
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
@@ -277,48 +279,48 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 o.a. André Dumontlaan, Onderwijslaan, lanen en wegen van de
 tuinwijken
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
 bos- en landbouwontginningen
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
 o.a. Heiderbos
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -328,8 +330,9 @@ o.a. Heiderbos
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden. De
 initiatieven voor een passende herbestemming van het

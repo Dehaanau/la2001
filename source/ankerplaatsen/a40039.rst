@@ -84,6 +84,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Schelde ligt in een brede alluviale vlakte. Langs de rand van het
 Scheldealluvium komen zandige ruggetjes voor die het resultaat zijn van
 lokale verstuivingen tijdens het Laatglaciaal. Bij Nederwelden is een
@@ -117,7 +118,7 @@ Aan de rechteroever is de steilrand in het oog springend.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Aan de Christianabronnen staat een kapel.
@@ -144,15 +145,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -160,7 +162,7 @@ Geomorfologie/hydrografie
  * steilrand
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -172,7 +174,7 @@ Geomorfologie/hydrografie
 
 bronnenstraat (Christianabronnen)
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -183,14 +185,14 @@ bronnenstraat (Christianabronnen)
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Kasteel Grenier
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -198,7 +200,7 @@ Kasteel Grenier
 
 Kasteel Grenier, neerhof,
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -207,7 +209,7 @@ Kasteel Grenier, neerhof,
 
 De Kaaihoeve
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -216,32 +218,32 @@ De Kaaihoeve
 
 Christianakapel, kerk en pastorie van Welden en Nederzwalm
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -250,7 +252,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * turfput
@@ -259,18 +261,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 vijvers bij Kasteel Grenier
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * kouters
  * meersen
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -281,8 +283,9 @@ vijvers bij Kasteel Grenier
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Wegens verdroging gaat het meersenkarakter verloren en wordt
 intensievere landbouw mogelijk. Dit gaat gepaard met omzetting van

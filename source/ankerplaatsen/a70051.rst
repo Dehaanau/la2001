@@ -4,7 +4,7 @@ Berlingen en Kuttekoven
 :Ankerplaats ID: A70051
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -101,6 +101,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het beoogde landschap is gelegen aan de noordwestrand van het massief
 van Borgloon, dat zich ruim 30 m verheft boven de schiervlakte ten
 zuiden van de lijn Heks, Bommershoven, Jesseren en Piringen. Het
@@ -146,7 +147,7 @@ Verder bepaalt de berm van de oude spoorlijn het dorpsbeeld.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De hele omgeving is erg attractief voor
@@ -172,15 +173,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -188,7 +190,7 @@ Geomorfologie/hydrografie
 
 heuvelachtig, sterk ingesneden door erosie
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -197,7 +199,7 @@ heuvelachtig, sterk ingesneden door erosie
 
 Herk, Rullingenbeek met bronamfitheater
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 vochtige beemden
@@ -205,20 +207,20 @@ vochtige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteelparken De Klee en Rullingen
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 hoopdorp Kuttekoven, straatdorp Berlingen
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -228,12 +230,12 @@ hoopdorp Kuttekoven, straatdorp Berlingen
 
 De Klee, Rullingen
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -243,14 +245,14 @@ De Klee, Rullingen
 o.a. De Klee, Pexters, restanten Hof van Herckenrode, 't Klein
 Kasteeltje
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Oude Molen, Nieuwe Molen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -262,39 +264,39 @@ o.a. OLV van Lourdes, Sint-Jan-de-Doper, Sint-Agatha
  **Archeologische elementen:**
 prehistorische en Gallo-Romeinse vondsten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * Romeinse weg
 
 
 Tongeren-Herentals-Antwerpen
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 Sint-Truiden - Tongeren
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * historisch stabiel
@@ -302,7 +304,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 zuidoost-noordwest georiënteerd patroon
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -310,12 +312,12 @@ zuidoost-noordwest georiënteerd patroon
 vochtige beemden, grasland onder boomgaarden, akkers met traditioneel
 open karakter
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
@@ -323,8 +325,9 @@ open karakter
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ruilverkaveling in voorbereiding. Recente bebouwing levert geen bijdrage
 tot de landschapswaarden.

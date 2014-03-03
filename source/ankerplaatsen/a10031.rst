@@ -95,6 +95,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wetenschappelijke waarde van deze ankerplaats wordt bepaald door
 haar ligging in de alluviale vlakte van de Schelde en deels langs de
 rand van de zandrug die deze vallei afbakent. Als gevolg hiervan wordt
@@ -139,7 +140,7 @@ belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gehucht Buitenland is bekend omwille
@@ -164,19 +165,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -185,7 +187,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -193,13 +195,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Franse tuin, kasteelpark
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 Buitenland
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -208,7 +210,7 @@ Buitenland
 
 Kasteel d' Ursel+Laathof+toegangsbrug en -poort
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -216,14 +218,14 @@ Kasteel d' Ursel+Laathof+toegangsbrug en -poort
 
 jachtpaviljoen+ conciërgewoning, schildershuis, wachthuisje
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * stal
 
 
 oude paardenstalling
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -231,10 +233,10 @@ oude paardenstalling
 
 Parochiekerk St.-Stefaan
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -243,33 +245,33 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * weel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -277,17 +279,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
  * buitendijks
 
 
-**Andere:**
+*Andere:**
 slikken & schorren
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunten in dit landschap zijn de hoge recreatiedruk,
 waarvan de talrijke visvijvers getuige zijn- de nalatigheid van het

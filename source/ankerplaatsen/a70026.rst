@@ -4,7 +4,7 @@ Vallei van de Abeek van Bocholt tot Molenbeersel met Stramprooierbroek
 :Ankerplaats ID: A70026
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -121,6 +121,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De kleinschalige, sterk gedifferentieerde, menselijke beïnvloeding
 van dit zeer uitgestrekte, overwegend natte gebied, resulteerde in een
 grote verscheidenheid aan biotopen. Landschapsecologisch is het
@@ -150,7 +151,7 @@ esthetische belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De zeer geringe bewoningsdichtheid van het
@@ -171,21 +172,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
 dekzand- en duinreliëfs
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -194,7 +196,7 @@ dekzand- en duinreliëfs
 
 o.a. Abeek, Zuurbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -206,12 +208,12 @@ o.a. Abeek, Zuurbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * hof
 
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
@@ -219,7 +221,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteel Grootbroek
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -227,29 +229,29 @@ kasteel Grootbroek
 
 o.a. Woutershof, Mariahof
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Cloots- of Damburgse molen, Voorste Luysmolen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -260,42 +262,42 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 o.a. Lossing met grachtenstelsel, Zuid-Willemsvaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -306,14 +308,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Schaalvergroting in de landbouw, omzetting van historische weiden in
 graslanden en maïsakkers, en ontwatering vormen belangrijke

@@ -70,6 +70,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De verscheidenheid van de geologische lagen geeft het onstaan aan
 bronnen rond deze asymmetrische heuvel die het interfluvium vormt tussen
 bekken van de Vleterbeek en de Heidebeek/Ijzer. De bronnen veroorzaken
@@ -106,7 +107,7 @@ visuele barrière die het zicht beperkt in één richting.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 \*
@@ -125,21 +126,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * heuvel
  * holle weg
 
 interfluvium Vleterbeek - Heidebeek
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -149,7 +151,7 @@ Bommelaarsbeek, Pokhanebeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
@@ -157,10 +159,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 verspreid langs de wegen; Mariakapel bij Helleketelweg
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * houtkant
@@ -170,12 +172,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 dreef zuidoostelijke grens van de ankerplaats
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hop
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -183,8 +185,9 @@ dreef zuidoostelijke grens van de ankerplaats
 
 bronbos
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landelijk karakter van de ankerplaats dient maximaal behouden te
 blijven waarbij visueel storende uitbreidingen bij landbouwbedrijven

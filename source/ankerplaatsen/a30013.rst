@@ -199,6 +199,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Oud duinmassief. Opeenvolging van parallelle en secundaire
 duinvormen. Bestaat uit noordelijke duinengordel (zeereep, voorduinen,
 noordelijke paraboolduingordel) en zuidelijke duinengordel met
@@ -237,7 +238,7 @@ perceelsranden en bij boerderijen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Westhoekreservaat
@@ -259,16 +260,17 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * kustduin
  * markante terreinovergang
 
 overgang binnenduinen naar Moeren en van Moeren naar plateau Izenberghe
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * kreek
 
@@ -281,53 +283,53 @@ Moeren zijn een oud zandwadgebied en zoetwatermeer
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 wijk Zwaantje langs de Bergenvaart
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve 't Moerland en Moerhof
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 St-Karelsmolen en Gustaafmolen beide bemalingsmolens
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
 
 
 in Cabourg duinen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 oude bewoningspatronen in Wethoekduinen
 
  **Andere:**
 de vele brugjes in De Moeren; douaneposten in de Moeren
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -337,28 +339,29 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Ringslot en Bergenvaart rond Moeren met grachtenstelsel.
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * droogmakerij
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Dit omvangrijke gebied wordt doorsneden door de autostrade van Brugge
 naar Calais. Daardoor is de overgang van Cabourg duinen naar De Moeren

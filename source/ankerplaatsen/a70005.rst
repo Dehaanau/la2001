@@ -4,7 +4,7 @@ Abdijsite Herkenrode
 :Ankerplaats ID: A70005
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -125,6 +125,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het Engels park uit het tweede kwart van de 19de eeuw bezit een
 dendrologische waarde.
 
@@ -154,7 +155,7 @@ ten oosten van het gebouwencomplex.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De 18de eeuwse abdisvleugel kreeg in 1972
@@ -179,14 +180,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -197,7 +199,7 @@ Geomorfologie/hydrografie
 
 o.a. Demer, Tuilterdemer
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * rietland
@@ -208,13 +210,13 @@ vochtig grasland
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
 
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
  * muur
@@ -224,7 +226,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 restanten van het gebruik van de abdissenvleugel e
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -234,14 +236,14 @@ restanten van het gebruik van de abdissenvleugel e
 
 abdijhoeve, Altenhof
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 abdijmolen, Tuiltermolen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
  * abdij
@@ -254,17 +256,17 @@ voormalige abdij Herkenrode
 archeologische site rondom de centrale overblijfselen van de
 voormalige abdijkerk
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * pad
 
 
 verbindingen met het Altenhof en met Stokrooie
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -273,46 +275,46 @@ verbindingen met het Altenhof en met Stokrooie
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 telkens een molenvijver achter de twee watermolens
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
  * bolle akkers
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -321,7 +323,7 @@ telkens een molenvijver achter de twee watermolens
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
@@ -329,8 +331,9 @@ telkens een molenvijver achter de twee watermolens
 
 uitgebreid grachtensysteem voor bevloeiing en ontwatering
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De landbouwactiviteiten van de laatste decennia hadden als voornaamste
 gevolg de omzetting van weiden en hooilanden naar maïsakkers. Daarnaast

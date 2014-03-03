@@ -4,7 +4,7 @@ Dal van de Berwijn
 :Ankerplaats ID: A70015
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -106,6 +106,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Berwijn is de enige vrij meanderende waterloop met zulk een groot
 debiet en met kenmerken van een bergrivier in Vlaanderen. Het dal van de
 Berwijn vormt de scheidingslijn tussen twee Maasterrassenmassieven. De
@@ -149,7 +150,7 @@ plateau, doorsneden met holle wegen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het landschap bevinden zich
@@ -169,9 +170,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
@@ -179,7 +181,7 @@ Geomorfologie/hydrografie
 
 trappenprofiel
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
@@ -187,7 +189,7 @@ trappenprofiel
 
 Maasterrassen, steile dalhellingen, historische holle wegen
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * vallei
@@ -196,12 +198,12 @@ Maasterrassen, steile dalhellingen, historische holle wegen
 
 Berwijn
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 vochtig grasland
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -211,28 +213,28 @@ o.a. primaire gesteenten (harde kalksteen uit het Onder Carboon)
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 historische holle wegen
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
  * stuw
@@ -240,44 +242,44 @@ historische holle wegen
 
 molensloot met stuw en zalmtrap
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 hellings- en valleigraslanden
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
@@ -285,8 +287,9 @@ hellings- en valleigraslanden
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een hoogspanningsleiding beïnvloed de visuele belevingswaarde van het
 landschap negatief. Er bevindt zich een gebouwencomplex van een

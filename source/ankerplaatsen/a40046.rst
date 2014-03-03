@@ -95,6 +95,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De hoger gelegen kouterruggen zijn resistenter aan erosie vergeleken
 met de asymmetrisch ingesneden beekvalleien. Deze beekvalleien vormen
 hier een min of meer parallel hydrografisch net van waterlopen die in de
@@ -127,7 +128,7 @@ Horebeke liggen in het glooiende landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In de Tempelstraat, de vroegere
@@ -156,22 +157,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -184,13 +186,13 @@ vallei van de Oossebeek, Spouwbeek en Borrebeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
 
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
@@ -198,21 +200,21 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Mater, Horebeke en Tissenhove
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
  * herberg
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
  * windmolen
@@ -220,7 +222,7 @@ Mater, Horebeke en Tissenhove
 
 Tissenhovemolen (windmolen) en Zwadderkotmolen (watermolen)
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -229,10 +231,10 @@ Tissenhovemolen (windmolen) en Zwadderkotmolen (watermolen)
 
 kerk en pastorie van Mater en Horebeke
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -240,16 +242,16 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kasseiweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -258,18 +260,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * kaphaag
  * perceelsrandbegroeiing
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * middelhout
@@ -278,8 +280,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recent neemt de residentiële bebouwing rond de dorpen Mater en
 Sint-Maria-Horebeke uitbreiding, Dit verstroord het oorspronkelijke

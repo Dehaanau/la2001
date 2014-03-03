@@ -68,6 +68,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Oudlandpolder waarbij de bodemgesteldhied nog het bodemgebruik
 bepaalt: bewoning, wegen en akkerland op kreekruggen; grasland op
 geulgronden .
@@ -106,16 +107,17 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 typisch voor Oudlandpolder
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
 
@@ -125,27 +127,27 @@ Bredewegzwin, Dorpzwin
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 lineaire polderdorpen op kreekruggen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve Otterput en 't Zwaluwnest
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 Dorpsmolen te Klemskerke
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
  * verdedingingslinie
@@ -156,38 +158,39 @@ WOII
  **Archeologische elementen:**
 misschien sporen van middeleeuwse sites met walgracht in de weilanden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
 
 aansluitend bij hoeves
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
 veedrinkput
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Omzetting van weiland naar akkerland doet afbreuk aan het historisch
 permanent karakter van grasland en maakt het microreliëf onherkenbaar.

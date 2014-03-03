@@ -155,6 +155,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Vlaamse heuvelrij van Vidaigne- en Rodeberg sluit in westen aan op
 de Zwarte berg (Frankrijk) en in oosten op Scherpenberg en Kemmelberg.
 Ze vormt de waterscheidingskam tussen twee grote rivierbekkens in
@@ -230,16 +231,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 geologisch bepaald;
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -247,7 +249,7 @@ geologisch bepaald;
 
 vidaigne- en rodeberg; interlfuviumgrens
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -255,7 +257,7 @@ vidaigne- en rodeberg; interlfuviumgrens
 
 Douvevallei; talrijke beken
 
-**Geologie:**
+*Geologie:**
 
 
 zgn. Diestiaanafzettingen op toppen
@@ -264,21 +266,21 @@ zgn. Diestiaanafzettingen op toppen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 bij kasteel Behaeghel
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 kasteel Behaeghel
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
@@ -289,10 +291,10 @@ Lijstermolen
 archeologische resten op vidaigne- en rodeberg???
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -300,14 +302,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 langs beken, op taluds, langs steilranden van beken
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 bij kasteel Behaeghel
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -316,8 +318,9 @@ bij kasteel Behaeghel
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landelijke karakter van dit landschap dient behouden en versterkt te
 worden via uitbreiding van de perceelsrandbegroeiing en beekbegeleidende

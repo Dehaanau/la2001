@@ -95,6 +95,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit poldergebied van Stabroek is gelegen op de overgang van Polders
 naar Kempen en is daarmee onderdeel van een belangrijke gradiënt. De
 grote variatie in bodemstructuur, een belangrijk hoogteverschil en het
@@ -163,15 +164,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -182,14 +184,14 @@ Ettenhovense Beek, 's Hertogendijkse Beek, Rode Beek, St.-Jacobsloop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -198,7 +200,7 @@ kasteelpark
 
 'Starrenhof'
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
  * villa
@@ -206,12 +208,12 @@ kasteelpark
 
 'Irishof', landhuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -222,17 +224,17 @@ Voormalige parochiekerk O.L.-Vrouw Geboorte
  **Andere:**
 ast, kerkhof
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 's Hertogendijk: aarden weg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -240,43 +242,44 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 's Hertogendijk
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten in dit landschap zijn de wegeninfrastructuur en bijhorende
 storende lintbebouwing. De centraal in de ankerplaats gelegen, sterk

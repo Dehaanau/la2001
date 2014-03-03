@@ -4,7 +4,7 @@ Molsbroek
 :Ankerplaats ID: A40019
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -81,6 +81,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het Molsbroek is in de Durmevallei gelegen. In de omgeving zijn
 enkele kleine rivierduinen aanwezig. Het moerasgebied is ontstaan door
 het overstromingsbekken van de Durme.
@@ -105,7 +106,7 @@ ruime natuurweide en natuurlijk elzenbos.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De ringdijk rond het Molsbroek is een
@@ -129,21 +130,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
  * rivierduin
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -151,7 +153,7 @@ Geomorfologie/hydrografie
  * meander
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -162,21 +164,21 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
 
 schietstand uit WO II in Molsbergenstraat
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -185,22 +187,22 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * houtwal
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * blokvormig
@@ -208,12 +210,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * meersen
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -221,7 +223,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * vloeiweide
 
@@ -229,8 +231,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 Dijk omheen Molsbroek werd einde de jaren 60 aangelegd om de
 potpolder af te sluiten
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Sinds 1968 kende de uitlopers van de Molsbergen, die bijna volledig
 omringd zijn door de wandeldijk van het Molsbroek, een trieste

@@ -57,6 +57,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De poelberg vormt een alleenstaande heuvel aansluitend bij het
 Plateau van Tielt. Aan de voet ervan komen talrijke bronniveaus voor.
 
@@ -82,7 +83,7 @@ van de Poelberg.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Bij het klooster en de school vormt de
@@ -103,21 +104,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 langs hellingen Poelberg
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * heuvel
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -127,18 +129,18 @@ bronnen aan de voet van de Poelberg; Elsbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
 opeenvolging van historische bebouwing langs kamlijn poelberg
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 meeste hoeves nog authentiek en weinig verstoord
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
@@ -146,10 +148,10 @@ meeste hoeves nog authentiek en weinig verstoord
 Poelbergmolen
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -159,8 +161,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 dreef naar Goed Te Karels; bomenrijen Elsbeek en rond hoeves; knotbomen
 in weilanden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het open karakter dient behouden te blijven voor de windvang van de
 molen, voor het zicht op de molen en voor het zicht op de omgeving van

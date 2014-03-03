@@ -61,6 +61,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het slikke-schorregebied langs de Ijzer is quasi uniek in België en
 brengt specifieke flora én fauna met zich mee. Waardevolle flora op
 kalkrijke droge duinen.
@@ -92,15 +93,16 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * kustduin
 
 met aansluitend strand; kopjes- en paraboolduinen
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
 
@@ -110,7 +112,7 @@ Ijzerestuarium
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
  * verdedingingslinie
@@ -121,21 +123,22 @@ restanten van de Atlantikwal uit WOII
  **Archeologische elementen:**
 archeologische resten van de vuurtoren de Vierboete
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Bos:**
+*Bos:**
 
  * struweel
 
 
 op meest landinwaartse duinen
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vele bouwwerken in deze ankerplaats vormen een hindernis in het
 gebied: kustverdedigingswerken, illegale campings, infrastructuur van de

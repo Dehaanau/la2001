@@ -81,6 +81,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het deels bewaard tracé van de Zuidleie waarin de bedding van het
 kanaal werd gegraven, verwijst naar het oorspronkelijk hydrografisch en
 afwateringsnet tussen Brugge en Gent. De onmiddellijke omgeving van deze
@@ -131,16 +132,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 valleirand en/of kunstmatig
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -149,7 +151,7 @@ valleirand en/of kunstmatig
 
 Zuidleie; Borne-, Merle, Zuiddam- en Geuzenbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * veen
 
@@ -159,7 +161,7 @@ in Leiemeersen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * toren
  * landgoed
@@ -167,14 +169,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 hoeve Blauw Kasteel
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Blauw Kasteel, Schotsgoed, Grote Linde, en andere
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
  * motte
@@ -182,34 +184,34 @@ Blauw Kasteel, Schotsgoed, Grote Linde, en andere
 
 restanten van mottestructuur en walgracht
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 bij hoeve Grote Linde
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
 
 
 kanaal Oostende-Gent
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * solitaire boom
 
 
 bij kapel Grote linde
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -218,29 +220,30 @@ bij kapel Grote linde
 
 langs kanaal; langs perceelsranden, bij hoeves
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
 veedrinkpoel
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * meersen
 
 
 No
 
-**Bos:**
+*Bos:**
 
  * struweel
 
 
 rijshout/tuinbouw
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De toenemende bebouwing rond Stuivenberg en de lintbebouwing vanuit
 Moerbrugge bedreigen de openheid en de natuurlijkheid van het gebied.

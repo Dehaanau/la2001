@@ -4,7 +4,7 @@ Krekengebied van Kieldrecht en Meerdonk
 :Ankerplaats ID: A40021
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -100,6 +100,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Grote Geule en Welen van Kieldrecht zijn van mariene oorsprong,
 dit is merkbaar door de zoutminnende planten. De Grote Geule van
 Meerdonk, het Sint- Jacobsgat, het Panneweel en het Rietland liggen aan
@@ -145,19 +146,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -166,7 +168,7 @@ Geomorfologie/hydrografie
 
 Grote Geule, Konijnenpijpen, Kieldrechtse Watergang
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -177,23 +179,23 @@ Grote Geule, Konijnenpijpen, Kieldrechtse Watergang
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Riethoeve
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -201,34 +203,34 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * weel
 
 
 Kieldrechtse welen: Grote Weel, Klein Weel, Panneweel
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * blokvormig
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
 
 laagstamboomgaard
 
-**Bos:**
+*Bos:**
 
  * loof
  * middelhout
@@ -236,14 +238,15 @@ laagstamboomgaard
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langsheen de Kieldrechtse Watergang werden ophogingen uitgevoerd. Dit
 gebied is deels ruilverkaveld (R.V.K Meerdonk). Het gebied wordt sterk

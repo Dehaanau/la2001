@@ -4,7 +4,7 @@ Boomgaarden van Grootloon
 :Ankerplaats ID: A70050
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -77,6 +77,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Grootloon is gelegen op de zuidoostrand van het massief van Borgloon,
 dat zich ruim 30 m verheft boven de schiervlakte ten zuiden van de lijn
 Heks, Bommershoven, Jesseren en Piringen. Het situeert zich in het door
@@ -111,7 +112,7 @@ landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De fruitteelt staat centraal in het
@@ -134,22 +135,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 sterk door erosie versneden heuvelend landschap
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -157,7 +159,7 @@ sterk door erosie versneden heuvelend landschap
 
 Bollebeek
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -167,20 +169,20 @@ oude ambachtelijke zandgroeve
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
 
 
 Grote Mot
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 langgerekt hoopdorp
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -188,7 +190,7 @@ langgerekt hoopdorp
 
 o.a. Grote Mot
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -197,7 +199,7 @@ o.a. Grote Mot
 
 o.a. Servaeshoeve
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
@@ -210,62 +212,63 @@ vondsten uit Ijzertijd en Gallo-Romeinse tijd
  **Andere:**
 opvallende toren met oude veldschuil en voetgangerssluisje
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * Romeinse weg
 
 
 Tongeren-Kassel
 
-**Spoorweg:**
+*Spoorweg:**
 
  * oude tramroute
 
 Borgloon-Oreye
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 grasland onder boomgaarden
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De ruilverkaveling Grootloon is in voorbereiding. Onderdeel van dit
 landschap is de motorcrosspiste in een oude ambachtelijke zandgroeve.

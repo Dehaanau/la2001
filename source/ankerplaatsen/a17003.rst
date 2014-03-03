@@ -109,6 +109,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het landschap strekt zich uit tussen de getuigenheuvels die hier als
 uitlopers van het Hageland aanwezig zijn, op de overgang naar de Kempen.
 Dergelijk overgangsgebied wordt gekenmerkt door een eigen dynamiek. Het
@@ -151,7 +152,7 @@ Zandberg zichten op de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De abdij van Averbode is nog steeds een
@@ -178,14 +179,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -194,7 +196,7 @@ Geomorfologie/hydrografie
 
 o.a. Houterenberg, Weefberg, Zandberg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -202,25 +204,25 @@ o.a. Houterenberg, Weefberg, Zandberg
 
 o.a. Gerhagenloop, Heideloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
 
 o.a. Pinnekenswijer
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
 
-**Andere:**
+*Andere:**
 stuifzand
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -228,7 +230,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 abdijtuin, Mariapark
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -238,21 +240,21 @@ abdijtuin, Mariapark
 
 o.a. abdijhoeve, Bierhoeve, De Eik
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 o.a. Oude Molen (Achterheide), restanten Oude Molen (Houterenberg)
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * schans
 
 
 Gerhagenschans
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -264,15 +266,15 @@ Gerhagenschans
 o.a. abdij van Averbode, Mariapark, kapel Onze-Lieve-Vrouw van Zeven
 Weëen
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
 
 o.a. graven van Ernest Claes en Armand Boni, muren, poorten
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -280,44 +282,44 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 straalvormig patroon rond centrale abdij
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -327,8 +329,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. Averbodebos, Averbodeheide, Houterenberg, Nac
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap heeft plaatselijk erg te leiden onder de hoge
 recreatiedruk. De recente bebouwing levert geen bijdrage tot de

@@ -93,6 +93,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankerplaats is in de Scheldevallei gelegen, op een brede
 alluviale vlakte. Het steilrandje toont de overgang van het alluvium
 naar de zandleemruggen aan. Er bevinden zich een antropogeen afgesneden
@@ -157,21 +158,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -181,7 +183,7 @@ Geomorfologie/hydrografie
  * oude rivierarm
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -190,34 +192,34 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 abdij van Beaulieu
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 Melden
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * abdij
  * pastorie
@@ -225,17 +227,17 @@ Melden
 
 voormalige abdij van Beaulieu
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
  * kerkwegel
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -245,22 +247,22 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Rietgracht of Coupure
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * opstrekkend
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * voormalige communautaire akker
  * permanent grasland
@@ -268,21 +270,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * meersen
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * watering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten westen van de ankerplaats bevindt zich een golfterrein. Op die
 plaats is de topografie totaal gewijzigd en is het voormalige landschap

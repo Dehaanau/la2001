@@ -78,6 +78,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankerplaats heeft een belangrijke geologische waarde als schakel
 in de duinenketen tussen Nijlen en Kasterlee, met een duidelijke
 steilrand naar de vallei van de Kleine Nete. De afwisseling van
@@ -115,7 +116,7 @@ op 'Snepkensvijver' en de vallei van de Kleine Nete.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kruisweg nabij de Kruisberg is
@@ -143,15 +144,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
@@ -159,7 +161,7 @@ Geomorfologie/hydrografie
 
 stuifzandduinen
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -169,7 +171,7 @@ stuifzandduinen
 
 Kleine Nete, Boterpottenloop, Langendonkloop, Kneutersloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * veen
  * rietland
@@ -181,7 +183,7 @@ Zwart Water, Lavendelven
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
@@ -191,29 +193,29 @@ kruisweg van 14 staties en 7 kapellen
  **Andere:**
 ruïne van een bakstenen toren
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
  * vijver
@@ -221,17 +223,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 Snepkesvijver
 
-**Topografie:**
+*Topografie:**
 
  * opstrekkend
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -240,8 +242,9 @@ Snepkesvijver
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een te vermelden knelpunt is de toenemende recreatiedruk die de rust
 verstoort en de geomorfologie en vegetatie in het gebied aantast. De

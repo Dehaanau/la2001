@@ -135,6 +135,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Vinderhoutse bossen zijn in een beekdepressie gelegen die aansluit
 bij de Merebeek. De vallei van de Oude Kale situeert zich op het
 zuidelijke deel van de Vlaamse Vallei op de overgang naar de zuidelijke
@@ -201,21 +202,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * steilrand
  * markante terreinovergang
 
 Vinderhoutse Bossen en Kastelensites
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -225,13 +227,13 @@ Vinderhoutse Bossen en Kastelensites
 
 Merebeek, Oude Kale
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
 
 
-**Geologie:**
+*Geologie:**
 
 
 Vlaamse Vallei
@@ -239,14 +241,14 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Kasteelparken
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * dries
@@ -254,7 +256,7 @@ Kasteelparken
 
 Drieselken, Slindonk
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -269,12 +271,12 @@ Drieselken, Slindonk
 
 portierswoning, wagenhuis
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -282,14 +284,14 @@ portierswoning, wagenhuis
  * wagenhuis
 
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 Van Vlaenderensmolen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -298,32 +300,32 @@ Van Vlaenderensmolen
 
 Sint- Annakapel, kerk en pastorie Vinderhoute
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -332,14 +334,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 bij kastelen
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * blokvormig
@@ -347,7 +349,7 @@ bij kastelen
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * kouters
  * meersen
@@ -355,12 +357,12 @@ bij kastelen
 
 bulken
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -371,8 +373,9 @@ bulken
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het gebied van de ankerplaats zijn enkele stortplaatsen die ook
 terreinverhogingen met zich meebrengen. Rond de driesen is de

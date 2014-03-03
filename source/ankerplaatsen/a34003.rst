@@ -4,7 +4,7 @@ Schoonbergbos - Vorte Bossen- Wantebeek
 :Ankerplaats ID: A34003
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -81,6 +81,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De situering van de ankerplaats langs het cuestafront van de cuesta
 van Lotenhulle-Hertsberghe met het brongebied van de Wantebeek vormt het
 fysich kader voor het landgebruik. De graduele bodemkundige overgang
@@ -131,22 +132,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 boswal in Slangebossen
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * heuvel
 
 cuestafront
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -157,7 +159,7 @@ vallei van de Wantebeek rond brongebied
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -168,21 +170,21 @@ Akspoelehoeve, Schoonberg
 site van oude watermolen rond Akspoelehoeve
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * historisch stabiel
@@ -190,7 +192,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 geometrisch patroon uit 18e eeuw; repelvormig in natte bosbestanden
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -202,8 +204,9 @@ geometrisch patroon uit 18e eeuw; repelvormig in natte bosbestanden
 Vorte Bossen, Schoonbergbos, bronbos Wantebeek
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De toenemende bebouwing in het gebied vormt een bedreiging voor het
 landelijke karakter en het goed bewaard landschap. De oprukkende

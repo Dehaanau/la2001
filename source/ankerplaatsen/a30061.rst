@@ -71,6 +71,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De zeldzame florasoorten en de speciale variëteiten die in de
 kasteelparken voorkomen, hebben een belangrijke wetenschappelijke
 waarde.
@@ -115,13 +116,14 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
 interfluviale kam
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -131,14 +133,14 @@ zijbeek Marsbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Engelse landschapsstijl
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -148,7 +150,7 @@ Engelse landschapsstijl
 
 kast. Nieuwburg en Breidels
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -156,7 +158,7 @@ kast. Nieuwburg en Breidels
 
 de gebouwen nabij kasteeldomein Nieuwburg door hun uniform kleur
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -166,17 +168,17 @@ de gebouwen nabij kasteeldomein Nieuwburg door hun uniform kleur
 landgoed bij kast. Nieuwburg en omliggende hoeves
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
 in de parken
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -184,28 +186,28 @@ in de parken
 
 gave knot/bomenrijen bij Nieuwburg
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 bij kastelen
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
 geaccentueerd door dreven
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 bij kast Nieuwburg
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -214,8 +216,9 @@ bij kast Nieuwburg
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten zuiden van het kasteeldomein Breidels ligt een residentiële wijk in
 bos. Het bebost karakter moet bewaard blijven om de storende invloed van

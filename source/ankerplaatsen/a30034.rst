@@ -89,6 +89,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankerplaats op het interfluvium tussen Ijzer en Vleterbeek,
 wordt gekenmerkt door het voorkomen van talrijke bronnen langs de
 hellingen, veroorzaakt door de onderliggende geologische gelaagdheid. De
@@ -129,7 +130,7 @@ vista's naar de gebouwen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De grote volkskundige waarde van de
@@ -151,16 +152,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * heuvel
  * holle weg
 
 interfluvium tussen Ijzer en Vleterbeek
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -170,7 +172,7 @@ bronniveau's
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * hof
@@ -178,7 +180,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Couthof
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -189,7 +191,7 @@ Couthof
 
 ook klooster, kappelletjes, prieeltje
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
  * abdij
@@ -199,21 +201,21 @@ ook klooster, kappelletjes, prieeltje
 bij kasteel de Lovie; trappistenabdij van Westmalle
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
 bij kappellen
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
 
-**Bos:**
+*Bos:**
 
  * loof
  * hakhout
@@ -221,8 +223,9 @@ bij kappellen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De gebouwen van de instelling rond kasteel de Lovie zijn storend door
 hun andere bouwstijl en doen afbreuk aan de esthetishe en historische

@@ -4,7 +4,7 @@ Heidegebied rond Laambeek, Roosterbeek en Slangebeek
 :Ankerplaats ID: A70054
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -123,6 +123,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het landschap strekt zich uit in de overgangszone tussen het Kempens
 Plateau en de Lage Kempen. Dergelijke overgangsgebieden worden
 gekenmerkt door een eigen dynamiek en zijn bijgevolg in geografisch
@@ -165,7 +166,7 @@ aan het landschap een hoge belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich tot zachte
@@ -186,14 +187,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
@@ -202,7 +204,7 @@ Geomorfologie/hydrografie
 
 zuidwestelijke steilrand van het Kempens Plateau
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -211,7 +213,7 @@ zuidwestelijke steilrand van het Kempens Plateau
 
 o.a. Laambeek, Roosterbeek en Slangebeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -224,57 +226,57 @@ vochtige graslanden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 Tenhaagdoorn
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Oude of Genaderse molen, Korenmolen
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * schans
 
 
 Brelaarschans, Molenschans
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 Mesolithische vondsten en polijststeen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * pad
 
 
 wandel- en fietspaden
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -284,35 +286,35 @@ wandel- en fietspaden
 
 molensloot, vijvercomplex
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * houtwal
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
@@ -320,7 +322,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 o.a. Molenheide, de Teut, Tenhaagdoornheide
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -330,7 +332,7 @@ o.a. Molenheide, de Teut, Tenhaagdoornheide
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering
@@ -338,8 +340,9 @@ o.a. Molenheide, de Teut, Tenhaagdoornheide
 
 kleinschalige waterbeemden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verderschrijdende bebossing, omvorming tot landbouwgrond,
 industrialisatie, woonuitbreiding en recreatiezones zijn er de oorzaak

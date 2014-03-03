@@ -4,7 +4,7 @@ Demervallei met kasteel 't Looi
 :Ankerplaats ID: A70056
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -103,6 +103,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het kasteeldomein bezit een dendrologische waarde omwille van zijn
 omhaagde lanen, uitzonderlijke solitairen en tunnels.
 
@@ -128,7 +129,7 @@ ijle bomenrijen of houtkanten op de perceelsgrenzen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Elk jaar opnieuw op de laatste zondag van
@@ -152,14 +153,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -168,7 +170,7 @@ Geomorfologie/hydrografie
 
 o.a. Demer, Voortbeek en verschillende zijbeken
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -181,7 +183,7 @@ valleibeemden van de Demer
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -189,7 +191,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark 't Looi
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -200,7 +202,7 @@ kasteelpark 't Looi
 
 kasteel 't Looi
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -210,17 +212,17 @@ kasteel 't Looi
 
 o.a. kasteelhoeve 't Looi
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Grote Molen, Veldekemolen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -228,7 +230,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 tuinpaden, dreven en wegen van kasteeldomein 't Looi
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -241,16 +243,16 @@ tuinpaden, dreven en wegen van kasteeldomein 't Looi
 gekanaliseerde Demer, vijvercomplex, molens, stelsel van beken en
 grachten
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -258,24 +260,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hagen
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 hooi- en weiland van de Demerbroeken, graspartijen in het park
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -285,7 +287,7 @@ hooi- en weiland van de Demerbroeken, graspartijen in het park
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide
@@ -294,7 +296,8 @@ hooi- en weiland van de Demerbroeken, graspartijen in het park
 
 beemden en bevloeiingen in de Demervallei
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden.

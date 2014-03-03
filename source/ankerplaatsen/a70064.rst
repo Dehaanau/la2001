@@ -4,7 +4,7 @@ Kasteel van Hasselbroek
 :Ankerplaats ID: A70064
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -92,6 +92,7 @@ Wetenschappelijke waarde
 
 
 
+
 Historische waarde
 ~~~~~~~~~~~~~~~~~~
 
@@ -118,7 +119,7 @@ bijdragen tot de belevingswaarde van het geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 
@@ -138,14 +139,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -156,7 +158,7 @@ Cicindria
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -164,14 +166,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark van Hasselbroek met moestuin
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 straatgehucht Hasselbroek
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -184,7 +186,7 @@ straatgehucht Hasselbroek
 
 kasteel van Hasselbroek
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -194,14 +196,14 @@ kasteel van Hasselbroek
 
 o.a. kasteelhoeve, hoeve Stassens of Witte Hoeve
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 Sint-Jobkapel
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
 
 hekwerk, muren
@@ -209,26 +211,26 @@ hekwerk, muren
  **Andere:**
 tuinmeubilair, -paviljoen en -ornamenten (hondenhok, zonnewijzer)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
 
 
 brug als toegang tot kasteelhoeve
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * hagen
@@ -236,19 +238,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 Lindedreef, meidoornhagen langs de straat
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 restant van voormalige omgrachting
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -257,8 +259,9 @@ restant van voormalige omgrachting
 
 parkbossen
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de zuidelijke kwadranten van de moestuin is een schietclub
 gehuisvest. Het is wenselijk dat bij een herwaardering van het domein

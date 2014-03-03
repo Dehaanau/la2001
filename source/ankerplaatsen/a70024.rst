@@ -4,7 +4,7 @@ Maasvallei van Stokkem tot Heppeneert
 :Ankerplaats ID: A70024
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -123,6 +123,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Rivierlandschappen hebben een dynamisch karakter. In geomorfologisch,
 bodemkundig en hydrografisch opzicht is de alluviale vlakte van de Maas
 een zeldzaam gegeven in Vlaanderen omdat een aantal natuurlijke
@@ -177,7 +178,7 @@ zuiden van Rotem.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich uitermate goed voor
@@ -205,9 +206,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
@@ -215,13 +217,13 @@ Geomorfologie/hydrografie
 
 o.a. oeverwallen, depressies
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -234,12 +236,12 @@ o.a. oeverwallen, depressies
 o.a. Maas, Genootsbeek, Vrietselbeek, Zanderbeek of Diepbeek,
 Kogbeek, De Sloot
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 natte depressies
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -249,7 +251,7 @@ kleinschalige grind- en leemputten, grindbanken
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -258,14 +260,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 o.a. Sint-Gertrudiskerk, kasteeldomein Ommerstein, kasteel
 Karolinaberg
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 o.a. Boyen, Heppeneert, Oud-Dilsen
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -274,7 +276,7 @@ o.a. Boyen, Heppeneert, Oud-Dilsen
 
 kasteel Ommerstein, kasteel Karolinaberg
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -285,7 +287,7 @@ kasteel Ommerstein, kasteel Karolinaberg
 o.a. kasteel Karolinaberg, Oud-Dilsen, Damiaan, Labaer, De Hoogte,
 Boyen en Heppeneert
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -296,14 +298,14 @@ Boyen en Heppeneert
 o.a. kasteelhoeve Ommerstein, Kraaienbos, Damiaan, Kapelhof,
 Zanderhof, Boyen en Heppeneert
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 De Hoop
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -314,7 +316,7 @@ De Hoop
 o.a. Sint-Gertrudiskerk, Sint-Maartenstoren, kapel Onze-Lieve-Vrouw
 van Rust
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
  * gedenkteken
@@ -326,17 +328,17 @@ o.a. merktekens waterhoogte
  **Archeologische elementen:**
 prehistorische, Romeinse en middeleeuwse archeologica
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
  * kerkwegel
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -349,40 +351,40 @@ Duivelsbrugje
  **Andere:**
 Maaskade, voetveer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * weel
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 weerden
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hakhout
@@ -390,15 +392,16 @@ weerden
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * uiterwaarden
  * buitendijks
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Schaalvergroting in de landbouw, lozingen van afvalwater in de Maas en
 zwerfvuil na overstromingen doen afbreuk aan het landschap. De

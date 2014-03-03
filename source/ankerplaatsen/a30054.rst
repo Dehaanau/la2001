@@ -83,6 +83,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De gave duin-polderovergang én, in het bijzonder, de actieve
 overstuiving van poldergronden maken van dit gebied een unicum in
 België. Deze actieve overgangszone heeft een zeer rijke en gevarieerde
@@ -132,16 +133,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 noordoosten ankerplaats
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * kustduin
  * markante terreinovergang
@@ -151,7 +153,7 @@ duin-polderovergang
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -159,7 +161,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Ten Bogaerde (met schuur!), Belvédère, Kapelhof
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * abdij
@@ -167,10 +169,10 @@ Ten Bogaerde (met schuur!), Belvédère, Kapelhof
 
 Ten Bogaerde (voormalige kerk en abdij)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * grachtenstelsel
@@ -178,10 +180,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Langgeleed
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -190,28 +192,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 restanten van knotbomenrijen; struweel langs walgracht; overgang
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 boomgaard bij hoeve Te bogaerde
 
-**Bos:**
+*Bos:**
 
  * struweel
 
 
 in duinen
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats ligt gekneld tussen de industriezone ten noordwesten
 van Veurne en de bebouwing van Koksijde langs de Ten Bogaerdelaan en de

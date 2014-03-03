@@ -65,19 +65,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -85,7 +86,7 @@ Geomorfologie/hydrografie
 
 Aa, Lieremansloop, Rooise loop, Molengoorloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -97,65 +98,65 @@ Aa, Lieremansloop, Rooise loop, Molengoorloop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
 landhuis, jachthuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * schuur
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 gebruiksvoorwerpen uit het Neolithicum
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * pad
 
 
 oude padenstructuur
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
  * stuw
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -164,8 +165,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een te vermelden knelpunt is het voorkomen van weekendverblijven ter
 hoogte van de Hoge Mierdse Heide. Inpassing in het landschap is gewenst
@@ -185,6 +187,7 @@ Landschapswaarden
 
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De vrij grote reliëfverschillen in het landschap en de aanwezigheid
 van een gaaf landduincomplex geven deze ankerplaats een belangrijke
@@ -222,7 +225,7 @@ akkerlanden, struwelen en bosjes, houtkanten, bomenrijen en dreven.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Een gedeelte van deze ankerplaats was

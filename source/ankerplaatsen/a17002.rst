@@ -52,6 +52,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Grote delen van het gebied zijn bedekt met een dikke veenlaag van
 gemiddeld 1m dikte. Het continue beheer van het gebied resulteerde
 tevens in een grote diversiteit.
@@ -77,7 +78,7 @@ is met een zeer gevarieerd landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied is vrij toegankelijk op de
@@ -98,14 +99,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -113,17 +115,17 @@ Geomorfologie/hydrografie
 
 Dode of Luikse Beek, Gerhoevenloop, Kleine Beek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * sluis
  * grachtenstelsel
@@ -131,36 +133,36 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 afwateringsgrachten, sluis met zgn. moederzoeg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
 
 
 winning van turf en ijzererts
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
 
 beperkt tot de oostrand van het gebied
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -171,14 +173,15 @@ beperkt tot de oostrand van het gebied
 
 elzen- en wilgenbroekstruweel
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een groot gedeelte van het gebied is nog kleinschalig. Voor de huidige
 beheerders is kleinschaligheid een ernstige belemmering. Het in stand

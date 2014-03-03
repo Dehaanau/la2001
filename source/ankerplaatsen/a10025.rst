@@ -63,6 +63,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het park Rivierenhof omvat een behoorlijk bomenbestand dat binnen de
 stedelijke rand van Antwerpen dienst doet als geschikt resthabitat voor
 vogels en kleine knaagdieren.
@@ -90,7 +91,7 @@ verstedelijkt gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het restant van de Herentalsevaart met
@@ -117,9 +118,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische Elementen:**
+
+*Hydrografische Elementen:**
 
  * beek
  * meander
@@ -129,7 +131,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -138,7 +140,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Sterckshof met gracht
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -146,17 +148,17 @@ Sterckshof met gracht
 
 jachtwachterswoning, portierswoning, koetshuis
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * standbeeld
  * gedenkteken
@@ -167,17 +169,17 @@ gedenksteen
  **Andere:**
 openluchttheater, schoolgebouw
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * pad
 
 
 geplaveid pad naar kasteel
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
@@ -185,37 +187,38 @@ geplaveid pad naar kasteel
 
 Restant Herentalsevaart met brug
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 spiegelvijver
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het Rivierenhof kent een sterke recreatiedruk met sportterreinen, een
 verkeerstuin, een kinderboerderij, e.d. Verschillende wegen in het park

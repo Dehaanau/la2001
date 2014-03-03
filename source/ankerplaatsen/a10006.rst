@@ -56,6 +56,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De wetenschappelijke waarde van deze ankerplaats situeert zich
 voornamelijk ter hoogte van de nog sterk meanderende Mark en de
 aanpalende lagere gronden die een behoorlijke floristische diversiteit
@@ -88,7 +89,7 @@ sterk meanderende Mark.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In 1810 werd het kasteel van Hoogstraten
@@ -114,19 +115,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * vallei
@@ -138,7 +140,7 @@ De Mark
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * ijskelder
@@ -147,7 +149,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 wachthuisjes, kasteel van Hoogstraten
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -155,60 +157,61 @@ wachthuisjes, kasteel van Hoogstraten
 
 directeurswoning, woonhuizen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Laarmolen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
 
 kerkhof
 
  **Archeologische elementen:**
-**Andere:**
+*Andere:**
 werkplaatsen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een knelpunt is de in de ankerplaats aanwezige bewoning in de
 noordoostelijke hoek, waarvan uitbreiding moet worden vermeden. De

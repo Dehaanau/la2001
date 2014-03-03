@@ -53,6 +53,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Heidebeek vormt een zeer natuurlijk en weinig verstoord
 beeksysteem met een diep ingesneden vallei, steilranden langs de
 valleigrens, een sterk meanderende loop, een natuurlijk oeverprofiel,…
@@ -95,16 +96,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 valleirand
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -114,7 +116,7 @@ Heidebeek en enkele zijbeken
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * pastorie
@@ -126,10 +128,10 @@ Watou
 mogelijk sites op helling van vallei
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -138,8 +140,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 bomen en struiken langs beek; restanten houtkanten en knotbomenrijen
 weilanden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente uitbreidingen bij landbouwbedrijven doen afbreuk aan het
 historisch karakter van de hoeves en aan het esthetisch karakter. De

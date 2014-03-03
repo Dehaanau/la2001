@@ -4,7 +4,7 @@ Scheldevelde en de zeven dreven
 :Ankerplaats ID: A40068
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -106,6 +106,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het gebied is gelegen op de waterscheiding tussen het Leie- en
 Scheldebekken: ten noorden geschiedt de afwatering naar de Leie, ten
 zuiden naar de Schelde.
@@ -136,7 +137,7 @@ bebost park.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied heeft een recreatieve functie.
@@ -160,9 +161,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
@@ -171,7 +173,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -179,7 +181,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 villa Hemelrijk, Scheldeveld
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -188,47 +190,48 @@ villa Hemelrijk, Scheldeveld
 
 Scheldevelde, dienstgebouwen,koetshuizen,Hemelrijk
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * villa
 
 
 'Chalet d'Hemelrijk'
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 O-L-Vrouw van Hemelrijk
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * perceelsrandbegroeiing
 
-**Bos:**
+*Bos:**
 
  * loof
  * middelhout
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Er bevindt zich wel wat residentiële bebouwing in sommige dreven.

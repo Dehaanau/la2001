@@ -43,6 +43,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De geomorfologische opbouw van de vallei met aangrenzende hogere
 gronden doet sterk variërende milieuomstandigheden ontstaan. Dankzij
 deze variatie in abiotiek wordt het gebied gekarakteriseerd door een
@@ -90,18 +91,19 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * steilrand
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -109,7 +111,7 @@ Geomorfologie/hydrografie
 
 Molenbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
@@ -118,40 +120,40 @@ Molenbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 site
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * knotbomenrij
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
@@ -159,7 +161,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 No
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
@@ -167,8 +169,9 @@ No
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Een knelpunt is het voorkomen van een aantal voetbalterreinen die een
 storende factor vormen binnen dit gave valleilandschap. Uitbreiding van

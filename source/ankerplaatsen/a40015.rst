@@ -4,7 +4,7 @@ Stropersbos
 :Ankerplaats ID: A40015
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -97,6 +97,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit boscomplex is op de dekzandrug Maldegem-Stekene aanwezig. Er is
 gedeeltelijk een kleilaag in de ondergrond aanwezig. De spoorlijn
 Mechelen- Terneuzen is bothanisch van groot belang.
@@ -129,7 +130,7 @@ ankerplaats.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De spoorlijn Mechelen-Terneuzen ligt in
@@ -160,23 +161,24 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 rabattenstructuur + natuurlijk microreliëf
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
 
 Grote Dekzandrug
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -184,7 +186,7 @@ Grote Dekzandrug
 
 Luisbeek, Voorhoutbeek, Hulst, Linie
 
-**Geologie:**
+*Geologie:**
 
 
 Grote Dekzandrug
@@ -192,7 +194,7 @@ Grote Dekzandrug
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
  * verdedingingslinie
@@ -200,48 +202,48 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 voormalig Fort Sint- Jan
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 wal rond Fort-site, Linie
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -249,8 +251,9 @@ wal rond Fort-site, Linie
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Op de site van het voormalig Fort Sint-Jan liggen nu verschillende
 bedrijven en woningen.In het stuk ten zuiden van de Linie bevinden zich

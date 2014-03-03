@@ -65,6 +65,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 In het kasteelpark liggen enkele bronniveau's voor kleinere zijbeken
 van de Bouvriebeek.
 
@@ -112,16 +113,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 langs oude kanaalarm
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -132,14 +134,14 @@ Bouvriebeek; monding kanaal in Schelde
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -151,7 +153,7 @@ kasteelpark
 
 kasteel van Bossuit;
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -163,10 +165,10 @@ stal en wagenhuis bij kasteel; hoeve ten noordoosten van kasteel
  **Andere:**
 pompgebouw bij kanaal
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
@@ -175,10 +177,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 oude kanaalarm; voormalig pompgebouw
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -186,28 +188,29 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 struweel langs taluds kanaal; dreef op as kasteel
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 in kasteelpark
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 boomgaard bij kasteel en hoeve
 
-**Bos:**
+*Bos:**
 
  * loof
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De dorpskern van Bossuit ligt dichtbij het kasteeldomein wat een
 belemmering vormt voor het zicht erop. Zeker de nabijgelegen wijk dient

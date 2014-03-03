@@ -4,7 +4,7 @@ Bellevuebos en kastelen van Gors-Opleeuw
 :Ankerplaats ID: A70012
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -92,6 +92,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Geografisch bevindt het landschap zich op het talud tussen Laag- en
 Midden-België. De steilrand valt hier samen met de grens tussen Droog-
 en Vochtig Haspengouw en met de overgang van de Zand- naar de
@@ -130,7 +131,7 @@ omgeving, tot zelfs de Kempense en Luikse steenkoolbekkens toe.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Sinds 1999 is ongeveer de helft van het
@@ -156,15 +157,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -173,7 +175,7 @@ Geomorfologie/hydrografie
 door riviererosie sterk versneden steilrand tussen Laag- en
 Midden-België
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -181,7 +183,7 @@ Midden-België
 
 Molenbeek of Mombeek, Winterbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 vochtige beemden
@@ -189,7 +191,7 @@ vochtige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -197,13 +199,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteeltuin Bellevue, kasteelparken Gorsleeuw, Haagsmeer en Opleeuw
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 hoopdorp Gorsleeuw, straatdorp Opleeuw
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
@@ -214,12 +216,12 @@ hoopdorp Gorsleeuw, straatdorp Opleeuw
 
 Bellevue, Gorsleeuw, Haagsmeer, Opleeuw
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -228,7 +230,7 @@ Bellevue, Gorsleeuw, Haagsmeer, Opleeuw
 
 o.a. Oude Winning, kasteelhoeven Gorsleeuw, Haagsmeer, Opleeuw,
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -237,7 +239,7 @@ o.a. Oude Winning, kasteelhoeven Gorsleeuw, Haagsmeer, Opleeuw,
 
 o.a. Sint-Martinus
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
 
@@ -250,39 +252,39 @@ Gallo-Romeinse vondsten
  **Andere:**
 voormalige school met onderwijzerswoning
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * Oostenrijkse periode
 
 
 Tongersesteenweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
@@ -290,7 +292,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 gedeeltelijk historsich stabiel
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -298,12 +300,12 @@ gedeeltelijk historsich stabiel
 grasland onder boomgaarden, vochtige beemden, traditioneel open
 akkergebied op hogere delen
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -313,8 +315,9 @@ akkergebied op hogere delen
 
 historisch stabiel Bellevuebos , hellingbos op oos
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ruilverkaveling in uitvoering. De recente bebouwing levert geen bijdrage
 tot de landschapswaarden.

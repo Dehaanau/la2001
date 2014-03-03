@@ -4,7 +4,7 @@ Kasteeldorp Genoelselderen
 :Ankerplaats ID: A70061
 
 
-**Landschap**
+*Landschap**
 
 
 Omschrijving
@@ -58,6 +58,7 @@ Wetenschappelijke waarde
 
 
 
+
 Historische waarde
 ~~~~~~~~~~~~~~~~~~
 
@@ -84,7 +85,7 @@ landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De kasteelsite is onderdeel van een gaaf
@@ -106,15 +107,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
@@ -124,7 +126,7 @@ zcht glooiend reliëf van het Haspengouws leemplateau
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
@@ -132,13 +134,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelpark met arboretum, belvedère, Engelse tuin, Franse tuin,
 rozentuin
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 kasteeldorp
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * muur
@@ -146,14 +148,14 @@ kasteeldorp
 
 kasteel met dienstgebouwen, staatsieplein, hek en
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 o.a. kasteelhoeve, hoeves in Sint-Maartensstraat
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -165,29 +167,29 @@ Sint-Martinuskerk, Sint-Apolloniakapel, Sint-Jozefkapel
  **Archeologische elementen:**
 Gallo-Romeinse vondsten zoals tumuli
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
@@ -195,21 +197,21 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 historisch stabiel in omgeving van dorpskom en kasteeldomein,
 ruilverkaveling in ruimere omgeving
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 graslanden nabij dorpssite, open akkerbouwgebied op leemplateau
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 wijnbouw
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
@@ -218,8 +220,9 @@ wijnbouw
 
 o.a. Grootbos, Heidebos, Kiezelingenbos
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het open akkerbouwgebied wint de laagstammige fruitteelt evenals de
 wijnbouw veld. De recente bebouwing levert geen bijdrage tot de

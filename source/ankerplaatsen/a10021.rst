@@ -76,6 +76,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Gedomineerd door naaldbossen, is het vooral de uitgestrektheid en het
 onbebouwde karakter van dit landschap dat het een aanzienlijke
 wetenschappelijke waarde geeft. Het is belangrijk als infiltratiegebied
@@ -142,25 +143,26 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
 
 
 Hoge Vijversloop, Kijkverdrietloop, Mierdseloop, Molengoorloop0
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
@@ -169,14 +171,14 @@ Hoge Vijversloop, Kijkverdrietloop, Mierdseloop, Molengoorloop0
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
@@ -185,35 +187,35 @@ kasteelpark
 
 Kasteel 'Den Tip'
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * villa
 
 
 Villa Meerhoef, portiershuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * wagenhuis
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 O.-L.-Vrouw-van -Lourdes kapel, Kapel ter Hoge Heide
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * standbeeld
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
@@ -221,34 +223,34 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Kanaal Dessel-Schoten, Brug 6
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 kasteelvijvers
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
 
 heiderelicten
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -258,8 +260,9 @@ heiderelicten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De privé-kliniek ter hoogte van Lusthoven dient in het landschap
 ingepast te blijven.

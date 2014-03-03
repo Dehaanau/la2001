@@ -57,6 +57,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De grote verscheidenheid aan landschapsbepalende elementen in het
 park bepaalt de wetenschappelijek waarde door de aanwezige flora en
 fauna rond deze elementen. Daarenboven bieden enkele merkwaardige en
@@ -108,9 +109,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Hydrografische Elementen:**
+
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -120,14 +122,14 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Sterrebos
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -138,7 +140,7 @@ Sterrebos
 
 poortgebouwen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * stal
  * wagenhuis
@@ -147,30 +149,31 @@ poortgebouwen
 bij kasteel als dienstgebouwen
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 in beekdal gelegen
 
-**Bos:**
+*Bos:**
 
  * loof
  * middelhout
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats is gekneld tussen de bebouwing en dient gevrijwaard te
 blijven van bebouwing. Daarbij dient men het bosbestand te onderhouden

@@ -95,6 +95,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Moervaartdepressie is ontstaan na het afsluiten van de Vlaamse
 Vallei met een dekzandrug. Er ontstonden grote meren, op de bodem werd
 moeraskalk (gyttja) gevormd. Wulfsdonk is gelegen op een zandige donk.
@@ -124,7 +125,7 @@ kleine percelen bos en resten van perceelsranden.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Etboshoeve was een ontmoetingsplaats
@@ -148,19 +149,20 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
 donk
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -170,13 +172,13 @@ donk
 
 Moervaartdepressie, Zuidlede
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
 
 
-**Geologie:**
+*Geologie:**
 
 
 moeraskalk (gyttja), Vlaamse Vallei
@@ -184,14 +186,14 @@ moeraskalk (gyttja), Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 Kasteel Wulfsdonk, sinds 1962 vervangen door villa
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * villa
  * herberg
@@ -200,24 +202,24 @@ Kasteel Wulfsdonk, sinds 1962 vervangen door villa
 ijzeren toegangshek, wolfskop naast voordeur en gevelsteen van het
 vroeger kasteel Zamans
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Etboshoeve
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * eendenkooi
 
 
 restanten van een eendenkooi
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -225,11 +227,11 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kasseiweg 'Etboswegel'
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -238,23 +240,23 @@ kasseiweg 'Etboswegel'
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * blokvormig
@@ -262,12 +264,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
 
 vroegere meersen
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -276,14 +278,15 @@ vroegere meersen
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door ontwatering werd grasland gescheurd en omgezet naar akkerland.
 Hierdoor verdween het oorspronkelijke meersenlandschap.De kunstmatige

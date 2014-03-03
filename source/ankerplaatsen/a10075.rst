@@ -84,6 +84,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Buitengoor-Sluismeer betreft een gebied met een complexe structuur.
 De vegetatie is typisch voor een gradiëntmilieu, ontstaan door een
 contact van voedselarm en voedselrijk water. Deze specifieke situatie
@@ -145,14 +146,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -160,7 +162,7 @@ Geomorfologie/hydrografie
 
 Vlemincksloop, Beemdenloop, peerloop, Waterstraatloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -170,10 +172,10 @@ Vlemincksloop, Beemdenloop, peerloop, Waterstraatloop
 slenken-bultenmoeras
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * stuw
@@ -181,35 +183,35 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kanaal Dessel-Kwaadmechelen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -218,8 +220,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten binnen de ankerplaats zijn de aanwezigheid van een
 tuinbouwbedrijf en een aantal atypische bewoning langsheen het kanaal

@@ -85,6 +85,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit gebied maakt deel uit van de cuesta van Lotenhulle- Hertsberge.
 De kwartaire mantel is erg dun en niet continue, de bodem is weinig
 geschikt voor landbouw. Het gebied sluit aan bij het Bulskampveld in
@@ -130,21 +131,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
 cuesta van Lotenhulle- Hertsberge
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -152,7 +154,7 @@ cuesta van Lotenhulle- Hertsberge
 
 Kwade stroom
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -162,21 +164,21 @@ Paniseliaan
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 Blekkerbos
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -186,7 +188,7 @@ Blekkerbos
 
 Broeders van Liefde 'Blekkervijver'
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * grenspaal
 
@@ -196,10 +198,10 @@ grenspaal met Ruiselede, aan Hooggoed
  **Andere:**
 voormalige kantschool
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -208,17 +210,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Diksmuidse Boterweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * hagen
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
@@ -226,13 +228,13 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 vijvers bij landgoederen, poelen bij hoeves
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -243,8 +245,9 @@ vijvers bij landgoederen, poelen bij hoeves
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De autosnelweg E 40 doorsnijdt het Blekkerbos en de andere veldgebieden
 in de omgeving. Verzuring en overbemesting van de bodem door de bio-

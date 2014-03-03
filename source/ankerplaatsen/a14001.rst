@@ -91,6 +91,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De slikken en schorren langsheen de schelde betreffen een
 onvervangbaar landschap- en vegetatietype gezien hun zeer specifieke
 milieuomstandigheden en trage ontwikkelingsproces. In vergelijking met
@@ -149,7 +150,7 @@ omgevende industrie in een aantal richtingen worden beperkt.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het polderdorp Doel heeft reeds een lange
@@ -177,20 +178,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * kreek
@@ -198,7 +200,7 @@ Geomorfologie/hydrografie
 
 de Schelde
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -207,20 +209,20 @@ de Schelde
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 Prosperdorp
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 Enkele karakteristieke woningen te Lillofort.
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -228,19 +230,19 @@ Enkele karakteristieke woningen te Lillofort.
 
 Anoniushoeve, Prosperhoeve
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
 
 
 Fort Lillo, Fort Liefkenshoek
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -249,7 +251,7 @@ Fort Lillo, Fort Liefkenshoek
 
 St. -Engelbertus
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * gedenkteken
  * grenspaal
@@ -261,44 +263,44 @@ dorpspomp
 archeologische vindplaatsen met aardewerk uit de Ijzertijd en
 préhistorische werktuigen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
 
 
-**Andere:**
+*Andere:**
 greppelpatroon, overzet
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * solitaire boom
 
 
 aanplantingen Lillofort
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
 
 aanplantingen Lillofort
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
  * uiterwaarden
@@ -310,8 +312,9 @@ Prosperpolder
  **Andere:**
 schorre, slikke, zandplaat
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De oprukkende haveninfrastructuur vormt een sterke bedreiging voor de
 overblijvende brakwaterslikke en -schorre ten noorden van Antwerpen,

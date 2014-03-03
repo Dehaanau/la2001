@@ -4,7 +4,7 @@ Daknamse Meersen
 :Ankerplaats ID: A40020
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -82,6 +82,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Daknamse meersen zijn in nat valleigebied gelegen. De
 getijdewerking is pas verdwenen in 1953, na het afdammen van de Durme in
 Lokeren. In het noorden en het oosten van het gebied zijn landduinen
@@ -110,7 +111,7 @@ elzenstruiken.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Er is passieve recreatie vanop de
@@ -134,22 +135,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
  * rivierduin
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -158,13 +160,13 @@ Geomorfologie/hydrografie
  * meander
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * veen
  * rietland
 
 
-**Geologie:**
+*Geologie:**
 
 
 Vlaamse Vallei
@@ -172,29 +174,29 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
 
 Kerk van Daknam
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 geasfalteerd
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * pompgemaal
@@ -202,27 +204,27 @@ geasfalteerd
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
 
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * opstrekkend
@@ -230,18 +232,18 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -253,15 +255,16 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 niet typisch voor een meersengebied
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * vloeiweide
 
 
 vermoedelijk voorheen vloeiweide
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Om een natuurvriendelijk waterpeil in te stellen is het bouwen van
 stuwen noodzakelijk. Vanaf 1997 is al een stap in de goede richting

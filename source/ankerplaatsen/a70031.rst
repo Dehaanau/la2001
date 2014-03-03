@@ -4,7 +4,7 @@ Mijnsite Eisden
 :Ankerplaats ID: A70031
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -134,6 +134,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De overgangszone tussen het Kempens Plateau en de Maasvallei wordt
 gekenmerkt door een eigen dynamiek met een uitgesproken reliëf en
 opeenvolgende gradiënten. De omgeving, die hier onderhevig is aan
@@ -178,7 +179,7 @@ tegenstelling tot het charmante stationnetje van As.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het gebied vindt de bezoeker niet
@@ -209,15 +210,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -229,14 +231,14 @@ Geomorfologie/hydrografie
 mijnterrils, steilrand van het Kempens plateau met droge dalen, dekzand-
 en duinreliëfs e.a.
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * vallei
 
 
 veelal droge valleien
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * veen
  * ven
@@ -244,7 +246,7 @@ veelal droge valleien
 
 vennen op het plateau
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -255,7 +257,7 @@ groeves en andere uitgravingen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -263,7 +265,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. Koninginnepark
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
@@ -271,14 +273,14 @@ o.a. Koninginnepark
 
 tuinwijken (Oude cité, Nieuwe Cité) van Eisden-Mijn
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 directeurswoning 't Kasteeltje
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -288,7 +290,7 @@ directeurswoning 't Kasteeltje
 tuinwijken met mijnwerkershuizen, villa's, directeurswoning,
 logementshuizen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -297,7 +299,7 @@ logementshuizen
 
 o.a. Saanhoeve, kasteelhoeve Litzberg
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * klooster
@@ -306,7 +308,7 @@ o.a. Saanhoeve, kasteelhoeve Litzberg
 
 o.a. Sint-Barbarakerk
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
 
 windelstenen
@@ -319,10 +321,10 @@ prehistorische bewoningssporen, industrieel-archeologisch erfgoed
 gebouwen en installaties van de voormalige mijn van Eisden, stations
 van As en Eisden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
@@ -330,36 +332,36 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 o.a. Hoeveweg, Koninginnelaan, Zetellaan, lanen en wegen van de
 tuinwijken
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
 
 
 Zuid-Willemsvaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * opstrekkend
@@ -367,14 +369,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 bos- en landbouwontginningen
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
 heiderestanten
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -383,8 +385,9 @@ heiderestanten
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden. De
 initiatieven voor een passende herbestemming van het

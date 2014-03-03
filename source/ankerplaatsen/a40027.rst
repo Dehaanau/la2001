@@ -106,7 +106,7 @@ voor de visuele relatie tussen kasteel en dorp.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 In het Kasteel van Laarne bevindt zich een
@@ -127,14 +127,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -145,7 +146,7 @@ Heusdensloot
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * hof
@@ -153,13 +154,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Slot van Laarne
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 relatie kasteel- kerk en dorp
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -170,47 +171,47 @@ relatie kasteel- kerk en dorp
  * waterput
 
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
 
 gemeentehuis
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * schandpaal
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 kasseiweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -219,19 +220,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 kasteeldreven
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 binnen- en buitengrachten
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * middelhout
@@ -240,8 +241,9 @@ binnen- en buitengrachten
 
 boomgaard
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Verschillende soorten bomen zijn in de dreef die naar de kerk loopt
 aangeplant. In de buurt van het kasteeldomein staan verschillendende

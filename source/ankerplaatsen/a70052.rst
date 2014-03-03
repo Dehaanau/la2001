@@ -4,7 +4,7 @@ Mergels van Gelinden
 :Ankerplaats ID: A70052
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -56,6 +56,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het gebied is het meest uitgesproken voorbeeld van een voor droog
 Haspengouw kenmerkend asymmetrisch rivierdal met steile oostelijke
 helling. De voormalige mergelgroeven van Overbroek zijn geologische
@@ -90,7 +91,7 @@ vallei van de Herk en het dorp Gelinden.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Een wandelpad en infoborden leiden de
@@ -110,21 +111,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * graft
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -132,14 +134,14 @@ Geomorfologie/hydrografie
 
 Herk
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
 
 natte hooilanden met riet- en zeggevegetaties
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -149,55 +151,56 @@ ontsluiting van de "mergels van Gelinden" in de groeven van Overbroek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * pad
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * houtkant
  * hagen
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 hooi- en kalkgraslanden, grasland onder boomgaarden
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Knelpunten zijn: de uitgediepte en rechtgetrokken Herk, de lozing van
 huishoudelijk afvalwater, de inspoeling van meststoffen vanaf de hoger

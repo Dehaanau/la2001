@@ -78,6 +78,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Gelegen op een overgangszone waar afwisselend Kempische zand- en
 leemlagen te vinden zijn en kalkhoudende tot kalkrijke bodems dagzomen,
 herbergen het Muizenbos en Zevenbergenbos een hele reeks overgangen of
@@ -135,15 +136,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -153,21 +155,21 @@ Merrebeek, Molenbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 parkbos, moestuin
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteelgracht
 
 
 fundering & dienstgebouwen v/ Kasteel Zevenbergen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -176,21 +178,21 @@ fundering & dienstgebouwen v/ Kasteel Zevenbergen
 
 Driepikkelhoeve, Gasthuishoeve + waterput
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -198,7 +200,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 kastanjedreef
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
@@ -206,17 +208,17 @@ kastanjedreef
 
 kasteelvijver
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -225,8 +227,9 @@ kasteelvijver
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De autoweg E19 vormt een onherstelbare landschapswonde en harde barrière
 doorheen dit waardevol gebied. Het Zevenbergenbos heeft te lijden onder

@@ -129,6 +129,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit gebied is in de Moervaartdepressie gelegen.In het laatglaciaal
 lag hier een erg groot meer.De moeraskalk (gyttja) is daar een restant
 van. Op de moeraskalk ligt een laag gliede (zeepklei).
@@ -166,7 +167,7 @@ door bosuitbreiding en weekendverblijven wel meer gesloten geworden.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De 'Kruiskapel' of 'Kapel der Miraculeuze
@@ -193,26 +194,27 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
 
-**Geologie:**
+*Geologie:**
 
 
 moeraskalk
@@ -220,14 +222,14 @@ moeraskalk
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * waterput
 
 
 waterput bij Kruiskapel
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * verdedingingslinie
 
@@ -235,14 +237,14 @@ waterput bij Kruiskapel
 enkel een pad; ten oosten van de Kruiskapel ook een dijk. Linie
 dateert van 1702 (successieoorlog).
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 Kruiskapel en 14 kruiswegkapelletjes
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
  * eendenkooi
@@ -250,16 +252,16 @@ Kruiskapel en 14 kruiswegkapelletjes
 
 voor de Kruiskapel staat een kruis, resten van eendenkooi
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -270,29 +272,29 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Koebrug (in1948 herbouwd na vernieling tijdens WOII)
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * onregelmatig
@@ -302,14 +304,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 aan Kruiskapel: onregelmatige percelering/ Enkel Vettemeers en
 Heernisse historisch stabiel
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 wijmen, populier
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -320,14 +322,15 @@ wijmen, populier
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De kunstmatige beheersing van het grondwaterpeil heeft een belangrijke
 verdroging van de lager gelegen gebieden teweeg gebracht. Deze

@@ -112,6 +112,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het uitgebreid krekenstelsel ligt aan de basis van een grote
 verscheidenheid aan bodemkundige gradiënten. Dit weerspiegelt zich in de
 grote verscheidenheid van landschapselementen en heeft een soortenrijke
@@ -130,7 +131,7 @@ doorbraakpunten, de Sint-Pietersdijk (ontworpen bij de inpoldering begin
 forten resteren.
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De geschiedenis achter het Lapscheurse gat
@@ -157,16 +158,17 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 natuurlijk microreliëf maar misschien ook door uitbrikken of ontvenen
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * kreek
 
@@ -175,16 +177,16 @@ natuurlijk microreliëf maar misschien ook door uitbrikken of ontvenen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -192,38 +194,39 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 in de grachten veelal rietkragen; op dijken veelal wegen
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
 
 
 geaccentueerd door "laantjes" in de weiden
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 vlakbij kreek weiland, komgrond akkerland
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de noordwestelijke hoek van de ankerplaats liggen enkele weilanden
 die nog zeer gaaf zijn naar perceelsrandbegroeiing, microreliëf en

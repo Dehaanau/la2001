@@ -57,6 +57,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De St -Jorispolder, een deel van de Isabellapolder, is met
 kreekrestanten doorsneden. De dekzanden zijn onder een dun marien dek
 bedolven en het pleistocene microreliëf is onvoldoende ontwikkeld om de
@@ -109,21 +110,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
 
 dijken
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * kreek
@@ -131,7 +133,7 @@ dijken
 
 grotendeels verlande kreek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
@@ -141,20 +143,20 @@ verlande kreken
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 dijkhuisjes
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
 dijkhuisjes
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -162,16 +164,16 @@ dijkhuisjes
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -181,28 +183,28 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Leopoldskanaal
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
 
 bomenrijen langs de dijken
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * blokvormig
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 

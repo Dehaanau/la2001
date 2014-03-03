@@ -90,6 +90,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Gelegen langs de rand van de Dendervallei op een hoger gelegen
 heuvelkam, uitloper van de heuvelrug van de Vlaamse Ardennen. Steile
 helling naar de Dendervallei toe. Maakt deel uit van overgangsheuvels
@@ -120,7 +121,7 @@ Pajottenland.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De spoorlijn Geraardsbergen-Edingen loopt
@@ -140,22 +141,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * graft
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -163,7 +165,7 @@ Geomorfologie/hydrografie
 
 diffuse waterbronnen
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -172,18 +174,18 @@ diffuse waterbronnen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Andere:**
+*Andere:**
 spoorwegtunnel 'Overboelare'
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -191,46 +193,46 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Schapenweg (Hoge Buizemontstraat), vermoedelijk Keltische ouderdom
 
-**Spoorweg:**
+*Spoorweg:**
 
 Spoorwegtunnel door Buizemontheuvel
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 vijver bij villa
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
 twee wastines (grasland met struiken) en drie kleinere bossen
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -240,8 +242,9 @@ twee wastines (grasland met struiken) en drie kleinere bossen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Omwille van de beek die in het Boelarebos loopt is er sterke erosie op
 de valleiwanden. Het water van deze beek is vervuild door afvalwater van

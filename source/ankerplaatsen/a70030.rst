@@ -4,7 +4,7 @@ Vallei van de Cicindria met kasteeldorp Kerkom
 :Ankerplaats ID: A70030
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -124,20 +124,21 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -148,7 +149,7 @@ Cicindria of Molenbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -156,14 +157,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteel en pastorie van Kerkom, Wit kasteel
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 kerndorp Kerkom, gehucht Straten
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -173,7 +174,7 @@ kerndorp Kerkom, gehucht Straten
 
 kasteel van Kerkom (Alstergoed of Rood kasteel), W
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -183,12 +184,12 @@ kasteel van Kerkom (Alstergoed of Rood kasteel), W
 
 o.a. hoeve Wit kasteel, Engelbos
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * pastorie
@@ -196,15 +197,15 @@ o.a. hoeve Wit kasteel, Engelbos
 
 Sint-Martinuskerk, deels afgebrand in 1975
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
 
 hekwerk aan toegangen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -212,28 +213,28 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 restanten van oude wegen en padenpatroon in kasteelpark Kerkom
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
@@ -241,19 +242,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 historisch stabiel rond Cicindria tussen Bevingen en Kerkom
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 grasland onder boomgaarden, traditioneel open akkerbouwlandschap
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
@@ -262,8 +263,9 @@ grasland onder boomgaarden, traditioneel open akkerbouwlandschap
 
 bossen op de rand van Keelberg en Bosberg
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het landschap ligt ingesloten tussen de Naamsesteenweg en het militair
 domein van Brustem als verstorende elementen. Rond de dorpskern van

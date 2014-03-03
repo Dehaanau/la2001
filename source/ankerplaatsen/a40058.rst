@@ -88,6 +88,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Moervaartdepressie is ontstaan na het afsluiten van de Vlaamse
 Vallei met een dekzandrug. Er ontstonden grote meren, op de bodem werd
 moeraskalk (gyttja) gevormd. Oostdonk is een zandige opduiking in de
@@ -143,18 +144,19 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 donk (Oostdonk)
 
-**Macroreliëf:**
+*Macroreliëf:**
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -165,13 +167,13 @@ donk (Oostdonk)
 
 Zuidlede en Moervaart, Hoofdgeleed, depressie
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
 
 
-**Geologie:**
+*Geologie:**
 
 
 Vlaamse Vallei
@@ -179,14 +181,14 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * hof
 
 
 Groot Hof
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -195,32 +197,32 @@ Groot Hof
 
 Groothof of Grote Hofstede
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
 
 
 brug over Zuidlede
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -229,24 +231,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
  * hooghout
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
 
 Moervaartdepressie
@@ -254,8 +256,9 @@ Moervaartdepressie
  **Andere:**
 opgespoten deel
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs de Moervaart bevindt zich een opgespoten terrein. Er is een deel
 van de weiden gescheurd. Naast de grote weg bevindt zich een nieuwe

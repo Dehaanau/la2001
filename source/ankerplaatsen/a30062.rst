@@ -97,6 +97,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De vallei van de Handzame vormt een polderintrusie die ver
 landinwaarts binnendringt en die de bodemkundige grens vormt tussen
 zandig en zandlemig Vlaanderen. De vallei zelf wordt visueel afgebakend
@@ -153,15 +154,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -173,21 +175,21 @@ Handzamevaart en -vallei; Zijdelinggeleed; Zarrenbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Barisdamhoeve
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * motte
 
 
 Barsidamhoeve; Hoge Andjoen (Werken)
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
@@ -197,17 +199,17 @@ kerk, kerkhof en ommegang in Werken
  **Archeologische elementen:**
 mottesite in Werken
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * Romeinse weg
 
 
 Steenstraat tussen Werken en Zarren(gem. Kortemark)
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -216,10 +218,10 @@ Steenstraat tussen Werken en Zarren(gem. Kortemark)
 
 Handzamevaart; Oude gracht
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -228,32 +230,33 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 restanten van
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Bos:**
+*Bos:**
 
  * loof
 
 
 bosje tussen Vladslo en Esen
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het open landelijke karakter dient maximaal behouden te blijven door
 nieuwe, bijkomende bebouwing in de vallei te weren én door de gebouwen

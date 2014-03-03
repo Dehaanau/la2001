@@ -55,6 +55,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Open binnenduinlandschap met golvende graslanden. Relicten van oude
 heidevegetatie aanwezig, vrijwel uniek aan de Belgische kust.
 
@@ -75,7 +76,7 @@ microreliëf omzoomd door rietkragen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Bamburghoeve als voobeeld van
@@ -98,20 +99,21 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * kustduin
 
 kopjesduinen
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -121,7 +123,7 @@ o.a. Schuddebeurzebeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -129,16 +131,16 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Kleine Bamburghoeve: enorme schuur (blikvanger door rode poorten)
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -147,29 +149,30 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kanaal Plassendale-Nieuwpoort met boterdijk
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
 
 rietkragen in grachten; bomenrij langs kanaal begrenst gebied
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Ten zuidwesten van de ankerplaats staat een grote windturbine opgesteld.
 Dit is een blikvanger en is eerder storend in het landschap. Rond de

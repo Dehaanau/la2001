@@ -4,7 +4,7 @@ Abdij van Kolen en Kolenberg
 :Ankerplaats ID: A70049
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -94,6 +94,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Kerniel is gelegen op de noordoostrand van het massief van Borgloon,
 dat zich ruim 30 m verheft boven de schiervlakte ten zuiden van de lijn
 Heks, Bommershoven, Jesseren en Piringen. Het landschap is heuvelachtig
@@ -134,7 +135,7 @@ visuele belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De hele omgeving is erg attractief voor
@@ -160,15 +161,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -176,7 +178,7 @@ Geomorfologie/hydrografie
 
 steilrand tussen Laag- en Midden-België
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -184,7 +186,7 @@ steilrand tussen Laag- en Midden-België
 
 Kleine Herk, Vilster- of Vilsteegbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 drassige beemden
@@ -192,21 +194,21 @@ drassige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
 
 
 ommuurde abdijtuin en boomgaard
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 voormalig neerhof van de abdij
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -219,42 +221,42 @@ abdij Mariënlof met kerk en kapel Sint-Jozef, kapel Sint-Anna
  **Andere:**
 typische smeedijzeren hekkens aan de ingangen van boomgaarden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * kerkwegel
 
 
 kerkwegel van abdij naar pastorie en kerk
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -262,14 +264,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 grasland onder boomgaarden, vochtige beemden, open akkers op hoger
 gelegen delen
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Landschappelijk drastisch zijn de recente vervanging van
 hoogstamboomgaarden door laagstamfruitteelt, gepaard met

@@ -80,6 +80,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankerplaats vormt een relict van een Oudlandpolder met
 duidelijke differentiatie van geul- en poelgrondenmet een zeer
 structuurrijk karakter. De bodemgesteldheid bepaalt nog grotendeels het
@@ -128,16 +129,17 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 typisch voor Oudlandpolder
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
 
@@ -147,21 +149,21 @@ Blankenberge- en Isabellavaart belangrijk
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Blauwe Duivekeet
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -171,17 +173,17 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 sommige sluizen nog met hand te bedienen; lanen in de weilanden
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
 
 vlakbij en rond de gebouwen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
@@ -189,24 +191,25 @@ vlakbij en rond de gebouwen
 
 pole als veedrinkput; vijver rond Neptunuswijk
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Het bezoekerscentrum van het natuurreservaat ligt op een opgehoogd
 terrein dat vroeger een stortplaats voor afval was. Door de hogere

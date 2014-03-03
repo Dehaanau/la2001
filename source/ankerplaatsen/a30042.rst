@@ -55,6 +55,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze bossen zijn gelegen op de kam van de rug van Westrozebeke. De
 beken hebben een vrij natuurlijke en meanderende loop die langs hun loop
 bomen en struiken en zelf s kline bosjes hebben. Deze bosjes hebben een
@@ -84,7 +85,7 @@ wegenpatroon in het bos.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Reutelbos is een natuureservaat.
@@ -97,15 +98,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * heuvel
 
 interfluvium Schelde-Leie en Ijzer
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -115,16 +117,16 @@ Reutel- en Polygonebeek; brongebied Polygonebeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
 
 militaire kerkhoven WOI; doelbos voormalige militaire paardenrenbaan
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -132,7 +134,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 begeleidende bomenrijen langs beken
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -140,8 +142,9 @@ begeleidende bomenrijen langs beken
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De autostrade in het westen van de ankerplaats scheidt ze van de
 Nonnebossen en maakt dat de loop van de Reutelbeek verstoord is door de

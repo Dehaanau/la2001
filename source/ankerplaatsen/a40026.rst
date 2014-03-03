@@ -4,7 +4,7 @@ Oude Scheldemeander van Overmere- Donk en Berlare Broek
 :Ankerplaats ID: A40026
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -107,6 +107,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit gebied bestaat uit verschillende eenheden : 1. Oude Scheldeloop,
 Donkmeer: de oude meander is verdwenen door vervening, er bevinden zich
 smalle venige stroken binnen de meander. In het westelijke deel van de
@@ -143,7 +144,7 @@ landschap voor; akkers met perceelsrandbegroeiing en bospercelen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het Donkmeer heeft een grote toeristische
@@ -166,22 +167,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
 donk
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * vallei
@@ -189,14 +191,14 @@ donk
  * oude rivierarm
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
 
-**Geologie:**
+*Geologie:**
 
 
 Vlaamse Vallai
@@ -204,14 +206,14 @@ Vlaamse Vallai
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Kasteel van Uitbergen
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * muur
@@ -219,22 +221,22 @@ Kasteel van Uitbergen
 
 Kasteel van Uitbergen
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * eendenkooi
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * pompgemaal
@@ -242,40 +244,40 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * blokvormig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * meersen
 
 
 No
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -284,12 +286,13 @@ No
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Reeds van tijdens de jaren 1920 was dit gebied een toeristische
 trekpleister. Midden de jaren '50 was het gebied in hadden van een door

@@ -4,7 +4,7 @@ Valleien van Mombeek en Fonteinbeek met burcht en bos van Kolmont
 :Ankerplaats ID: A70011
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -82,6 +82,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De hier voorkomende hoogstamboomgaarden zijn van belang voor het
 behoud van oude en zeldzame fruitvariëteiten (dendrologische waarde).
 
@@ -110,7 +111,7 @@ de rust van het gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied is erg attractief voor zachte
@@ -130,22 +131,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 heuvelend met asymmetrische beekinsnijdingen
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -153,7 +155,7 @@ heuvelend met asymmetrische beekinsnijdingen
 
 Fonteinbeek, Molenbeek of Mombeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 natte graslanden
@@ -164,7 +166,7 @@ voorkomen van dassenburchten
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -172,13 +174,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelparken Kolmont en Rooi
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 straatdorp Kolmont
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -186,7 +188,7 @@ straatdorp Kolmont
 
 kastelen van Kolmont en van Rooi
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -201,10 +203,10 @@ Gallo-Romeinse vondsten
  **Andere:**
 burchtruïne Kolmont
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * Romeinse weg
  * Oostenrijkse periode
@@ -212,22 +214,22 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Romeinse weg Bilzen-Waremme, steenweg Tongeren-Hasselt (1741)
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 Sint-Truiden - Tongeren
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -235,23 +237,23 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hagen
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
@@ -260,7 +262,8 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 historisch stabiele hellingbossen
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden.

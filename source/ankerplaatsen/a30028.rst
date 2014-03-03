@@ -61,6 +61,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 In het gebied dagzomen de glauconiethoudende zandgronden van de
 formatie van Tielt (boven-Ieperiaan volgens oude benaming). Dit gebied
 was eertijds een veldgebied met heide- en struikvegetatie. Deze
@@ -97,7 +98,7 @@ met het park, aangelegd in Engelse landschapsstijl.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het militaire kerkhof is één van de
@@ -117,15 +118,16 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * macroreliëf
 
 uitloper van het plateau van Wijnendaele
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -135,14 +137,14 @@ brongebied voor Kamarde-, Kasteel- en Westbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Ter Hiede
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -153,21 +155,21 @@ Ter Hiede
 
 omwalling
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * herberg
 
 
 Herberg Wikkelaar
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Hoeve Praatbos,
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * bunker
 
@@ -175,20 +177,20 @@ Hoeve Praatbos,
 militaire begraafplaats uit WOI te Vladslo met beeldenpaar "Treurende
 Ouders"
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * Oostenrijkse periode
 
 
 provinciebaan tussen Beerst en Wijnendaele
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -199,7 +201,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 dreef langs provinciebaan, houtkant ten noorden van begraafplaats,
 dreven bij kasteel
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
@@ -207,15 +209,16 @@ dreven bij kasteel
 
 veedrinkpoel
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
 hydrografisch net is mede bepalend voor percelering
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs de provinciebaan Beerst-Torhout staat heel wat bebouwing met naast
 woningen ook enkele bedrijven en handelszaken. Deze oprukkende

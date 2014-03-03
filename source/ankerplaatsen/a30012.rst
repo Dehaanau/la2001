@@ -58,6 +58,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Meest oostelijk uitgestrekte duinpanne van het paraboolduinencomplex
 tussen Duinkerke en Oostduinkerke met Hoge Blekker als relict van actief
 hoogduinlandschap en vormt de hoogste duintop. Doornpanne vormt een
@@ -98,9 +99,10 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * kustduin
 
@@ -112,25 +114,26 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  **Andere:**
 1 schip ter hoogte van de Koninklijke Baan
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Bos:**
+*Bos:**
 
  * loof
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
 
 waterwinnningsgebied
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Door de waterwinning worden de duinen te droog gehouden wat een
 negatieve invloed heeft op de vegetatie. Vooral in pannes verwacht men

@@ -92,6 +92,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Eén van de zwaartepunten van de natuurwetenschappelijke waarde van
 deze ankerplaats ligt in het Bos van Moretus. Hoewel de boomlaag eerder
 artificieel is, onderscheiden we een waardevolle ondergroei, die goed
@@ -161,26 +162,27 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * markante terreinovergang
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
 
 Lauwerijbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
 
@@ -189,13 +191,13 @@ Lauwerijbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
 
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -205,7 +207,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Hof van Boechout + poortgebouw
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -215,21 +217,21 @@ Hof van Boechout + poortgebouw
 
 Hoeve Lintacker, Lauwhoeve, Modelhoeve, Bisthoeve
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 stellingmolen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 Courtoiskapel
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * standbeeld
 
@@ -240,36 +242,37 @@ beelden in kasteelpark
 Concentraties van Romeinse scherven
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunten zijn de inplanting van het
 waterzuiveringsstation in de westelijke rand van de ankerplaats, alsook

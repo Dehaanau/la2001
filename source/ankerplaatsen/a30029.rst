@@ -70,6 +70,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De ankerplaats ligt op een uitloper van de rug van Westrozebeke en
 vormt het brongebied voor de Zanddambeek.
 
@@ -97,7 +98,7 @@ Westrozebeke.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied is gedeeltelijk militair domein
@@ -119,15 +120,16 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * heuvel
 
 heuvelrug
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -137,49 +139,49 @@ Korverbeek en Zanddambeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 kasteel De Groote
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * herberg
 
 
 munneke herberg in zuidwesten
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
 
 bomkraters WOI; militair kerkhof
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
 militaire spoorweg
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
 
 dreven in Vrijbos, restanten ervan in het bos van Houthulst
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 oude bomkraters
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -188,8 +190,9 @@ oude bomkraters
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de omgeving van het bos (vooral ten oosten ervan) liggen nog heel wat
 kleinere boscomplexen die eertijds ook tot het bos van Houthulst

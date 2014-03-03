@@ -4,7 +4,7 @@ Duinengordel van Opglabbeek - Gruitrode
 :Ankerplaats ID: A70043
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -107,6 +107,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Landduinen zijn één van de meest uitgesproken reliëfvormen in
 Vlaanderen. De laat-historische duinen zijn, naast rivierbeddingen,
 bovendien de meest dynamische landschapseenheden. Zij hebben
@@ -146,7 +147,7 @@ kerktorens en mijnterrils in de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het gebied leent zich tot zachte
@@ -167,9 +168,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
@@ -177,7 +179,7 @@ Geomorfologie/hydrografie
 
 o.a. wallen, windribbels
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * landduin
@@ -185,7 +187,7 @@ o.a. wallen, windribbels
 
 o.a. duinreliëfs, stuifzandwallen, valhellingen, windkuilen
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -193,18 +195,18 @@ o.a. duinreliëfs, stuifzandwallen, valhellingen, windkuilen
 
 o.a. Busselzijp, Kattebeek, vallei van de Bosbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
 
-**Andere:**
+*Andere:**
 stuifzand
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
@@ -215,33 +217,33 @@ Zandberg
  **Archeologische elementen:**
 o.a. mesolithische vindplaatsen in de omgeving van duinen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 Geuzenbaan
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * houtwal
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
@@ -249,20 +251,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 veedrinkputten
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
 
 restanten van heide en kleinschalige landbouwpercelen
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -271,8 +273,9 @@ restanten van heide en kleinschalige landbouwpercelen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Slechts op de plekken waar vegetatie ontbreekt, treedt nog aktieve
 verwaaiing op. Hoge recreatiedruk en harde recreatievormen leiden

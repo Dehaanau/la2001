@@ -74,6 +74,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Brakwaterkreken met rietoevers met een grotendeels bewaard natuurlijk
 profiel en aanliggende rietgraslanden. Het voorkomen van zeldzame
 plantensoorten wijst op een hoge floristische waarde. Het open water en
@@ -110,14 +111,15 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * kreek
 
@@ -125,7 +127,7 @@ Geomorfologie/hydrografie
 Grote en Kleine Keignaert, Sluis- en Zoute kreek; geleden, Oude
 Straatkreek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -135,26 +137,26 @@ langs oevers van kreken en geleden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
 
 antitankgracht en restanten van verdedigingssites
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 spoorlijn Oostende-Torhout; nu fiets- en wandelpad
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -164,23 +166,24 @@ spoorlijn Oostende-Torhout; nu fiets- en wandelpad
 
 kan. Plassendale-Nieuwpoort
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
 
 bomenrijen langs kanaal en dijken
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Langs het kanaal dreigtde oprukkende industrie en bebouwing het zicht
 van het kanaal op het gebied te verhinderen en vice versa. Heel wat

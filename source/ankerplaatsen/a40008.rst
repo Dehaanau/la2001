@@ -4,7 +4,7 @@ Kraenepoel en Markettebossen
 :Ankerplaats ID: A40008
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -91,6 +91,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Kraenepoel was oorspronkelijk een voedselarm milieu waar een
 specifieke vegetatie bij voorkomt. Ondanks de teloorgang van dat milieu
 kon de zaadvoorraad toch bewaard blijven en zijn er kansen op herstel.
@@ -120,7 +121,7 @@ Kraenepoel liggen drie eilanden.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De geschiedenis van de Kraenepoel is sterk
 door de mens bepaald: het ontginnen van turf/veldsteen en de omvorming
@@ -145,26 +146,27 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
 
-**Geologie:**
+*Geologie:**
 
  * ontsluitingen
 
@@ -174,14 +176,14 @@ Paniseliaan
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 Park Maria Hove
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -193,14 +195,14 @@ Park Maria Hove
 
 Maria Hove, duiventoren, dienstgebouwen
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * villa
 
 
 Villa Kraenepoel
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -209,7 +211,7 @@ Villa Kraenepoel
 
 Hoeve Van Wanseele, Hof de Warande
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -217,10 +219,10 @@ Hoeve Van Wanseele, Hof de Warande
 
 Kerk van Bellem
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -229,21 +231,21 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 Heirweg Gent- Brugge
 
-**Spoorweg:**
+*Spoorweg:**
 
 spoorweg Gent- Brugge
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
 
 
 overloop aan Kranepoel, dam in Kranepoel
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -254,14 +256,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 achtsterrig drevenpatroon in Markettebos, dreef van Bellem naar Hansbeke
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 Kranepoel (met eilandjes), vijvers in park Maria Hove
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -272,8 +274,9 @@ Kranepoel (met eilandjes), vijvers in park Maria Hove
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de Markettebossen staat wat residentiële bebouwing die van de laatste
 decennia dateerd. Sommige bomen in de dubbele dreef van Hansbeke naar

@@ -76,6 +76,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De geleidelijke overgang van klei naar zand en van nat naar droog in
 dit gebied, heeft een grote vegetatiekundige en daarmee ook structurele
 diversiteit tot gevolg. Rijk begroeide oevers en dijken vormen de
@@ -128,15 +129,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -146,7 +148,7 @@ Geomorfologie/hydrografie
 
 Kleine Nete, Krekelbeek, Elstbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * rietland
@@ -156,14 +158,14 @@ Kleine Nete, Krekelbeek, Elstbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -172,7 +174,7 @@ kasteelpark
 
 Kasteel 'heidebloem' + dienstwoningen
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
  * herberg
@@ -180,7 +182,7 @@ Kasteel 'heidebloem' + dienstwoningen
 
 bareelwachterhuis, 'Maison des Bains', breedhuis
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -190,47 +192,47 @@ bareelwachterhuis, 'Maison des Bains', breedhuis
 
 'Heidebloemhoeve'
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
 
 arduinen vazen
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
@@ -238,7 +240,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 heiderelict
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -247,8 +249,9 @@ heiderelict
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Belangrijkste knelpunt in deze ankerplaats is de aanwezigheid van
 recreatieve infrastructuur met een hoge dichtheid aan visvijvers en

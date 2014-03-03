@@ -70,6 +70,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De geologie en geomorfologie van het zuidelijke tot westelijk
 cuestafront van de paracuesta van het Waasland is erg opmerkelijk. Het
 gebied is gelegen op de grens van de Waasland en de Vlaamse Vallei, op
@@ -96,7 +97,7 @@ Vliegveld) naar het cuestafront en de Durmevallei.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De oude landingsbanen van het vliegveld
@@ -121,14 +122,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -137,14 +139,14 @@ Geomorfologie/hydrografie
 
 Cuesta van het Waasland
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
 
 bron
 
-**Geologie:**
+*Geologie:**
 
 
 Cuesta van het Waasland
@@ -152,7 +154,7 @@ Cuesta van het Waasland
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -160,7 +162,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -170,7 +172,7 @@ Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
 
 stal, koetshuis, serres, jachtpaviljoen,
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -179,7 +181,7 @@ stal, koetshuis, serres, jachtpaviljoen,
 
 hoeve die aan Baudelo-abdij toebehoorde
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
  * abdij
@@ -187,10 +189,10 @@ hoeve die aan Baudelo-abdij toebehoorde
 
 Rozenbergabdij
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -202,16 +204,16 @@ kasseiweg
  **Andere:**
 Oud Vliegveld van Waasmunster
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -220,19 +222,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 vijver in park Ortega
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -241,8 +243,9 @@ vijver in park Ortega
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De autostrade E17 doorsnijdt het gebied. Er bevinden zich verschillende
 weekendverblijven in het gebied. Er zijn diffuse bronnen op het

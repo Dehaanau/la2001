@@ -4,7 +4,7 @@ Scheldemeersen tussen Zevergem en Schelderode
 :Ankerplaats ID: A40033
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -111,6 +111,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Dit gebied maakt deel uit van de Scheldevallei ten zuiden van Gent.
 In de brede alluviale vlakte domineren de kleigronden. De breedte van de
 vlakke vallei varieert van 500 tot 1500 m. De kleine niveauverschillen
@@ -152,7 +153,7 @@ zich de bewoning.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Aan de Sint- Elooiskapel is jaarlijks een
@@ -175,22 +176,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * steilrand
  * markante terreinovergang
 
 steilrand aan Schelderode
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -200,14 +202,14 @@ steilrand aan Schelderode
  * oude rivierarm
 
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
 
-**Geologie:**
+*Geologie:**
 
 
 Vlaamse Vallei
@@ -215,19 +217,19 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteel avn Schelderode en van Welden
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -237,20 +239,20 @@ kasteel avn Schelderode en van Welden
 
 kasteel van Schelderode en Welden, neerhof
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * herberg
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -259,33 +261,33 @@ kasteel van Schelderode en Welden, neerhof
 
 kerk van Schelderode en Zevergem, Sint- Elooiskapel
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
  * kerkwegel
 
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -293,24 +295,24 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * hagen
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
  * onregelmatig
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * meersen
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -321,8 +323,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 bosje rond Melsenbeek
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Calibrering van de Bovenschelde en de drainage van de meersgronden
 hebben een intensivering van het landbouwgebruik in de meersen

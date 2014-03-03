@@ -71,6 +71,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het bruuske reliëfsverschil tussen de Lovaart met omgeving en het
 plateau van Izenberghe vormt tevens een bodemkundige grens tussen de
 polders (Ijzervallei) met op geringe diepte veen én
@@ -103,16 +104,17 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * steilrand
  * markante terreinovergang
 
 overgang van Lovaart ( Ijzervallei) naar plateau van Izenberghe
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -122,7 +124,7 @@ Hollevoordebeek, Scheibeek en talrijke kleinere beekjes
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -130,52 +132,52 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 talrijke waardevolle en gave hoeves met walgracht of restant ervan
 
-**Molens:**
+*Molens:**
 
  * windmolen
 
 
 Lindemolen
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * motte
 
 
 vlakbij St-Rijkers; ook elders nog motte-sites (bij Diephof)
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * kruis
 
 
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
 
 
 2 oude wegenpatronen
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
 
 
 Lovaart waarschijnlijk volgens loop van zijbeek van Ijzer
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
@@ -184,19 +186,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 bomenrij langs Lovaart;perceelsrandbegroeiing soms nog zeer gaaf rond
 weilanden
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente stallingen en uitbreidingen bij de hoeves doen afbreuk aan
 hun gaafheid en hun historisch karakter. De uitbreiding van Alveringem

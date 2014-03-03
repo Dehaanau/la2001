@@ -133,6 +133,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het geopatromonium van venige en kleiige afzettingen in de ondergrond
 herinnert aan de mariene/estuariene invloed in de Ijzervallei en de
 zijvalleien (zoals Kemmelbeek, Blankaart en Ieperlee). De Ijzervallei
@@ -206,7 +207,7 @@ de Ijzervallei.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Ijzertoren als symbool van de Vlaamse
@@ -242,22 +243,23 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
 deels aan ontvening te wijten, deels natuurlijk
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * markante terreinovergang
 
 overgang polder/ijzerbroeken - zandleemgebied
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -267,7 +269,7 @@ overgang polder/ijzerbroeken - zandleemgebied
 
 Ijzer en met zijbeken, vaarten, kanalen; Dode Ijzer bij Elzendamme
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * veen
@@ -279,20 +281,20 @@ Blankaart
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 bij Blankaartkasteel
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 fintele
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -300,38 +302,38 @@ fintele
 
 kasteel Blankaart
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Pollinkhof bij Pollinkhove
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
 
 
 Vaubanvestingresten rond Knokkebrug; Ijzertoren
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
 
 kerk Pollinkhove
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * Oostenrijkse periode
 
 
 vlakbij Elzendamme
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -343,24 +345,24 @@ vlakbij Elzendamme
 dijk bij Ijzer; sluizen op Lovaart en Ijzer ter hoogte van Fintele;
 grachten
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
 
 bomenrij langs Lovaart en Ijzer; zeldzame resten van knotbomenrij
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * turfput
 
 
 blankaart
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
  * historisch stabiel
@@ -369,12 +371,12 @@ blankaart
 repelvormig rond Blankaart tot Noordschote; elders geometrisch en
 historisch stabiel
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -382,14 +384,15 @@ historisch stabiel
 
 rond Blankaart
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De natuur- en cultuurwaarden dienen maximaal gevrijwaard te worden. De
 afwezigheid van bebouwing in de winterbedding van de Ijzer dient

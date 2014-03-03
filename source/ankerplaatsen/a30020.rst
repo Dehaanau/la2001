@@ -90,6 +90,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankerplaats ligt op de Pleistocene dekzandrug van
 Gistel-Maldegem-Stekene-Verrebroek; de zandgrond vormde de basis voor de
 ontwikkeling tot veldgebied. De aanwezigheid van heischrale en
@@ -145,15 +146,16 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * landduin
 
 dekzandrug Gistel- Maldegem-Stekene-Verrebroek
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -163,14 +165,14 @@ Meersbeek en Maleleie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 park bij beide kasteeldomeinen
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -179,33 +181,33 @@ park bij beide kasteeldomeinen
 
 Welke geboouwen nog?
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve Ter Leiden
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 in noordwesten: tramlijn Brugge-Maldegem
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
@@ -213,7 +215,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 in loweiden zeer kleine graslandpercelen die zeer goed bewaard zijn
 gebleven
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
@@ -221,7 +223,7 @@ gebleven
 
 loweiden; meersen bij Meersbeek
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -229,8 +231,9 @@ loweiden; meersen bij Meersbeek
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bijna de gehele ankerplaats wordt bedreigd door de oprukkende bebouwing
 waarbij lintbebouwing voor een scherpe isolering zorgt. De

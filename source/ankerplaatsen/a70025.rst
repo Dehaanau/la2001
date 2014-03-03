@@ -4,7 +4,7 @@ De Brand
 :Ankerplaats ID: A70025
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -98,6 +98,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het zwak tot zeer zwak golvend microreliëf is gevormd in een laag
 dekzand. Omwille van het zwak reliëf en de daarmee gepaard gaande
 gebrekkige ontwatering is het gebied van nature drassig. Bovendien komen
@@ -134,7 +135,7 @@ haast onbestaande woningbouw bezit het gebied een hoge belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 Het is weliswaar attractief voor zachte
@@ -158,14 +159,15 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -173,7 +175,7 @@ Geomorfologie/hydrografie
 
 Itterbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * moeras
  * ven
@@ -183,7 +185,7 @@ Itterbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -193,17 +195,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteel De Oude Kuil
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Keyaertmolen en Galdermansmolen.
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -211,7 +213,7 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 grotendeels historisch stabiel wegenpatroon
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -220,16 +222,16 @@ grotendeels historisch stabiel wegenpatroon
 
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -238,17 +240,17 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 spinnewebstructuur
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
-**Topografie:**
+*Topografie:**
 
  * historisch stabiel
 
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
@@ -257,7 +259,7 @@ spinnewebstructuur
 
 vochtig hooi- en weiland
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -267,14 +269,15 @@ vochtig hooi- en weiland
  * struweel
 
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * ontwatering
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Nefast zijn de aantastingen van houtwalstructuren door slopen,
 versmalling, het ontstaan van een holle wal of het achterwege blijven

@@ -58,6 +58,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De topzone ligt op de waterscheidingskam tussen Leie- en
 Scheldebekken en ligt wegens de bodemgesteldheid reeds lang onder bos.
 Het Bellegem- en Argendaalbos herbergen een grote verscheidenheid in
@@ -101,9 +102,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * graft
  * talud
@@ -111,14 +113,14 @@ Geomorfologie/hydrografie
 
 valleiranden en langs hellingen
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * heuvel
  * holle weg
 
 interfluviale kam
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -129,36 +131,36 @@ beken en droge valleien stroomopwaarts bronnen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * hof
 
 
 Argendaalhof
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 Argendaal
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeves ten noordwesten van bos vrij gaaf
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -167,14 +169,15 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 toegangsdreef kasteel; langs perceelsranden
 
-**Bos:**
+*Bos:**
 
  * loof
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In het Bellegembos is een woonpark aanwezig waarbij het bebost karakter
 gehandhaafd dient te blijven om de interfluviale kam te benadrukken en

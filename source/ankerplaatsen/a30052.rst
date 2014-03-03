@@ -85,6 +85,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De graduele overgang van strand naar duinen is gaaf en natuurlijk
 waarbij sommige duinen restanten vormen van vroegere duinenlandschappen.
 De diverse reliëfs- en vochtigheidsgradiënten zorgen voor een diverse en
@@ -139,16 +140,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 overgang strand-duin (duinklif)
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * kustduin
  * markante terreinovergang
@@ -158,7 +160,7 @@ strand - duinklif - duinen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -167,7 +169,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Concessie De Haan met gelijkvormige villabouw
 
-**Militair erfgoed:**
+*Militair erfgoed:**
 
  * fort
  * bunker
@@ -178,20 +180,20 @@ fort Napoleon; talrijke bunkersites in duinen
  **Andere:**
 zeepreventorium
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
 
 
 duinen tegen zeewerende dijken ontstaan
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * houtwal
  * hagen
@@ -199,7 +201,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 in duinakkers
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -208,8 +210,9 @@ in duinakkers
 
 graslanden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De geomorfologische en ecologische kenmerken van het duinengebied dient
 gerespecteerd en behouden te blijven vanwege hun waarde en vanwege de

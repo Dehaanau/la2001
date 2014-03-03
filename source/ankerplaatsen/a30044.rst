@@ -53,6 +53,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het Banhoutbos ligt op een topzone van de interfluviale kam tussen
 Schelde- en Leiebekken. Langs de hellingen veroorzaakt de geologische
 opbouw bronnen en dalhoofden, én ze is bepalend voor de bebossing op de
@@ -92,9 +93,10 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * graft
  * talud
@@ -102,13 +104,13 @@ Geomorfologie/hydrografie
 
 Wulfsberg en op westelijke helling
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * heuvel
 
 topzones van interfluviale kam tussen Schelde en Leie
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -117,12 +119,12 @@ topzones van interfluviale kam tussen Schelde en Leie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * hof
 
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
@@ -131,7 +133,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteel Banhout uit 1857
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * stal
  * wagenhuis
@@ -139,17 +141,17 @@ kasteel Banhout uit 1857
 
 nabij kasteel Banhout
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * knotbomenrij
 
-**Bos:**
+*Bos:**
 
  * loof
  * middelhout
@@ -157,8 +159,9 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Deze ankerplaats wordt doorsneden door een bovengrondse
 hoogspanningsleiding die afbreuk doet aan de belevingswaarde van het

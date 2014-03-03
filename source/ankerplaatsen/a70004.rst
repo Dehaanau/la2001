@@ -4,7 +4,7 @@ Kasteeldorpen Voort en Gotem met Romeinse weg
 :Ankerplaats ID: A70004
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -109,6 +109,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Voort, en ook Hendrieken, is gelegen in Droog-Haspengouw op de
 reliëfrijke zuidwestrand van het massief van Borgloon, dat zich ruim 30
 m verheft boven de schiervlakte ten zuiden van de lijn Heks,
@@ -152,7 +153,7 @@ zijn recht.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De hele omgeving is erg attractief voor
@@ -179,22 +180,23 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 diep ingesneden, asymmetrische beekvallei van de Herkebeek
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -202,7 +204,7 @@ diep ingesneden, asymmetrische beekvallei van de Herkebeek
 
 Fonteinbeek, Herk, Herkebeek of Molenbeek, Motbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
 
 vochtige beemden
@@ -210,21 +212,21 @@ vochtige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * park
 
 
 kasteelpark de Tornaco, kasteelpark van Hulsberg
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 Voort (straatdop op valleirandsite), Gotem en Hendrieken (hoopdorpen),
 gehucht Helshoven (hoopdorp)
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -233,27 +235,27 @@ gehucht Helshoven (hoopdorp)
 
 kasteel de Tornaco (Voort), Fonteinhof, kasteel va
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
 
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Engelingenmolen (Hoepertingen), Wijngaardmolen (Broekom)
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
  * pastorie
@@ -262,31 +264,31 @@ Engelingenmolen (Hoepertingen), Wijngaardmolen (Broekom)
 o.a. Christus-Koningkapel, kapel van Loretto, Sint-Dionysiuskerk,
 kluiskapel van Helshoven
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * gedenkteken
 
 
-**Archeologische elementen:**
+*Archeologische elementen:**
 Gallo-Romeinse vondsten (o.a. tumulus)
 
  **Andere:**
 voormalig gemeentehuis Gotem, voormalig gemeentehuis en school Voort
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * Romeinse weg
 
 
 Tongeren-Kassel, Tongeren-Herentals
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -294,19 +296,19 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 Jenneboom
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
@@ -314,7 +316,7 @@ Jenneboom
 
 verschillende delen historisch stabiel
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -322,20 +324,21 @@ verschillende delen historisch stabiel
 grasland onder boomgaarden, traditioneel open akkergebied, vochtige
 valleibeemden
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hoogstam
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hooghout
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden. De
 ruilverkaveling Grootloon is in voorbereiding, de ruilverkaveling

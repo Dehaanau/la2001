@@ -77,6 +77,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Heidevegetatie werd dankzij zeer diverse beheersmaatregelen goed
 bewaard en soms zeer zeldzame soorten. Ook de natuurlijke condities van
 arme zandgrond en lokaal kwelwater zorgen voor unieke biotopen.
@@ -112,9 +113,10 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
@@ -122,12 +124,12 @@ Geomorfologie/hydrografie
 
 vijverdam in noordoosten van ankerplaats
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * ven
 
 
-**Geologie:**
+*Geologie:**
 
 
 vochtige gronden (laag gelegen)
@@ -135,36 +137,36 @@ vochtige gronden (laag gelegen)
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hofstede Vloethem, Hoeve Hildaghem (Ter Vraghe), hoeve Noortweghe
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
 
 onverharde zandwegen
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
 spoorweg naar en op militair domein
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
 
 vijverdam in noordoosten
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -173,14 +175,14 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 buiten bosgebied; zeer gave knotbomenrijen in zuidwestelijke hoek en
 rond Walebeek
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 in militiar domein (geen/weinig overeenkomst met veldvijvers)
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
@@ -188,7 +190,7 @@ in militiar domein (geen/weinig overeenkomst met veldvijvers)
 buiten militair domein (ten noord- en zuidoosten) blokvormige
 percelen met dreven
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * heide
 
@@ -196,15 +198,16 @@ percelen met dreven
 vochtige heide en heischrale graslanden door niet bemesten op
 militiair domein
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Toegang tot het militair domein is verboden voor onbevoegden. In het
 oosten wordt het gebied doorsneden door een hoogspanningsleiding op

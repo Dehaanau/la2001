@@ -109,6 +109,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Deze ankerplaats vertoont een zeer grote verscheidenheid aan reliëf
 en bodemgesteldheid. Ten gevolge van de geleidelijke overgang van
 kleigronden, over drassige veenbodems naar droge zandgronden, heeft men
@@ -144,7 +145,7 @@ dijken dragen bij tot het schilderachtige karakter van het geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De Nete, Dijle, Zenne en Rupel dienen
@@ -173,21 +174,22 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * heuvel
  * rivierduin
  * steilrand
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -199,7 +201,7 @@ Geomorfologie/hydrografie
 Zenne, dijle, Nete, Langendonkbeek, Knopbeek, Tongkensloop, Heibeek,
 Driebroekloop
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -208,7 +210,7 @@ Driebroekloop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * park
@@ -216,13 +218,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 moestuin, kasteelpark
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * gehucht
 
 Zennegat
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -233,14 +235,14 @@ Zennegat
 
 Kasteel Tibur, Kasteel Battenbroek
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * huis
 
 
 sluiswachtershuis, rijhuisjes
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -250,56 +252,56 @@ sluiswachtershuis, rijhuisjes
 
 Polderhoeve
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kapel
 
 
 Kapel van O.-L.-Vrouw
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
  * grachtenstelsel
 
 
-**Andere:**
+*Andere:**
 Leuvense Vaart
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
 zandwinningsput
 
-**Topografie:**
+*Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * broek
@@ -308,14 +310,15 @@ zandwinningsput
 
 vloedbossen
 
-**Bijzondere waterhuishouding:**
+*Bijzondere waterhuishouding:**
 
  * polder
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Te vermelden knelpunten zijn de steeds oprukkende industrie, bebouwing
 en infrastructuur rondom de ankerplaats, waardoor het landschap steeds

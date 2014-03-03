@@ -51,6 +51,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 Het tertiair kleiig materiaal in de ondergrond is zeer bepalend voor
 het smal en diep ingesneden karakter van de beek en de steilranden. De
 steilranden en de valleigrens vormen de grens tussen de holocene en
@@ -97,16 +98,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 langs valleigrens
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
@@ -116,7 +118,7 @@ Vleterbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -124,10 +126,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 hoeves karakteristiek plaats aan rand vallei met toegangsweg
 
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -135,19 +137,20 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 langs beek; en begroeide taluds
 
-**Topografie:**
+*Topografie:**
 
 
 langste perceelszijde loodrecht op loop Vleterbeek
 
-**Typische landbouwteelten:**
+*Typische landbouwteelten:**
 
  * hop
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Recente uitbreidingen bij landbouwbedrijven storen in het landschap. De
 achteruitgang van de hoppe-akkers vormt een teloorgang van een

@@ -4,7 +4,7 @@ Scheldemeanders Avelgem
 :Ankerplaats ID: A34002
 
 
-**Landschap**
+*Landschap**
 
 
 Omschrijving
@@ -57,6 +57,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De afgesneden meanders getuigen van de vroegere natuurlijke loop van
 de Schelde en vormen een waardevol biotoop voor flora en fauna. In de
 lanen, grachten en laagste delen van de weilanden staat ook waardevolle
@@ -84,7 +85,7 @@ buiten de vallei.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De "Brug van de Waterhoek" heeft een
 sociaal-culturele waarde omdat ze de kern van "de Teleurgang van den
@@ -148,16 +149,17 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Macroreliëf:**
+
+*Macroreliëf:**
 
  * steilrand
  * markante terreinovergang
 
 steilrand langs grens van de Scheldevallei
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -169,21 +171,21 @@ Schelde; La Rhosnesbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
 
 
 kerk als bouwkundig erfgoed en omwille van de typische ligging
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * verlaten spoorweg
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
@@ -191,10 +193,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 rijtgracht; "Brug van de Waterhoek"
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -202,21 +204,22 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 langs perceelsgrenzen en langs oude schelde-armen
 
-**Topografie:**
+*Topografie:**
 
  * repelvormig
 
 
 vlakbij steilrand, tussen Oude en Nieuwe Rijtgracht
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * meersen
 
 
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 In de noordelijke hoek van de ankerplaats ligt een opgehoogd terrein dat
 mede door het akkerlandgebruik contrasteert met de omgeving. Het

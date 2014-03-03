@@ -4,7 +4,7 @@ Dorpskern en archeologische site van Ename en Bos t'Ename
 :Ankerplaats ID: A40044
 
 
-**Landschap**
+*Landschap**
 
 
 
@@ -177,6 +177,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De archeologische site bevindt zich op een verheven punt in de
 Scheldevallei, top van een zandige rug. Het Bos t'Ename is op een steile
 oostelijke dalwand van de Boven- Schelde nabij Oudenaarde gelegen. 1/5
@@ -213,7 +214,7 @@ boskernen, omgeven met gras- en akkerland.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 De archeologische site werd tot een
@@ -240,15 +241,16 @@ Landschapselementen en opbouwende onderdelen
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
  * talud
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -256,7 +258,7 @@ Geomorfologie/hydrografie
  * markante terreinovergang
  * holle weg
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -267,7 +269,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * tuin
  * hof
@@ -275,7 +277,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Torreken te Walle
 
-**Nederzettingspatronen:**
+*Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
@@ -284,13 +286,13 @@ Torreken te Walle
 Boskant bij Bos t' Ename, Ename-bosrelatie, archeologische site,
 Volkegem
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
  * kasteelgracht
 
 
-**Bouwkundig erfgoed:**
+*Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -299,7 +301,7 @@ Volkegem
 
 dorpskern Ename, Schuifelbeen
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -308,14 +310,14 @@ dorpskern Ename, Schuifelbeen
 
 dorpskern Volkegem
 
-**Molens:**
+*Molens:**
 
  * watermolen
 
 
 Toysschemolen
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -323,7 +325,7 @@ Toysschemolen
  * pastorie
 
 
-**Klein historisch erfgoed:**
+*Klein historisch erfgoed:**
 
  * schandpaal
 
@@ -333,10 +335,10 @@ waterpomp
  **Archeologische elementen:**
 archeologische site Ename
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Wegenis:**
+*Wegenis:**
 
  * weg
  * pad
@@ -345,18 +347,18 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 
 kasseiweg tussen bos en dorp
 
-**Spoorweg:**
+*Spoorweg:**
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Puntvormige elementen:**
+*Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -367,12 +369,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
  * kaphaag
  * perceelsrandbegroeiing
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * vijver
 
 
-**Bos:**
+*Bos:**
 
  * loof
  * hakhout

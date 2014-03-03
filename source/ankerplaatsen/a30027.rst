@@ -90,6 +90,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De Ijzer kent een vrij natuurlijk bochtig verloop soms geaccentueerd
 door een bomenrij met natuurlijke oeverprofielen. De grens van de vallei
 en vooral de steilranden benadrukken de overgang van polder/vallei naar
@@ -140,22 +141,23 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * talud
 
 
 langs valleiranden (steilrand) van Poperingse Vaart
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * steilrand
 
 valleiranden van Ijzer
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -168,14 +170,14 @@ Ijzer en Poperingse Vaart, Dode Ijzer bij Roesbrugge-Haringe
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Koeren en hovingen:**
+*Koeren en hovingen:**
 
  * hof
 
 
 Tempeliershof
 
-**Landbouwkundig erfgoed:**
+*Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -183,7 +185,7 @@ Tempeliershof
 
 Eversamhoeve: enkel oorspronkelijke schuur rest
 
-**Kerkelijk erfgoed:**
+*Kerkelijk erfgoed:**
 
  * kerk
  * abdij
@@ -192,10 +194,10 @@ Eversamhoeve: enkel oorspronkelijke schuur rest
 Eversamhoeve bij verdwenen abdij; kerken aan de rand van vallei
 (Beveren, Stavele, Roesbrugge)
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Waterbouwkundige infrastructuur:**
+*Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -205,10 +207,10 @@ ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
 dijk op linkeroever Ijzer; Poperingse Vaart; brug te Roesbrugge en
 bij Vleteren
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
@@ -216,12 +218,12 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 langs Ijzer; knotbomenrijen langs perceelsranden stroomopwaarts
 Poperingse Vaart
 
-**Topografie:**
+*Topografie:**
 
 
 loodrecht op Ijzer of zijbeken
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
@@ -229,8 +231,9 @@ loodrecht op Ijzer of zijbeken
 
 in valleien
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Bebouwing in de valleien zelf dient vermeden te worden aangezien de
 stromen hun winterbeddding dan niet meer kunnen innemen bij hoge

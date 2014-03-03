@@ -126,6 +126,7 @@ Landschapswaarden
 Wetenschappelijke waarde
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
+
 De ankerplaats ligt ter hoogte van een westelijke uitloper van de
 Vlaamse vallei en vertoont de gave en natuurlijke overgang van de
 Pleistocene dekzandrug (Gistel-Maldegem-Stekene-Verrebroek) naar de
@@ -201,27 +202,28 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 Geomorfologie/hydrografie
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Microreliëf:**
+
+*Microreliëf:**
 
  * microreliëf
 
 
-**Macroreliëf:**
+*Macroreliëf:**
 
  * markante terreinovergang
 
 overgang Pleistocene dekzandrug naar Meersengebied met vnl. Holoceen
 
-**Hydrografische Elementen:**
+*Hydrografische Elementen:**
 
  * beek
 
 
 hoofdsloot, St-Trudoledeke, Zuiddambeek, Mazelbeek
 
-**Moerassige gronden:**
+*Moerassige gronden:**
 
  * rietland
 
@@ -231,7 +233,7 @@ in laagste delen van de Assebroekse Meersen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Kastelen, landgoederen en aanhorigheden:**
+*Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
@@ -241,19 +243,19 @@ kasteel Bergskens met bijhorend bosje
  **Archeologische elementen:**
 circulaire structuur ten zuiden van kerk van Ver-Assebroek
 
-ELEMENTEN VAN TRANSPORT EN INFRASTRUCTUUR
+Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Spoorweg:**
+*Spoorweg:**
 
  * oude tramroute
 
 tramroute Oedelem-Brugge (rond kasteel Bergskens)
 
-ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
+Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Lijnvormige elementen:**
+*Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -264,28 +266,28 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 dreven in veltgebied; perceelsrandbegroeiing in meersengebied:
 knot/bomenrijen, houtkanten
 
-**Kunstmatige waters:**
+*Kunstmatige waters:**
 
  * poel
 
 
 veedrinkput
 
-**Topografie:**
+*Topografie:**
 
  * blokvormig
 
 
 Beverhoutsveld: opstrekkend, geometrisch;
 
-**Historisch stabiel landgebruik:**
+*Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 in Assebroekse Meersen
 
-**Bos:**
+*Bos:**
 
  * naald
  * loof
@@ -293,8 +295,9 @@ in Assebroekse Meersen
 
 op dekzandrug in noorden
 
-OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~
+Opmerkingen en knelpunten
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 De monotone en recente aanplantingen van naaldbosjes in het zuiden van
 het eigenlijke meersengebied storen in dit historisch graslandcomplex.
