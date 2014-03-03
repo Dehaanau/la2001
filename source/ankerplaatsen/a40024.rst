@@ -6,8 +6,8 @@ Polder van Kruibeke, Bazel en Rupelmonde
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 In Bazel is er slechts sprake van een inpoldering in een geschreven
 bron in het midden van de 13e eeuw. Vermoedelijk was er reeds voordien

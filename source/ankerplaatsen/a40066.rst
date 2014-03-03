@@ -6,8 +6,8 @@ Dries van Sinaai
 
 
 
-C.TEKSTUELE Omschrijving
-------------------------
+Omschrijving
+------------
 
 Sinaai is het prototype van een centrumdorp dat zich centrifugaal
 vanuit het dorpsplein met kerk en schepenhuis heeft ontwikkeld. De
