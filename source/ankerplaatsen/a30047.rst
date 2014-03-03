@@ -77,7 +77,7 @@ vormt een meerwaarde voor de ankerplaats.
 
 
 Ruimtelijk-structurerende waarde
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De topzone en de hydrografie structureren het wegenpatroon dat op
 zijn beurt de bebouwing in grote mate bepaalt.

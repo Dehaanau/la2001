@@ -82,7 +82,7 @@ perceelsrandbegroeiing.
 
 
 Ruimtelijk-structurerende waarde
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De fysische ondergrond structureert het landgebruik. De meerderheid
 van de landbouwpercelen ligt onder grasland dat ruimtelijk verdeeld

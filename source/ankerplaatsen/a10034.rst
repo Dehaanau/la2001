@@ -84,7 +84,7 @@ lineaire en puntvormige landschapselementen.
 
 
 Ruimtelijk-structurerende waarde
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het centrale beboste gedeelte en de omliggende open ruimte rondom
 bepalen in grote lijnen de structuur van het gebied. De noordelijk

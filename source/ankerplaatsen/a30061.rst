@@ -101,7 +101,7 @@ tussen beide kasteeldomeinen.
 
 
 Ruimtelijk-structurerende waarde
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kamlijn vormt de basis voor de Kortrijkse steenweg die de
 strcutuur geeft aan de percelering en wegenpatroon. Door de parkaanleg

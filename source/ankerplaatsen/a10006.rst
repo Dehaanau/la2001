@@ -99,7 +99,7 @@ tot slot strafschool of penitentiair schoolcentrum; een functie die het
 tot op vandaag nog vervult.
 
 Ruimtelijk-structurerende waarde
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het patroon van dreven en bomenrijen rond het kasteel vormt een
 opvallend ruimtelijk-structurerend netwerk langsheen de vallei van de

@@ -84,7 +84,7 @@ open landbouwlandschap.
 
 
 Ruimtelijk-structurerende waarde
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Naast enkele interessante hoeven, oa de Stenenschuur hoeve en de
 Kerkenhofstede, vormen de dijken een belangrijke ruimtelijke
