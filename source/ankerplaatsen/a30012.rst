@@ -97,7 +97,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
@@ -106,7 +106,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
 
 sekwentie strand-zeeduin-polder
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  **Andere:**

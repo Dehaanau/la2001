@@ -157,7 +157,7 @@ Landschapselementen en opbouwende onderdelen
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
@@ -180,7 +180,7 @@ Itterbeek
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**

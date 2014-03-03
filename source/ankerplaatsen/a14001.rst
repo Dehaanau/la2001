@@ -176,7 +176,7 @@ Landschapselementen en opbouwende onderdelen
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
@@ -204,7 +204,7 @@ de Schelde
 
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**

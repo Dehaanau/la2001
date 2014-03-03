@@ -97,7 +97,7 @@ Landschapselementen en opbouwende onderdelen
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
@@ -114,7 +114,7 @@ GEOMORFOLOGIE/HYDROGRAFIE
  * holle weg
 
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Klein historisch erfgoed:**

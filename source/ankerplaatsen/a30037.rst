@@ -308,7 +308,7 @@ Landschapselementen en opbouwende onderdelen
 
 
 
-GEOMORFOLOGIE/HYDROGRAFIE
+Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
@@ -335,7 +335,7 @@ langs hellingen veroorzaaakt door de lithologische ondergrond
  **Andere:**
 bronniveau's door de geologishce ondergrond
 
-ELEMENTEN VAN BOUWKUNDIG ERFGOED, NEDERZETTINGEN EN ARCHEOLOGIE
+Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
