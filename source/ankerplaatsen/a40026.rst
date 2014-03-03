@@ -4,7 +4,7 @@ Oude Scheldemeander van Overmere- Donk en Berlare Broek
 :Ankerplaats ID: A40026
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -170,20 +170,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
 donk
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * vallei
@@ -191,14 +191,14 @@ donk
  * oude rivierarm
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
 
-*Geologie:**
+**Geologie:**
 
 
 Vlaamse Vallai
@@ -206,14 +206,14 @@ Vlaamse Vallai
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 Kasteel van Uitbergen
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * muur
@@ -221,7 +221,7 @@ Kasteel van Uitbergen
 
 Kasteel van Uitbergen
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * eendenkooi
 
@@ -230,13 +230,13 @@ Kasteel van Uitbergen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * pompgemaal
@@ -247,37 +247,37 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * blokvormig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * meersen
 
 
 No
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek
@@ -286,7 +286,7 @@ No
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
 
 

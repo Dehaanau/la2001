@@ -161,7 +161,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
@@ -170,14 +170,14 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 Grand Noble en Rijsbrugge
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -189,7 +189,7 @@ Grand Noble en Rijsbrugge
 
 Grand Noble en Rijsbrugge, koetshuis,tuinpaviljoen
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -199,7 +199,7 @@ hoeve bij Mariasteen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -209,13 +209,13 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -223,22 +223,22 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
 
 bulken
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

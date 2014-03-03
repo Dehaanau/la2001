@@ -179,20 +179,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * landduin
 
 dekzandrug Gistel-Maldegem-Stekene-Verrebroek
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
 
 Veldbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * veen
 
@@ -202,7 +202,7 @@ zuidwesten rond voormalige pompstation
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -210,7 +210,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 bij de meeste kastelen nog vrij gaaf
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -222,14 +222,14 @@ bij de meeste kastelen nog vrij gaaf
  * waterput
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve St-Anna Ter Woestijn; hoeve Godts; hoeve Aandekooi
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
  * abdij
@@ -241,35 +241,35 @@ abdij van Zevenkerke met school en kapel
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
 
 kasteelgrachten
 
-*Topografie:**
+**Topografie:**
 
 
 geometrisch
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * heide
 
 
 door beheer onderhouden nabij kast. Beisbroek
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
  * hakhout
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
 
 voormalig pompstation voor drinkwater

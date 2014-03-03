@@ -157,19 +157,19 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * landduin
  * steilrand
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -179,7 +179,7 @@ Geomorfologie/hydrografie
 
 Grote Nete, Zeeploop, Belseheideloop, Scherpenbergloop
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -192,7 +192,7 @@ laagveen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -205,14 +205,14 @@ Kretkenshoeve, Monnikenhoeve of Grote Hoeve
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
 
 
 dambordvormig wegenpatroon
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -221,19 +221,19 @@ dambordvormig wegenpatroon
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * houtwal
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * turfput
@@ -241,14 +241,14 @@ Elementen en patronen van landgebruik
 
 Malesbroek
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
 dambordvormig
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * voormalige communautaire akker
  * permanent grasland
@@ -257,7 +257,7 @@ dambordvormig
 
 relicten van natte heide
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

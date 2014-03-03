@@ -164,14 +164,14 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 valleigrenzen; langs hellingen bepaald door geologische gesteldheid
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * heuvel
  * steilrand
@@ -179,7 +179,7 @@ valleigrenzen; langs hellingen bepaald door geologische gesteldheid
 
 steilrand westelijke helling Mesen -Wijtschate
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -188,7 +188,7 @@ steilrand westelijke helling Mesen -Wijtschate
 Douvevallei; Haring-, Wijtschate-, Diependale, Stuiver-, Steen-,
 bollaert-, Rozebeek
 
-*Geologie:**
+**Geologie:**
 
  * graften
 
@@ -198,7 +198,7 @@ bepaald door geologische gesteldheid
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
  * verdedingingslinie
@@ -206,7 +206,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kraterlijn; ondergrondse gangen; kerkhoven
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -214,7 +214,7 @@ kraterlijn; ondergrondse gangen; kerkhoven
 
 Mesen en Wijtschate (!)
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
  * gedenkteken
@@ -228,7 +228,7 @@ sproen van bewoning uit Neolithicum
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Romeinse weg
 
@@ -238,7 +238,7 @@ Cassel-kortrijk
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -248,14 +248,14 @@ Elementen en patronen van landgebruik
 resten bocage; restanten langs perceelsgreznen of als begeleidende
 begroeiing bij beken
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 kraterlijn
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

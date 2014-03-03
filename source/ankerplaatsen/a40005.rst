@@ -211,22 +211,22 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * kreek
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -236,31 +236,31 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 molenhof
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * grenspaal
 
 
-*Archeologische elementen:**
+**Archeologische elementen:**
 grafheuvel uit bronstijd in Nicasiuspolder
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -270,37 +270,37 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * weel
 
 
 Bodemloze Put, Verzelesput
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
  * onregelmatig
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * middelhout
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
 

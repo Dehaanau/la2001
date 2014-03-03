@@ -4,7 +4,7 @@ De Tösh, Langeren en Wurfeld
 :Ankerplaats ID: A70040
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -146,17 +146,17 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -165,7 +165,7 @@ Geomorfologie/hydrografie
 
 o.a. Bosbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -175,7 +175,7 @@ o.a. Bosbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -183,14 +183,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteel Wurfeld
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 Wurfeld
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -198,21 +198,21 @@ Wurfeld
 
 kasteel Wurfeld
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Langerenmolen, Wurfeldermolen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -222,16 +222,16 @@ o.a. grot Onze-Lieve-Vrouw van Lourdes
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * pad
 
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -241,13 +241,13 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -255,23 +255,23 @@ Elementen en patronen van landgebruik
  * houtwal
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek

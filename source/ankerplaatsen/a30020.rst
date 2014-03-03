@@ -149,13 +149,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * landduin
 
 dekzandrug Gistel- Maldegem-Stekene-Verrebroek
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -165,14 +165,14 @@ Meersbeek en Maleleie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 park bij beide kasteeldomeinen
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -181,7 +181,7 @@ park bij beide kasteeldomeinen
 
 Welke geboouwen nog?
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -191,7 +191,7 @@ hoeve Ter Leiden
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
@@ -200,14 +200,14 @@ in noordwesten: tramlijn Brugge-Maldegem
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
@@ -215,7 +215,7 @@ Elementen en patronen van landgebruik
 in loweiden zeer kleine graslandpercelen die zeer goed bewaard zijn
 gebleven
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen
@@ -223,7 +223,7 @@ gebleven
 
 loweiden; meersen bij Meersbeek
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

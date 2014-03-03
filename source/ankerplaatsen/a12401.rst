@@ -154,13 +154,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -172,14 +172,14 @@ Molenbeek, Paasheideloop, Waterloop van de Molenheide
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
 
 
 tuin bij kasteel
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -189,14 +189,14 @@ tuin bij kasteel
 
 Hof te Melis + bijgebouwen, traptorens
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Site Wolfputhoeve
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -206,7 +206,7 @@ Kapel 'O. - L. -Vrouw Van Meesen'
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -216,7 +216,7 @@ ringgracht
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -224,28 +224,28 @@ Elementen en patronen van landgebruik
 
 400 jaar oude eik
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtwal
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
 
 historisch stabiel bos
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

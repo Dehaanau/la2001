@@ -211,7 +211,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * graft
  * talud
@@ -219,19 +219,19 @@ Geomorfologie/hydrografie
 
 langs Palingbeek
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
 
 interfluviale kam Ijzer- Schelde&Leie
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -242,21 +242,21 @@ Tielt
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * hof
 
 
 Lankhof met motte; Pollepelhof
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 Kasteel Palingbeek
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * fort
  * bunker
@@ -272,13 +272,13 @@ Weiden
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
 Ieper - Komen nu als fietspad in gebruik
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
@@ -291,7 +291,7 @@ vijver
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -300,21 +300,21 @@ Elementen en patronen van landgebruik
 dreef palingbeek; restanten knot/bomenrijen; bomenrijen langs
 vestingswallen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 zillebeekse vijver; vijvers bij kasteel Palingbeek
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * meersen
 
 
 Verdronken Weide
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

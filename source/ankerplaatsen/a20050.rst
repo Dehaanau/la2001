@@ -123,16 +123,16 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -140,7 +140,7 @@ Geomorfologie/hydrografie
  * vallei
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
 
@@ -149,60 +149,60 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
  * gehucht
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * kasteelgracht
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
 
-*Archeologische elementen:**
+**Archeologische elementen:**
 resten omwallingen en opgravingen te Zoutleeuw
 
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -211,27 +211,27 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Bos:**
+**Bos:**
 
  * loof
 

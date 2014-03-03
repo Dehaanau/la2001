@@ -132,13 +132,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -148,7 +148,7 @@ Geomorfologie/hydrografie
 
 Kleine Nete, Krekelbeek, Elstbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -158,14 +158,14 @@ Kleine Nete, Krekelbeek, Elstbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -174,7 +174,7 @@ kasteelpark
 
 Kasteel 'heidebloem' + dienstwoningen
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * huis
  * herberg
@@ -182,7 +182,7 @@ Kasteel 'heidebloem' + dienstwoningen
 
 bareelwachterhuis, 'Maison des Bains', breedhuis
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -192,12 +192,12 @@ bareelwachterhuis, 'Maison des Bains', breedhuis
 
 'Heidebloemhoeve'
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
 
 arduinen vazen
@@ -205,7 +205,7 @@ arduinen vazen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -215,24 +215,24 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * knotbomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
@@ -240,7 +240,7 @@ Elementen en patronen van landgebruik
 
 heiderelict
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek

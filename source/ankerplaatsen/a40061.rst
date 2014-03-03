@@ -4,7 +4,7 @@ Dendervallei tussen Idegem en Ninove en het Geitebos
 :Ankerplaats ID: A40061
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -181,7 +181,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
@@ -189,7 +189,7 @@ Geomorfologie/hydrografie
 
 ontginningen in Geitebos
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -199,7 +199,7 @@ ontginningen in Geitebos
 
 ontginningen in Geitebos
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -210,7 +210,7 @@ ontginningen in Geitebos
 
 bronniveau's
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -219,12 +219,12 @@ bronniveau's
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -233,14 +233,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Hof van Lier, dienstgebouwen
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
  * villa
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -250,7 +250,7 @@ Hof van Lier, dienstgebouwen
 
 Grimminge en Idegem
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * schandpaal
 
@@ -259,15 +259,15 @@ Grimminge en Idegem
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Spoorweg:**
+**Spoorweg:**
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -280,13 +280,13 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -296,29 +296,29 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * opstrekkend
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * middelhout
@@ -326,7 +326,7 @@ Elementen en patronen van landgebruik
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
 

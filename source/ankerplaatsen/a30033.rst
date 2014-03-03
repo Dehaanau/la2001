@@ -107,19 +107,19 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 langs hellingen Poelberg
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * heuvel
  * holle weg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -129,18 +129,18 @@ bronnen aan de voet van de Poelberg; Elsbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
 opeenvolging van historische bebouwing langs kamlijn poelberg
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 meeste hoeves nog authentiek en weinig verstoord
 
-*Molens:**
+**Molens:**
 
  * windmolen
 
@@ -151,7 +151,7 @@ Poelbergmolen
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij

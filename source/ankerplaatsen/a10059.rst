@@ -105,20 +105,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -128,23 +128,23 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteelgracht
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -154,7 +154,7 @@ Kapel van Kolem
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -163,38 +163,38 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 No
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek

@@ -120,12 +120,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -135,14 +135,14 @@ Mandoerse beek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 park bij kasteel
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -152,14 +152,14 @@ park bij kasteel
 
 Groeningenhof +duiventoren, Solhof, Lillaarschrans
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 dienstwoningen bij kasteel
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -172,14 +172,14 @@ Kapittelhoeven
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
 
 
 kasseiweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * sluis
 
@@ -188,30 +188,30 @@ kasseiweg
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * hagen
  * knotbomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Bos:**
+**Bos:**
 
  * loof
 

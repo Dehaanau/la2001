@@ -99,14 +99,14 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 valleirand
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -116,7 +116,7 @@ Heidebeek en enkele zijbeken
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * pastorie
@@ -131,7 +131,7 @@ mogelijk sites op helling van vallei
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant

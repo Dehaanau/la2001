@@ -205,25 +205,25 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * markante terreinovergang
 
 overgang Pleistocene dekzandrug naar Meersengebied met vnl. Holoceen
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
 
 hoofdsloot, St-Trudoledeke, Zuiddambeek, Mazelbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
@@ -233,7 +233,7 @@ in laagste delen van de Assebroekse Meersen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
@@ -246,7 +246,7 @@ circulaire structuur ten zuiden van kerk van Ver-Assebroek
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Spoorweg:**
+**Spoorweg:**
 
  * oude tramroute
 
@@ -255,7 +255,7 @@ tramroute Oedelem-Brugge (rond kasteel Bergskens)
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -266,28 +266,28 @@ Elementen en patronen van landgebruik
 dreven in veltgebied; perceelsrandbegroeiing in meersengebied:
 knot/bomenrijen, houtkanten
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
 veedrinkput
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
 
 Beverhoutsveld: opstrekkend, geometrisch;
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 in Assebroekse Meersen
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

@@ -125,19 +125,19 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -148,17 +148,17 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * hof
 
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -166,12 +166,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * wagenhuis
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * abdij
@@ -183,29 +183,29 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Andere:**
+**Andere:**
  * spoorlijnen Leuven-Waver en Leuven-Tienen
  
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 

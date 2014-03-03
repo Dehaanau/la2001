@@ -139,17 +139,17 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * landduin
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -160,7 +160,7 @@ Geomorfologie/hydrografie
 
 Grote Nete, Grote- en Kleine Laak, Trichelbeek, Hoefkensloop
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
@@ -169,7 +169,7 @@ Grote Nete, Grote- en Kleine Laak, Trichelbeek, Hoefkensloop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -178,7 +178,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 verschillende oudere hoeves
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -191,14 +191,14 @@ sporen van bewoning uit late Ijzertijd
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
 
 
 oude wegenstructuur
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -208,20 +208,20 @@ oude wegenstructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
@@ -229,19 +229,19 @@ Elementen en patronen van landgebruik
 
 moerkuilen
 
-*Topografie:**
+**Topografie:**
 
  * opstrekkend
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek
@@ -249,7 +249,7 @@ moerkuilen
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * vloeiweide
 

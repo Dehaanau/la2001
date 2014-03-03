@@ -4,7 +4,7 @@ Bourgoyen-Ossemeersen
 :Ankerplaats ID: A40037
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -187,13 +187,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -201,7 +201,7 @@ Geomorfologie/hydrografie
 
 donk
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -210,14 +210,14 @@ donk
  * oude rivierarm
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
  * rietland
 
 
-*Geologie:**
+**Geologie:**
 
 
 Vlaamse Vallei
@@ -225,7 +225,7 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -234,7 +234,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Valkenhuis
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
@@ -244,17 +244,17 @@ Hoosmolen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -263,13 +263,13 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -277,30 +277,30 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * meersen
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
 populier
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -310,7 +310,7 @@ populier
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * vloeiweide
 

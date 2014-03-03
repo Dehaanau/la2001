@@ -138,18 +138,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -158,7 +158,7 @@ Geomorfologie/hydrografie
 
 Wimp, Grote Nete, Heibeek, Otterloop, Maasloop
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * veen
 
@@ -168,14 +168,14 @@ laagveen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * kasteelgracht
@@ -183,7 +183,7 @@ kasteelpark
 
 Kasteel Herlaar + dienstgebouwen
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -192,19 +192,19 @@ Kasteel Herlaar + dienstgebouwen
 
 herberg 't Schipke, molenhuis, molenaarswoning
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
  * wagenhuis
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -214,7 +214,7 @@ O.-L.-Vrouw-hofkapel
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
@@ -225,31 +225,31 @@ voetbrug
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

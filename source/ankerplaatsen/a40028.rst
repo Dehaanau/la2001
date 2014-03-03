@@ -4,7 +4,7 @@ Honegem - Solegem
 :Ankerplaats ID: A40028
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -160,17 +160,17 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -179,7 +179,7 @@ Geomorfologie/hydrografie
 
 Molenbeek, Dorebeek, Zwartengracht
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -189,21 +189,21 @@ Molenbeek, Dorebeek, Zwartengracht
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Cottenmolen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -212,15 +212,15 @@ Cottenmolen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Spoorweg:**
+**Spoorweg:**
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * sluis
@@ -230,13 +230,13 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -244,31 +244,31 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
  * meersen
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * vlas
 
 
 rooiputten aanwezig
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

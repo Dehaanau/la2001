@@ -147,16 +147,16 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
 donk (Oostdonk)
 
-*Macroreliëf:**
+**Macroreliëf:**
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -167,13 +167,13 @@ donk (Oostdonk)
 
 Zuidlede en Moervaart, Hoofdgeleed, depressie
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
 
 
-*Geologie:**
+**Geologie:**
 
 
 Vlaamse Vallei
@@ -181,14 +181,14 @@ Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * hof
 
 
 Groot Hof
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -200,13 +200,13 @@ Groothof of Grote Hofstede
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
@@ -216,13 +216,13 @@ brug over Zuidlede
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -231,24 +231,24 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
  * hooghout
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
 
 Moervaartdepressie

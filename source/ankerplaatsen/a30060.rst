@@ -114,7 +114,7 @@ Landschapselementen en opbouwende onderdelen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
  * hof
@@ -122,7 +122,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 hof van Breda; park bij kasteel van Loppem
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -134,7 +134,7 @@ hof van Breda; park bij kasteel van Loppem
 
 kasteeldomein Loppem; merkwaardig grottencomplex
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -143,14 +143,14 @@ kasteeldomein Loppem; merkwaardig grottencomplex
 
 kasteelhoeve, Evershof, hof van Breda
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
 aan toegangsdreef naar hoeve
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
 
 doolhof
@@ -159,28 +159,28 @@ doolhof
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
 
 
 in park
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * knotbomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 bij kasteel
 
-*Bos:**
+**Bos:**
 
  * loof
  * hakhout

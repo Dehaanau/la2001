@@ -128,11 +128,11 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
 interfluvium tussen bekken Proversbeek en Velddambeek
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -142,14 +142,14 @@ Leugaartsbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 bij drie kast.; Engelse landschapsstijl
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * ijskelder
@@ -158,21 +158,21 @@ bij drie kast.; Engelse landschapsstijl
 
 Rapenburg met ijskelder; beiden gracht
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * villa
 
 
 Villa Zorgvliet; kleine boskanterswoningen
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 bij kast. Rapenburg
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -182,7 +182,7 @@ vlakbij kast. Rapenburg
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -192,28 +192,28 @@ in bossen nog resten van grachten en singels
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * knotbomenrij
 
 knotbomen bij weilanden
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
 veedrinkput
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
 
 geaccentueerd door dreven; langwerpige geometrische vorm
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

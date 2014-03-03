@@ -4,7 +4,7 @@ Vallei van de Zeverenbeek
 :Ankerplaats ID: A40010
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -122,18 +122,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -141,7 +141,7 @@ Geomorfologie/hydrografie
  * meander
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -152,14 +152,14 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
 
 
 Pastorietuin
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -167,7 +167,7 @@ Pastorietuin
  * wagenhuis
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -178,7 +178,7 @@ Pastorietuin
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -186,7 +186,7 @@ Elementen van transport en infrastructuur
  * Oostenrijkse periode
 
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -195,36 +195,36 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * hagen
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * turfput
 
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek

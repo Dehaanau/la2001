@@ -167,13 +167,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -184,14 +184,14 @@ Ettenhovense Beek, 's Hertogendijkse Beek, Rode Beek, St.-Jacobsloop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -200,7 +200,7 @@ kasteelpark
 
 'Starrenhof'
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * huis
  * villa
@@ -208,12 +208,12 @@ kasteelpark
 
 'Irishof', landhuis
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -227,14 +227,14 @@ ast, kerkhof
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
 
 
 's Hertogendijk: aarden weg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -245,33 +245,33 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * historisch stabiel
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
 

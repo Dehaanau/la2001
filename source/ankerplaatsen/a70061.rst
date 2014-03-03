@@ -4,7 +4,7 @@ Kasteeldorp Genoelselderen
 :Ankerplaats ID: A70061
 
 
-*Landschap**
+**Landschap**
 
 
 Omschrijving
@@ -110,13 +110,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * holle weg
@@ -126,7 +126,7 @@ zcht glooiend reliëf van het Haspengouws leemplateau
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
@@ -134,13 +134,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelpark met arboretum, belvedère, Engelse tuin, Franse tuin,
 rozentuin
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 kasteeldorp
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * muur
@@ -148,14 +148,14 @@ kasteeldorp
 
 kasteel met dienstgebouwen, staatsieplein, hek en
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 o.a. kasteelhoeve, hoeves in Sint-Maartensstraat
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -173,23 +173,23 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
@@ -197,21 +197,21 @@ Elementen en patronen van landgebruik
 historisch stabiel in omgeving van dorpskom en kasteeldomein,
 ruilverkaveling in ruimere omgeving
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 graslanden nabij dorpssite, open akkerbouwgebied op leemplateau
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
 wijnbouw
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout

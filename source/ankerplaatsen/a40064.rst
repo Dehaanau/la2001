@@ -180,20 +180,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -206,35 +206,35 @@ bronnen op Kapelleberg (oa 'Fontanabronnen')
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * hof
 
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Borgtmolen
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * fort
  * verdedingingslinie
@@ -242,7 +242,7 @@ Borgtmolen
 
 Kezelfort
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -252,7 +252,7 @@ O-L-V van Kerselare met Rozenkransommegang
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -263,13 +263,13 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -278,13 +278,13 @@ Elementen en patronen van landgebruik
  * kaphaag
  * perceelsrandbegroeiing
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * middelhout

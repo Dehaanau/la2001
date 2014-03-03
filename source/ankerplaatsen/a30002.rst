@@ -95,7 +95,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
@@ -105,7 +105,7 @@ gedeeltelijk verlande vijvers
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
 
@@ -115,7 +115,7 @@ begraven onder zand
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
@@ -124,7 +124,7 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 

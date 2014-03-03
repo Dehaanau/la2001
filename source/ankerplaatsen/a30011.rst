@@ -114,11 +114,11 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * kustduin
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -134,7 +134,7 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
 
 waterwinningsgebied

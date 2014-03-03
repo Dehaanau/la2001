@@ -168,17 +168,17 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * vallei
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
@@ -187,7 +187,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -195,13 +195,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Franse tuin, kasteelpark
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * gehucht
 
 Buitenland
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -210,7 +210,7 @@ Buitenland
 
 Kasteel d' Ursel+Laathof+toegangsbrug en -poort
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -218,14 +218,14 @@ Kasteel d' Ursel+Laathof+toegangsbrug en -poort
 
 jachtpaviljoen+ conciërgewoning, schildershuis, wachthuisje
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * stal
 
 
 oude paardenstalling
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -236,7 +236,7 @@ Parochiekerk St.-Stefaan
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -248,30 +248,30 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * weel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * historisch stabiel
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek
@@ -279,13 +279,13 @@ Elementen en patronen van landgebruik
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
  * buitendijks
 
 
-*Andere:**
+**Andere:**
 slikken & schorren
 
 Opmerkingen en knelpunten

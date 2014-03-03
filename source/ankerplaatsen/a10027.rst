@@ -120,7 +120,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
@@ -129,7 +129,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -137,7 +137,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark, tuin bij de kerk
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -146,20 +146,20 @@ kasteelpark, tuin bij de kerk
  * kasteelgracht
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * stal
  * wagenhuis
 
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * fort
 
 
 fort 5
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
 
@@ -172,17 +172,17 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 

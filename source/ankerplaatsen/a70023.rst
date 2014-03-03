@@ -4,7 +4,7 @@ Lozerheide en kasteel Het Lo
 :Ankerplaats ID: A70023
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -109,18 +109,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -132,12 +132,12 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -145,7 +145,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * kasteelgracht
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * wagenhuis
 
@@ -154,7 +154,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
@@ -167,13 +167,13 @@ Zuid-Willemsvaart met sluizen en ophaalbruggen
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -181,14 +181,14 @@ Elementen en patronen van landgebruik
 
 o.a. bomenrijen van Zomereik langs de Zuid-Willemsvaart
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * heide
 
 
 heiderelicten
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -196,7 +196,7 @@ heiderelicten
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering

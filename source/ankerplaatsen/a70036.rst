@@ -4,7 +4,7 @@ Valleien van Dommel en Bollisserbeek tussen Wijchmaal, Peer en Kleine Brogel
 :Ankerplaats ID: A70036
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -186,20 +186,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
 houtwallen
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
 
 convexe interfluvia en asymmetrische dalen
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -207,7 +207,7 @@ convexe interfluvia en asymmetrische dalen
 
 Dommel, Bollisserbeek, Peerderloop
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * veen
 
@@ -217,14 +217,14 @@ laag- en hoogveen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 Frankische landname
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -232,7 +232,7 @@ Frankische landname
 
 Teutenhuizen
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -241,17 +241,17 @@ Teutenhuizen
 
 langgevelhoeves
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * schans
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -264,16 +264,16 @@ prehistorische grafheuvels uit Neolithicum, Bronstijd en Ijzertijd
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * pad
 
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -283,38 +283,38 @@ diepe sloten als perceelsscheiding
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * houtwal
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 vijvers, oorspronkelijk veenuitgravingen
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * voormalige communautaire akker
  * plaggenbodems
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

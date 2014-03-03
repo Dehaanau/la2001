@@ -4,7 +4,7 @@ Bulskampveld - St-Pietersveld
 :Ankerplaats ID: A34001
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -168,32 +168,32 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * steilrand
  * markante terreinovergang
 
 cuesta Lotenhulle-Hertsberghe
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * vallei
 
 
 valleien van de Blauwhuis-, Wante- en Bornebeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
 
 
-*Geologie:**
+**Geologie:**
 
 
 polygoonstructuren rond St-Pietersveld
@@ -201,7 +201,7 @@ polygoonstructuren rond St-Pietersveld
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -210,7 +210,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 park bij kast. Driekoningen en Bulskampveld(ook kruidentuin); tuin
 bij woningen
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -220,7 +220,7 @@ bij woningen
 
 bij kast. Bulskampveld en Driekoningen; Galgetoren
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * huis
  * villa
@@ -229,7 +229,7 @@ bij kast. Bulskampveld en Driekoningen; Galgetoren
 villa's en dienstwoningen bij het centrum voor jeugdbijstand en bij
 het radiozendstation
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -237,19 +237,19 @@ het radiozendstation
 Colpaertshoeve; penitentiair landbouwcentrum in hoeve bij de
 voormalige suikerfabriek
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
 
 zeilschip bij marineschool en vijver
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
 veldkapelleke; vagevuurkapel, herdenkingskapel lippensgoed
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * schandpaal
 
@@ -266,7 +266,7 @@ veldkanterswoningen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
 
@@ -276,23 +276,23 @@ Brugse Heerweg of Diksmuidse Boterweg
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 bij de kastelen
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

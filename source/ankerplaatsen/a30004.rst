@@ -202,18 +202,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
 in weilanden op oude duingronden
 
-*Macroreliëf:**
+**Macroreliëf:**
 
 duinengebieden
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * kreek
@@ -227,7 +227,7 @@ estuariene afzettingen van de Zwingeul
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -235,7 +235,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 grote hoeves (o.a. Prinsenhoeve en langs de Schapersdijk)
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * fort
  * verdedingingslinie
@@ -246,7 +246,7 @@ fort St.-Pol, Cantelmolinie, Oud fort Isabella
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
@@ -256,7 +256,7 @@ Graaf Jansdijk in zuiden en Schapersdijk in noorden
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
@@ -264,14 +264,14 @@ Elementen en patronen van landgebruik
 
 langs dijk, wegen en perceelsranden
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
 enkele veedrinkpoelen
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
@@ -279,7 +279,7 @@ enkele veedrinkpoelen
 blokvormig en grootschalig in recentere polders, kleinschalig in
 oudere polders
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -287,7 +287,7 @@ oudere polders
 
 Koningsbos en Zwinbosjes
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
 

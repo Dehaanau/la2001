@@ -113,26 +113,26 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
 aan de voet van het Wijnendaeleplateau
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteelgracht
 
 
 restant jachtkasteel; kasteelbos
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
 
 betonnen platform rest van een V1-lanceerplatform
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
  * klooster
@@ -143,7 +143,7 @@ klooster Virgo Fidelis
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -152,14 +152,14 @@ Elementen en patronen van landgebruik
 
 dreven vnl. in bos; bomenrij langs beken en perceelsgrenzen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 zwemdok en visvijver
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

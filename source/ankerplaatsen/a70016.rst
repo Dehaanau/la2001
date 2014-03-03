@@ -4,7 +4,7 @@
 :Ankerplaats ID: A70016
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -329,7 +329,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * graft
@@ -338,7 +338,7 @@ Geomorfologie/hydrografie
 
 o.a. trappenreliëf
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -346,7 +346,7 @@ o.a. trappenreliëf
  * markante terreinovergang
  * holle weg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -357,14 +357,14 @@ o.a. trappenreliëf
 
 o.a. fossiele maasbedding, bronnen
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * veen
 
 
 alcalisch veen, vochtig grasland
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
  * graften
@@ -378,12 +378,12 @@ dellen, terrassen, puinkegels, asymmetrische dalen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
@@ -392,7 +392,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 's Gravenvoeren, Sint-Martens- en Sint-Pietersvoeren en gehuchten
 (Schoppem, Ketten enz.)
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
@@ -402,7 +402,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. Altenbroek, Commanderij Sint-Pietersvoeren
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -411,7 +411,7 @@ o.a. Altenbroek, Commanderij Sint-Pietersvoeren
 
 o.a. De Swaen
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -419,12 +419,12 @@ o.a. De Swaen
  * wagenhuis
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -434,17 +434,17 @@ o.a. De Swaen
 o.a. Sint-Annakapel, Steenboskapel, Sint-Lambertus-, Sint-Martinus-
 en Sint-Pieterskerk
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
 
 
-*Archeologische elementen:**
+**Archeologische elementen:**
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -454,11 +454,11 @@ Elementen van transport en infrastructuur
 
 o.a. Koetsweg, Snauwenberg
 
-*Spoorweg:**
+**Spoorweg:**
 
 spoorweg met tunnel en boogbruggen
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
@@ -468,13 +468,13 @@ boogbrug, bruggetjes over de Voer
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -483,29 +483,29 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

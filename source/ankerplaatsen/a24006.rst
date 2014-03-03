@@ -169,19 +169,19 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -189,12 +189,12 @@ Geomorfologie/hydrografie
  * meander
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
 
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -203,14 +203,14 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteel van Neigem
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * dries
@@ -218,7 +218,7 @@ kasteel van Neigem
 
 dries van Neigem
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -227,7 +227,7 @@ dries van Neigem
 
 koetshuis, portierswoning, duiventoren,poortgebouw
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * huis
  * herberg
@@ -235,28 +235,28 @@ koetshuis, portierswoning, duiventoren,poortgebouw
 
 "Nieuw Balleke" herberg
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 "Fonteintjesmolen"
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * verdedingingslinie
 
 
 loopgraven uit WO I
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -266,7 +266,7 @@ Kruiskapel, Kapel O-L-V van Bevingen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -276,13 +276,13 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -291,17 +291,17 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * middelhout

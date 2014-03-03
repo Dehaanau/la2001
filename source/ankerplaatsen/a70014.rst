@@ -4,7 +4,7 @@ Landcommanderij Alden Biesen
 :Ankerplaats ID: A70014
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -180,20 +180,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 zacht glooiend reliëf
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * vallei
@@ -201,7 +201,7 @@ zacht glooiend reliëf
 
 Demer
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 vochtige beemden
@@ -212,7 +212,7 @@ voorkomen van dassenburchten
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -221,7 +221,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Engels park, Franse tuin, voorhof van de landcommanderij
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -233,14 +233,14 @@ Engels park, Franse tuin, voorhof van de landcommanderij
 
 Landcommanderij Alden Biezen
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 pachterswoning, rentmeesterswoning van de landcommanderij
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -249,14 +249,14 @@ pachterswoning, rentmeesterswoning van de landcommanderij
 
 neerhof, rentmeesterswoning van de landcommanderij
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
 o.a. kapel van de landcommanderij
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
 
@@ -265,7 +265,7 @@ o.a. kapel van de landcommanderij
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
 
 straalvormig drevenpatroon
@@ -273,32 +273,32 @@ straalvormig drevenpatroon
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -306,12 +306,12 @@ Elementen en patronen van landgebruik
 grasland (onder boomgaarden), open akkers op hogere leemplateaus,
 vochtige beemden in vallei
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout

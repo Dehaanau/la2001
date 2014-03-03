@@ -4,7 +4,7 @@ Valleien van Itterbeek en Eetsevelderbeek van Gruitrode tot Opitter
 :Ankerplaats ID: A70038
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -186,7 +186,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
@@ -194,7 +194,7 @@ Geomorfologie/hydrografie
 
 o.a. oeverwallen
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -203,7 +203,7 @@ o.a. oeverwallen
 
 o.a. noordoostrand van het Kempens Plateau
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -213,7 +213,7 @@ o.a. noordoostrand van het Kempens Plateau
 Itterbeek, Eetsevelder- of Wijshagerbeek, Baatsbeek, bronnen of
 sprinken
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -222,18 +222,18 @@ sprinken
 
 vochtige beemden
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
 
-*Andere:**
+**Andere:**
 Feldbissbreuk
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -241,7 +241,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. pastorietuin Opitter, park Itterdal
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * dries
@@ -251,7 +251,7 @@ o.a. pastorietuin Opitter, park Itterdal
 valleisites Gruitrode en Opitter met dorpspleinen, valleirandsites
 Eetseveld en Neerglabbeek
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -263,7 +263,7 @@ Eetseveld en Neerglabbeek
 
 commanderij van Gruitrode
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -273,14 +273,14 @@ commanderij van Gruitrode
 
 o.a. kasteelhoeve commanderij Gruitrode
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Rooiermolen, Pollismolen, Stalsmolen, Vinckemolen of Kasteelmolen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -289,7 +289,7 @@ Rooiermolen, Pollismolen, Stalsmolen, Vinckemolen of Kasteelmolen
 
 o.a. Sint-Gertrudiskerk, Sint-Trudokerk met kerkhof
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
 
@@ -302,7 +302,7 @@ o.a. industrieel-archeologisch erfgoed (watermolens)
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -312,7 +312,7 @@ Elementen van transport en infrastructuur
 o.a. historische verbindingen tussen beemden, molens en
 nederzettingen
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -325,13 +325,13 @@ waterbouwkundige infrastructuur in de beemden en aan de molens
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -340,18 +340,18 @@ Elementen en patronen van landgebruik
  * hagen
  * knotbomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
@@ -360,12 +360,12 @@ Elementen en patronen van landgebruik
 
 o.a. vochtige hooi- en weilanden, bevloeid hooiland, heiderelicten
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -375,7 +375,7 @@ o.a. vochtige hooi- en weilanden, bevloeid hooiland, heiderelicten
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide

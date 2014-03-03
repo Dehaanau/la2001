@@ -4,7 +4,7 @@ Krekengebied van Kieldrecht en Meerdonk
 :Ankerplaats ID: A40021
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -149,17 +149,17 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -168,7 +168,7 @@ Geomorfologie/hydrografie
 
 Grote Geule, Konijnenpijpen, Kieldrechtse Watergang
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -179,7 +179,7 @@ Grote Geule, Konijnenpijpen, Kieldrechtse Watergang
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -189,13 +189,13 @@ Riethoeve
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -206,31 +206,31 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * weel
 
 
 Kieldrechtse welen: Grote Weel, Klein Weel, Panneweel
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * blokvormig
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
 
 laagstamboomgaard
 
-*Bos:**
+**Bos:**
 
  * loof
  * middelhout
@@ -238,7 +238,7 @@ laagstamboomgaard
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
 

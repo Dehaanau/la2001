@@ -152,17 +152,17 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
 donk
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -172,13 +172,13 @@ donk
 
 Moervaartdepressie, Zuidlede
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
 
 
-*Geologie:**
+**Geologie:**
 
 
 moeraskalk (gyttja), Vlaamse Vallei
@@ -186,14 +186,14 @@ moeraskalk (gyttja), Vlaamse Vallei
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 Kasteel Wulfsdonk, sinds 1962 vervangen door villa
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * villa
  * herberg
@@ -202,14 +202,14 @@ Kasteel Wulfsdonk, sinds 1962 vervangen door villa
 ijzeren toegangshek, wolfskop naast voordeur en gevelsteen van het
 vroeger kasteel Zamans
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Etboshoeve
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * eendenkooi
 
@@ -219,7 +219,7 @@ restanten van een eendenkooi
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -227,11 +227,11 @@ Elementen van transport en infrastructuur
 
 kasseiweg 'Etboswegel'
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -243,20 +243,20 @@ kasseiweg 'Etboswegel'
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * blokvormig
@@ -264,12 +264,12 @@ Elementen en patronen van landgebruik
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
 
 vroegere meersen
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -278,7 +278,7 @@ vroegere meersen
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
 

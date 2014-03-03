@@ -4,7 +4,7 @@ Herkenrodebos en kasteel van Stevoort
 :Ankerplaats ID: A70055
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -161,12 +161,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -175,7 +175,7 @@ Geomorfologie/hydrografie
 
 o.a. de Herk, Cijnsbroekbeek, Busselkesbeek, Sterrebeek, Heustenbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -186,13 +186,13 @@ o.a. de Herk, Cijnsbroekbeek, Busselkesbeek, Sterrebeek, Heustenbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
 
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -202,14 +202,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kastelen van Stevoort en Schimpen
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 kasteel van Schimpen
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -219,31 +219,31 @@ kasteel van Schimpen
 
 o.a.Ten Roye, Scholteswinning, Vuileplas, Boswinning
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Elsartmolen, dorpsmolen van Stevoort
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
 
 smeedijzeren hekwerk
 
  **Archeologische elementen:**
-*Andere:**
+**Andere:**
 restanten van vakwerkbouw
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -251,7 +251,7 @@ Elementen van transport en infrastructuur
 
 onverharde wegen en voetwegen volgens Atlas van de Buurtwegen
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
@@ -262,41 +262,41 @@ toegangsbrug over de watergracht van het kasteel van Stevoort
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
 
 historisch stabiele bosrelicten
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek

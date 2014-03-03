@@ -185,18 +185,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * markante terreinovergang
 
 overgang polder- zandstreek
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
 
@@ -204,7 +204,7 @@ overgang polder- zandstreek
 Blankenbergevaart watert gebied af; zwinnen en geleden waarop
 grachten aangesloten zijn
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * veen
 
@@ -214,20 +214,20 @@ op sommige plaatsen nabij het oppervlak
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 bij kastelen Bloemendale en Ter Lucht
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * gehucht
 
 Meetkerke
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -235,7 +235,7 @@ Meetkerke
 
 Bloemendale, Ter Lucht
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -244,14 +244,14 @@ Bloemendale, Ter Lucht
 Rode Poort Hoeve; hoeve rond Kapellebrug met boomgaard; Ter Mere en
 Ter Zale
 
-*Molens:**
+**Molens:**
 
  * windmolen
 
 
 Poldermolen voor bemaling van de Moeren
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -260,7 +260,7 @@ Poldermolen voor bemaling van de Moeren
 
 kerk van Meetkerke met Romaanse resten
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * eendenkooi
 
@@ -269,14 +269,14 @@ kerk van Meetkerke met Romaanse resten
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
 
 
 kasseiweg door Meetkerke
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * sluis
@@ -288,7 +288,7 @@ kan. Gent-Oostende met begeleidende bomenrij; kleine sluizen
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -300,14 +300,14 @@ Elementen en patronen van landgebruik
 dreef: oprijlanen naar gebouwen; perceelsrandbegroeiing vooral in Lage
 Moere
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
 veedrinkput
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * opstrekkend
@@ -315,20 +315,20 @@ veedrinkput
 
 repelvormig in laagste deel; percelen opstrekkend op dekzandrug
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 No
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * droogmakerij
 

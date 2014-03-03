@@ -4,7 +4,7 @@ Oud-Rekem
 :Ankerplaats ID: A70007
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -162,7 +162,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * meander
@@ -174,7 +174,7 @@ oude Maasmeanders, Groenstraatbeek, Zijpbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -183,14 +183,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. Engelse hof
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
 
 omwalde stad met markplein
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -201,7 +201,7 @@ omwalde stad met markplein
 
 kasteel d'Aspremont-Lynden
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -211,7 +211,7 @@ kasteel d'Aspremont-Lynden
 
 o.a. De Hoek, De Roomse Keizer, Het Posthuis, Gerechtshof
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -221,7 +221,7 @@ o.a. De Hoek, De Roomse Keizer, Het Posthuis, Gerechtshof
 
 o.a. stadshoeven
 
-*Molens:**
+**Molens:**
 
  * watermolen
  * windmolen
@@ -229,7 +229,7 @@ o.a. stadshoeven
 
 watermolen fragmentarisch bewaard, windmolen De Stormvogel (Boorsem)
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -239,7 +239,7 @@ watermolen fragmentarisch bewaard, windmolen De Stormvogel (Boorsem)
 
 minderbroedersklooster en kerk, Sint-Pieterskerk
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
  * gedenkteken
@@ -257,13 +257,13 @@ distillerie, gemeentehuis en school
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * grachtenstelsel
@@ -275,41 +275,41 @@ restanten van het grachtenstelsel bij de omwalling, Zuid-Willemsvaart
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 grasland onder boomgaarden
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout

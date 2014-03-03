@@ -4,7 +4,7 @@ Vallei van de Abeek stroomopwaarts van Bocholt
 :Ankerplaats ID: A70037
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -170,20 +170,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
  * holle weg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -192,7 +192,7 @@ Geomorfologie/hydrografie
 
 Abeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -207,14 +207,14 @@ geologische breuken (o.a. Feldbissbreuk)
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 valleisite Reppel en gehucht Over de Beek
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -223,14 +223,14 @@ valleisite Reppel en gehucht Over de Beek
 
 o.a. Het Ooievaarsnest
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 o.a. Genamolen, Mariëndaal, Binkenmolen, Reppelmolen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -244,7 +244,7 @@ industrieel-archeologisch erfgoed (watermolens)
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -252,7 +252,7 @@ Elementen van transport en infrastructuur
 
 opstrekkend patroon vanuit Abeekvallei
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -268,31 +268,31 @@ Zuid-Willemsvaart, moleninfrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * turfput
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
@@ -300,7 +300,7 @@ Elementen en patronen van landgebruik
 
 o.a. vochtige hooi- en weilanden
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -309,7 +309,7 @@ o.a. vochtige hooi- en weilanden
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide

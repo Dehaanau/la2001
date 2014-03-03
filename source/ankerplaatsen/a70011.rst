@@ -4,7 +4,7 @@ Valleien van Mombeek en Fonteinbeek met burcht en bos van Kolmont
 :Ankerplaats ID: A70011
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -134,20 +134,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 heuvelend met asymmetrische beekinsnijdingen
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -155,7 +155,7 @@ heuvelend met asymmetrische beekinsnijdingen
 
 Fonteinbeek, Molenbeek of Mombeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 natte graslanden
@@ -166,7 +166,7 @@ voorkomen van dassenburchten
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -174,13 +174,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelparken Kolmont en Rooi
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 straatdorp Kolmont
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -188,7 +188,7 @@ straatdorp Kolmont
 
 kastelen van Kolmont en van Rooi
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -206,7 +206,7 @@ burchtruïne Kolmont
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Romeinse weg
  * Oostenrijkse periode
@@ -214,7 +214,7 @@ Elementen van transport en infrastructuur
 
 Romeinse weg Bilzen-Waremme, steenweg Tongeren-Hasselt (1741)
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
@@ -223,13 +223,13 @@ Sint-Truiden - Tongeren
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -237,23 +237,23 @@ Elementen en patronen van landgebruik
  * hagen
  * knotbomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout

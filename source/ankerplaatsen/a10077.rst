@@ -197,13 +197,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -215,7 +215,7 @@ Geomorfologie/hydrografie
 
 Grote Nete, Gestelse Beek, Kiekensloop
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
@@ -224,7 +224,7 @@ Grote Nete, Gestelse Beek, Kiekensloop
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -232,13 +232,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark, landschapspark, moestuin
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * gehucht
 
 Gestel
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -248,14 +248,14 @@ Gestel
 
 Gestelhof, Rameienhof, Kesselhof, Berlaarhof
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * herberg
 
 
 Herberg 'De Boekt'
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -265,7 +265,7 @@ Herberg 'De Boekt'
 
 Gasthuishoeve, Karthuizerhoeve, Witte Hoeve, Hoeve 'De Hel'
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -274,20 +274,20 @@ Gasthuishoeve, Karthuizerhoeve, Witte Hoeve, Hoeve 'De Hel'
 
 St.-Lambertuskerk, 'Kapel van O.L.- Vrouw Troost der Bedrukten'
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * standbeeld
  * gedenkteken
  * schandpaal
 
 
-*Andere:**
+**Andere:**
 Kerkhof met grafmonumenten, bakhuis, waterput
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * kerkwegel
@@ -295,7 +295,7 @@ Elementen van transport en infrastructuur
 
 aarden weg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -305,37 +305,37 @@ aarden weg
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek

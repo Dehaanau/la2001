@@ -4,7 +4,7 @@ Kasteeldomeinen van Aaishove, Lozer, Mullem en Wannegem
 :Ankerplaats ID: A40052
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -280,19 +280,19 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * holle weg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -303,20 +303,20 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
  * hof
 
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
  * gehucht
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -330,7 +330,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 moestuin, hondekennel (Lozer)
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -338,7 +338,7 @@ moestuin, hondekennel (Lozer)
  * herberg
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -346,7 +346,7 @@ moestuin, hondekennel (Lozer)
  * wagenhuis
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
  * windmolen
@@ -354,7 +354,7 @@ moestuin, hondekennel (Lozer)
 
 Bekemolen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -365,7 +365,7 @@ Bekemolen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -375,7 +375,7 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -383,7 +383,7 @@ Elementen en patronen van landgebruik
 
 Sint- Hilariuslinde
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -392,25 +392,25 @@ Sint- Hilariuslinde
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * kouters
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

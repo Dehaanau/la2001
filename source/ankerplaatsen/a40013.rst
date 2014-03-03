@@ -197,24 +197,24 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
 
-*Geologie:**
+**Geologie:**
 
 
 moeraskalk
@@ -222,14 +222,14 @@ moeraskalk
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * waterput
 
 
 waterput bij Kruiskapel
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * verdedingingslinie
 
@@ -237,14 +237,14 @@ waterput bij Kruiskapel
 enkel een pad; ten oosten van de Kruiskapel ook een dijk. Linie
 dateert van 1702 (successieoorlog).
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
 Kruiskapel en 14 kruiswegkapelletjes
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
  * eendenkooi
@@ -255,13 +255,13 @@ voor de Kruiskapel staat een kruis, resten van eendenkooi
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
 
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -275,26 +275,26 @@ Koebrug (in1948 herbouwd na vernieling tijdens WOII)
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * turfput
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
  * onregelmatig
@@ -304,14 +304,14 @@ Elementen en patronen van landgebruik
 aan Kruiskapel: onregelmatige percelering/ Enkel Vettemeers en
 Heernisse historisch stabiel
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
 wijmen, populier
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -322,7 +322,7 @@ wijmen, populier
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
 

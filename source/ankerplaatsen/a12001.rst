@@ -172,12 +172,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -187,7 +187,7 @@ Geomorfologie/hydrografie
 
 Dijle, Boeimeerbeek, Molenbeek, Platte Beek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * veen
  * rietland
@@ -197,7 +197,7 @@ Dijle, Boeimeerbeek, Molenbeek, Platte Beek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
  * hof
@@ -205,13 +205,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * kasteelgracht
 
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * huis
  * herberg
@@ -219,7 +219,7 @@ kasteelpark
 
 tolhuisje
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -232,7 +232,7 @@ Hottentothoeve, Mispeldonkhoeve
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -242,13 +242,13 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -257,20 +257,20 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 zandwinningsput, bomkrater
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
@@ -278,7 +278,7 @@ zandwinningsput, bomkrater
 
 heiderelicten
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

@@ -4,7 +4,7 @@ Kasteeldorpen Voort en Gotem met Romeinse weg
 :Ankerplaats ID: A70004
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -183,20 +183,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 diep ingesneden, asymmetrische beekvallei van de Herkebeek
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -204,7 +204,7 @@ diep ingesneden, asymmetrische beekvallei van de Herkebeek
 
 Fonteinbeek, Herk, Herkebeek of Molenbeek, Motbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 vochtige beemden
@@ -212,21 +212,21 @@ vochtige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteelpark de Tornaco, kasteelpark van Hulsberg
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 Voort (straatdop op valleirandsite), Gotem en Hendrieken (hoopdorpen),
 gehucht Helshoven (hoopdorp)
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -235,27 +235,27 @@ gehucht Helshoven (hoopdorp)
 
 kasteel de Tornaco (Voort), Fonteinhof, kasteel va
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Engelingenmolen (Hoepertingen), Wijngaardmolen (Broekom)
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
  * pastorie
@@ -264,12 +264,12 @@ Engelingenmolen (Hoepertingen), Wijngaardmolen (Broekom)
 o.a. Christus-Koningkapel, kapel van Loretto, Sint-Dionysiuskerk,
 kluiskapel van Helshoven
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * gedenkteken
 
 
-*Archeologische elementen:**
+**Archeologische elementen:**
 Gallo-Romeinse vondsten (o.a. tumulus)
 
  **Andere:**
@@ -278,7 +278,7 @@ voormalig gemeentehuis Gotem, voormalig gemeentehuis en school Voort
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Romeinse weg
 
@@ -288,7 +288,7 @@ Tongeren-Kassel, Tongeren-Herentals
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -296,19 +296,19 @@ Elementen en patronen van landgebruik
 
 Jenneboom
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
@@ -316,7 +316,7 @@ Jenneboom
 
 verschillende delen historisch stabiel
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -324,12 +324,12 @@ verschillende delen historisch stabiel
 grasland onder boomgaarden, traditioneel open akkergebied, vochtige
 valleibeemden
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout

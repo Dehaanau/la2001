@@ -96,13 +96,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * kustduin
 
 met aansluitend strand; kopjes- en paraboolduinen
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
 
@@ -112,7 +112,7 @@ Ijzerestuarium
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
  * verdedingingslinie
@@ -129,7 +129,7 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Bos:**
+**Bos:**
 
  * struweel
 

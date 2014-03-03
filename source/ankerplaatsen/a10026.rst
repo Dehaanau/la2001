@@ -109,7 +109,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
@@ -118,14 +118,14 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 3 parken
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -133,17 +133,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * kasteelgracht
 
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * standbeeld
  * gedenkteken
@@ -152,22 +152,22 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Bos:**
+**Bos:**
 
  * loof
 

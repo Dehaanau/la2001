@@ -4,7 +4,7 @@ Mergelgrotten van Val-Meer en Zichen-Zussen-Bolder
 :Ankerplaats ID: A70045
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -169,18 +169,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
  * karsten
@@ -192,7 +192,7 @@ Coolen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -200,13 +200,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. kasteeltje Sint-Pieter
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 aaneengroeien van oorspronkelijke hoopdorpen
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -214,7 +214,7 @@ aaneengroeien van oorspronkelijke hoopdorpen
 
 o.a. kasteeltje Sint-Pieter
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -225,7 +225,7 @@ o.a. kasteeltje Sint-Pieter
 o.a. Burrefetwinning (met duiventil), Coenegrachts (met duifhuis),
 Liesens
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -235,7 +235,7 @@ Liesens
 o.a. Sint-Stefanuskerk, Sint-Pieterskerk, Sint-Genovevakerk,
 Banneux-kapel
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
  * gedenkteken
@@ -254,20 +254,20 @@ oud gemeentehuis
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
@@ -275,7 +275,7 @@ Elementen en patronen van landgebruik
 
 in het algemeen onregelmatig, op enkele gedeelten historisch stabiel
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -283,12 +283,12 @@ in het algemeen onregelmatig, op enkele gedeelten historisch stabiel
 traditioneel open akkerbouwgebied op de hoger gelegen delen,
 permanent grasland rond de dorpskommen
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout

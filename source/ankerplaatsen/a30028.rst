@@ -121,13 +121,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
 
 uitloper van het plateau van Wijnendaele
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -137,14 +137,14 @@ brongebied voor Kamarde-, Kasteel- en Westbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 Ter Hiede
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -155,21 +155,21 @@ Ter Hiede
 
 omwalling
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * herberg
 
 
 Herberg Wikkelaar
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Hoeve Praatbos,
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
 
@@ -180,7 +180,7 @@ Ouders"
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Oostenrijkse periode
 
@@ -190,7 +190,7 @@ provinciebaan tussen Beerst en Wijnendaele
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -201,7 +201,7 @@ Elementen en patronen van landgebruik
 dreef langs provinciebaan, houtkant ten noorden van begraafplaats,
 dreven bij kasteel
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
@@ -209,7 +209,7 @@ dreven bij kasteel
 
 veedrinkpoel
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 

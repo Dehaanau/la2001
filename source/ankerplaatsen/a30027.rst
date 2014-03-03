@@ -144,20 +144,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 langs valleiranden (steilrand) van Poperingse Vaart
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * steilrand
 
 valleiranden van Ijzer
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -170,14 +170,14 @@ Ijzer en Poperingse Vaart, Dode Ijzer bij Roesbrugge-Haringe
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * hof
 
 
 Tempeliershof
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -185,7 +185,7 @@ Tempeliershof
 
 Eversamhoeve: enkel oorspronkelijke schuur rest
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * abdij
@@ -197,7 +197,7 @@ Eversamhoeve bij verdwenen abdij; kerken aan de rand van vallei
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -210,7 +210,7 @@ bij Vleteren
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
@@ -218,12 +218,12 @@ Elementen en patronen van landgebruik
 langs Ijzer; knotbomenrijen langs perceelsranden stroomopwaarts
 Poperingse Vaart
 
-*Topografie:**
+**Topografie:**
 
 
 loodrecht op Ijzer of zijbeken
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * meersen

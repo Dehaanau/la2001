@@ -4,7 +4,7 @@ Omgeving van het Iers Kruis op de Keiberg te Lafelt
 :Ankerplaats ID: A70059
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -124,12 +124,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
 
@@ -138,7 +138,7 @@ zacht golvend reliëf
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -147,12 +147,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. Iers Kruisstraat 76-78
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
 
@@ -165,7 +165,7 @@ artefacten uit Steen-, Ijzer- en Gallo-Romeinse tijd
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Romeinse weg
 
@@ -175,29 +175,29 @@ Tongeren-Maastricht
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
 
 hoger gelegen, traditioneel open akkerbouwgebied
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * pestbosje
 

@@ -4,7 +4,7 @@ Abdij van Kolen en Kolenberg
 :Ankerplaats ID: A70049
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -164,13 +164,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -178,7 +178,7 @@ Geomorfologie/hydrografie
 
 steilrand tussen Laag- en Midden-België
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -186,7 +186,7 @@ steilrand tussen Laag- en Midden-België
 
 Kleine Herk, Vilster- of Vilsteegbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 drassige beemden
@@ -194,21 +194,21 @@ drassige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
 
 
 ommuurde abdijtuin en boomgaard
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 voormalig neerhof van de abdij
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -224,39 +224,39 @@ typische smeedijzeren hekkens aan de ingangen van boomgaarden
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * kerkwegel
 
 
 kerkwegel van abdij naar pastorie en kerk
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -264,7 +264,7 @@ Elementen en patronen van landgebruik
 grasland onder boomgaarden, vochtige beemden, open akkers op hoger
 gelegen delen
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 

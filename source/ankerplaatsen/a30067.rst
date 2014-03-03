@@ -4,7 +4,7 @@ Patersmote Kortrijk
 :Ankerplaats ID: A30067
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -98,7 +98,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -110,7 +110,7 @@ Leie, Markebeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -118,7 +118,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 bij patersmote; park bij kasteel van Marke
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -127,7 +127,7 @@ bij patersmote; park bij kasteel van Marke
 
 landgoed ten oosten kasteeldomein; ommuurde tuin
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * motte
 
@@ -138,7 +138,7 @@ patersmote
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -146,19 +146,19 @@ Elementen en patronen van landgebruik
 
 restanten van knotbomenrijen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 bij kasteel, op domein van Patersmote
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
 

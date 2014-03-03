@@ -138,18 +138,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -158,7 +158,7 @@ Geomorfologie/hydrografie
 
 Meentochtbeekje, Serskampse beek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
 
@@ -167,7 +167,7 @@ Meentochtbeekje, Serskampse beek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -176,7 +176,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -186,27 +186,27 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
 
 bomen
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

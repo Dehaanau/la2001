@@ -165,18 +165,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * markante terreinovergang
 
 rand van de Cuesta van het Waasland
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -188,7 +188,7 @@ rand van de Cuesta van het Waasland
 Rupelmondse Kreek, Barbierbeek, Kapelbeek, Kruibeekse Kreek, Bazelse
 kreek, Twissels
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -198,19 +198,19 @@ kreek, Twissels
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * plein
  * gehucht
 
 Bazel
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -220,26 +220,26 @@ Bazel
 
 Kasteel van Wissekerke, Graventoren, Altena
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * herberg
 
 
 herberg de Eenhoorn
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 getijdewatermolen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -254,14 +254,14 @@ Scheepswerf van Rupelmonde, veer over Schelde (2)
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
  * Romeinse weg
 
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -274,14 +274,14 @@ stoompompgemaal
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
 
 
 linden op wegensplitsingen (met kapelletjes)
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -289,25 +289,25 @@ linden op wegensplitsingen (met kapelletjes)
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * turfput
  * weel
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * historisch stabiel
 
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek
@@ -316,7 +316,7 @@ linden op wegensplitsingen (met kapelletjes)
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
  * buitendijks

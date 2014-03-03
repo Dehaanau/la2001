@@ -127,21 +127,21 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 langs wegen en hellingen
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * heuvel
  * holle weg
 
 interfluvium Ijzer en Schelde-Leie
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -151,31 +151,31 @@ Bassevillebeek, Vijverbeek, Drieblotenbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * hof
 
 
 Pollepelhof en Lindenhof met chicorei-ast
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 Godschalk en Catalunya
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
 
 restanten loopgraven, kerkhoven, hill62
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * gedenkteken
 
@@ -188,7 +188,7 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -197,7 +197,7 @@ Elementen en patronen van landgebruik
 
 als perceelsrandbegroeiing, toegangsdreef kerkhof, dreven in bossen
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

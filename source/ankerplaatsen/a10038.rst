@@ -139,13 +139,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -155,21 +155,21 @@ Merrebeek, Molenbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 parkbos, moestuin
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteelgracht
 
 
 fundering & dienstgebouwen v/ Kasteel Zevenbergen
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -178,7 +178,7 @@ fundering & dienstgebouwen v/ Kasteel Zevenbergen
 
 Driepikkelhoeve, Gasthuishoeve + waterput
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -186,13 +186,13 @@ Driepikkelhoeve, Gasthuishoeve + waterput
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -200,7 +200,7 @@ Elementen en patronen van landgebruik
 
 kastanjedreef
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
@@ -208,17 +208,17 @@ kastanjedreef
 
 kasteelvijver
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

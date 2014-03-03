@@ -4,7 +4,7 @@ Boomgaarden van Grootloon
 :Ankerplaats ID: A70050
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -138,20 +138,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 sterk door erosie versneden heuvelend landschap
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -159,7 +159,7 @@ sterk door erosie versneden heuvelend landschap
 
 Bollebeek
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -169,20 +169,20 @@ oude ambachtelijke zandgroeve
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
 
 
 Grote Mot
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 langgerekt hoopdorp
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -190,7 +190,7 @@ langgerekt hoopdorp
 
 o.a. Grote Mot
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -199,7 +199,7 @@ o.a. Grote Mot
 
 o.a. Servaeshoeve
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
 
@@ -215,14 +215,14 @@ opvallende toren met oude veldschuil en voetgangerssluisje
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Romeinse weg
 
 
 Tongeren-Kassel
 
-*Spoorweg:**
+**Spoorweg:**
 
  * oude tramroute
 
@@ -231,36 +231,36 @@ Borgloon-Oreye
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 grasland onder boomgaarden
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 

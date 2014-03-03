@@ -100,7 +100,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -110,7 +110,7 @@ Spillebeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -118,19 +118,19 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Domein Hemelrijk, muurtuin, Rhodotuin, seringentuin
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * boswachterswoning
 
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * huis
 
 
 rentmeestershuis
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -141,12 +141,12 @@ rentmeestershuis
 Klokhoeve + graanmolen & houtzagerij, Louishoef, Emeranshoef,
 Kiekenhoeve
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * grenspaal
 
 
-*Andere:**
+**Andere:**
 Quarantainestallen
 
 
@@ -154,18 +154,18 @@ Quarantainestallen
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 

@@ -149,12 +149,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -164,7 +164,7 @@ Geomorfologie/hydrografie
 Tappelbeek, Risschotse Loop, Monnikenloop, Voorste Hoevenloop,
 Hulstenbeekje
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -174,14 +174,14 @@ Hulstenbeekje
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteelpark
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -189,14 +189,14 @@ kasteelpark
 
 'Zoerselhof'
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 voormalige provisorwoning
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -206,7 +206,7 @@ voormalige provisorwoning
 
 'Boshof' + bakhuisje, 'Boshuisje', Voorste Hoeven
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -215,7 +215,7 @@ voormalige provisorwoning
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -223,7 +223,7 @@ Elementen van transport en infrastructuur
 
 typisch voorbeeld van Kempische zandwegen, Bosstraatje, Boshuisweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * brug
@@ -237,29 +237,29 @@ typisch voorbeeld van Kempische zandwegen, Bosstraatje, Boshuisweg
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
@@ -267,7 +267,7 @@ Elementen en patronen van landgebruik
 
 deels historisch stabiel bos, heiderelicten
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -278,7 +278,7 @@ deels historisch stabiel bos, heiderelicten
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * vloeiweide
 

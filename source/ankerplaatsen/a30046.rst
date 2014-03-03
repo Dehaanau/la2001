@@ -103,20 +103,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 valleiranden; uitgebakken terrein
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * heuvel
 
 interfluviale kam
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -127,32 +127,32 @@ Zandbeek; droge vallei tussen boscomplexen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve Driehoven (met ast), Labroye
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
-*Archeologische elementen:**
+**Archeologische elementen:**
 archeologische sporen van Ijzertijd en Gallo-Romeinse periode
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * knotbomenrij
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

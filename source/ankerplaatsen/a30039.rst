@@ -234,14 +234,14 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 geologisch bepaald;
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -249,7 +249,7 @@ geologisch bepaald;
 
 vidaigne- en rodeberg; interlfuviumgrens
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -257,7 +257,7 @@ vidaigne- en rodeberg; interlfuviumgrens
 
 Douvevallei; talrijke beken
 
-*Geologie:**
+**Geologie:**
 
 
 zgn. Diestiaanafzettingen op toppen
@@ -266,21 +266,21 @@ zgn. Diestiaanafzettingen op toppen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 bij kasteel Behaeghel
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
 
 
 kasteel Behaeghel
 
-*Molens:**
+**Molens:**
 
  * windmolen
 
@@ -294,7 +294,7 @@ archeologische resten op vidaigne- en rodeberg???
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -302,14 +302,14 @@ Elementen en patronen van landgebruik
 
 langs beken, op taluds, langs steilranden van beken
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 bij kasteel Behaeghel
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

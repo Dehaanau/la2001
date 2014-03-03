@@ -101,14 +101,14 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 langs valleigrens
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -118,7 +118,7 @@ Vleterbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -129,7 +129,7 @@ hoeves karakteristiek plaats aan rand vallei met toegangsweg
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -137,12 +137,12 @@ Elementen en patronen van landgebruik
 
 langs beek; en begroeide taluds
 
-*Topografie:**
+**Topografie:**
 
 
 langste perceelszijde loodrecht op loop Vleterbeek
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hop
 

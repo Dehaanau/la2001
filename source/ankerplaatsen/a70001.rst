@@ -4,7 +4,7 @@ Watering van Lommel-Kolonie
 :Ankerplaats ID: A70001
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -224,12 +224,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -237,7 +237,7 @@ Geomorfologie/hydrografie
 
 Heuvelse loop
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 kunstmatig aangelegde, vochtige weiden
@@ -245,34 +245,34 @@ kunstmatig aangelegde, vochtige weiden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 voormalige Rijkslandbouwkolonie (huidige Koloniestraat)
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 wateringhuis
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve Corens
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * pastorie
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * grenspaal
 
@@ -281,7 +281,7 @@ hoeve Corens
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -290,7 +290,7 @@ Elementen van transport en infrastructuur
 
 steenweg 's Hertogenbosch-Luik, verbindingswegen en -paden
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -305,7 +305,7 @@ kanaal Bocholt-Herentals
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
@@ -313,7 +313,7 @@ Elementen en patronen van landgebruik
 
 o.a. paardekastanjes als voormalige erfbeplanting in de Kolonie
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -321,24 +321,24 @@ o.a. paardekastanjes als voormalige erfbeplanting in de Kolonie
 
 o.a. bomenrijen op de dijken
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 kunstmatig aangelegde, vochtige weiden
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -346,7 +346,7 @@ kunstmatig aangelegde, vochtige weiden
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering

@@ -107,14 +107,14 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 langs opgespoten terrein en langs kanaal
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -124,7 +124,7 @@ langs taluds kanaal tertiaire formaties Tielt en Ieper
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -134,13 +134,13 @@ o.a. St-Pietershof, hoeve ten westen van Kraaibos
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
 Zwevegem-Heestert
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * brug
@@ -151,14 +151,14 @@ St-pietersbrug op oude kanaalarm
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * knotbomenrij
 
 struweelbegroeiing langs talud
 
-*Bos:**
+**Bos:**
 
  * struweel
 

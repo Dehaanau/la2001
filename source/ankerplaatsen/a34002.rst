@@ -4,7 +4,7 @@ Scheldemeanders Avelgem
 :Ankerplaats ID: A34002
 
 
-*Landschap**
+**Landschap**
 
 
 Omschrijving
@@ -152,14 +152,14 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * steilrand
  * markante terreinovergang
 
 steilrand langs grens van de Scheldevallei
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -171,7 +171,7 @@ Schelde; La Rhosnesbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
 
@@ -181,11 +181,11 @@ kerk als bouwkundig erfgoed en omwille van de typische ligging
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
@@ -196,7 +196,7 @@ rijtgracht; "Brug van de Waterhoek"
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -204,14 +204,14 @@ Elementen en patronen van landgebruik
 
 langs perceelsgrenzen en langs oude schelde-armen
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
 
 
 vlakbij steilrand, tussen Oude en Nieuwe Rijtgracht
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * meersen
 

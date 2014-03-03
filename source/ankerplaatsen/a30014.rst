@@ -81,7 +81,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * kustduin
 
@@ -90,21 +90,21 @@ met bijhorend strand
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 park bij Provinciaal domein Prins Karel
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * villa
 
 
 domein Prins Karel met visserswoningen gerestaureerd
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
  * verdedingingslinie
@@ -118,7 +118,7 @@ historisch vissersdorp Walraversijde met enkele opgravingen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
@@ -128,7 +128,7 @@ Graaf Jansdijk vormt grens tussen duinen en achterliggende polder
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 

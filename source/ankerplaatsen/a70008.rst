@@ -4,7 +4,7 @@ Kasteeldomein van Heks en omgeving
 :Ankerplaats ID: A70008
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -179,20 +179,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * holle weg
 
 heuvelachtig
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -200,12 +200,12 @@ heuvelachtig
 
 Herkebeek of Molenbeek, Marmelbeek, Sassenbroekbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 vochtige valleigronden
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -215,7 +215,7 @@ tertiaire ondergrond ontsloten op heuveltoppen en in holle wegen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -223,7 +223,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelparken van Heks, Bommershoven en Heurne
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * dries
@@ -232,7 +232,7 @@ kasteelparken van Heks, Bommershoven en Heurne
 hoopdorp (Heks), straatdorp met dries (Bommershoven), kleine kernen
 (gehuchten)
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -241,7 +241,7 @@ hoopdorp (Heks), straatdorp met dries (Bommershoven), kleine kernen
 
 kastelen van Heks, Bommershoven en Heurne
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -249,7 +249,7 @@ kastelen van Heks, Bommershoven en Heurne
 
 o.a. rentmeesterswoning
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -258,14 +258,14 @@ o.a. rentmeesterswoning
 o.a. Manshovenhof, Monnikkenhof, Biezenhof, Rode Hoeve, de Bellefroid
 (in 't Broeck)
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 molen Heks, Sassenbroekmolen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -276,7 +276,7 @@ molen Heks, Sassenbroekmolen
 o.a. kapel Sint-Gerardus Majella / Sint-Pieter, klooster
 Sint-Vincentius, kerk OLV / Sint-Alfonisus
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
 
@@ -292,20 +292,20 @@ voormalig gemeentehuis en -school, tramhaltes
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Romeinse weg
 
 
 Bilzen-Waremme, Tongeren-Kassel en diverticula
 
-*Spoorweg:**
+**Spoorweg:**
 
  * oude tramroute
 
 Borgloon-Oreye
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -315,31 +315,31 @@ drainagesloten in valleibossen
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -347,12 +347,12 @@ Elementen en patronen van landgebruik
 vochtige valleigronden, traditioneel open akkerbouwgebied, bos en
 park, boomgaarden en weiden
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

@@ -313,7 +313,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * graft
  * talud
@@ -321,13 +321,13 @@ Geomorfologie/hydrografie
 
 langs valleiranden en hellingen
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * heuvel
  * steilrand
  * holle weg
 
-*Geologie:**
+**Geologie:**
 
  * graften
 
@@ -340,11 +340,11 @@ bronniveau's door de geologishce ondergrond
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
 dorpen op toppen van heuvels gelegen
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -352,7 +352,7 @@ dorpen op toppen van heuvels gelegen
 
 Westhof, allen in wederopbouwarchitectuur
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
  * motte
@@ -360,13 +360,13 @@ Westhof, allen in wederopbouwarchitectuur
 
 bij Westhof en elders in ankerplaats
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * standbeeld
  * kruis
@@ -383,14 +383,14 @@ vesting,…
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Romeinse weg
 
 
 Bellestraat (gem. Heuvelland)
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * sluis
  * stuw
@@ -401,7 +401,7 @@ Dikkebusvijver afgedamd met sluis in Vaubantoren
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -412,7 +412,7 @@ Elementen en patronen van landgebruik
 
 resten van bocagelandschap; grote soortenrijkdom aan knotbomen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
@@ -420,7 +420,7 @@ resten van bocagelandschap; grote soortenrijkdom aan knotbomen
 
 poelen door geologische gesteldheid; Dikkebusvijver
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
  * historisch stabiel
@@ -428,7 +428,7 @@ poelen door geologische gesteldheid; Dikkebusvijver
 
 in Douvevallei
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek

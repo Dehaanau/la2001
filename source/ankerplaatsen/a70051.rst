@@ -4,7 +4,7 @@ Berlingen en Kuttekoven
 :Ankerplaats ID: A70051
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -176,13 +176,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -190,7 +190,7 @@ Geomorfologie/hydrografie
 
 heuvelachtig, sterk ingesneden door erosie
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -199,7 +199,7 @@ heuvelachtig, sterk ingesneden door erosie
 
 Herk, Rullingenbeek met bronamfitheater
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 vochtige beemden
@@ -207,20 +207,20 @@ vochtige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteelparken De Klee en Rullingen
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
 
 hoopdorp Kuttekoven, straatdorp Berlingen
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -230,12 +230,12 @@ hoopdorp Kuttekoven, straatdorp Berlingen
 
 De Klee, Rullingen
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * huis
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -245,14 +245,14 @@ De Klee, Rullingen
 o.a. De Klee, Pexters, restanten Hof van Herckenrode, 't Klein
 Kasteeltje
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Oude Molen, Nieuwe Molen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -267,14 +267,14 @@ prehistorische en Gallo-Romeinse vondsten
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * Romeinse weg
 
 
 Tongeren-Herentals-Antwerpen
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
@@ -283,20 +283,20 @@ Sint-Truiden - Tongeren
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
  * historisch stabiel
@@ -304,7 +304,7 @@ Elementen en patronen van landgebruik
 
 zuidoost-noordwest georiënteerd patroon
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -312,12 +312,12 @@ zuidoost-noordwest georiënteerd patroon
 vochtige beemden, grasland onder boomgaarden, akkers met traditioneel
 open karakter
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout

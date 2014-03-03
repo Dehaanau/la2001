@@ -154,13 +154,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
@@ -168,7 +168,7 @@ Geomorfologie/hydrografie
 
 getuigenheuvels en ten zuiden van de vallei enkele depressies
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -177,7 +177,7 @@ getuigenheuvels en ten zuiden van de vallei enkele depressies
 
 o.a. Zwarte Beek, Bakelsbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -189,7 +189,7 @@ hooilanden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -197,14 +197,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 o.a. kasteel Lobos, Geesthuis
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * plein
 
 driehoekig plein in het straatdorp Zelem
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -213,7 +213,7 @@ driehoekig plein in het straatdorp Zelem
 
 kasteel Lobos
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -221,7 +221,7 @@ kasteel Lobos
 
 o.a. Geesthuis
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -230,14 +230,14 @@ o.a. Geesthuis
 
 o.a. Eksterhoek, kasteelhoeve Lobos, Oude Pastorij
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * schans
 
 
 Oude Schans
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * klooster
@@ -250,7 +250,7 @@ Sint-Lambertuskerk met kerkhof
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -264,30 +264,30 @@ Beek
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * heide
@@ -296,12 +296,12 @@ Elementen en patronen van landgebruik
 beemden, hier broeken genoemd, akkers aan de valleirand,
 heiderelicten
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -311,7 +311,7 @@ heiderelicten
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
 

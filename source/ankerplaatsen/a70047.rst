@@ -4,7 +4,7 @@ Kastelen van Groenendaal en Zangerhei
 :Ankerplaats ID: A70047
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -165,18 +165,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
 
 vlak tot zachtgolvend
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -184,7 +184,7 @@ vlak tot zachtgolvend
 
 o.a. Elsterbeek, Meersbeek, Molenbeek, Wilderbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -195,14 +195,14 @@ vochtige graslanden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteelparken Groenendaal en Zangerhei
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -211,12 +211,12 @@ kasteelparken Groenendaal en Zangerhei
 
 kastelen Groenendaal en Zangerhei
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * huis
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -225,19 +225,19 @@ kastelen Groenendaal en Zangerhei
 
 o.a. hoeven Hommelen en Klein Hommelen, kasteelhoeve Groenendaal
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
 o.a. Sint-Rochuskapel
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
 
 gietijzeren pomp met waterbekken
@@ -248,7 +248,7 @@ burchtruïne Jonckholt
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
@@ -257,30 +257,30 @@ Hasselt-Maastricht
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
@@ -288,7 +288,7 @@ Elementen en patronen van landgebruik
 vochtige hooi- en graslanden, al dan niet beplant of begrensd met
 populieren
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

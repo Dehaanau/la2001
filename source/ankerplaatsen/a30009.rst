@@ -102,18 +102,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * kustduin
 
 kopjesduinen
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -123,7 +123,7 @@ o.a. Schuddebeurzebeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -131,7 +131,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Kleine Bamburghoeve: enorme schuur (blikvanger door rode poorten)
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
 
@@ -140,7 +140,7 @@ Kleine Bamburghoeve: enorme schuur (blikvanger door rode poorten)
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -152,19 +152,19 @@ kanaal Plassendale-Nieuwpoort met boterdijk
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
 
 rietkragen in grachten; bomenrij langs kanaal begrenst gebied
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 

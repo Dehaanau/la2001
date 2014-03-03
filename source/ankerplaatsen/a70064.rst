@@ -4,7 +4,7 @@ Kasteel van Hasselbroek
 :Ankerplaats ID: A70064
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -142,12 +142,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -158,7 +158,7 @@ Cicindria
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -166,14 +166,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark van Hasselbroek met moestuin
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 straatgehucht Hasselbroek
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * hovenierswoning
@@ -186,7 +186,7 @@ straatgehucht Hasselbroek
 
 kasteel van Hasselbroek
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -196,14 +196,14 @@ kasteel van Hasselbroek
 
 o.a. kasteelhoeve, hoeve Stassens of Witte Hoeve
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
 Sint-Jobkapel
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
 
 hekwerk, muren
@@ -214,7 +214,7 @@ tuinmeubilair, -paviljoen en -ornamenten (hondenhok, zonnewijzer)
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
 
@@ -224,13 +224,13 @@ brug als toegang tot kasteelhoeve
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * hagen
@@ -238,19 +238,19 @@ Elementen en patronen van landgebruik
 
 Lindedreef, meidoornhagen langs de straat
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 restant van voormalige omgrachting
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

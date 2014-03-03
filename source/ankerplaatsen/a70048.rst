@@ -4,7 +4,7 @@ Kasteel van Hocht en Hochterbampd
 :Ankerplaats ID: A70048
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -144,13 +144,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -159,12 +159,12 @@ Geomorfologie/hydrografie
 
 Maas, Langkeukelbeek, Molenbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 vochtige graslanden in de uiterwaarden
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -174,12 +174,12 @@ grindbanken
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -188,7 +188,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteel van Hocht, voormalige abdij
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -196,12 +196,12 @@ kasteel van Hocht, voormalige abdij
  * wagenhuis
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
  * abdij
@@ -215,7 +215,7 @@ ruïnes kerkkoor als tuinprieel
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -223,7 +223,7 @@ Elementen van transport en infrastructuur
 
 afgesneden weg naar Pietersheim, Hochter Wegelke
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -237,38 +237,38 @@ Verbindingskanaal Briegden-Neerharen, Zuid-Willemsvaart
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 kasteelparkvijvers, open water door grindwinning
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 vochtige beemden in de uiterwaarden
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek
@@ -278,7 +278,7 @@ vochtige beemden in de uiterwaarden
 
 ooibos
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * uiterwaarden
 

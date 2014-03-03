@@ -123,13 +123,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * heuvel
 
 heuvelrug
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -139,21 +139,21 @@ Korverbeek en Zanddambeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 kasteel De Groote
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * herberg
 
 
 munneke herberg in zuidwesten
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
 
 bomkraters WOI; militair kerkhof
@@ -161,27 +161,27 @@ bomkraters WOI; militair kerkhof
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Spoorweg:**
+**Spoorweg:**
 
 militaire spoorweg
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
 dreven in Vrijbos, restanten ervan in het bos van Houthulst
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 oude bomkraters
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

@@ -116,7 +116,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
@@ -124,12 +124,12 @@ Geomorfologie/hydrografie
 
 vijverdam in noordoosten van ankerplaats
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * ven
 
 
-*Geologie:**
+**Geologie:**
 
 
 vochtige gronden (laag gelegen)
@@ -137,7 +137,7 @@ vochtige gronden (laag gelegen)
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -147,18 +147,18 @@ hofstede Vloethem, Hoeve Hildaghem (Ter Vraghe), hoeve Noortweghe
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
 
 onverharde zandwegen
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
 spoorweg naar en op militair domein
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
 
 vijverdam in noordoosten
@@ -166,7 +166,7 @@ vijverdam in noordoosten
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -175,14 +175,14 @@ Elementen en patronen van landgebruik
 buiten bosgebied; zeer gave knotbomenrijen in zuidwestelijke hoek en
 rond Walebeek
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 in militiar domein (geen/weinig overeenkomst met veldvijvers)
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
@@ -190,7 +190,7 @@ in militiar domein (geen/weinig overeenkomst met veldvijvers)
 buiten militair domein (ten noord- en zuidoosten) blokvormige
 percelen met dreven
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * heide
 
@@ -198,7 +198,7 @@ percelen met dreven
 vochtige heide en heischrale graslanden door niet bemesten op
 militiair domein
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

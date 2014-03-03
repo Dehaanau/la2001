@@ -4,7 +4,7 @@ Vallei van de Abeek (bovenloop) en straatdorp Plokrooi
 :Ankerplaats ID: A70021
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -135,18 +135,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
 
 Kempens Plateau
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -155,7 +155,7 @@ Kempens Plateau
 
 Abeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -171,14 +171,14 @@ stuifzand
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 straatgehucht Plokrooi
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -187,22 +187,22 @@ straatgehucht Plokrooi
 
 langgevelhoeven
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
 
 
-*Archeologische elementen:**
+**Archeologische elementen:**
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -210,7 +210,7 @@ Elementen van transport en infrastructuur
 
 opstrekkend patroon van paden en wegen achter Plokrooi
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -222,38 +222,38 @@ opstrekkend patroon van paden en wegen achter Plokrooi
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * turfput
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * opstrekkend
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
  * heide
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -263,7 +263,7 @@ Elementen en patronen van landgebruik
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide

@@ -94,7 +94,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * graft
  * talud
@@ -102,14 +102,14 @@ Geomorfologie/hydrografie
 
 langs valleigrenzen, langs hellingen
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * heuvel
  * holle weg
 
 Tiegemberg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -120,28 +120,28 @@ dalhoofden; bronniveau's
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 St-Arnolduspark met kleine waterpartijen
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Hof Ter Linden; Helleboshoeve
 
-*Molens:**
+**Molens:**
 
  * windmolen
 
 
 Bergmolen
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -152,14 +152,14 @@ St-Arnolduskapel
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * knotbomenrij
 
-*Bos:**
+**Bos:**
 
  * loof
 

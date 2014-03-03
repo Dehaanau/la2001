@@ -4,7 +4,7 @@ Dal van de Berwijn
 :Ankerplaats ID: A70015
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -173,7 +173,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
@@ -181,7 +181,7 @@ Geomorfologie/hydrografie
 
 trappenprofiel
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * markante terreinovergang
@@ -189,7 +189,7 @@ trappenprofiel
 
 Maasterrassen, steile dalhellingen, historische holle wegen
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * vallei
@@ -198,12 +198,12 @@ Maasterrassen, steile dalhellingen, historische holle wegen
 
 Berwijn
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 vochtig grasland
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -213,12 +213,12 @@ o.a. primaire gesteenten (harde kalksteen uit het Onder Carboon)
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -227,14 +227,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
 
 
 historische holle wegen
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
  * stuw
@@ -245,41 +245,41 @@ molensloot met stuw en zalmtrap
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 hellings- en valleigraslanden
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * hooghout

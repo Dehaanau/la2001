@@ -116,14 +116,14 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 rond bronniveaus vaak taluds
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * steilrand
  * markante terreinovergang
@@ -132,14 +132,14 @@ rond bronniveaus vaak taluds
 steilrand van het plateau van Wijnendaele aangesneden door talrijke
 bronbeken
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
 
 vooral brongebied; Wijnendaelebron
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 rond bronniveaus
@@ -147,7 +147,7 @@ rond bronniveaus
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -159,17 +159,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteel van Wijnendaele:waterburcht (hoge toren)
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * afspanning
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -182,14 +182,14 @@ oude bewoningssite in bos gelegen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
 
 
 dreven loodrecht op elkaar; as Torhout - Wijnendaele-kasteel
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
 
 fontein bij kasteel en kasteelgracht; brongebouw rond bron
@@ -197,23 +197,23 @@ fontein bij kasteel en kasteelgracht; brongebouw rond bron
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
 
 kasteelgracht
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
 
 zogenaamde "carrés"; oude bosindeling
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

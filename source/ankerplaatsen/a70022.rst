@@ -4,7 +4,7 @@ Vallei van de Bosbeek en De Houw
 :Ankerplaats ID: A70022
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -201,13 +201,13 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * landduin
@@ -217,7 +217,7 @@ Geomorfologie/hydrografie
 
 belangrijke dalbodem met pediment
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -227,7 +227,7 @@ belangrijke dalbodem met pediment
 
 o.a. Bosbeek, Kleine Beek, Berkeinderzijp
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -237,7 +237,7 @@ o.a. Bosbeek, Kleine Beek, Berkeinderzijp
 
 vochtige beemden
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -246,21 +246,21 @@ vochtige beemden
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 kasteeldomein De Schans
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
 
 gehuchten Aartshouw en De Houw
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -269,26 +269,26 @@ gehuchten Aartshouw en De Houw
 
 kasteel De Schans
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Oude Molen, Slagmolen, Dorpermolen
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * schans
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -296,19 +296,19 @@ Oude Molen, Slagmolen, Dorpermolen
 
 o.a. Sint-Dyonisiuskerk
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
 
 
-*Archeologische elementen:**
+**Archeologische elementen:**
 o.a. Gallo-Romeinse vondsten, industrieel-archeologisch erfgoed
 (watermolens)
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -318,7 +318,7 @@ Elementen van transport en infrastructuur
 o.a. opstrekkend wegenpatroon tussen vallei, nederzettingen en
 plateau, evenals achter De Houw
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -330,13 +330,13 @@ plateau, evenals achter De Houw
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -345,20 +345,20 @@ Elementen en patronen van landgebruik
  * hagen
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * turfput
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * opstrekkend
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
@@ -367,12 +367,12 @@ Elementen en patronen van landgebruik
 
 o.a. akkers, heiderelicten, vochtige hooi- en weilanden
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -382,7 +382,7 @@ o.a. akkers, heiderelicten, vochtige hooi- en weilanden
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide

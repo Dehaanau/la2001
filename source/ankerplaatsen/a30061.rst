@@ -119,11 +119,11 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
 interfluviale kam
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
@@ -133,14 +133,14 @@ zijbeek Marsbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 Engelse landschapsstijl
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -150,7 +150,7 @@ Engelse landschapsstijl
 
 kast. Nieuwburg en Breidels
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
  * huis
@@ -158,7 +158,7 @@ kast. Nieuwburg en Breidels
 
 de gebouwen nabij kasteeldomein Nieuwburg door hun uniform kleur
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -171,14 +171,14 @@ landgoed bij kast. Nieuwburg en omliggende hoeves
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
 
 
 in de parken
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -186,28 +186,28 @@ in de parken
 
 gave knot/bomenrijen bij Nieuwburg
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 bij kastelen
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
 
 
 geaccentueerd door dreven
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
  * hoogstam
 
 
 bij kast Nieuwburg
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

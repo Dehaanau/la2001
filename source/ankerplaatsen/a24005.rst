@@ -148,20 +148,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -170,12 +170,12 @@ Geomorfologie/hydrografie
 
 bronnen
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
 
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -184,14 +184,14 @@ bronnen
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * hof
 
 
 Hof ten Steenborre
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * nederzettingspatroon
  * gehucht
@@ -199,7 +199,7 @@ Hof ten Steenborre
 Boskant: gehucht aan de bosrand (op Ferraris), specifiek
 nederzettingspatroon
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -209,7 +209,7 @@ nederzettingspatroon
 Verschillende (vierkant) hoeves die zich op plaatsen bevinden waar er
 tijdens Ferraris bos was.
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
 
@@ -219,7 +219,7 @@ Juffrouwkapel, Sint- Pauluskapel, Atembekekapel,…
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -231,12 +231,12 @@ Kasseiweg (Bosberg), Keltische weg
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -244,29 +244,29 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 oud bos
 
-*Typische landbouwteelten:**
+**Typische landbouwteelten:**
 
 
 medische planten
 
-*Bos:**
+**Bos:**
 
  * loof
  * hakhout

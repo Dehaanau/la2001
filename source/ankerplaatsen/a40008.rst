@@ -4,7 +4,7 @@ Kraenepoel en Markettebossen
 :Ankerplaats ID: A40008
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -149,24 +149,24 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
  * vallei
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -176,14 +176,14 @@ Paniseliaan
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 Park Maria Hove
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -195,14 +195,14 @@ Park Maria Hove
 
 Maria Hove, duiventoren, dienstgebouwen
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * villa
 
 
 Villa Kraenepoel
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -211,7 +211,7 @@ Villa Kraenepoel
 
 Hoeve Van Wanseele, Hof de Warande
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -222,7 +222,7 @@ Kerk van Bellem
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -231,11 +231,11 @@ Elementen van transport en infrastructuur
 
 Heirweg Gent- Brugge
 
-*Spoorweg:**
+**Spoorweg:**
 
 spoorweg Gent- Brugge
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
@@ -245,7 +245,7 @@ overloop aan Kranepoel, dam in Kranepoel
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -256,14 +256,14 @@ Elementen en patronen van landgebruik
 
 achtsterrig drevenpatroon in Markettebos, dreef van Bellem naar Hansbeke
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 Kranepoel (met eilandjes), vijvers in park Maria Hove
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

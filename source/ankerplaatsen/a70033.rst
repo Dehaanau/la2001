@@ -4,7 +4,7 @@ Hageven
 :Ankerplaats ID: A70033
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -127,17 +127,17 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * landduin
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * rivier
@@ -146,7 +146,7 @@ Geomorfologie/hydrografie
 
 grotendeels rechtgetrokken Dommel
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * veen
  * rietland
@@ -157,12 +157,12 @@ grotendeels rechtgetrokken Dommel
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
  * grenspaal
@@ -174,14 +174,14 @@ metalen grenspalen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * pad
 
 
 knuppelpad
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * grachtenstelsel
@@ -192,35 +192,35 @@ Bergeikse dijk
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
 
 
-*Bos:**
+**Bos:**
 
  * loof
  * broek
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering

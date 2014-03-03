@@ -134,19 +134,19 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
 cuesta van Lotenhulle- Hertsberge
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -154,7 +154,7 @@ cuesta van Lotenhulle- Hertsberge
 
 Kwade stroom
 
-*Geologie:**
+**Geologie:**
 
  * ontsluitingen
 
@@ -164,21 +164,21 @@ Paniseliaan
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * landgoed
 
 
 Blekkerbos
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
  * stal
 
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -188,7 +188,7 @@ Blekkerbos
 
 Broeders van Liefde 'Blekkervijver'
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * grenspaal
 
@@ -201,7 +201,7 @@ voormalige kantschool
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -213,14 +213,14 @@ Diksmuidse Boterweg
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * hagen
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
@@ -228,13 +228,13 @@ Elementen en patronen van landgebruik
 
 vijvers bij landgoederen, poelen bij hoeves
 
-*Topografie:**
+**Topografie:**
 
  * blokvormig
  * historisch stabiel
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

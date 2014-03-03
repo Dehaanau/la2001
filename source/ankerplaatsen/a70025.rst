@@ -4,7 +4,7 @@ De Brand
 :Ankerplaats ID: A70025
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -162,12 +162,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -175,7 +175,7 @@ Geomorfologie/hydrografie
 
 Itterbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * ven
@@ -185,7 +185,7 @@ Itterbeek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -195,7 +195,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteel De Oude Kuil
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
@@ -205,7 +205,7 @@ Keyaertmolen en Galdermansmolen.
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -213,7 +213,7 @@ Elementen van transport en infrastructuur
 
 grotendeels historisch stabiel wegenpatroon
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
  * sluis
@@ -225,13 +225,13 @@ grotendeels historisch stabiel wegenpatroon
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
@@ -240,17 +240,17 @@ Elementen en patronen van landgebruik
 
 spinnewebstructuur
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
  * plaggenbodems
@@ -259,7 +259,7 @@ spinnewebstructuur
 
 vochtig hooi- en weiland
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -269,7 +269,7 @@ vochtig hooi- en weiland
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
 

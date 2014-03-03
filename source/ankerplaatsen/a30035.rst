@@ -178,18 +178,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 langs randen beekvalleien
 
-*Macroreliëf:**
+**Macroreliëf:**
 
 interfluvium
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -201,14 +201,14 @@ Poperingse Vaart
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
 bij kastelen
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * orangerie
@@ -217,19 +217,19 @@ bij kastelen
  * muur
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 Hospitaalhoeveen andere (soms restant walgracht)
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
 
 begraafplaatsen WOI (vnl. Britse)
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -241,20 +241,20 @@ kerk van Elverdinge
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
 
 
 bij kapellen
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
 
 zuidelijke grens
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
  * vijver
@@ -262,7 +262,7 @@ zuidelijke grens
 
 bij kastelen; poelen in bossen
 
-*Bos:**
+**Bos:**
 
  * loof
  * hakhout

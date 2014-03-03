@@ -4,7 +4,7 @@ Schoonbergbos - Vorte Bossen- Wantebeek
 :Ankerplaats ID: A34003
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -135,20 +135,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * talud
 
 
 boswal in Slangebossen
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * heuvel
 
 cuestafront
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -159,7 +159,7 @@ vallei van de Wantebeek rond brongebied
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
@@ -173,18 +173,18 @@ site van oude watermolen rond Akspoelehoeve
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * knotbomenrij
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
-*Topografie:**
+**Topografie:**
 
  * repelvormig
  * historisch stabiel
@@ -192,7 +192,7 @@ Elementen en patronen van landgebruik
 
 geometrisch patroon uit 18e eeuw; repelvormig in natte bosbestanden
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

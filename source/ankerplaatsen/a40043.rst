@@ -4,7 +4,7 @@ Kasteel van Leeuwergem
 :Ankerplaats ID: A40043
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -161,18 +161,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * heuvel
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -183,7 +183,7 @@ Geomorfologie/hydrografie
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -191,13 +191,13 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 tuin bij landhuis te Leeuwergem, park van kasteel van Leeuwergem
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * plein
 
 Sint - Eligiusplein Leeuwergem
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * toren
@@ -208,12 +208,12 @@ Sint - Eligiusplein Leeuwergem
 
 tour astronomique
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
-*Molens:**
+**Molens:**
 
  * watermolen
  * windmolen
@@ -221,14 +221,14 @@ tour astronomique
 
 watermolen op Molenbeek (thans restaurant) en windmolen in Holleweg
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
  * pastorie
 
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * kruis
 
@@ -238,16 +238,16 @@ graftombe, altaar in kasteelpark
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
  * kerkwegel
 
 
-*Spoorweg:**
+**Spoorweg:**
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * brug
  * grachtenstelsel
@@ -257,27 +257,27 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * hagen
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 vijvers rond Kasteel van Leeuwergem, bekken van voomalige watermolen
 
-*Bos:**
+**Bos:**
 
  * loof
  * hakhout

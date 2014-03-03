@@ -125,12 +125,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
@@ -139,14 +139,14 @@ Geomorfologie/hydrografie
 
 Cuesta van het Waasland
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
 
 bron
 
-*Geologie:**
+**Geologie:**
 
 
 Cuesta van het Waasland
@@ -154,7 +154,7 @@ Cuesta van het Waasland
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -162,7 +162,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -172,7 +172,7 @@ Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
 
 stal, koetshuis, serres, jachtpaviljoen,
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * stal
@@ -181,7 +181,7 @@ stal, koetshuis, serres, jachtpaviljoen,
 
 hoeve die aan Baudelo-abdij toebehoorde
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kapel
  * abdij
@@ -192,7 +192,7 @@ Rozenbergabdij
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -207,13 +207,13 @@ Oud Vliegveld van Waasmunster
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -222,19 +222,19 @@ Elementen en patronen van landgebruik
  * knotbomenrij
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 vijver in park Ortega
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

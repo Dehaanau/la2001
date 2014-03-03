@@ -4,7 +4,7 @@ Vallei van de Warmbeek en kasteel van Beverbeek
 :Ankerplaats ID: A70027
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -211,7 +211,7 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -220,7 +220,7 @@ Geomorfologie/hydrografie
 
 Warmbeek, Beverbeekloop, de Vliet
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * rietland
@@ -231,12 +231,12 @@ Warmbeek, Beverbeekloop, de Vliet
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * park
 
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * boswachterswoning
@@ -244,7 +244,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
  * kasteelgracht
 
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -254,21 +254,21 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 Jagerhof, Beverbeekhoeve
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
 
 Het Mulke
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * motte
 
 
 woontoren de Tomp
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -284,11 +284,11 @@ o.a. de Tomp, Grote Haart, de Waag
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Spoorweg:**
+**Spoorweg:**
 
  * verlaten spoorweg
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -297,32 +297,32 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
 oude vijvers Lange Els, Tompwijer, oude molenvijver
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * plaggenbodems
  * heide
@@ -330,7 +330,7 @@ oude vijvers Lange Els, Tompwijer, oude molenvijver
 
 heiderelicten, plaggenbodems in de omgeving van bebouwingskernen
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -338,7 +338,7 @@ heiderelicten, plaggenbodems in de omgeving van bebouwingskernen
  * hooghout
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * vloeiweide
  * watering

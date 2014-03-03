@@ -4,7 +4,7 @@ Jongenbos
 :Ankerplaats ID: A70013
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -102,20 +102,20 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
  * talud
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
 
 
 Winterbeek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
 
 gebrekkige natuurlijke drainage en hoge bodemvochtigheid
@@ -123,7 +123,7 @@ gebrekkige natuurlijke drainage en hoge bodemvochtigheid
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -131,7 +131,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark Jongenbosch
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -146,36 +146,36 @@ middeleeuwse vondsten
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
  * houtkant
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 historisch stabiel bos en weilanden
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof

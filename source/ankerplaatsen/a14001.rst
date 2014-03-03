@@ -181,18 +181,18 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Macroreliëf:**
+**Macroreliëf:**
 
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * kreek
@@ -200,7 +200,7 @@ Geomorfologie/hydrografie
 
 de Schelde
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
@@ -209,20 +209,20 @@ de Schelde
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
  * gehucht
 
 Prosperdorp
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
  * (heren)woning
 
 
 Enkele karakteristieke woningen te Lillofort.
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -230,19 +230,19 @@ Enkele karakteristieke woningen te Lillofort.
 
 Anoniushoeve, Prosperhoeve
 
-*Molens:**
+**Molens:**
 
  * windmolen
 
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * fort
 
 
 Fort Lillo, Fort Liefkenshoek
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -251,7 +251,7 @@ Fort Lillo, Fort Liefkenshoek
 
 St. -Engelbertus
 
-*Klein historisch erfgoed:**
+**Klein historisch erfgoed:**
 
  * gedenkteken
  * grenspaal
@@ -266,41 +266,41 @@ préhistorische werktuigen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * dijk
 
 
-*Andere:**
+**Andere:**
 greppelpatroon, overzet
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * solitaire boom
 
 
 aanplantingen Lillofort
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
 
 aanplantingen Lillofort
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Bos:**
+**Bos:**
 
  * loof
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
  * uiterwaarden

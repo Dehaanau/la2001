@@ -158,19 +158,19 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
 typisch voor Oudlandpolder
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * kreek
 
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
@@ -180,37 +180,37 @@ in verlande stukken van kreek
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Nederzettingspatronen:**
+**Nederzettingspatronen:**
 
 stad Damme
 
-*Bouwkundig erfgoed:**
+**Bouwkundig erfgoed:**
 
 
 St-Janshospitaal
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 St-Christoffelhoeve, Hoeve Bonem
 
-*Molens:**
+**Molens:**
 
  * windmolen
 
 
 Schellemolen
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * verdedingingslinie
 
 
 Vaubanvestingswallen bewaard
 
-*Kerkelijk erfgoed:**
+**Kerkelijk erfgoed:**
 
  * kerk
  * kapel
@@ -221,7 +221,7 @@ kerk te Damme: toren met plat dak; kapel Ter Mikkem
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -234,7 +234,7 @@ Damse Vaart in oude Zwingeul; o.a. Romboutswervedijk;
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
@@ -242,26 +242,26 @@ Elementen en patronen van landgebruik
 
 rond hoeves: bomenrijen; af en toe resten van perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
 veedrinkput
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 in de komgronden
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
 

@@ -100,14 +100,14 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
 typisch voor Oudlandpolders
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * waterloop
  * beek
@@ -119,7 +119,7 @@ geleden, beken, kreekrestant
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -127,7 +127,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 vooral op hogere kreekruggronden
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * motte
 
@@ -140,21 +140,21 @@ Elementen van transport en infrastructuur
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * knotbomenrij
 
 restanten van een veel dichter netwerk; ook veel rond hoeves en gebouwen
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
 veedrinkput
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 

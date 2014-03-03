@@ -4,7 +4,7 @@ Demervallei met kasteel 't Looi
 :Ankerplaats ID: A70056
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -156,12 +156,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * rivier
  * beek
@@ -170,7 +170,7 @@ Geomorfologie/hydrografie
 
 o.a. Demer, Voortbeek en verschillende zijbeken
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -183,7 +183,7 @@ valleibeemden van de Demer
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Koeren en hovingen:**
+**Koeren en hovingen:**
 
  * tuin
  * park
@@ -191,7 +191,7 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 kasteelpark 't Looi
 
-*Kastelen, landgoederen en aanhorigheden:**
+**Kastelen, landgoederen en aanhorigheden:**
 
  * kasteel
  * landgoed
@@ -202,7 +202,7 @@ kasteelpark 't Looi
 
 kasteel 't Looi
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
  * schuur
@@ -212,7 +212,7 @@ kasteel 't Looi
 
 o.a. kasteelhoeve 't Looi
 
-*Molens:**
+**Molens:**
 
  * watermolen
 
@@ -222,7 +222,7 @@ Grote Molen, Veldekemolen
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Wegenis:**
+**Wegenis:**
 
  * weg
  * pad
@@ -230,7 +230,7 @@ Elementen van transport en infrastructuur
 
 tuinpaden, dreven en wegen van kasteeldomein 't Looi
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * kanaal
  * dijk
@@ -246,13 +246,13 @@ grachten
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Puntvormige elementen:**
+**Puntvormige elementen:**
 
  * bomengroep
  * solitaire boom
 
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * dreef
  * bomenrij
@@ -260,24 +260,24 @@ Elementen en patronen van landgebruik
  * hagen
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * vijver
 
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
 hooi- en weiland van de Demerbroeken, graspartijen in het park
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -287,7 +287,7 @@ hooi- en weiland van de Demerbroeken, graspartijen in het park
  * struweel
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
  * vloeiweide

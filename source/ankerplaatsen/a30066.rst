@@ -4,7 +4,7 @@ Zwaanhoek
 :Ankerplaats ID: A30066
 
 
-*Landschap**
+**Landschap**
 
 
 
@@ -92,17 +92,17 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
 
 poldergeleed, Zwaanhoekgeleed
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * rietland
 
@@ -111,14 +111,14 @@ poldergeleed, Zwaanhoekgeleed
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Landbouwkundig erfgoed:**
+**Landbouwkundig erfgoed:**
 
  * hoeve
 
 
 hoeve nabij Zandvoorde; kleinere hoeves
 
-*Militair erfgoed:**
+**Militair erfgoed:**
 
  * bunker
  * verdedingingslinie
@@ -129,7 +129,7 @@ zgn. antitankgracht
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * grachtenstelsel
 
@@ -139,24 +139,24 @@ grachten en poldergeleed
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * poel
 
 
 veedrinkpoelen
 
-*Topografie:**
+**Topografie:**
 
  * onregelmatig
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * permanent grasland
 
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * polder
 

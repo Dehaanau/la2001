@@ -102,12 +102,12 @@ Geomorfologie/hydrografie
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
-*Microreliëf:**
+**Microreliëf:**
 
  * microreliëf
 
 
-*Hydrografische Elementen:**
+**Hydrografische Elementen:**
 
  * beek
  * vallei
@@ -115,7 +115,7 @@ Geomorfologie/hydrografie
 
 Dode of Luikse Beek, Gerhoevenloop, Kleine Beek
 
-*Moerassige gronden:**
+**Moerassige gronden:**
 
  * moeras
  * veen
@@ -125,7 +125,7 @@ Dode of Luikse Beek, Gerhoevenloop, Kleine Beek
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Waterbouwkundige infrastructuur:**
+**Waterbouwkundige infrastructuur:**
 
  * sluis
  * grachtenstelsel
@@ -136,33 +136,33 @@ afwateringsgrachten, sluis met zgn. moederzoeg
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Lijnvormige elementen:**
+**Lijnvormige elementen:**
 
  * bomenrij
  * houtkant
  * hagen
  * perceelsrandbegroeiing
 
-*Kunstmatige waters:**
+**Kunstmatige waters:**
 
  * turfput
 
 
 winning van turf en ijzererts
 
-*Topografie:**
+**Topografie:**
 
  * historisch stabiel
 
 
-*Historisch stabiel landgebruik:**
+**Historisch stabiel landgebruik:**
 
  * plaggenbodems
 
 
 beperkt tot de oostrand van het gebied
 
-*Bos:**
+**Bos:**
 
  * naald
  * loof
@@ -173,7 +173,7 @@ beperkt tot de oostrand van het gebied
 
 elzen- en wilgenbroekstruweel
 
-*Bijzondere waterhuishouding:**
+**Bijzondere waterhuishouding:**
 
  * ontwatering
 
