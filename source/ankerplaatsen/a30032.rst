@@ -84,8 +84,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ankerplaats ligt op een klein interfluvium met een zandige
 ondergrond. Het is een oud veldgebied met relictvegetatie.
@@ -124,7 +124,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -219,7 +219,7 @@ geaccentueerd door dreven; langwerpige geometrische vorm
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De oprukkende lintbebouwing vanuit aangrenzende bewoningskernen dreigt
 dit gebied aan te tasten. Daarnaast dient ook (verspreide of

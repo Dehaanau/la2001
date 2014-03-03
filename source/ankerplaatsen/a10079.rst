@@ -50,8 +50,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De wetenschappelijke waarde van deze ankerplaats wordt
 vertegenwoordigd door de boskernen en de dendrologische waarde van de
@@ -89,7 +89,7 @@ hoge esthetische waarde vertegenwoordigt.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het kasteel van Westmalle heeft sinds zijn
@@ -115,7 +115,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -188,6 +188,6 @@ haag rond kasteelpark
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Geen opmerkingen of knelpunten.

@@ -123,8 +123,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Rivierlandschappen hebben een dynamisch karakter. In geomorfologisch,
 bodemkundig en hydrografisch opzicht is de alluviale vlakte van de Maas
@@ -179,7 +179,7 @@ knotbomen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het gebied leent zich uitermate goed voor
@@ -202,7 +202,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -390,7 +390,7 @@ weerden
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Schaalvergroting in de landbouw, lozingen van afvalwater en zwerfvuil na
 overstromingen doen afbreuk aan het landschap. Verstorend is ook het

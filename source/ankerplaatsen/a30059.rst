@@ -54,8 +54,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De grote verscheidenheid aan landschapsbepalende elementen in het
 park bepaalt de wetenschappelijek waarde door de aanwezige flora en
@@ -108,7 +108,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Hydrografische Elementen:**
 
@@ -170,7 +170,7 @@ in beekdal gelegen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats is gekneld tussen de bebouwing en dient gevrijwaard te
 blijven van bebouwing. Daarbij dient men het bosbestand te onderhouden

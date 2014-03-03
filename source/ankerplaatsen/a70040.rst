@@ -84,8 +84,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het beoogde landschap maakt de studie van vroegere menselijke
 beïnvloeding (o.a. het graven van de Bosbeek) op geomorfologische
@@ -123,7 +123,7 @@ relevant.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Fietspaden en wandelroutes doorkruisen het
@@ -142,7 +142,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -278,7 +278,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bedreigingen voor het landschap zijn schaalvergroting in de landbouw met
 slechten van houtkanten, omvormen van weiden naar akkers, overbemesting

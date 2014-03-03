@@ -80,8 +80,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Tappelbeekvallei behoort tot de mooiste beekvalleien van de Kempen
 en men treft er nog verschillende typen beekbegeleidende bossen aan, die
@@ -137,7 +137,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -239,7 +239,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Een belangrijk knelpunt in dit landschap is de aanwezigheid van de E34
 die over een behoorlijke lengte doorheen de vallei van de Tappelbeek

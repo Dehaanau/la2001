@@ -122,8 +122,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De getuigenheuvels van de Vlaamse Ardennen zijn de overblijfselen van
 de Diestiaanse zandbanken. In bepaalde theorieën neemt men aan dat ze op
@@ -177,7 +177,7 @@ en de Vlaamse Ardennen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De verschillende steile kasseiwegen over
@@ -207,7 +207,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -359,7 +359,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Op vlak van de toekomstige ontwikkelingen is het van groot belang de
 kwaliteit van de open ruimte te vrijwaren en de visuele vervuiling tegen

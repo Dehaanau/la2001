@@ -60,8 +60,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Walenbos bestaat uit een mozaïek van bos- en
 moerasvegetatietypen, waarvan de rijkdom niet alleen een gevolg is van
@@ -100,7 +100,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -207,7 +207,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Verspreide bebouwing vooral aan de zuidelijke en oostelijke rand: de
 omgeving van de Alsberg, Optielt en Tielt-Berg.

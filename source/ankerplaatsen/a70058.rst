@@ -120,8 +120,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -156,7 +156,7 @@ Melsterbeek.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Begijnhoven vertonen een leefomgeving die
@@ -183,7 +183,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -329,7 +329,7 @@ grasland onder boomgaarden en weiden langs Cicindria en Melsterbeek
 parkbossen
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De landelijke omgeving is gedeeltelijk verloren gegaan door toenemende
 bebouwing aan de noordelijke stadsrand. De recente bebouwing levert geen

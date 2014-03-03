@@ -81,8 +81,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Buitengoor-Sluismeer betreft een gebied met een complexe structuur.
 De vegetatie is typisch voor een gradiëntmilieu, ontstaan door een
@@ -145,7 +145,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -219,7 +219,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Knelpunten binnen de ankerplaats zijn de aanwezigheid van een
 tuinbouwbedrijf en een aantal atypische bewoning langsheen het kanaal

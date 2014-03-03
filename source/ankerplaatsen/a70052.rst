@@ -53,8 +53,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het gebied is het meest uitgesproken voorbeeld van een voor droog
 Haspengouw kenmerkend asymmetrisch rivierdal met steile oostelijke
@@ -90,7 +90,7 @@ vallei van de Herk en het dorp Gelinden.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Een wandelpad en infoborden leiden de
@@ -110,7 +110,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -197,7 +197,7 @@ hooi- en kalkgraslanden, grasland onder boomgaarden
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Knelpunten zijn: de uitgediepte en rechtgetrokken Herk, de lozing van
 huishoudelijk afvalwater, de inspoeling van meststoffen vanaf de hoger

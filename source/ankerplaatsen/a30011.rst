@@ -60,8 +60,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De gave opeenvolging en graduele overgang van strand naar duinen
 heeft een grote geomorfologische waarde dankzij de actieve natuurlijke
@@ -110,7 +110,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -138,7 +138,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 waterwinningsgebied
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De versnijding door de Koninklijke Baan is een zeer storende factor en
 verhindert de natuurlijke processen van duinmigratie onder invloed van

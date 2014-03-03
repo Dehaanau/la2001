@@ -101,8 +101,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Abeek ligt in het overgangsgebied van het Kempens
 Plateau naar de Vlakte van Bocholt, gekenmerkt door een eigen dynamiek.
@@ -143,7 +143,7 @@ accentueren de oude kanaalarm in het landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het oud kanaal Jan Van Abroek wordt reeds
@@ -166,7 +166,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -317,7 +317,7 @@ o.a. vochtige hooi- en weilanden
 o.a. kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het noord-zuidpand van het oud kanaal Jan Van Abroek is sinds enkele
 jaren gedeeltelijk ingenomen door de expresweg Bocholt-Bree. De recente

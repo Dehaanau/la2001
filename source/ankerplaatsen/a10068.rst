@@ -70,8 +70,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gelegen in het Nete interfluvium, vertegenwoordigt deze ankerplaats
 een belangrijke geomorfologische waarde. Waar het macroreliëf ter hoogte
@@ -130,7 +130,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -216,7 +216,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hoewel grotendeels ongeschonden, zijn er langs de randen van het
 boscomplex 'Beeltjens' reeds kleine stukjes bos verdwenen. Een verdere

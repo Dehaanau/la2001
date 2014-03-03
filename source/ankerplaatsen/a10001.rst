@@ -51,8 +51,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het zuidelijke deel van 'De Nol' sluit aan bij de Kalmthoutse Heide
 en dit zowel wat betreft vegetatiestructuur als landschappelijk. Het
@@ -82,7 +82,7 @@ ankerplaats.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Nol was vroeger een turfwinningsgebied
 en gedurende eeuwen van essentieel belang voor de streek, die
@@ -104,7 +104,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 -----------------------------------------------
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -168,7 +168,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Nol was oorspronkelijk een ven van om en bij de 100 ha, maar is nu
 sterk verdroogd ten gevolge van waterwinning door de PIDPA. De gebouwen

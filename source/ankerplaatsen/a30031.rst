@@ -59,8 +59,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats is gelegen aan de voet van een oostelijke uitloper
 van het plateau van Wijnendaele met enkel bronnen. Het gebied herbergt
@@ -88,7 +88,7 @@ overzicht op het bosbestand en de verdere omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het klooster Virgo Fidelis binnen de
@@ -109,7 +109,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -166,7 +166,7 @@ zwemdok en visvijver
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De weilanden in het westen en zuiden van de ankerplaats kunnen best
 weiland (grasland) blijven wegens de relatie met de nattere gronden en

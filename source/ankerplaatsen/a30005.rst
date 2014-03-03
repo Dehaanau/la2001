@@ -109,8 +109,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het uitgebreid krekenstelsel ligt aan de basis van een grote
 verscheidenheid aan bodemkundige gradiënten. Dit weerspiegelt zich in de
@@ -130,7 +130,7 @@ doorbraakpunten, de Sint-Pietersdijk (ontworpen bij de inpoldering begin
 forten resteren.
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De geschiedenis achter het Lapscheurse gat
@@ -157,7 +157,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -223,7 +223,7 @@ geaccentueerd door "laantjes" in de weiden
 vlakbij kreek weiland, komgrond akkerland
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In de noordwestelijke hoek van de ankerplaats liggen enkele weilanden
 die nog zeer gaaf zijn naar perceelsrandbegroeiing, microreliëf en

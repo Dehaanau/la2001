@@ -72,8 +72,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschap strekt zich uit aan de rand van de Lage Kempen, tegen
 de getuigenheuvels die hier de overgang naar het Hageland aankondigen.
@@ -108,7 +108,7 @@ de wijdse vallei en landschappelijk waardevolle elementen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De omgeving biedt de ruimte voor een
@@ -129,7 +129,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -254,7 +254,7 @@ beemden, hier broeken genoemd, akkers aan de valleirand
 voormalige, bevloeide waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Intensivering van de landbouw, inplanting van weekendverblijven en
 stortplaatsen en recreatieve druk veroorzaken steeds meer verstoring.

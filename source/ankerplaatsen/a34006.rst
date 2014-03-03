@@ -82,8 +82,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit gebied maakt deel uit van de cuesta van Lotenhulle- Hertsberge.
 De kwartaire mantel is erg dun en niet continue, de bodem is weinig
@@ -130,7 +130,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -244,7 +244,7 @@ vijvers bij landgoederen, poelen bij hoeves
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De autosnelweg E 40 doorsnijdt het Blekkerbos en de andere veldgebieden
 in de omgeving. Verzuring en overbemesting van de bodem door de bio-

@@ -72,8 +72,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het gebied bezit een verscheidenheid aan reliëfelementen en
 gradiënten (bodem, vochtigheid), die elk op zich weinig opvallend zijn,
@@ -108,7 +108,7 @@ aantal kapelletjes, dat het gehucht siert.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Zachte recreatievormen maakten de laatste
@@ -131,7 +131,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -271,7 +271,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 o.a. kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De weekendhuisjes in de beekvalleien zijn landschapsverstorend en moeten
 geweerd worden. De grote golf van buitenverblijfjes is weliswaar over

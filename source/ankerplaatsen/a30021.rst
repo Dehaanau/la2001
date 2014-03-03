@@ -123,8 +123,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ankerplaats ligt ter hoogte van een westelijke uitloper van de
 Vlaamse vallei en vertoont de gave en natuurlijke overgang van de
@@ -201,7 +201,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -294,7 +294,7 @@ in Assebroekse Meersen
 op dekzandrug in noorden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De monotone en recente aanplantingen van naaldbosjes in het zuiden van
 het eigenlijke meersengebied storen in dit historisch graslandcomplex.

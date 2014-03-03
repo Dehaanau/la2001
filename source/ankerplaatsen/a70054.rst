@@ -120,8 +120,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschap strekt zich uit in de overgangszone tussen het Kempens
 Plateau en de Lage Kempen. Dergelijke overgangsgebieden worden
@@ -165,7 +165,7 @@ aan het landschap een hoge belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het gebied leent zich tot zachte
@@ -186,7 +186,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -339,7 +339,7 @@ o.a. Molenheide, de Teut, Tenhaagdoornheide
 kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Verderschrijdende bebossing, omvorming tot landbouwgrond,
 industrialisatie, woonuitbreiding en recreatiezones zijn er de oorzaak

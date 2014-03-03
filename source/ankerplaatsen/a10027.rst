@@ -61,8 +61,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het bomenbestand van het domein 'Hof ter Linden' heeft een
 dendrologische waarde.
@@ -91,7 +91,7 @@ verstedelijkt gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De structuur van het fort geeft een goed
@@ -116,7 +116,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -188,7 +188,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 T-vormige kasteelvijver
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Doordat deze ankerplaats volledig wordt ingesloten door bebouwing
 (verstedelijkt gebied), is de vroegere binding met de landelijk omgeving

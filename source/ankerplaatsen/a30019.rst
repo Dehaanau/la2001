@@ -63,8 +63,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Maleveld ligt op een droge, schrale zandbodem waar vroeger een
 veldgebied lag. De heischrale vegetatie getuigt van dit veldgebied. De
@@ -110,7 +110,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -199,7 +199,7 @@ dreven rond park en abdij; bomenrij langs Maleleie
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In het oosten vormt een verkaveling rond het Sijseleveld de grens van de
 ankerplaats. Men moet erover waken dat de open ruimtes rond het Maleveld

@@ -55,8 +55,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De topzone ligt op de waterscheidingskam tussen Leie- en
 Scheldebekken en ligt wegens de bodemgesteldheid reeds lang onder bos.
@@ -101,7 +101,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -174,7 +174,7 @@ toegangsdreef kasteel; langs perceelsranden
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In het Bellegembos is een woonpark aanwezig waarbij het bebost karakter
 gehandhaafd dient te blijven om de interfluviale kam te benadrukken en

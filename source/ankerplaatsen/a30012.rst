@@ -55,8 +55,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Meest oostelijk uitgestrekte duinpanne van het paraboolduinencomplex
 tussen Duinkerke en Oostduinkerke met Hoge Blekker als relict van actief
@@ -98,7 +98,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -130,7 +130,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 waterwinnningsgebied
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Door de waterwinning worden de duinen te droog gehouden wat een
 negatieve invloed heeft op de vegetatie. Vooral in pannes verwacht men

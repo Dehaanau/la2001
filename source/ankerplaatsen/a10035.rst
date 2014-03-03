@@ -60,8 +60,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 We vinden hier op een relatief beperkte ruimte nog een behoorlijke
 variatie in vegetatietypes en landschapselementen. Het domein van het
@@ -116,7 +116,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -230,7 +230,7 @@ heiderelicten
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Te vermelden knelpunten zijn de commerciële bestemmingen van een aantal
 van de gebouwen, wat niet altijd verenigbaar is met het historisch

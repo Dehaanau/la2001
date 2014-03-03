@@ -60,8 +60,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het park Rivierenhof omvat een behoorlijk bomenbestand dat binnen de
 stedelijke rand van Antwerpen dienst doet als geschikt resthabitat voor
@@ -90,7 +90,7 @@ verstedelijkt gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het restant van de Herentalsevaart met
@@ -117,7 +117,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Hydrografische Elementen:**
 
@@ -215,7 +215,7 @@ spiegelvijver
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Rivierenhof kent een sterke recreatiedruk met sportterreinen, een
 verkeerstuin, een kinderboerderij, e.d. Verschillende wegen in het park

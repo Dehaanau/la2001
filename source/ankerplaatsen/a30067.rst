@@ -47,8 +47,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Leievallei vormt het fysisch kader voor het landgebruik en bepaalt
 het voorkomen van bebouwing. Het park bij de Patersmote herbergt een
@@ -94,7 +94,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Hydrografische Elementen:**
 
@@ -165,7 +165,7 @@ park bij domein
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats is bijna ingesloten door de bebouwing en
 verstedelijking en vormt een belangrijke open ruimte vlakbij het

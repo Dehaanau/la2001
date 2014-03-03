@@ -106,8 +106,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit zwakgolvend landschap waar het kasteeldomein van Leeuwergem zich
 bevindt, is in zandlemig tot lemig gebied gelegen. Dit vormt de overgang
@@ -157,7 +157,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -285,7 +285,7 @@ vijvers rond Kasteel van Leeuwergem, bekken van voomalige watermolen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De oostelijk dreef van het kasteeldomein komt nu op de N42 uit. Juist
 ten noordoosten van het kasteeldomein bevindt zich een boomkwekerij.

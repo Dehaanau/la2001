@@ -126,8 +126,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De getuigenheuvel van Bolderberg is een overblijfsel van een groot
 duinengebied. De ondergrond bestaat er o.a. uit de bruine Diestiaanse
@@ -175,7 +175,7 @@ panoramisch zicht op de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De kluis op de Bolderberg was in het
@@ -200,7 +200,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -338,7 +338,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Aan de voet van de Bolderberg bevindt zich een smalle, venige zone. Om
 de ontwikkelingskansen van heide- en hoogveenrelicten gaaf te houden is

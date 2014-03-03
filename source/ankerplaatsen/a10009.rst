@@ -67,8 +67,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De relicten van de oude bosaanplanten, alsook de dreven,
 vertegenwoordigen een belangrijke dendrologische waarde. Aansluitend op
@@ -119,7 +119,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -221,7 +221,7 @@ oud drevenpatroon
  * struweel
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Knelpunten in het gebied zijn de steeds uitbreidende infrastructuur van
 het Medisch Pedagogisch Instituut, het Zuiveringsstation net ten zuiden

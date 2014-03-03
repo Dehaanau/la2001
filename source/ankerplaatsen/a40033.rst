@@ -108,8 +108,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit gebied maakt deel uit van de Scheldevallei ten zuiden van Gent.
 In de brede alluviale vlakte domineren de kleigronden. De breedte van de
@@ -152,7 +152,7 @@ zich de bewoning.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Aan de Sint- Elooiskapel is jaarlijks een
@@ -175,7 +175,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -322,7 +322,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 bosje rond Melsenbeek
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Calibrering van de Bovenschelde en de drainage van de meersgronden
 hebben een intensivering van het landbouwgebruik in de meersen

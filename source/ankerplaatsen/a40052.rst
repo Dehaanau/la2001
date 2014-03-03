@@ -212,8 +212,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit complex van kouters en dorpjes is gelegen op de overgang van het
 zandig (Vlaamse Vallei) naar het lemig Leie-Scheldeinterfluvium, in een
@@ -276,7 +276,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -420,7 +420,7 @@ Sint- Hilariuslinde
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hier en daar komt wat residentiele bewoning voor die niet thuishoort in
 het landschap van de open kouters. Wat oudere bewoning is dat in de

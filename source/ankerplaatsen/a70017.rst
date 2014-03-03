@@ -187,8 +187,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Er komen landschapsvormen voor, typisch voor waterdoorlatende
 gesteenten (krijt en grind) zoals droge dalen, amfitheatervormige
@@ -233,7 +233,7 @@ met het gebouwde patrimonium.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het gebied leent zich uitermate goed voor
@@ -253,7 +253,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -397,7 +397,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 historisch stabiele bossen
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Landschapsverstorend zijn de schaalvergroting in de landbouw met
 verdwijnen van lineaire landschapselementen zoals graften, hagen enz.,

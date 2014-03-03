@@ -75,8 +75,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats heeft een belangrijke geologische waarde als schakel
 in de duinenketen tussen Nijlen en Kasterlee, met een duidelijke
@@ -115,7 +115,7 @@ op 'Snepkensvijver' en de vallei van de Kleine Nete.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De kruisweg nabij de Kruisberg is
@@ -143,7 +143,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -241,7 +241,7 @@ Snepkesvijver
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Een te vermelden knelpunt is de toenemende recreatiedruk die de rust
 verstoort en de geomorfologie en vegetatie in het gebied aantast. De

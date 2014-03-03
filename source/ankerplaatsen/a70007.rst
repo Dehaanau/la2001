@@ -90,8 +90,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Restanten van de vroegere Maasmeanders zijn herkenbaar zowel in de
 bedding van de Zijpbeek ten noorden, als ook in het landschap ten
@@ -130,7 +130,7 @@ open landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De NV Domein Reckheim beoogt zowel nieuwe
@@ -158,7 +158,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Hydrografische Elementen:**
 
@@ -316,7 +316,7 @@ grasland onder boomgaarden
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De landelijke omgeving ten noorden van de oude stad is sterk aangetast
 door ontgrinding en de nieuwe bebouwing van verspreide boerderijen.

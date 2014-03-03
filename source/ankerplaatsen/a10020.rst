@@ -66,8 +66,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Staatsbossen van Ravels zijn gesitueerd op voormalige heide met
 vennen in de Antwerpse Noorderkempen. Het is een uitgestrekt en rustig
@@ -131,7 +131,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -211,7 +211,7 @@ heiderelicten
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Een ruilverkaveling 'oude stijl' heeft in de jaren '80 ter hoogte van
 het Kijkverdriet de oorspronkelijke situatie van zeer gevarieerde

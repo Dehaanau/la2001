@@ -89,8 +89,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De natuurwetenschappelijke waarde van dit gebied wordt in de eerste
 plaats bepaald door de geologische herkenbaarheid en het gaaf gebleven
@@ -168,7 +168,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -287,7 +287,7 @@ heiderelicten
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Op te merken knelpunten voor dit landschap zijn een steeds toenemende
 recreatiedruk -die zich landschappelijk uit onder vorm van visvijvers en

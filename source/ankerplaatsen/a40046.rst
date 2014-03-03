@@ -92,8 +92,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De hoger gelegen kouterruggen zijn resistenter aan erosie vergeleken
 met de asymmetrisch ingesneden beekvalleien. Deze beekvalleien vormen
@@ -127,7 +127,7 @@ Horebeke liggen in het glooiende landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 In de Tempelstraat, de vroegere
@@ -156,7 +156,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -279,7 +279,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Recent neemt de residentiële bebouwing rond de dorpen Mater en
 Sint-Maria-Horebeke uitbreiding, Dit verstroord het oorspronkelijke

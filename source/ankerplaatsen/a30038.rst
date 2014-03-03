@@ -119,8 +119,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De mislukte kanaalsleuf heeft een bijzondere geologische en
 geomorfologische waarde door de ontsluiting van de formaties van Gent en
@@ -179,7 +179,7 @@ waarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Palingbeek is momenteel provinciaal
 domein en vormt tijdens de zomermaanden een toeristische trekpleister.
@@ -207,7 +207,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -323,7 +323,7 @@ Verdronken Weide
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De lintbebouwing vanuit Hollebeke in verschillende richtingen bedreigt
 het zicht op het kanaal en op de omgeving. Ook vanuit Ieper bedreigt de

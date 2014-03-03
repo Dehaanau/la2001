@@ -75,8 +75,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Burreken en de Krombeek zijn in het brongebied van de Maarkebeek
 gelegen. Het landschap rond Burreken bevat een aantal unieke bronbossen
@@ -119,7 +119,7 @@ in verschillende richtingen over de Vlaamse Ardennen en de Zwalmstreek.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De bossen rond het Burreken deden vroeger
@@ -143,7 +143,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -261,7 +261,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De bodemerosie die met afspoelingen, verglijdingen en, al dan niet
 extreme, betredingsdruk gepaard gaat, dient bestreden te worden. De

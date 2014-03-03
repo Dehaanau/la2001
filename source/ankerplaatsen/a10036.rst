@@ -48,8 +48,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De wetenschappelijke waarde beperkt zich in deze ankerplaats tot het
 oude bomenbestand dat ruimtelijk in relatie staat tot dat van de
@@ -144,7 +144,7 @@ kasteelvijver
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Er wordt opgemerkt dat door de steeds oprukkende verkavelingen van de
 gehuchten rondom het kasteeldomein, de oorspronkelijke samenhang met het

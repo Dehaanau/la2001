@@ -266,8 +266,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Van belang zijn o.a. het dagzomen van primaire gesteenten (harde
 kalksteen uit het Onder Carboon) in de oever van de Veurs en de
@@ -304,7 +304,7 @@ harmonieuze verwevenheid van het landschap met het gebouwde patrimonium.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het gebied leent zich uitermate goed voor
@@ -325,7 +325,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -517,7 +517,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 o.a. hellingbossen, plateaubossen
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Landschapsverstorend zijn o.a. de schaalvergroting in de landbouw met
 verdwijnen van lineaire landschapselementen zoals graften, hagen enz.,

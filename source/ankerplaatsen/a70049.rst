@@ -91,8 +91,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Kerniel is gelegen op de noordoostrand van het massief van Borgloon,
 dat zich ruim 30 m verheft boven de schiervlakte ten zuiden van de lijn
@@ -134,7 +134,7 @@ visuele belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De hele omgeving is erg attractief voor
@@ -160,7 +160,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -269,7 +269,7 @@ gelegen delen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Landschappelijk drastisch zijn de recente vervanging van
 hoogstamboomgaarden door laagstamfruitteelt, gepaard met

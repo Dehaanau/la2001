@@ -152,8 +152,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Vlaamse heuvelrij van Vidaigne- en Rodeberg sluit in westen aan op
 de Zwarte berg (Frankrijk) en in oosten op Scherpenberg en Kemmelberg.
@@ -230,7 +230,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -317,7 +317,7 @@ bij kasteel Behaeghel
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landelijke karakter van dit landschap dient behouden en versterkt te
 worden via uitbreiding van de perceelsrandbegroeiing en beekbegeleidende

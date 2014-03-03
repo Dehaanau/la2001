@@ -119,8 +119,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In de Bourgoyen- Ossemeersen kunnen we de volgende gebieden
 onderscheiden. Vooreerst is er de grote, opgevulde geul van een
@@ -183,7 +183,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -315,7 +315,7 @@ populier
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het gebied is volledig ingesloten door bewoning, recreatiegebieden, de
 ringvaart, de N466 en een pompstation. Deze zijn opvallend in de vista's

@@ -107,8 +107,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit gebied maakt deel uit van de cuesta van Oedelem - Zomergem. Vijf
 beken stromen door het gebied, in de winter zijn er stuwwatertafels,
@@ -140,7 +140,7 @@ van de ontginning van het Maldegemveldt, het dambordpatroon is aanwezig.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Maldegemveld is lang onontgonnen
 gebleven, in 1736 werd daar de laatste wolf van beide Vlaanderen gedood.
@@ -162,7 +162,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -276,7 +276,7 @@ bossen aanwezig
 militair domein
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Militair domein ligt midden in het Drongengoedbos, de aanleg ervan ging
 met ontbossing gepaard. Het opstijgen en landen van vliegtuigen zorgt

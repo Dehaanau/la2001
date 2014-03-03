@@ -88,8 +88,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De slikken en schorren langsheen de schelde betreffen een
 onvervangbaar landschap- en vegetatietype gezien hun zeer specifieke
@@ -149,7 +149,7 @@ omgevende industrie in een aantal richtingen worden beperkt.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het polderdorp Doel heeft reeds een lange
@@ -177,7 +177,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -311,7 +311,7 @@ Prosperpolder
 schorre, slikke, zandplaat
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De oprukkende haveninfrastructuur vormt een sterke bedreiging voor de
 overblijvende brakwaterslikke en -schorre ten noorden van Antwerpen,

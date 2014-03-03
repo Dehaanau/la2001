@@ -121,8 +121,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats is gelegen in de Vlaamse Ardennen op uitloper van de
 getuigenheuvelrug, op de helling van de Pottelberg. Er zijn
@@ -162,7 +162,7 @@ het einde van de vallei staat de kerk van Opbrakel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het Ludwineskruis in het Brakelbos
@@ -188,7 +188,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -299,7 +299,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De hoogspanningsleiding loopt dwars door de ankerplaats. Aan de
 ontginningshoeve 'Hof ten Bosse' zijn wat verbouwingswerken gebeurd (oa

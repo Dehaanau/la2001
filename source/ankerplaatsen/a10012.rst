@@ -56,8 +56,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Door de uitgestrektheid van het domein en de grote verscheidenheid
 aan biotopen, heeft het gebeid een belangrijke waarde voor fauna. Het
@@ -88,7 +88,7 @@ waardevol geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De kolonie van Merksplas is een nog intact
@@ -123,7 +123,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -216,7 +216,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 ontginningsputten
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Belangrijke knelpunten zijn de aanwezigheid van een stortplaats van de
 PIDPA en ernstige historische bodemvervuiling. Verder komen in het

@@ -85,8 +85,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De aanwezigheid van verschillende biotopen zoals bos, dreven, natte
 weilanden en vennen resulteert in een ecologisch waardevol geheel. Deze
@@ -121,7 +121,7 @@ agrarisch gebied een esthetisch waardevol geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 In 1974 liet de heer van Hoogstraten ten
@@ -152,7 +152,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -222,7 +222,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Als knelpunt vermelden we een tuincentrum in het westen en enkele niet
 meer typische woningen langs de randen van het gebied.

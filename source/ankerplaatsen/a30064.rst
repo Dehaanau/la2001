@@ -47,8 +47,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ligging van het fort nabij Brugge én nabij de fysische grens
 tussen polder en zandstreek bood enkel natuurlijke strategische
@@ -88,7 +88,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -144,7 +144,7 @@ gracht rond fort
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De bebouwing van Koolkerke grenst aan de structuur van het fort. Dit
 doet afbreuk aan de esthetische waarde en de historische waarde door een

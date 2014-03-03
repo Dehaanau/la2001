@@ -83,8 +83,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Nederaalbeek heeft haar brongebied ter hoogte van
 Spichterberg, Ronse. Het is een vrij asymmetrische vallei, typisch voor
@@ -146,7 +146,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -270,7 +270,7 @@ Drievuldigheidsboom
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Bossenarekouter is in een ruilverkaveling gelegen. Dit heeft tot
 gevolg dat de perceelsstructuur aangepast is maar aangezien het hier

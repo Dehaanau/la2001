@@ -163,8 +163,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze kreken zijn gelegen in het krekengebied van Zeeuws-Vlaanderen.
 Het zijn restanten van een oud krekenstelsel. Als gevolg van zware
@@ -207,7 +207,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -305,7 +305,7 @@ Bodemloze Put, Verzelesput
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het waterpeil in het poldergebied wordt door de doorgedreven
 ontwatering, voornamelijk vanuit landbouwkundige en economische

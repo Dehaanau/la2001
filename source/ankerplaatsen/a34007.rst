@@ -100,8 +100,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats maakt deel uit van het zandig Leie-Schelde
 interfluvium. Dit vlakke interfluvium heeft voornamelijk langs de
@@ -125,7 +125,7 @@ daar wordt het bos door een weide of akker onderbroken.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het bos was voor het midden van de 18e
 eeuw dikwijls een schuilplaats voor roversbenden en zigeuners.
@@ -146,7 +146,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -228,7 +228,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Langs de Waregemseweg staat residentiele bebouwing. Het bos wordt bijna
 volledig door lintbebouwing omsloten.

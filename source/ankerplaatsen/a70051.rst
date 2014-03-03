@@ -98,8 +98,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het beoogde landschap is gelegen aan de noordwestrand van het massief
 van Borgloon, dat zich ruim 30 m verheft boven de schiervlakte ten
@@ -146,7 +146,7 @@ Verder bepaalt de berm van de oude spoorlijn het dorpsbeeld.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De hele omgeving is erg attractief voor
@@ -172,7 +172,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -324,7 +324,7 @@ open karakter
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ruilverkaveling in voorbereiding. Recente bebouwing levert geen bijdrage
 tot de landschapswaarden.

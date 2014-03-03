@@ -104,8 +104,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Landduinen zijn één van de meest uitgesproken reliëfvormen in
 Vlaanderen. De laat-historische duinen zijn, naast rivierbeddingen,
@@ -146,7 +146,7 @@ kerktorens en mijnterrils in de omgeving.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het gebied leent zich tot zachte
@@ -167,7 +167,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -272,7 +272,7 @@ restanten van heide en kleinschalige landbouwpercelen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Slechts op de plekken waar vegetatie ontbreekt, treedt nog aktieve
 verwaaiing op. Hoge recreatiedruk en harde recreatievormen leiden

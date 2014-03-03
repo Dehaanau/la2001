@@ -58,8 +58,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Watering heeft, als gevolg van de bevloeiing met kalkrijk
 Maaswater, een specifieke plantengroei die men normaal niet aantreft in
@@ -83,7 +83,7 @@ Het is een uitgestrekt en gevarieerd groengebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het is een gebied met zeer veel
@@ -105,7 +105,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -202,7 +202,7 @@ heiderelicten
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Watering is in onbruik geraakt. De hooilandjes zijn grotendeels
 verruigd en de aan- en afvoerkanalen zullen zonder beheer, op termijn

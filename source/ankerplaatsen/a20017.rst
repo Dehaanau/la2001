@@ -86,8 +86,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Demervallei is de meest oostelijke uitloper van de Vlaamse Vallei.
 Sporadisch zijn nog afgesneden meanders aanwezig (bijv. in de
@@ -135,7 +135,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -260,7 +260,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Verspreide bebouwing in de omgeving Konijnenberg-Rommelaar, dorpskern
 van Testelt, bebouwing op de Voortberg . Tussen Testelt en Zichem loopt

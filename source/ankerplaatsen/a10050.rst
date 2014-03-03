@@ -67,8 +67,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschap 'De Zegge' is een relict van een typisch Kempens
 beekdallandschap met turfkuilen, trilvenen, rietvelden,
@@ -108,7 +108,7 @@ kleinschalig en daarmee esthetisch waardevol karakter.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het moerassige gedeelte van 'De Zegge' was
 vroeger een belangrijk turfwingebied.
@@ -131,7 +131,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -212,7 +212,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Knelpunt is de verspreid voorkomende atypische bewoning en het
 geleidelijke verlies van de resterende bewoning met kleinschalig

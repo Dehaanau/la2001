@@ -78,8 +78,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Molsbroek is in de Durmevallei gelegen. In de omgeving zijn
 enkele kleine rivierduinen aanwezig. Het moerasgebied is ontstaan door
@@ -105,7 +105,7 @@ ruime natuurweide en natuurlijk elzenbos.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De ringdijk rond het Molsbroek is een
@@ -129,7 +129,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -230,7 +230,7 @@ Dijk omheen Molsbroek werd einde de jaren 60 aangelegd om de
 potpolder af te sluiten
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sinds 1968 kende de uitlopers van de Molsbergen, die bijna volledig
 omringd zijn door de wandeldijk van het Molsbroek, een trieste

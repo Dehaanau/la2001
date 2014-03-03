@@ -116,8 +116,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats is in het zandig Leie-Schelde interfluvium,
 grotendeels zandige tot licht- zandleem bodem. Door de ankerplaats loopt
@@ -175,7 +175,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -302,7 +302,7 @@ een 750m lange kasteeldreef verbindt het kasteel met het dorp
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Aan de westelijke en zuidelijke grens van de ankerplaats en ook juist
 ten zuiden van het kasteeldomein, lopen enkele hoogspanningskabels door

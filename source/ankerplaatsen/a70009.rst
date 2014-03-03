@@ -117,8 +117,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het gebied heeft een opmerkelijke waarde op hydrografisch vlak. In
 tegenstelling tot de Herk en de Demer, die hun dalen verder eroderen,
@@ -154,7 +154,7 @@ esthetisch belang.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het gebied heeft een educatief en
@@ -176,7 +176,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -334,7 +334,7 @@ rondom de bewoning
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het gebied wordt bedreigd door verstoringen in de waterhuishouding,
 verwijderen van landschapselementen, bouwwerken en wegenaanleg. De

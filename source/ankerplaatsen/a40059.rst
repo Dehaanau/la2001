@@ -87,8 +87,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gelegen langs de rand van de Dendervallei op een hoger gelegen
 heuvelkam, uitloper van de heuvelrug van de Vlaamse Ardennen. Steile
@@ -120,7 +120,7 @@ Pajottenland.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De spoorlijn Geraardsbergen-Edingen loopt
@@ -140,7 +140,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -241,7 +241,7 @@ twee wastines (grasland met struiken) en drie kleinere bossen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Omwille van de beek die in het Boelarebos loopt is er sterke erosie op
 de valleiwanden. Het water van deze beek is vervuild door afvalwater van

@@ -88,8 +88,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De natuurwetenschappelijke waarde van deze ankerplaats wordt in de
 eerste plaats bepaald door het valleigebied van de Rodeloop, waar men
@@ -133,7 +133,7 @@ indrukwekkende dreven die het zicht op de omgeving 'filteren'.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De voormalige priorij Corsendonk heeft
@@ -158,7 +158,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -259,7 +259,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Met de aanleg van de autostrade E34 Antwerpen-Eindhoven werden de
 omgeving van de priorij en de structuurbepalende dreven ruimtelijk

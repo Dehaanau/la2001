@@ -58,8 +58,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Langs de taluds van het kanaal dagzomen enkele tertiaire formaties
 die zeldzame bodemcondities bieden omdat ze elders in Vlaanderen heel
@@ -103,7 +103,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -164,7 +164,7 @@ struweelbegroeiing langs talud
 Kraaibos
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De huidige sluisgebouwen werken storend op de visuele waarde van het
 kanaal, evenals de brug over het kanaal.

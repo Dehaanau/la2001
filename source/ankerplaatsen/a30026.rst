@@ -130,8 +130,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het geopatromonium van venige en kleiige afzettingen in de ondergrond
 herinnert aan de mariene/estuariene invloed in de Ijzervallei en de
@@ -206,7 +206,7 @@ de Ijzervallei.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De Ijzertoren als symbool van de Vlaamse
@@ -242,7 +242,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -389,7 +389,7 @@ rond Blankaart
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De natuur- en cultuurwaarden dienen maximaal gevrijwaard te worden. De
 afwezigheid van bebouwing in de winterbedding van de Ijzer dient

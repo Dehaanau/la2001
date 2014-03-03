@@ -74,8 +74,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Heidevegetatie werd dankzij zeer diverse beheersmaatregelen goed
 bewaard en soms zeer zeldzame soorten. Ook de natuurlijke condities van
@@ -112,7 +112,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -204,7 +204,7 @@ militiair domein
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Toegang tot het militair domein is verboden voor onbevoegden. In het
 oosten wordt het gebied doorsneden door een hoogspanningsleiding op

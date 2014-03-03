@@ -94,8 +94,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Zoniënwoud heeft een waardevolle fauna en flora en sommige
 gedeelten hebben ook een grote dendrlogische waarde, inzonderheid het
@@ -123,7 +123,7 @@ eeuw werd gevoerd op aanwijzing van kunstschilders.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 In de priorijhoeve is het bosmuseum en het
@@ -137,7 +137,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 -----------------------------------------------
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -235,7 +235,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Verspreide bebouwing in de omgeving van de Kapel van Welriekende. Een
 aantal grote verkeersaders doorkruisen het woud.

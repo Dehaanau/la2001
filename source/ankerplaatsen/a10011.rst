@@ -44,8 +44,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De afwisseling in topografie en pedologie resulteert in een
 verscheidenheid aan vegetatietypes, gaande van vennen en heide tot
@@ -80,7 +80,7 @@ anderzijds vormt een visueel opvallend en aantrekkelijk geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Dit gebied heeft in het verleden lang ten
@@ -101,7 +101,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -161,7 +161,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ankerplaats wordt in het noorden doorsneden door de weg
 Wuustwezel-Brecht. Het grootste deel van de ankerplaats is militair

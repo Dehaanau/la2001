@@ -85,8 +85,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Brechtse Heide is een halfnatuurlijk- en op sommige plaats
 cultuurlandschap, dat door de verschillende menselijke invloeden,
@@ -127,7 +127,7 @@ Kempische landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Na de aanleg van het kanaal
@@ -151,7 +151,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -264,7 +264,7 @@ oude kleiputten
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Een belangrijk knelpunt in de Brechtse Heide is het verspreid en
 chaotisch voorkomen van weekendverblijven wat zowel op de esthetische-

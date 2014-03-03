@@ -126,8 +126,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Vroeger uitgestrekt schorregebied, oude Zwinmond. Nog actief
 slikke-schorre-gebied in natuurreservaat van het Zwin met waardevolle
@@ -175,7 +175,7 @@ open en grootschalig polderlandschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Natuurreservaat van het Zwin
@@ -198,7 +198,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -293,7 +293,7 @@ Koningsbos en Zwinbosjes
 brak grondwater op geringe diepte
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het vogelreservaat rond het natuurreservaat is een storend element
 aangezien de gebouwen in dit natuurlijke duinengebied niet thuis horen.

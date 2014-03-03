@@ -108,8 +108,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het valleigebied van de Itter- en Eetsevelderbeek ligt op de overgang
 van het Kempens Plateau naar de Vlakte van Bocholt en wordt gekenmerkt
@@ -158,7 +158,7 @@ open Vlakte van Bocholt.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Zachte recreatievormen maakten hier de
@@ -182,7 +182,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -383,7 +383,7 @@ o.a. vochtige hooi- en weilanden, bevloeid hooiland, heiderelicten
 bevloeid hooiland
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De weekendhuisjes in de beekvalleien zijn landschapsverstorend en moeten
 geweerd worden. De grote golf van buitenverblijfjes is weliswaar over

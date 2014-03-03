@@ -72,8 +72,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De grote verscheidenheid in de textuur van de bodem (dekzanden,
 stuifzanden, maasgrind), de grote verscheidenheid aan bodems (regosolen,
@@ -104,7 +104,7 @@ biedt een hoge esthetische belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Een bezoekerscentrum, een natuurleerpad en
@@ -123,7 +123,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -226,7 +226,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Dommel werd omstreeks 1950 rechtgetrokken en uitgediept, met als
 gevolg een daling van het grondwaterpeil, verlanding van waterpartijen

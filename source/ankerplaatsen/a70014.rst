@@ -108,8 +108,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het uitgesproken reliëf met een kleinschalig bronnengebied en
 talrijke gradiënten is het gevolg van de zuidoost-noordwest verlopende
@@ -145,7 +145,7 @@ valleigebied anderzijds.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De culturele en recreatieve mogelijkheden
@@ -176,7 +176,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -319,7 +319,7 @@ vochtige beemden in vallei
 o.a. parkbos, Winterbergbos
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Weliswaar gingen de eigenlijke ruilverkavelingsaktiviteiten te Rijkhoven
 gepaard met een grotere aandacht voor landschapszorg, toch werd

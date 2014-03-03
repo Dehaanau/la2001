@@ -88,8 +88,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Kraenepoel was oorspronkelijk een voedselarm milieu waar een
 specifieke vegetatie bij voorkomt. Ondanks de teloorgang van dat milieu
@@ -120,7 +120,7 @@ Kraenepoel liggen drie eilanden.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De geschiedenis van de Kraenepoel is sterk
 door de mens bepaald: het ontginnen van turf/veldsteen en de omvorming
@@ -145,7 +145,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -273,7 +273,7 @@ Kranepoel (met eilandjes), vijvers in park Maria Hove
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In de Markettebossen staat wat residentiële bebouwing die van de laatste
 decennia dateerd. Sommige bomen in de dubbele dreef van Hansbeke naar

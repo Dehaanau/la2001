@@ -87,8 +87,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Gelegen op de cuesta van Zomergem - Oedelem, zandige bodem. De
 Kwartaire mantel is heel miniem en de bodem is weinig voor landbouw
@@ -123,7 +123,7 @@ landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Maldegemveld is lang onontgonnen
 gebleven, in 1736 werd daar de laatste wolf van beide Vlaanderen gedood.
@@ -146,7 +146,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -263,7 +263,7 @@ canadapopulier
 stuwgronden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De dreven in het Burkelbos liggen er dikwijls wat vochtig bij. Deze
 natte dreven zijn een doorn in het oog van veel bosbouwers en van de

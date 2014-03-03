@@ -94,8 +94,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Handzame vormt een polderintrusie die ver
 landinwaarts binnendringt en die de bodemkundige grens vormt tussen
@@ -153,7 +153,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -253,7 +253,7 @@ bosje tussen Vladslo en Esen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het open landelijke karakter dient maximaal behouden te blijven door
 nieuwe, bijkomende bebouwing in de vallei te weren én door de gebouwen

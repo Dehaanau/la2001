@@ -45,8 +45,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De wetenschappelijke waarde van dit landschap wordt bepaald door de
 deels historisch stabiele, hoogstammige bossen van afwisselend loof- en
@@ -93,7 +93,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -169,7 +169,7 @@ spiegelvijver bij kasteel
 deels historisch stabiel
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De westgrens wordt gevormd door een weg als fysisch baken. De resterende
 bospercelen langs de westkant van deze weg werden niet mee opgenomen in

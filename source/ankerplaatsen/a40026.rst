@@ -104,8 +104,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit gebied bestaat uit verschillende eenheden : 1. Oude Scheldeloop,
 Donkmeer: de oude meander is verdwenen door vervening, er bevinden zich
@@ -143,7 +143,7 @@ landschap voor; akkers met perceelsrandbegroeiing en bospercelen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het Donkmeer heeft een grote toeristische
@@ -166,7 +166,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -289,7 +289,7 @@ No
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Reeds van tijdens de jaren 1920 was dit gebied een toeristische
 trekpleister. Midden de jaren '50 was het gebied in hadden van een door

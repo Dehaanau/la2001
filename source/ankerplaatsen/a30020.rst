@@ -87,8 +87,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats ligt op de Pleistocene dekzandrug van
 Gistel-Maldegem-Stekene-Verrebroek; de zandgrond vormde de basis voor de
@@ -145,7 +145,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -230,7 +230,7 @@ loweiden; meersen bij Meersbeek
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bijna de gehele ankerplaats wordt bedreigd door de oprukkende bebouwing
 waarbij lintbebouwing voor een scherpe isolering zorgt. De

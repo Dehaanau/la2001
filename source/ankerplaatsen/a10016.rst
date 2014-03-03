@@ -56,8 +56,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het voorkomen van verschillende bostypes en een opmerkelijke
 horizontale structuurdiversiteit geven het complex 's Herenbos-Heihuizen
@@ -94,7 +94,7 @@ historische karakter van dit landschap.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De St.-Antoniuskapel van Zalfen vindt haar
@@ -120,7 +120,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -214,7 +214,7 @@ historisch stabiel bos
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De slechte waterkwaliteit van de Lopende Beek heeft een nadelige invloed
 op de natuurwetenschappelijke waarde van dit gebied.

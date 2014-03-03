@@ -96,8 +96,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De geologische ondergrond en de variërende dikte van de Kwartaire
 mantel bepalen grotendeels het landgebruik op deze interfluviale kam
@@ -149,7 +149,7 @@ bomen en struiken de grillige en natuurlijke loop van de beken.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De naam "Galgebossen" verwijst naar de
@@ -174,7 +174,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -269,7 +269,7 @@ bij kastelen; poelen in bossen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Tussen Elverdinge en Poperinge loopt parallel aan de weg een
 bovengrondse hoogspanningsleiding die afbreuk doet aan de esthetische

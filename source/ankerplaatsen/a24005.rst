@@ -78,8 +78,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze bossen zijn gelegen op de Moerbekeberg. Deze heuvel ligt in het
 overgangsgebied tussen de Vlaamse Ardennen en het Pajottenland.
@@ -116,7 +116,7 @@ struwelen nagenoeg verdwenen uit de regio.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Bij de Sint- Pauluskapel is er de unieke
@@ -144,7 +144,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -274,7 +274,7 @@ medische planten
 Bronbos
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het ruiter-en mountainbikeparcours veroorzaken degradatie van de paden
 en verstoring van de rust.

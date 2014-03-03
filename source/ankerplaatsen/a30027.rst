@@ -87,8 +87,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Ijzer kent een vrij natuurlijk bochtig verloop soms geaccentueerd
 door een bomenrij met natuurlijke oeverprofielen. De grens van de vallei
@@ -140,7 +140,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -230,7 +230,7 @@ loodrecht op Ijzer of zijbeken
 in valleien
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bebouwing in de valleien zelf dient vermeden te worden aangezien de
 stromen hun winterbeddding dan niet meer kunnen innemen bij hoge

@@ -102,8 +102,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Grote floristische en faunistische waarde van nat graslandgebied in
 polder. Oude stadswallen goed herkenbaar in het reliëf. Floristische
@@ -154,7 +154,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -266,7 +266,7 @@ in de komgronden
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Door de bewerking met zwaar landbouwmateriaal worden de oevers van
 kreken met waardevolle rietvegetatie schade berokkend. Door de open

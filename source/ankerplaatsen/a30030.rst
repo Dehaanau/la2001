@@ -56,8 +56,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het gebied bevindt zich op de grens tussen de zandstreek en de
 zandleemstreek waardoor flora van beide streken voorkomt. In het gebied
@@ -112,7 +112,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -220,7 +220,7 @@ zogenaamde "carrés"; oude bosindeling
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De steilrand van het plateau wordt door het bos aan het oog onttrokken.
 In het bos is die wel goed zichtbaar. Het zicht op het bos dient

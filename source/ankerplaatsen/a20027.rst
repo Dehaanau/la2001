@@ -135,8 +135,8 @@ door opstuwing enkele vijvers ontstaan zijn.
 Landschapswaarden
 -----------------
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kasteekparken van Groenenberg, Gaasbeek en Budingen hebben een
 bijzondere dendrologische en, gezien hun voorjaarflora, ook floristische
@@ -169,7 +169,7 @@ prachtig vergezicht over de streek.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteel van Gaasbeek en de tuinen
 staan open voor het publiek en op die manier een uitstekend idee kunnen
@@ -183,7 +183,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -303,7 +303,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bebouwing in de dorpskernen Gaasbeek, Oudenaken, Sint-Laureins-Berchem
 en Elingen. Verspreide bebouwing in het landelijke gebied er tussenin

@@ -141,8 +141,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze kreken zijn gelegen in krekengebied ten oosten van het kanaal
 Gent-Terneuzen, op de overgang naar de dekzandrug Maldegem-Stekene.
@@ -175,7 +175,7 @@ een peer.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
@@ -196,7 +196,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -291,7 +291,7 @@ akkers in polder
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ruilverkaveling heeft binnen het afgebakende gebied de gebruikskavels
 veranderd; de akkers zijn groter geworden. Een grote visuele invloed

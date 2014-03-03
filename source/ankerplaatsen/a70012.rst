@@ -89,8 +89,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Geografisch bevindt het landschap zich op het talud tussen Laag- en
 Midden-België. De steilrand valt hier samen met de grens tussen Droog-
@@ -130,7 +130,7 @@ omgeving, tot zelfs de Kempense en Luikse steenkoolbekkens toe.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Sinds 1999 is ongeveer de helft van het
@@ -156,7 +156,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -314,7 +314,7 @@ akkergebied op hogere delen
 historisch stabiel Bellevuebos , hellingbos op oos
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ruilverkaveling in uitvoering. De recente bebouwing levert geen bijdrage
 tot de landschapswaarden.

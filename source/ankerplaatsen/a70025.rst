@@ -95,8 +95,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het zwak tot zeer zwak golvend microreliëf is gevormd in een laag
 dekzand. Omwille van het zwak reliëf en de daarmee gepaard gaande
@@ -134,7 +134,7 @@ haast onbestaande woningbouw bezit het gebied een hoge belevingswaarde.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het is weliswaar attractief voor zachte
@@ -158,7 +158,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -274,7 +274,7 @@ vochtig hooi- en weiland
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Nefast zijn de aantastingen van houtwalstructuren door slopen,
 versmalling, het ontstaan van een holle wal of het achterwege blijven

@@ -57,8 +57,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In alledrie de parken komt een behoorlijk loofbomenbestand voor.
 Binnen de sterk verstedelijkte rand van Antwerpen, voorziet dit gebied
@@ -83,7 +83,7 @@ historische gebouwen, omgeven door sterk verstedelijkt gebied.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het Middelheimpark werd reeds in de 18de
@@ -105,7 +105,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -172,7 +172,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Nachtegalenpark kent een zeer sterke recreatiedruk met sportvelden,
 een speeltuin, een dierenpark en 2 tavernen. In de noordoostelijke punt

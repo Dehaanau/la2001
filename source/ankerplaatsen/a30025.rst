@@ -120,8 +120,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit gebied omvat goed bewaarde Oud- en Middellandpolders die door een
 dijk gescheiden worden. In deze polders bepaalt de bodemkundige
@@ -186,7 +186,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -278,7 +278,7 @@ veedrinkput
 in venige en kleiige komgronden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Door het polderbestuur wordt het grondwaterpeil kunstmatig laag gehouden
 t.o.v. de natuurlijke situatie wat een verzilting van het grondwater met

@@ -125,8 +125,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschap strekt zich uit in de Bosbeekvallei, diep ingesneden in
 het Kempens Plateau. De Bosbeekvallei is er grotendeels uitgesproken
@@ -177,7 +177,7 @@ waardevol geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Fiets- en wandelroutes werden
@@ -197,7 +197,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -390,7 +390,7 @@ o.a. akkers, heiderelicten, vochtige hooi- en weilanden
 o.a. kleinschalige waterbeemden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Belangrijke verstoringen zijn weekend huisjes op de beboste dalflanken
 en in de vallei, rioolstorten in de Bosbeek en de zijbeken, motorcross

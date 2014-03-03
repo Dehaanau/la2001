@@ -67,8 +67,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De zeer specifieke waterhuishouding van het gebied 'De Maatjes' is
 bepalend voor het globale landschap en de ermee samenhangende biotische
@@ -100,7 +100,7 @@ het gezichtsveld wordt over het algemeen begrensd door bomen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Tot in de 17de eeuw werd er in dit gebied
@@ -126,7 +126,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -200,7 +200,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ten gevolge van drainage van de omgevende gronden, alsook waterwinning,
 heeft het gebied 'De Maatjes' te lijden onder verdroging.

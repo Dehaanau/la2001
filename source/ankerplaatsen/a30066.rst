@@ -46,8 +46,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De oude polderafzettingen vormen het fysisch kader voor het
 landgebruik en de openheidsgraad van het landschap. Het gebied herbergt
@@ -88,7 +88,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -161,7 +161,7 @@ veedrinkpoelen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In het noorden wordt de ankerplaats doorsneden door de autoweg van
 Brugge naar Oostende die op een talud ligt. Door het open landschap

@@ -92,8 +92,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Moervaartdepressie is ontstaan na het afsluiten van de Vlaamse
 Vallei met een dekzandrug. Er ontstonden grote meren, op de bodem werd
@@ -124,7 +124,7 @@ kleine percelen bos en resten van perceelsranden.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De Etboshoeve was een ontmoetingsplaats
@@ -148,7 +148,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -283,7 +283,7 @@ vroegere meersen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Door ontwatering werd grasland gescheurd en omgezet naar akkerland.
 Hierdoor verdween het oorspronkelijke meersenlandschap.De kunstmatige

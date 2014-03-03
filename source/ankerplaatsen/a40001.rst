@@ -135,8 +135,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De kreken hebben een zeer typische vegetatie door het weinige water
 (varenvegetatie op drijftillen) en de grote hoeveelheid zout. Doordat
@@ -163,7 +163,7 @@ meer gesloten karakter.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Op de Boerekreek vindt er heel wat
 watergebonden recreatie plaats.
@@ -186,7 +186,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -302,7 +302,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De recreatie op de Boerekreek vormt een dreiging voor de fauna en flora
 van de Boerekreek. Het waterpeil in het poldergebied wordt door de

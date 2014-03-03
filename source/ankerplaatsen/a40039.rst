@@ -81,8 +81,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Schelde ligt in een brede alluviale vlakte. Langs de rand van het
 Scheldealluvium komen zandige ruggetjes voor die het resultaat zijn van
@@ -117,7 +117,7 @@ Aan de rechteroever is de steilrand in het oog springend.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Aan de Christianabronnen staat een kapel.
@@ -144,7 +144,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -282,7 +282,7 @@ vijvers bij Kasteel Grenier
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Wegens verdroging gaat het meersenkarakter verloren en wordt
 intensievere landbouw mogelijk. Dit gaat gepaard met omzetting van

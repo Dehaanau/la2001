@@ -68,8 +68,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het Silsombos ligt in een oud alluvium dat deel uit maakt van een
 fossiele oost-west gerichte riviervallei die momenteel via een aantal
@@ -110,7 +110,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -230,7 +230,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Beperkte bebouwing nabij Walenhoek en Wilder, ten zuiden van de kapel
 O.L.Vrouw van Scherpenheuvel. Bebouwing in de kernen van Erps en Kwerps

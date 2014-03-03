@@ -72,8 +72,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dit landschap omvat vele verschillende biotopen, gepaard gaande met
 evenzoveel verschillende overgangszones. Deze diversiteit uit zich in
@@ -129,7 +129,7 @@ landschapselementen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De Belseheide was rond de eeuwwisseling
@@ -153,7 +153,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -266,7 +266,7 @@ relicten van natte heide
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Knelpunten zijn de steeds oprukkende recreatie, de aanwezigheid van
 landbouw met negatieve effecten op het behoud van het kleinschalige

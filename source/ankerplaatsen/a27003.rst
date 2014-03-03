@@ -84,8 +84,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landschap strekt zich uit tussen de getuigenheuvels die hier als
 uitlopers van het Hageland aanwezig zijn, en ten zuiden van de vallei
@@ -128,7 +128,7 @@ zichten mogelijk.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De omgeving biedt de ruimte voor een
@@ -150,7 +150,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -316,7 +316,7 @@ heiderelicten
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Hoewel het valleigebied relatief weinig intensief gebruikt wordt,
 veroorzaken het soms smalle beekdal, de bewoningsdruk en de verstoring

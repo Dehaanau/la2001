@@ -77,8 +77,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De natuurwetenschappelijke waarde van dit divers landschap wordt
 bepaald door de uitgestrektheid van het gebied, de aanwezigheid van een
@@ -116,7 +116,7 @@ typisch oud-Kempisch landschap compleet.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Zoerselbos gaat terug op het bos Hooidonck
@@ -145,7 +145,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -284,7 +284,7 @@ deels historisch stabiel bos, heiderelicten
 voormalige vloeibeemden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Knelpunten zijn de zandwinningput (E3-plas) en de verspreide atypische
 woningen. De bebouwing ter hoogte van Schriekbos vormt een onherstelbare

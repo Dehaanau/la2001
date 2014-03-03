@@ -69,8 +69,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De vallei van de Kaliebeek vormt een lokale depressie en fungeert
 daardoor lokaal als putgebied voor grondwaterstromingen vanuit
@@ -106,7 +106,7 @@ aantrekkelijk landschappelijk geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De vallei van de Kleine Kaliebeek en de
@@ -133,7 +133,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -212,7 +212,7 @@ heiderelicten
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Een knelpunt dat zeker moet worden vermeld is de intensieve recreatie.
 Vooral de aanwezigheid van weekendverblijven en de omvorming van

@@ -97,8 +97,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Grote Geule en Welen van Kieldrecht zijn van mariene oorsprong,
 dit is merkbaar door de zoutminnende planten. De Grote Geule van
@@ -145,7 +145,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -243,7 +243,7 @@ laagstamboomgaard
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Langsheen de Kieldrechtse Watergang werden ophogingen uitgevoerd. Dit
 gebied is deels ruilverkaveld (R.V.K Meerdonk). Het gebied wordt sterk

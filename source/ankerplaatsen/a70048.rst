@@ -73,8 +73,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Delen van het gebied zijn laag gelegen zodat ze regelmatig
 overstromen bij hoogwater van de Maas. De wisselende waterstanden gaan
@@ -115,7 +115,7 @@ rivierlandschap en de zichten over de Maas.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De hele omgeving is attractief voor zachte
@@ -140,7 +140,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -283,7 +283,7 @@ ooibos
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden.
 Laagstamboomgaarden vervangen steeds meer de traditioneler

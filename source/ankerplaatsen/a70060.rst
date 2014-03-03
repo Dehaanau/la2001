@@ -84,8 +84,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Beukenberg situeert zich op de zuidwest-noordoost georiënteerde
 waterscheidingskam tussen het Maas- en het Scheldebekken. Zulke
@@ -122,7 +122,7 @@ houtkanten.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het landschap is attractief voor zachte
@@ -144,7 +144,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -269,7 +269,7 @@ weilanden nabij kasteel en bebouwing, onder boomgaarden of populieren
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Beukenberg is erg gevoelig voor erosie en verstoring, die nog
 versterkt wordt door ongeoorloofd mountainbiken. Bovendien liggen de

@@ -67,8 +67,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ankerplaats ligt op een uitloper van de rug van Westrozebeke en
 vormt het brongebied voor de Zanddambeek.
@@ -97,7 +97,7 @@ Westrozebeke.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het gebied is gedeeltelijk militair domein
@@ -119,7 +119,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -189,7 +189,7 @@ oude bomkraters
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In de omgeving van het bos (vooral ten oosten ervan) liggen nog heel wat
 kleinere boscomplexen die eertijds ook tot het bos van Houthulst

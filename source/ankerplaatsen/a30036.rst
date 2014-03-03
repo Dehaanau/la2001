@@ -67,8 +67,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De verscheidenheid van de geologische lagen geeft het onstaan aan
 bronnen rond deze asymmetrische heuvel die het interfluvium vormt tussen
@@ -106,7 +106,7 @@ visuele barrière die het zicht beperkt in één richting.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 \*
@@ -125,7 +125,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -184,7 +184,7 @@ dreef zuidoostelijke grens van de ankerplaats
 bronbos
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landelijk karakter van de ankerplaats dient maximaal behouden te
 blijven waarbij visueel storende uitbreidingen bij landbouwbedrijven

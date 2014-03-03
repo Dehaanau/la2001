@@ -60,8 +60,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De geleidelijke overgang van zand- naar lemige zandgronden met
 verschillende vochtigheidsgradiënten heeft een grote vegetatiekundige
@@ -102,7 +102,7 @@ prachtige zichten ontstaan.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Het domein heeft zowel in de 1ste als de
@@ -129,7 +129,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Hydrografische Elementen:**
 
@@ -220,7 +220,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het vroegere kasteel werd in 1952 afgebroken. Een vervanging door een
 eigentijds en inpassend nieuw bouwwerk (dus geen villa of reconstructie)

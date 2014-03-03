@@ -79,8 +79,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De ondergrond bestaat uit de sedimenten van de zee-inbraken
 (Duinkerke-transgressies) vlakbij de Ijzer. Ten noorden van Diksmuide
@@ -110,7 +110,7 @@ eroderende oevers.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De vele oorlogsmonumenten en -restanten
@@ -131,7 +131,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -227,7 +227,7 @@ broeken
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De schaalvergroting in de landbouw heeft nefaste gevolgen voor de
 perceelsgrootte en het aandeel perceelsrandbegroeiing. Daarnaast zorgt

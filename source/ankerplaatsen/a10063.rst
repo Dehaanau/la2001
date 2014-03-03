@@ -106,8 +106,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Deze ankerplaats vertoont een zeer grote verscheidenheid aan reliëf
 en bodemgesteldheid. Ten gevolge van de geleidelijke overgang van
@@ -144,7 +144,7 @@ dijken dragen bij tot het schilderachtige karakter van het geheel.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 De Nete, Dijle, Zenne en Rupel dienen
@@ -173,7 +173,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -315,7 +315,7 @@ vloedbossen
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Te vermelden knelpunten zijn de steeds oprukkende industrie, bebouwing
 en infrastructuur rondom de ankerplaats, waardoor het landschap steeds

@@ -73,8 +73,8 @@ Lipsiushuis, de Vuurmolen, twee serristenwoningen met bijhorende serres.
 Landschapswaarden
 -----------------
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Een dorp met een rijk verleden dat één van de bakermatten was van de
 Belgische serredruiventeelt.
@@ -113,7 +113,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -191,7 +191,7 @@ ELEMENTEN EN PATRONEN VAN LANDGEBRUIK
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Bebouwde kern, omschrijving afgestemd op bestaande bescherming als
 dorpsgezicht en de aansluitende bescherming van de serristenwoningen met

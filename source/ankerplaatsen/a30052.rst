@@ -82,8 +82,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De graduele overgang van strand naar duinen is gaaf en natuurlijk
 waarbij sommige duinen restanten vormen van vroegere duinenlandschappen.
@@ -139,7 +139,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -209,7 +209,7 @@ in duinakkers
 graslanden
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De geomorfologische en ecologische kenmerken van het duinengebied dient
 gerespecteerd en behouden te blijven vanwege hun waarde en vanwege de

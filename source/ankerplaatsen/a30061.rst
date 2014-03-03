@@ -68,8 +68,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De zeldzame florasoorten en de speciale variëteiten die in de
 kasteelparken voorkomen, hebben een belangrijke wetenschappelijke
@@ -115,7 +115,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Macroreliëf:**
 
@@ -215,7 +215,7 @@ bij kast Nieuwburg
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ten zuiden van het kasteeldomein Breidels ligt een residentiële wijk in
 bos. Het bebost karakter moet bewaard blijven om de storende invloed van

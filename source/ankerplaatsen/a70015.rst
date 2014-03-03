@@ -103,8 +103,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De Berwijn is de enige vrij meanderende waterloop met zulk een groot
 debiet en met kenmerken van een bergrivier in Vlaanderen. Het dal van de
@@ -149,7 +149,7 @@ plateau, doorsneden met holle wegen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 In het landschap bevinden zich
@@ -169,7 +169,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -286,7 +286,7 @@ hellings- en valleigraslanden
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Een hoogspanningsleiding beïnvloed de visuele belevingswaarde van het
 landschap negatief. Er bevindt zich een gebouwencomplex van een

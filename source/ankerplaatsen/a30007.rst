@@ -65,8 +65,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Oudlandpolder waarbij de bodemgesteldhied nog het bodemgebruik
 bepaalt: bewoning, wegen en akkerland op kreekruggen; grasland op
@@ -106,7 +106,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -187,7 +187,7 @@ veedrinkput
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Omzetting van weiland naar akkerland doet afbreuk aan het historisch
 permanent karakter van grasland en maakt het microreliëf onherkenbaar.

@@ -116,8 +116,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De natuurlijke graduele overgang tussen polder- en zandstreek heeft
 een grote wetenschappelijke waarde door zijn gaafheid en herkenbaarheid
@@ -181,7 +181,7 @@ C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -333,7 +333,7 @@ No
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De industriegebouwen nabij de Panneschuurhoeve zijn een serieuze
 blikvanger en zijn storend in het landschap. Ook de windturbines en het

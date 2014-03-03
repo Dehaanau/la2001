@@ -100,8 +100,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het kasteeldomein bezit een dendrologische waarde omwille van zijn
 omhaagde lanen, uitzonderlijke solitairen en tunnels.
@@ -128,7 +128,7 @@ ijle bomenrijen of houtkanten op de perceelsgrenzen.
 
 
 Sociaal-culturele waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Elk jaar opnieuw op de laatste zondag van
@@ -152,7 +152,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -295,6 +295,6 @@ hooi- en weiland van de Demerbroeken, graspartijen in het park
 beemden en bevloeiingen in de Demervallei
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 De recente bebouwing levert geen bijdrage tot de landschapswaarden.

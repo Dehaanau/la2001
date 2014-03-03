@@ -94,8 +94,8 @@ Landschapswaarden
 -----------------
 
 
-Wetenschappelijke waarde:
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Wetenschappelijke waarde
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het reliëf en het hydrografisch net bepalen in belangrijke mate het
 landgebruik en hebben nog een grote gaaf- en natuurlijkheid. De heuvel
@@ -160,7 +160,7 @@ A. LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
 
 
 GEOMORFOLOGIE/HYDROGRAFIE
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Microreliëf:**
 
@@ -262,7 +262,7 @@ kraterlijn
 
 
 OPMERKINGEN EN KNELPUNTEN
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Het landelijke en open landschap dient behouden te blijven om de
 vergezichten in alle richtingen te vrijwaren. Daarbij dient de
