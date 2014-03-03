@@ -1,8 +1,8 @@
 Kasteel van Beto en Beukenberg met Romeinse weg
 ===============================================
 
-Anker ID: A70060
-----------------
+:Ankerplaats ID: A70060
+
 
 **Landschap**
 

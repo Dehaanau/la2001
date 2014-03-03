@@ -1,8 +1,8 @@
 Watering van Lommel-Kolonie
 ===========================
 
-Anker ID: A70001
-----------------
+:Ankerplaats ID: A70001
+
 
 **Landschap**
 

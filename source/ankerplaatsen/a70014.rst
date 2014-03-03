@@ -1,8 +1,8 @@
 Landcommanderij Alden Biesen
 ============================
 
-Anker ID: A70014
-----------------
+:Ankerplaats ID: A70014
+
 
 **Landschap**
 

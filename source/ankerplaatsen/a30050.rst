@@ -1,8 +1,8 @@
 Kasteeldomein Spiere
 ====================
 
-Anker ID: A30050
-----------------
+:Ankerplaats ID: A30050
+
 
 
 

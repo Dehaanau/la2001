@@ -1,8 +1,8 @@
 Dikkebusvijver-Kemmelberg-Scherpenberg-Zwarte Molenhoek
 =======================================================
 
-Anker ID: A30037
-----------------
+:Ankerplaats ID: A30037
+
 
 
 

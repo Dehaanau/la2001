@@ -1,8 +1,8 @@
 Domein Zwart Goor-Rondpunt
 ==========================
 
-Anker ID: A10009
-----------------
+:Ankerplaats ID: A10009
+
 
 
 

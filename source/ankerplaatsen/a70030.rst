@@ -1,8 +1,8 @@
 Vallei van de Cicindria met kasteeldorp Kerkom
 ==============================================
 
-Anker ID: A70030
-----------------
+:Ankerplaats ID: A70030
+
 
 **Landschap**
 

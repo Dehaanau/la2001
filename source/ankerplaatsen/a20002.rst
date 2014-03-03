@@ -1,8 +1,8 @@
 Amelgem - Ossel
 ===============
 
-Anker ID: A20002
-----------------
+:Ankerplaats ID: A20002
+
 
 
 

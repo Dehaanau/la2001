@@ -1,8 +1,8 @@
 Krekengebied Sint- Margriete- Sint-Jan-in-Eremo
 ===============================================
 
-Anker ID: A40001
-----------------
+:Ankerplaats ID: A40001
+
 
 **Landschap**
 
