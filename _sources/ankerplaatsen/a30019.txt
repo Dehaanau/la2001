@@ -6,7 +6,7 @@ Maleveld en abdij van Male.
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt op grondgebied van de gemeenten Brugge en Damme
@@ -105,7 +105,7 @@ Rijkevelde).
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -115,13 +115,11 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * landduin
 
 dekzandrug Gistel-Maldegem-Stekene-Verrebroek
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -131,14 +129,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 bij abdij St-Trudo
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * ijskelder
@@ -148,21 +144,18 @@ bij abdij St-Trudo
 oude donjon, kasteel wordt als abdij gebruikt
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 vroeger stadhuis in uiterste zuidwesten van ankerplaats
 
 **Kerkelijk erfgoed:**
-
  * abdij
 
 
 kasteel deels verbouwd tot abdij
 
 **Klein historisch erfgoed:**
-
  * schandpaal
 
 
@@ -172,7 +165,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -182,19 +174,16 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 dreven rond park en abdij; bomenrij langs Maleleie
 
 **Topografie:**
-
  * blokvormig
 
 
 **Bos:**
-
  * naald
  * loof
 

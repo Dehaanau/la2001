@@ -6,7 +6,7 @@ Sint-Rijkers
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats grenst in het noorden aan de bebouwing van
@@ -98,7 +98,7 @@ Vergezichten op het plateau naar omgeving in alle richtingen.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -108,14 +108,12 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * steilrand
  * markante terreinovergang
 
 overgang van Lovaart ( Ijzervallei) naar plateau van Izenberghe
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -125,7 +123,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -133,26 +130,22 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 talrijke waardevolle en gave hoeves met walgracht of restant ervan
 
 **Molens:**
-
  * windmolen
 
 
 Lindemolen
 
 **Militair erfgoed:**
-
  * motte
 
 
 vlakbij St-Rijkers; ook elders nog motte-sites (bij Diephof)
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
@@ -161,14 +154,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 2 oude wegenpatronen
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
 
 
@@ -178,7 +169,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
@@ -187,12 +177,10 @@ bomenrij langs Lovaart;perceelsrandbegroeiing soms nog zeer gaaf rond
 weilanden
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * onregelmatig
 
 

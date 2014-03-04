@@ -113,13 +113,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
@@ -127,14 +125,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 dorpswoning in leem
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -143,7 +139,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -152,16 +147,13 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

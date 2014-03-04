@@ -163,22 +163,18 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 **Hydrografische Elementen:**
-
  * waterloop
  * kreek
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -190,14 +186,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Hoeve St- Elooi (1799)
 
 **Klein historisch erfgoed:**
-
  * grenspaal
 
 
@@ -206,13 +200,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
 
@@ -223,24 +215,20 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -249,7 +237,6 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

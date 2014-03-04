@@ -135,19 +135,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
 cuesta van Lotenhulle- Hertsberge
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
@@ -155,7 +152,6 @@ cuesta van Lotenhulle- Hertsberge
 Kwade stroom
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -165,21 +161,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
 Blekkerbos
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * klooster
@@ -189,20 +182,17 @@ Blekkerbos
 Broeders van Liefde 'Blekkervijver'
 
 **Klein historisch erfgoed:**
-
  * grenspaal
 
 
 grenspaal met Ruiselede, aan Hooggoed
 
  **Andere:**
-voormalige kantschool
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Romeinse weg
@@ -214,14 +204,12 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
@@ -229,13 +217,11 @@ Elementen en patronen van landgebruik
 vijvers bij landgoederen, poelen bij hoeves
 
 **Topografie:**
-
  * blokvormig
  * historisch stabiel
 
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

@@ -6,7 +6,7 @@ Asdonk, Grote Beek en Kleine Beek
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Asdonk ligt ten zuidoosten van de dorpskern van Engsbergen, een
@@ -79,7 +79,7 @@ rond de hoeves.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -89,25 +89,21 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -116,31 +112,26 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
  * kasteelgracht
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -149,13 +140,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -164,35 +153,29 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Bos:**
-
  * loof
  * broek
 
 
 **Bijzondere waterhuishouding:**
-
  * droogmakerij
 
 

@@ -206,21 +206,18 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 oeverwallen, stuifzandreliëfs
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 duinreliëfs
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -229,7 +226,6 @@ duinreliëfs
 o.a. Zwarte Beek, Oude Beek, Winterbeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -239,13 +235,11 @@ o.a. Zwarte Beek, Oude Beek, Winterbeek
 beemden, hier broeken genoemd, verruigde hooilanden
 
  **Andere:**
-stuifzand
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
@@ -253,39 +247,33 @@ oude landbouwkernen De Hoef, Fonteintje, Hemelbrug, Hemelrijk,
 Spiekelspade
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Molens:**
-
  * watermolen
 
 
 Stalse Molen
 
 **Militair erfgoed:**
-
  * schans
 
 
 o.a. Vurtense schans
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 o.a. kapel van Onze-Lieve-Vrouw-aan-de-Staak
 
  **Archeologische elementen:**
-archeologische vindplaatsen in de omgeving van duinen
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -293,7 +281,6 @@ Elementen van transport en infrastructuur
 opstrekkend patroon van paden en wegen naar en door de vallei
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -307,24 +294,20 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * opstrekkend
  * historisch stabiel
 
@@ -332,7 +315,6 @@ Elementen en patronen van landgebruik
 in de Zwarte Beekvallei
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
@@ -341,7 +323,6 @@ in de Zwarte Beekvallei
 beemden, hier broeken genoemd
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -351,7 +332,6 @@ beemden, hier broeken genoemd
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
  * vloeiweide
  * watering

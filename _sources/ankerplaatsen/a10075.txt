@@ -150,12 +150,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
@@ -163,7 +161,6 @@ Geomorfologie/hydrografie
 Vlemincksloop, Beemdenloop, peerloop, Waterstraatloop
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * ven
@@ -176,7 +173,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * stuw
 
@@ -187,32 +183,27 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -156,12 +156,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -172,14 +170,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * kasteelgracht
@@ -188,7 +184,6 @@ kasteelpark
 Kasteel Zellaar, Kasteel Berentrode
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * wagenhuis
@@ -197,7 +192,6 @@ Kasteel Zellaar, Kasteel Berentrode
 Blijdenberghoeve, Krankehoeve, Kleine Krankehoeve
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * abdij
@@ -209,7 +203,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -219,7 +212,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -227,17 +219,14 @@ Elementen en patronen van landgebruik
  * knotbomenrij
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
 
 
 **Bos:**
-
  * loof
  * broek
  * hooghout

@@ -107,20 +107,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
 
 **Hydrografische Elementen:**
 
-
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -130,23 +126,19 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteelgracht
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -156,7 +148,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -165,38 +156,31 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 No
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout

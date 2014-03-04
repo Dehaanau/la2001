@@ -92,14 +92,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * kasteelgracht
@@ -108,14 +106,12 @@ Kasteelpark
 Valkentoren, Smeedijzeren toegangspoort, kapel
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Riddershoeve
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
 
 
@@ -123,16 +119,13 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * loof
  * hooghout
 

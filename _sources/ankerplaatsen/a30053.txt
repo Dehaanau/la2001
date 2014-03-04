@@ -136,14 +136,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 valleirand en/of kunstmatig
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * oude rivierarm
@@ -152,7 +150,6 @@ valleirand en/of kunstmatig
 Zuidleie; Borne-, Merle, Zuiddam- en Geuzenbeek
 
 **Moerassige gronden:**
-
  * veen
 
 
@@ -162,7 +159,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * toren
  * landgoed
 
@@ -170,14 +166,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 hoeve Blauw Kasteel
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Blauw Kasteel, Schotsgoed, Grote Linde, en andere
 
 **Militair erfgoed:**
-
  * bunker
  * motte
 
@@ -185,7 +179,6 @@ Blauw Kasteel, Schotsgoed, Grote Linde, en andere
 restanten van mottestructuur en walgracht
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -195,7 +188,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
 
 
@@ -205,14 +197,12 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 bij kapel Grote linde
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
@@ -221,21 +211,18 @@ bij kapel Grote linde
 langs kanaal; langs perceelsranden, bij hoeves
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkpoel
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 No
 
 **Bos:**
-
  * struweel
 
 

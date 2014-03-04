@@ -6,7 +6,7 @@ Ijzermonding - St-Laureinsduinen
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats strekt zich uit op de rechteroever van de Ijzer
@@ -87,7 +87,7 @@ De loop van de Ijzer met aansluitende dijken.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -97,13 +97,11 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * kustduin
 
 met aansluitend strand; kopjes- en paraboolduinen
 
 **Hydrografische Elementen:**
-
  * rivier
 
 
@@ -113,7 +111,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
-
  * bunker
  * verdedingingslinie
 
@@ -121,7 +118,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 restanten van de Atlantikwal uit WOII
 
  **Archeologische elementen:**
-archeologische resten van de vuurtoren de Vierboete
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -130,7 +126,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bos:**
-
  * struweel
 
 

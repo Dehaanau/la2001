@@ -6,7 +6,7 @@ Markvallei stroomafwaarts Galmaarden
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 De Markvallei situeert zicht ten zuiden van Geraardsbergen, op de
@@ -120,7 +120,7 @@ bossen met een hoge biologische waarde.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -130,16 +130,13 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * steilrand
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -149,7 +146,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -159,14 +155,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Molens:**
-
  * watermolen
 
 
 Driscartmolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -175,15 +169,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * stuw
 
@@ -193,7 +184,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -201,28 +191,23 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * opstrekkend
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

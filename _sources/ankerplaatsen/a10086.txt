@@ -132,19 +132,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
 Berkenbeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -156,18 +153,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Klein historisch erfgoed:**
-
  * grenspaal
 
 
 **Archeologische elementen:**
-vondsten van prehistorische werktuigen in de nabije omgeving
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -176,27 +170,22 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * broek
  * struweel
 

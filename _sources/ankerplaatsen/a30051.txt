@@ -117,14 +117,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 langs oude kanaalarm
 
 **Hydrografische Elementen:**
-
  * rivier
  * beek
 
@@ -135,14 +133,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * orangerie
@@ -154,7 +150,6 @@ kasteelpark
 kasteel van Bossuit;
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * stal
  * wagenhuis
@@ -163,13 +158,11 @@ kasteel van Bossuit;
 stal en wagenhuis bij kasteel; hoeve ten noordoosten van kasteel
 
  **Andere:**
-pompgebouw bij kanaal
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * sluis
  * pompgemaal
@@ -181,7 +174,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -189,21 +181,18 @@ Elementen en patronen van landgebruik
 struweel langs taluds kanaal; dreef op as kasteel
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 in kasteelpark
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 boomgaard bij kasteel en hoeve
 
 **Bos:**
-
  * loof
 
 

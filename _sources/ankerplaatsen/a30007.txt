@@ -6,7 +6,7 @@ Poldergebied Klemskerke
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt ten zuiden van de bebouwing van De Haan. In het
@@ -101,7 +101,7 @@ vnl. graslandcomplexen.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -111,14 +111,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 typisch voor Oudlandpolder
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
@@ -128,27 +126,23 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 lineaire polderdorpen op kreekruggen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 hoeve Otterput en 't Zwaluwnest
 
 **Molens:**
-
  * windmolen
 
 
 Dorpsmolen te Klemskerke
 
 **Militair erfgoed:**
-
  * bunker
  * verdedingingslinie
 
@@ -156,7 +150,6 @@ Dorpsmolen te Klemskerke
 WOII
 
  **Archeologische elementen:**
-misschien sporen van middeleeuwse sites met walgracht in de weilanden
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -165,25 +158,21 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 aansluitend bij hoeves
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkput
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 

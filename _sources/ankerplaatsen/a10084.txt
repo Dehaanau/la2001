@@ -150,12 +150,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -165,7 +163,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
  * hof
 
@@ -173,7 +170,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Kasteelpark, Hof ter List
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
  * ijskelder
@@ -182,7 +178,6 @@ Kasteelpark, Hof ter List
 Kasteel van Brasschaat, Hof ter List
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * wagenhuis
@@ -191,7 +186,6 @@ Kasteel van Brasschaat, Hof ter List
 Melkerij + bakhuis, Hemelhoeve
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * pastorie
 
@@ -202,7 +196,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -211,28 +204,23 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

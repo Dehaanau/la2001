@@ -162,13 +162,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * holle weg
@@ -177,7 +175,6 @@ door riviererosie sterk versneden steilrand tussen Laag- en
 Midden-België
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -186,14 +183,12 @@ Molenbeek of Mombeek, Winterbeek
 
 **Moerassige gronden:**
 
-
 vochtige beemden
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -201,13 +196,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteeltuin Bellevue, kasteelparken Gorsleeuw, Haagsmeer en Opleeuw
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 hoopdorp Gorsleeuw, straatdorp Opleeuw
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * boswachterswoning
  * landgoed
@@ -218,12 +211,10 @@ hoopdorp Gorsleeuw, straatdorp Opleeuw
 Bellevue, Gorsleeuw, Haagsmeer, Opleeuw
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -232,7 +223,6 @@ Bellevue, Gorsleeuw, Haagsmeer, Opleeuw
 o.a. Oude Winning, kasteelhoeven Gorsleeuw, Haagsmeer, Opleeuw,
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -241,23 +231,19 @@ o.a. Oude Winning, kasteelhoeven Gorsleeuw, Haagsmeer, Opleeuw,
 o.a. Sint-Martinus
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
 o.a. gietzijzeren pomp, Opleeuwkruis
 
  **Archeologische elementen:**
-Gallo-Romeinse vondsten
 
  **Andere:**
-voormalige school met onderwijzerswoning
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Oostenrijkse periode
 
 
@@ -267,26 +253,22 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
@@ -294,7 +276,6 @@ Elementen en patronen van landgebruik
 gedeeltelijk historsich stabiel
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
@@ -302,12 +283,10 @@ grasland onder boomgaarden, vochtige beemden, traditioneel open
 akkergebied op hogere delen
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * hooghout

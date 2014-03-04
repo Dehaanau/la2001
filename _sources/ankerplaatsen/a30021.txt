@@ -6,7 +6,7 @@ Bergskes-Assebroekse Meersengebied-Beverhoutsveld
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt in de gemeenten Brugge (Assebroek), Beernem en
@@ -196,7 +196,7 @@ vallei en benadrukken de dreven haarnoordwest-zuidoostoriëntatie.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -206,25 +206,21 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 overgang Pleistocene dekzandrug naar Meersengebied met vnl. Holoceen
 
 **Hydrografische Elementen:**
-
  * beek
 
 
 hoofdsloot, St-Trudoledeke, Zuiddambeek, Mazelbeek
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -234,20 +230,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 kasteel Bergskens met bijhorend bosje
 
  **Archeologische elementen:**
-circulaire structuur ten zuiden van kerk van Ver-Assebroek
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * oude tramroute
 
 tramroute Oedelem-Brugge (rond kasteel Bergskens)
@@ -256,7 +249,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -267,28 +259,24 @@ dreven in veltgebied; perceelsrandbegroeiing in meersengebied:
 knot/bomenrijen, houtkanten
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkput
 
 **Topografie:**
-
  * blokvormig
 
 
 Beverhoutsveld: opstrekkend, geometrisch;
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 in Assebroekse Meersen
 
 **Bos:**
-
  * naald
  * loof
 

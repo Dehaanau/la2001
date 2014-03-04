@@ -115,18 +115,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -137,7 +134,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -148,7 +144,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
@@ -159,18 +154,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * houtkant
  * hagen
  * kaphaag
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

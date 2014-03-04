@@ -194,20 +194,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -215,7 +212,6 @@ Geomorfologie/hydrografie
 
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -225,12 +221,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * hof
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -239,14 +233,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Hof ten Bosse, Hof te Fransbeke
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
 kerk van 0pbrakel
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
@@ -256,7 +248,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Romeinse weg
@@ -266,7 +257,6 @@ Elementen van transport en infrastructuur
 Chaussée de Brunehaut
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
 
 
@@ -275,13 +265,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -290,12 +278,10 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * loof
  * hooghout
 

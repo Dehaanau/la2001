@@ -93,14 +93,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 wal van het fort
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -110,7 +108,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
-
  * fort
 
 
@@ -118,7 +115,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
@@ -126,21 +122,17 @@ restanten van knotbomenrijen
 
 **Kunstmatige waters:**
 
-
 gracht rond fort
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * loof
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

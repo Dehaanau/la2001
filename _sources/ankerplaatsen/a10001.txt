@@ -110,17 +110,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * ven
@@ -131,7 +128,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
@@ -140,7 +136,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -150,21 +145,17 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Kunstmatige waters:**
-
  * turfput
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Bos:**
-
  * naald
  * loof
 

@@ -178,18 +178,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -197,7 +194,6 @@ Geomorfologie/hydrografie
 bronnen
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -206,21 +202,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Hemsrode
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 Hemsrode
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -231,7 +224,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -241,35 +233,29 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * kouters
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hakhout
  * middelhout

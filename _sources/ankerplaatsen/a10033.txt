@@ -65,17 +65,14 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * muur
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * abdij
@@ -85,12 +82,10 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * dreef
 
 Opmerkingen en knelpunten

@@ -142,12 +142,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -155,7 +153,6 @@ Geomorfologie/hydrografie
 Tappelbeek
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -164,14 +161,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * orangerie
@@ -182,14 +177,12 @@ kasteelpark
 'Hof van Liere' + paviljoen, 'Kasteel Montens'
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 dienstwoningen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * stal
 
@@ -197,14 +190,12 @@ dienstwoningen
 Bogaardehoeve
 
  **Archeologische elementen:**
-sporen van Frankische Nederzettingen en vondsten uit het La-Tène
 tijdperk
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -214,24 +205,20 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

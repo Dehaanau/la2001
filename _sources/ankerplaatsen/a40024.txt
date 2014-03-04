@@ -166,18 +166,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 rand van de Cuesta van het Waasland
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -189,7 +186,6 @@ Rupelmondse Kreek, Barbierbeek, Kapelbeek, Kruibeekse Kreek, Bazelse
 kreek, Twissels
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -199,19 +195,16 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Nederzettingspatronen:**
-
  * plein
  * gehucht
 
 Bazel
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * muur
@@ -221,26 +214,22 @@ Bazel
 Kasteel van Wissekerke, Graventoren, Altena
 
 **Bouwkundig erfgoed:**
-
  * herberg
 
 
 herberg de Eenhoorn
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Molens:**
-
  * watermolen
 
 
 getijdewatermolen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -249,20 +238,17 @@ getijdewatermolen
 Kerk van Bazel
 
  **Andere:**
-Scheepswerf van Rupelmonde, veer over Schelde (2)
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Romeinse weg
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * brug
  * sluis
@@ -275,14 +261,12 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 linden op wegensplitsingen (met kapelletjes)
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -290,25 +274,21 @@ linden op wegensplitsingen (met kapelletjes)
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * turfput
  * weel
  * vijver
 
 
 **Topografie:**
-
  * repelvormig
  * historisch stabiel
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout
@@ -317,7 +297,6 @@ linden op wegensplitsingen (met kapelletjes)
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
  * buitendijks
 

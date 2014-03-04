@@ -97,14 +97,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * kasteelgracht
 
@@ -112,13 +110,11 @@ kasteelpark
 'Hof ter Linden' + toegangspoort en boogbrug
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * wagenhuis
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -126,18 +122,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 kasteelvijver
 
 **Bos:**
-
  * naald
  * loof
  * struweel

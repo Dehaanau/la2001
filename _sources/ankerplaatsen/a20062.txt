@@ -6,7 +6,7 @@ Liedekerkebos
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Liedekerkebos is gelegen op het grondgebied van de gemeenten
@@ -70,7 +70,7 @@ weide-enclaves geven het gebied een hoge belevingswaarde.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -80,17 +80,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -101,7 +98,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * klooster
 
@@ -109,21 +105,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 enkel ruïne
 
  **Archeologische elementen:**
-relicten van de priorij van Muylem
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -132,18 +124,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
 
 **Bos:**
-
  * naald
  * loof
 

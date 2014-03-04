@@ -6,7 +6,7 @@ Kasteeldomein van Duras
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Het kasteeldomein van Duras is een uitgestrekt landgoed van circa 134
@@ -127,7 +127,7 @@ Duras bepalend voor de inrichting en organisatie van het landschap.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -137,19 +137,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 zacht glooiend reliëf
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -159,14 +156,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark Duras
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
  * hovenierswoning
@@ -180,27 +175,23 @@ kasteelpark Duras
 kasteeldomein Duras
 
 **Molens:**
-
  * watermolen
 
 
 o.a. Grevensmolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 kluiskapel van de Osseweg (Zoutleeuw)
 
  **Andere:**
-belangrijk hekwerk aan de historische toegangen
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -211,42 +202,35 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 weiden van de Molenbeek
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

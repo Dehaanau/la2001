@@ -113,7 +113,6 @@ Geomorfologie/hydrografie
 
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -123,14 +122,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Sterrebos
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * landgoed
@@ -141,7 +138,6 @@ Sterrebos
 poortgebouwen
 
 **Landbouwkundig erfgoed:**
-
  * stal
  * wagenhuis
 
@@ -153,19 +149,16 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 in beekdal gelegen
 
 **Bos:**
-
  * loof
  * middelhout
 

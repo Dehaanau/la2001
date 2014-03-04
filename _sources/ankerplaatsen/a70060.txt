@@ -150,13 +150,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * holle weg
@@ -164,7 +162,6 @@ Geomorfologie/hydrografie
 sterk heuvelend reliëf op waterscheidingskam
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -174,7 +171,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -182,7 +178,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelpark van Beto
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * landgoed
@@ -192,7 +187,6 @@ kasteelpark van Beto
 kasteel van Beto
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -201,16 +195,13 @@ kasteel van Beto
 kasteelhoeve van Beto
 
  **Archeologische elementen:**
-Gallo-Romeinse relicten
 
  **Andere:**
-relicten van Romeinse bouwwerken: aquaduct, omwalling, tumulus
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
@@ -222,49 +213,41 @@ wegen
 
 **Waterbouwkundige infrastructuur:**
 
-
 relict Romeins aquaduct
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 weilanden nabij kasteel en bebouwing, onder boomgaarden of populieren
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

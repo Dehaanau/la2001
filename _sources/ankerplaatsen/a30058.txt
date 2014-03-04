@@ -102,14 +102,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 langs valleigrens
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -119,7 +117,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
@@ -130,7 +127,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
@@ -139,11 +135,9 @@ langs beek; en begroeide taluds
 
 **Topografie:**
 
-
 langste perceelszijde loodrecht op loop Vleterbeek
 
 **Typische landbouwteelten:**
-
  * hop
 
 

@@ -181,20 +181,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * steilrand
  * markante terreinovergang
 
 steilrand aan Schelderode
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -204,7 +201,6 @@ steilrand aan Schelderode
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -212,26 +208,22 @@ steilrand aan Schelderode
 
 **Geologie:**
 
-
 Vlaamse Vallei
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteel avn Schelderode en van Welden
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * hovenierswoning
@@ -241,20 +233,17 @@ kasteel avn Schelderode en van Welden
 kasteel van Schelderode en Welden, neerhof
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * herberg
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -266,14 +255,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -283,13 +270,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -297,24 +282,20 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 **Bos:**
-
  * loof
  * broek
  * middelhout

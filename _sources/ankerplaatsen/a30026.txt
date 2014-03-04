@@ -6,7 +6,7 @@ Ijzerbroeken en Lovaart bij Pollinkhove
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats strekt zich uit van de Ijzertoren in Diksmuide, naar
@@ -238,7 +238,7 @@ open landschap een baken voor de omgeving ten noorden van Knokkebrug.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -248,20 +248,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 deels aan ontvening te wijten, deels natuurlijk
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 overgang polder/ijzerbroeken - zandleemgebied
 
 **Hydrografische Elementen:**
-
  * rivier
  * beek
  * vallei
@@ -271,7 +268,6 @@ overgang polder/ijzerbroeken - zandleemgebied
 Ijzer en met zijbeken, vaarten, kanalen; Dode Ijzer bij Elzendamme
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -283,20 +279,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 bij Blankaartkasteel
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 fintele
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
 
@@ -304,21 +297,18 @@ fintele
 kasteel Blankaart
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Pollinkhof bij Pollinkhove
 
 **Militair erfgoed:**
-
  * fort
 
 
 Vaubanvestingresten rond Knokkebrug; Ijzertoren
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
@@ -328,14 +318,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Oostenrijkse periode
 
 
 vlakbij Elzendamme
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * brug
@@ -350,21 +338,18 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
 bomenrij langs Lovaart en Ijzer; zeldzame resten van knotbomenrij
 
 **Kunstmatige waters:**
-
  * turfput
 
 
 blankaart
 
 **Topografie:**
-
  * repelvormig
  * historisch stabiel
 
@@ -373,12 +358,10 @@ repelvormig rond Blankaart tot Noordschote; elders geometrisch en
 historisch stabiel
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * loof
  * broek
 
@@ -386,7 +369,6 @@ historisch stabiel
 rond Blankaart
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

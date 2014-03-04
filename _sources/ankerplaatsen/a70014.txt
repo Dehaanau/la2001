@@ -182,20 +182,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
 zacht glooiend reliëf
 
 **Hydrografische Elementen:**
-
  * rivier
  * vallei
 
@@ -204,17 +201,14 @@ Demer
 
 **Moerassige gronden:**
 
-
 vochtige beemden
 
  **Andere:**
-voorkomen van dassenburchten
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
@@ -223,7 +217,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Engels park, Franse tuin, voorhof van de landcommanderij
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
  * landgoed
@@ -235,14 +228,12 @@ Engels park, Franse tuin, voorhof van de landcommanderij
 Landcommanderij Alden Biezen
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 pachterswoning, rentmeesterswoning van de landcommanderij
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -251,14 +242,12 @@ pachterswoning, rentmeesterswoning van de landcommanderij
 neerhof, rentmeesterswoning van de landcommanderij
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 o.a. kapel van de landcommanderij
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
@@ -268,39 +257,33 @@ Elementen van transport en infrastructuur
 
 **Wegenis:**
 
-
 straalvormig drevenpatroon
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
@@ -308,12 +291,10 @@ grasland (onder boomgaarden), open akkers op hogere leemplateaus,
 vochtige beemden in vallei
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

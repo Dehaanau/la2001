@@ -6,7 +6,7 @@ Bedevaartsoord van Scherpenheuvel
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Scherpenheuvel is gelegen op een heuvelrug in het noordelijke Hageland
@@ -79,7 +79,7 @@ Populair bedevaartsoord.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -89,13 +89,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * steilrand
@@ -104,22 +102,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * klooster
@@ -130,7 +124,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -140,7 +133,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 

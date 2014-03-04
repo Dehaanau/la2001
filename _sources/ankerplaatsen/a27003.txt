@@ -6,7 +6,7 @@ Vallei van de Zwarte Beek van Meldert tot Zelem
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 De benedenloop van de Zwarte Beek vloeit vanaf Meldert (Lummen) in
@@ -146,7 +146,7 @@ en organisatie van het landschap.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -156,13 +156,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * holle weg
@@ -170,7 +168,6 @@ Geomorfologie/hydrografie
 getuigenheuvels en ten zuiden van de vallei enkele depressies
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -179,7 +176,6 @@ getuigenheuvels en ten zuiden van de vallei enkele depressies
 o.a. Zwarte Beek, Bakelsbeek
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -191,7 +187,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -199,14 +194,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 o.a. kasteel Lobos, Geesthuis
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
 
 driehoekig plein in het straatdorp Zelem
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * kasteelgracht
@@ -215,7 +208,6 @@ driehoekig plein in het straatdorp Zelem
 kasteel Lobos
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
@@ -223,7 +215,6 @@ kasteel Lobos
 o.a. Geesthuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -232,14 +223,12 @@ o.a. Geesthuis
 o.a. Eksterhoek, kasteelhoeve Lobos, Oude Pastorij
 
 **Militair erfgoed:**
-
  * schans
 
 
 Oude Schans
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * klooster
  * pastorie
@@ -252,7 +241,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -266,30 +254,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * heide
 
@@ -298,12 +281,10 @@ beemden, hier broeken genoemd, akkers aan de valleirand,
 heiderelicten
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -313,7 +294,6 @@ heiderelicten
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

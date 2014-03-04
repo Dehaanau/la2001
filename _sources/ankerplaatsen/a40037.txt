@@ -188,13 +188,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
@@ -202,7 +200,6 @@ Geomorfologie/hydrografie
 donk
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -211,7 +208,6 @@ donk
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -219,14 +215,12 @@ donk
 
 **Geologie:**
 
-
 Vlaamse Vallei
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -235,7 +229,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Valkenhuis
 
 **Molens:**
-
  * watermolen
 
 
@@ -245,17 +238,14 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -264,13 +254,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -278,30 +266,25 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * repelvormig
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 populier
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -311,7 +294,6 @@ populier
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
 
 

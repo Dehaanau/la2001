@@ -103,13 +103,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -117,14 +115,12 @@ Winterbeek
 
 **Moerassige gronden:**
 
-
 gebrekkige natuurlijke drainage en hoge bodemvochtigheid
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -132,7 +128,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelpark Jongenbosch
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
 
@@ -140,43 +135,36 @@ kasteelpark Jongenbosch
 kasteel Jongenbosch met voormalig koetshuis
 
  **Archeologische elementen:**
-middeleeuwse vondsten
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 historisch stabiel bos en weilanden
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -153,13 +153,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
@@ -169,7 +167,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -178,14 +175,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Remondshof, Hoeve Altena, Ten Breebroek
 
 **Militair erfgoed:**
-
  * bunker
 
 
 voormalig militair domein
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -194,7 +189,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -204,30 +198,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * repelvormig
  * blokvormig
 
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

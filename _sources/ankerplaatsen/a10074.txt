@@ -152,17 +152,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -171,7 +168,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
-
  * fort
  * schans
  * bunker
@@ -183,7 +179,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * sluis
  * grachtenstelsel
@@ -193,29 +188,24 @@ Elementen van transport en infrastructuur
 Antitankgracht, grachten rondom de forten en schansen
 
  **Andere:**
-aarden dammen
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Bos:**
-
  * struweel
 
 

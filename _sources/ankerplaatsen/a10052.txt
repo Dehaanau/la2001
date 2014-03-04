@@ -140,13 +140,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * steilrand
@@ -154,7 +152,6 @@ Geomorfologie/hydrografie
 Kruiskensberg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -164,7 +161,6 @@ Kruiskensberg
 Grote Nete, Heiloop
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -173,7 +169,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * stal
 
@@ -181,27 +176,23 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Blauwe Hoeve + bakhuis
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 kruisweg
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
 ijzeren kruis
 
  **Archeologische elementen:**
-waterputten
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -210,30 +201,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

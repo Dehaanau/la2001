@@ -140,13 +140,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -156,21 +154,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 parkbos, moestuin
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteelgracht
 
 
 fundering & dienstgebouwen v/ Kasteel Zevenbergen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -179,7 +174,6 @@ fundering & dienstgebouwen v/ Kasteel Zevenbergen
 Driepikkelhoeve, Gasthuishoeve + waterput
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -187,13 +181,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -201,7 +193,6 @@ Elementen en patronen van landgebruik
 kastanjedreef
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
@@ -209,17 +200,14 @@ kastanjedreef
 kasteelvijver
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -148,27 +148,23 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
 
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -177,32 +173,27 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteel van Onkerzeke
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
 paardenstallen,dienstgebouwen
 
 **Bouwkundig erfgoed:**
-
  * huis
  * herberg
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * standbeeld
  * kruis
 
@@ -213,13 +204,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * pompgemaal
 
 
@@ -228,22 +217,18 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * loof
  * middelhout
  * hooghout

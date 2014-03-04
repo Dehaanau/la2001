@@ -151,20 +151,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -176,7 +173,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
@@ -185,19 +181,16 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 pastorietuin, Hof te Cattebeke
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * ijskelder
 
 
 druivenserre
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * villa
 
@@ -205,21 +198,18 @@ druivenserre
 villa Tynlon
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * windmolen
 
 
 Bossenaremolen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * pastorie
 
@@ -230,7 +220,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
@@ -243,14 +232,12 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 Drievuldigheidsboom
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -259,13 +246,11 @@ Drievuldigheidsboom
  * perceelsrandbegroeiing
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * kouters
 
 
 **Bos:**
-
  * loof
  * hooghout
 

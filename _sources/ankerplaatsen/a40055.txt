@@ -162,19 +162,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -184,7 +181,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -193,34 +189,29 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 abdij van Beaulieu
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 Melden
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * abdij
  * pastorie
 
@@ -231,14 +222,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
 
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sas
@@ -251,19 +240,16 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
 **Topografie:**
-
  * repelvormig
  * opstrekkend
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * voormalige communautaire akker
  * permanent grasland
  * kouters
@@ -271,14 +257,12 @@ Elementen en patronen van landgebruik
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel
 
 
 **Bijzondere waterhuishouding:**
-
  * watering
 
 

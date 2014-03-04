@@ -6,7 +6,7 @@ Rijkevelde
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt in de driehoek gevormd door St-Kruis (gem.
@@ -140,7 +140,7 @@ percelerings- en wegenpatroon eraan vasthangen.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -150,13 +150,11 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * landduin
 
 dekzandrug Gistel- Maldegem-Stekene-Verrebroek
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -166,14 +164,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 park bij beide kasteeldomeinen
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * kasteelgracht
@@ -182,7 +178,6 @@ park bij beide kasteeldomeinen
 Welke geboouwen nog?
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
@@ -192,7 +187,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 in noordwesten: tramlijn Brugge-Maldegem
@@ -201,14 +195,12 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
 **Topografie:**
-
  * historisch stabiel
 
 
@@ -216,7 +208,6 @@ in loweiden zeer kleine graslandpercelen die zeer goed bewaard zijn
 gebleven
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * meersen
 
@@ -224,7 +215,6 @@ gebleven
 loweiden; meersen bij Meersbeek
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

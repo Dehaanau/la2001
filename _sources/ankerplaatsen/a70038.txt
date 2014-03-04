@@ -188,7 +188,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
@@ -196,7 +195,6 @@ Geomorfologie/hydrografie
 o.a. oeverwallen
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
@@ -205,7 +203,6 @@ o.a. oeverwallen
 o.a. noordoostrand van het Kempens Plateau
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -215,7 +212,6 @@ Itterbeek, Eetsevelder- of Wijshagerbeek, Baatsbeek, bronnen of
 sprinken
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -224,18 +220,15 @@ sprinken
 vochtige beemden
 
 **Geologie:**
-
  * ontsluitingen
 
 
 **Andere:**
-Feldbissbreuk
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -243,7 +236,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 o.a. pastorietuin Opitter, park Itterdal
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * dries
  * plein
@@ -253,7 +245,6 @@ valleisites Gruitrode en Opitter met dorpspleinen, valleirandsites
 Eetseveld en Neerglabbeek
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * landgoed
@@ -265,7 +256,6 @@ Eetseveld en Neerglabbeek
 commanderij van Gruitrode
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -275,14 +265,12 @@ commanderij van Gruitrode
 o.a. kasteelhoeve commanderij Gruitrode
 
 **Molens:**
-
  * watermolen
 
 
 Rooiermolen, Pollismolen, Stalsmolen, Vinckemolen of Kasteelmolen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -291,20 +279,17 @@ Rooiermolen, Pollismolen, Stalsmolen, Vinckemolen of Kasteelmolen
 o.a. Sint-Gertrudiskerk, Sint-Trudokerk met kerkhof
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
 ommuringen
 
  **Archeologische elementen:**
-o.a. industrieel-archeologisch erfgoed (watermolens)
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
@@ -314,7 +299,6 @@ o.a. historische verbindingen tussen beemden, molens en
 nederzettingen
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -327,13 +311,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -342,18 +324,15 @@ Elementen en patronen van landgebruik
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
@@ -362,12 +341,10 @@ Elementen en patronen van landgebruik
 o.a. vochtige hooi- en weilanden, bevloeid hooiland, heiderelicten
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -377,7 +354,6 @@ o.a. vochtige hooi- en weilanden, bevloeid hooiland, heiderelicten
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
  * vloeiweide
  * watering

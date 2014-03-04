@@ -6,7 +6,7 @@ Wijnendalebos en -kasteel
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt op de zuidelijke helling van het plateau van
@@ -107,7 +107,7 @@ een baken voor de omgeving.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -117,14 +117,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 rond bronniveaus vaak taluds
 
 **Macroreliëf:**
-
  * steilrand
  * markante terreinovergang
  * holle weg
@@ -133,7 +131,6 @@ steilrand van het plateau van Wijnendaele aangesneden door talrijke
 bronbeken
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -141,14 +138,12 @@ vooral brongebied; Wijnendaelebron
 
 **Moerassige gronden:**
 
-
 rond bronniveaus
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * boswachterswoning
@@ -160,30 +155,25 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteel van Wijnendaele:waterburcht (hoge toren)
 
 **Bouwkundig erfgoed:**
-
  * afspanning
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 OLV van Wijnendaele
 
  **Archeologische elementen:**
-oude bewoningssite in bos gelegen
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -191,30 +181,25 @@ dreven loodrecht op elkaar; as Torhout - Wijnendaele-kasteel
 
 **Waterbouwkundige infrastructuur:**
 
-
 fontein bij kasteel en kasteelgracht; brongebouw rond bron
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Kunstmatige waters:**
 
-
 kasteelgracht
 
 **Topografie:**
-
  * blokvormig
 
 
 zogenaamde "carrés"; oude bosindeling
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

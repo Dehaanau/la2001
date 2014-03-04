@@ -104,20 +104,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 valleiranden; uitgebakken terrein
 
 **Macroreliëf:**
-
  * heuvel
 
 interfluviale kam
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -128,32 +125,27 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 hoeve Driehoven (met ast), Labroye
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Archeologische elementen:**
-archeologische sporen van Ijzertijd en Gallo-Romeinse periode
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
 
 **Bos:**
-
  * naald
  * loof
 

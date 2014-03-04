@@ -117,16 +117,13 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * landduin
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -138,20 +135,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Blommerschot
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
 'Heiligenaert'
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -161,43 +155,36 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  **Andere:**
-militair vliegveld
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * broek

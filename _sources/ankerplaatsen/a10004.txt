@@ -135,7 +135,6 @@ Geomorfologie/hydrografie
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -144,38 +143,32 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Engels landschapspark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * boswachterswoning
 
 
 paviljoen, botenhuis
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Militair erfgoed:**
-
  * bunker
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
@@ -184,11 +177,9 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * brug
  * grachtenstelsel
@@ -200,22 +191,18 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

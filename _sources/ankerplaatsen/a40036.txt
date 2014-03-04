@@ -206,19 +206,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * steilrand
  * markante terreinovergang
 
 Vinderhoutse Bossen en Kastelensites
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -228,13 +225,11 @@ Vinderhoutse Bossen en Kastelensites
 Merebeek, Oude Kale
 
 **Moerassige gronden:**
-
  * moeras
  * veen
 
 
 **Geologie:**
-
 
 Vlaamse Vallei
 
@@ -242,14 +237,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Kasteelparken
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * dries
  * gehucht
@@ -257,7 +250,6 @@ Kasteelparken
 Drieselken, Slindonk
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * orangerie
@@ -272,12 +264,10 @@ Drieselken, Slindonk
 portierswoning, wagenhuis
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -285,14 +275,12 @@ portierswoning, wagenhuis
 
 
 **Molens:**
-
  * windmolen
 
 
 Van Vlaenderensmolen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -304,13 +292,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -320,13 +306,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -335,14 +319,12 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 bij kastelen
 
 **Topografie:**
-
  * repelvormig
  * blokvormig
  * onregelmatig
@@ -350,7 +332,6 @@ bij kastelen
 
 
 **Historisch stabiel landgebruik:**
-
  * kouters
  * meersen
 
@@ -358,12 +339,10 @@ bij kastelen
 bulken
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout

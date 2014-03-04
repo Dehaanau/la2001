@@ -172,20 +172,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
 
 donk
 
 **Hydrografische Elementen:**
-
  * waterloop
  * vallei
  * meander
@@ -193,7 +190,6 @@ donk
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -201,21 +197,18 @@ donk
 
 **Geologie:**
 
-
 Vlaamse Vallai
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Kasteel van Uitbergen
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * muur
 
@@ -223,7 +216,6 @@ Kasteel van Uitbergen
 Kasteel van Uitbergen
 
 **Klein historisch erfgoed:**
-
  * eendenkooi
 
 
@@ -232,13 +224,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * pompgemaal
  * grachtenstelsel
@@ -249,37 +239,31 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * repelvormig
  * blokvormig
 
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 No
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * middelhout
@@ -288,7 +272,6 @@ No
 
 
 **Bijzondere waterhuishouding:**
-
 
 
 Opmerkingen en knelpunten

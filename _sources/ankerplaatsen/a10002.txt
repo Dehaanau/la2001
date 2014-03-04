@@ -143,19 +143,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 Hazenduinen, Wilgenduinen, Kambuusduinen
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * ven
@@ -167,18 +164,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
 
 **Klein historisch erfgoed:**
-
  * grenspaal
 
 
@@ -188,14 +182,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 'Duitse weg'
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -204,34 +196,28 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
 

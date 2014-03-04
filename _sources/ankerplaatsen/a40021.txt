@@ -150,17 +150,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * kreek
@@ -169,7 +166,6 @@ Geomorfologie/hydrografie
 Grote Geule, Konijnenpijpen, Kieldrechtse Watergang
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -180,7 +176,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
@@ -190,13 +185,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * brug
  * grachtenstelsel
@@ -207,31 +200,26 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * weel
 
 
 Kieldrechtse welen: Grote Weel, Klein Weel, Panneweel
 
 **Topografie:**
-
  * repelvormig
  * blokvormig
 
 
 **Typische landbouwteelten:**
 
-
 laagstamboomgaard
 
 **Bos:**
-
  * loof
  * middelhout
  * hooghout
@@ -239,7 +227,6 @@ laagstamboomgaard
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

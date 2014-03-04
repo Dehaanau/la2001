@@ -151,12 +151,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -166,7 +164,6 @@ Tappelbeek, Risschotse Loop, Monnikenloop, Voorste Hoevenloop,
 Hulstenbeekje
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -176,14 +173,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
 
@@ -191,14 +186,12 @@ kasteelpark
 'Zoerselhof'
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 voormalige provisorwoning
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -208,7 +201,6 @@ voormalige provisorwoning
 'Boshof' + bakhuisje, 'Boshuisje', Voorste Hoeven
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -217,7 +209,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -225,7 +216,6 @@ Elementen van transport en infrastructuur
 typisch voorbeeld van Kempische zandwegen, Bosstraatje, Boshuisweg
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * brug
  * sluis
@@ -239,29 +229,24 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * heide
 
@@ -269,7 +254,6 @@ Elementen en patronen van landgebruik
 deels historisch stabiel bos, heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -280,7 +264,6 @@ deels historisch stabiel bos, heiderelicten
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
 
 

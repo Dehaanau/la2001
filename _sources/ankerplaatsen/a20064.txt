@@ -6,7 +6,7 @@ Meigemheide, Gasthuisbos en Begijnenbos
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Het omschreven gebied ligt ten oosten van Halle, op het grondgebied
@@ -98,7 +98,7 @@ weidse zichten op o.m. de skyline de Zenne en Halle.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -108,32 +108,27 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -142,22 +137,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * muur
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -165,23 +156,19 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Molens:**
-
  * watermolen
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Archeologische elementen:**
-neolithische en Romeinse vondsten
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -191,23 +178,19 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

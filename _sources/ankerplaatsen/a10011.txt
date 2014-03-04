@@ -107,25 +107,21 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Hydrografische Elementen:**
-
  * beek
 
 
 Kleine werijsbeek
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
  * ven
@@ -135,26 +131,21 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

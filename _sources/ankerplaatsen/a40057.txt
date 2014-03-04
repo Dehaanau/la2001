@@ -137,12 +137,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -154,12 +152,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * dries
  * plein
@@ -167,19 +163,16 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Doornzeledries
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 **Molens:**
-
  * windmolen
 
 
 Oude Molen van Doornzele
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -189,7 +182,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -199,30 +191,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 vijver in kasteelpark
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * voormalige communautaire akker
 
 

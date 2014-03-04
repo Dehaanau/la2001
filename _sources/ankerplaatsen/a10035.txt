@@ -121,12 +121,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -136,7 +134,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
@@ -145,7 +142,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 landschapspark & moestuin bij kasteel, Katershof
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
  * muur
@@ -155,14 +151,12 @@ landschapspark & moestuin bij kasteel, Katershof
 Katershof & Kasteel van 's Gravenwezel + boogbrug
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 woning bij Katershof, portierswoning bij kasteel
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -172,7 +166,6 @@ woning bij Katershof, portierswoning bij kasteel
 Duyvendaelhoeve, Hoeve Marijnissen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -182,14 +175,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 kasseiweg
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -198,32 +189,27 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 kasteelvijvers
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

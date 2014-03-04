@@ -6,7 +6,7 @@ Polders Dudzele
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt volledig in de gemeente Brugge grofweg tussen de
@@ -91,7 +91,7 @@ wordt door een dicht slotenpatroon en door wegen.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -101,14 +101,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 typisch voor Oudlandpolders
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * kreek
@@ -120,7 +118,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -128,7 +125,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 vooral op hogere kreekruggronden
 
 **Militair erfgoed:**
-
  * motte
 
 
@@ -141,21 +137,18 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
 restanten van een veel dichter netwerk; ook veel rond hoeves en gebouwen
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkput
 
 **Topografie:**
-
  * onregelmatig
 
 

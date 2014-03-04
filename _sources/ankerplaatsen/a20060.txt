@@ -6,7 +6,7 @@ Het Vinne
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Het Vinne bevindt zich op het grondgebied van de fusiegemeente
@@ -106,7 +106,7 @@ Natuurlijke depressie.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -116,18 +116,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -136,7 +133,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -147,13 +143,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * pompgemaal
  * grachtenstelsel
 
@@ -163,28 +157,23 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * struweel
 
 
 **Bijzondere waterhuishouding:**
-
  * droogmakerij
  * ontwatering
 

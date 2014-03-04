@@ -93,17 +93,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
 
-
 poldergeleed, Zwaanhoekgeleed
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -112,14 +109,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 hoeve nabij Zandvoorde; kleinere hoeves
 
 **Militair erfgoed:**
-
  * bunker
  * verdedingingslinie
 
@@ -130,7 +125,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -140,24 +134,20 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkpoelen
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

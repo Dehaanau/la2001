@@ -6,7 +6,7 @@ Keignaertkreek en Zoute Kreek
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats grenst aan ankerplaats A300N Zwaanhoek en bevat twee
@@ -105,7 +105,7 @@ begrenzing van de open ruimte door de begeleidende bomenrij.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -115,12 +115,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * kreek
 
 
@@ -128,7 +126,6 @@ Grote en Kleine Keignaert, Sluis- en Zoute kreek; geleden, Oude
 Straatkreek
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -138,12 +135,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Militair erfgoed:**
-
 
 antitankgracht en restanten van verdedigingssites
 
@@ -151,13 +146,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 spoorlijn Oostende-Torhout; nu fiets- en wandelpad
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sluis
@@ -170,13 +163,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 bomenrijen langs kanaal en dijken
 
 **Topografie:**
-
  * onregelmatig
 
 

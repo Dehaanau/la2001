@@ -139,19 +139,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
 Kindernouwbeek
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -159,7 +156,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -168,30 +164,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * turfput
 
 
 **Topografie:**
-
  * repelvormig
  * opstrekkend
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

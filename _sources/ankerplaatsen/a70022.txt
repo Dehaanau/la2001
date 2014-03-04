@@ -203,13 +203,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
  * steilrand
@@ -219,7 +217,6 @@ Geomorfologie/hydrografie
 belangrijke dalbodem met pediment
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -229,7 +226,6 @@ belangrijke dalbodem met pediment
 o.a. Bosbeek, Kleine Beek, Berkeinderzijp
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -239,7 +235,6 @@ o.a. Bosbeek, Kleine Beek, Berkeinderzijp
 vochtige beemden
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -248,21 +243,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteeldomein De Schans
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 gehuchten Aartshouw en De Houw
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * kasteelgracht
@@ -271,26 +263,22 @@ gehuchten Aartshouw en De Houw
 kasteel De Schans
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
 Oude Molen, Slagmolen, Dorpermolen
 
 **Militair erfgoed:**
-
  * schans
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -298,19 +286,16 @@ Oude Molen, Slagmolen, Dorpermolen
 o.a. Sint-Dyonisiuskerk
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
 **Archeologische elementen:**
-o.a. Gallo-Romeinse vondsten, industrieel-archeologisch erfgoed
 (watermolens)
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Romeinse weg
@@ -320,7 +305,6 @@ o.a. opstrekkend wegenpatroon tussen vallei, nederzettingen en
 plateau, evenals achter De Houw
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -332,13 +316,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -347,20 +329,17 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * opstrekkend
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
@@ -369,12 +348,10 @@ Elementen en patronen van landgebruik
 o.a. akkers, heiderelicten, vochtige hooi- en weilanden
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -384,7 +361,6 @@ o.a. akkers, heiderelicten, vochtige hooi- en weilanden
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
  * vloeiweide
  * watering

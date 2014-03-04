@@ -155,17 +155,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -173,7 +170,6 @@ Geomorfologie/hydrografie
 o.a. Itterbeek, Zwart Water of Witbeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -185,14 +181,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
 Jagersborg
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
@@ -201,7 +195,6 @@ Jagersborg
 Jagersborg met boerenburgerhuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -210,12 +203,10 @@ Jagersborg met boerenburgerhuis
 o.a. Jagersborg, Hof ter Heide
 
  **Archeologische elementen:**
-
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -223,7 +214,6 @@ Elementen van transport en infrastructuur
 blokvormig, regelmatig wegenpatroon
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -235,37 +225,31 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * houtwal
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * blokvormig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -274,7 +258,6 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

@@ -6,7 +6,7 @@ Broekelei
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 De Broekelei is gelegen tussen Keerbergen en Rijmenam, ten noorden van
@@ -96,7 +96,7 @@ bloemrijke graslanden tussen de beboste percelen maken het gebied zeer
 aantrekkelijk.
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -106,17 +106,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * rivierduin
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * meander
@@ -124,7 +121,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -133,11 +129,9 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -148,13 +142,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -163,22 +155,18 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Bos:**
-
  * loof
 
 

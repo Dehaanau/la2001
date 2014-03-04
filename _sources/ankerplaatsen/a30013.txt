@@ -6,7 +6,7 @@ Westhoekduinen - Duinen Cabourg - De Moeren - overgang plateau van Izenberghe
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats omvat een landschappelijke sekwentie van zee-strand
@@ -255,7 +255,7 @@ geaccentueerd door de begeleidende dreven en bomenrijen.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -265,73 +265,61 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * kustduin
  * markante terreinovergang
 
 overgang binnenduinen naar Moeren en van Moeren naar plateau Izenberghe
 
 **Hydrografische Elementen:**
-
  * kreek
 
 
 Langgeleed
 
  **Andere:**
-Moeren zijn een oud zandwadgebied en zoetwatermeer
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 wijk Zwaantje langs de Bergenvaart
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 hoeve 't Moerland en Moerhof
 
 **Molens:**
-
  * windmolen
 
 
 St-Karelsmolen en Gustaafmolen beide bemalingsmolens
 
 **Militair erfgoed:**
-
  * bunker
 
 
 in Cabourg duinen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
 **Archeologische elementen:**
-oude bewoningspatronen in Wethoekduinen
 
  **Andere:**
-de vele brugjes in De Moeren; douaneposten in de Moeren
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sluis
@@ -344,17 +332,14 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 **Topografie:**
-
  * repelvormig
 
 
 **Bijzondere waterhuishouding:**
-
  * droogmakerij
  * polder
 

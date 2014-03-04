@@ -172,13 +172,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
@@ -186,7 +184,6 @@ Geomorfologie/hydrografie
 steilrand van Dender
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -194,7 +191,6 @@ steilrand van Dender
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -203,14 +199,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 stadspark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
@@ -220,13 +214,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -235,22 +227,18 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout
@@ -259,5 +247,4 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide

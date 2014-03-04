@@ -199,13 +199,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -213,12 +211,10 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * veen
 
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -228,14 +224,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Park van Poeke
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * orangerie
@@ -248,14 +242,12 @@ Park van Poeke
 koetshuis, hondenkennel
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -263,7 +255,6 @@ koetshuis, hondenkennel
 kerk van Poeke
 
 **Klein historisch erfgoed:**
-
  * standbeeld
 
 
@@ -273,13 +264,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -289,13 +278,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
@@ -303,24 +290,20 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * loof
  * hakhout
  * middelhout

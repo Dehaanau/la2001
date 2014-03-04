@@ -129,17 +129,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * landduin
 
 **Moerassige gronden:**
-
  * ven
 
 
@@ -148,14 +145,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 personeelswoningen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * stal
 
@@ -163,31 +158,26 @@ personeelswoningen
 750m² aan aardappelkelders
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
 kerkhof
 
  **Archeologische elementen:**
-prehistorische bewoning en grafheuvels
 
  **Andere:**
-strafinrichting, schoolgebouw, werkplaatsen, oude steenbakkerij,
 wachttorentje
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 rastervormig wegenpatroon
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -197,18 +187,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout
@@ -216,7 +203,6 @@ Elementen en patronen van landgebruik
 
 
 **Andere:**
-ontginningsputten
 
 Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~

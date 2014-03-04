@@ -6,7 +6,7 @@ Bos van Houthulst
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt ten zuiden van de kern van Houthulst. De grenzen
@@ -115,7 +115,7 @@ grootte.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -125,13 +125,11 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * heuvel
 
 heuvelrug
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -141,14 +139,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
 kasteel De Groote
 
 **Bouwkundig erfgoed:**
-
  * herberg
 
 
@@ -156,34 +152,29 @@ munneke herberg in zuidwesten
 
 **Militair erfgoed:**
 
-
 bomkraters WOI; militair kerkhof
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
 militaire spoorweg
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
 
 dreven in Vrijbos, restanten ervan in het bos van Houthulst
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 oude bomkraters
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

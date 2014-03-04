@@ -6,7 +6,7 @@ Kluisbos, Faluintjes en abdij van Affligem
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats situeert zich op grondgebied van de gemeenten Aalst
@@ -186,7 +186,7 @@ Waterkasteel.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -196,20 +196,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -221,14 +218,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Waterkasteel van Moorsel
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * kasteelgracht
 
@@ -236,14 +231,12 @@ Waterkasteel van Moorsel
 Waterkasteel
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * abdij
 
@@ -254,46 +247,38 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Andere:**
-voormalig vliegveld
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Typische landbouwteelten:**
-
  * hop
 
 
 **Bos:**
-
  * naald
  * loof
  * middelhout

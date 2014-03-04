@@ -103,24 +103,20 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * heuvel
 
 **Hydrografische Elementen:**
-
  * beek
 
 
 Langdonkse beek, Herseltse beek
 
 **Moerassige gronden:**
-
  * rietland
  * ven
 
@@ -129,7 +125,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -138,23 +133,19 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * broek

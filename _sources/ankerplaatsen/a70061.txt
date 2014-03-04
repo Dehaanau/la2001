@@ -112,13 +112,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
@@ -128,7 +126,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
@@ -136,13 +133,11 @@ kasteelpark met arboretum, belvedère, Engelse tuin, Franse tuin,
 rozentuin
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 kasteeldorp
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * muur
 
@@ -150,14 +145,12 @@ kasteeldorp
 kasteel met dienstgebouwen, staatsieplein, hek en
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 o.a. kasteelhoeve, hoeves in Sint-Maartensstraat
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -166,7 +159,6 @@ o.a. kasteelhoeve, hoeves in Sint-Maartensstraat
 Sint-Martinuskerk, Sint-Apolloniakapel, Sint-Jozefkapel
 
  **Archeologische elementen:**
-Gallo-Romeinse vondsten zoals tumuli
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -175,23 +167,19 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
@@ -199,21 +187,18 @@ historisch stabiel in omgeving van dorpskom en kasteeldomein,
 ruilverkaveling in ruimere omgeving
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 graslanden nabij dorpssite, open akkerbouwgebied op leemplateau
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 wijnbouw
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

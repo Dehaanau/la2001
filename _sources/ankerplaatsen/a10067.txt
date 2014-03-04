@@ -170,18 +170,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 donk
 
 **Hydrografische Elementen:**
-
  * rivier
  * beek
  * vallei
@@ -191,7 +188,6 @@ donk
 Grote Nete, Molenbeek, Oude Molenbeek, Steenkensbeek
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -201,14 +197,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 landschapspark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * boswachterswoning
  * muur
@@ -217,7 +211,6 @@ landschapspark
 
 
 **Bouwkundig erfgoed:**
-
  * huis
  * herberg
 
@@ -225,7 +218,6 @@ landschapspark
 brugwachtershuisje, 'Mac Adam'
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -234,7 +226,6 @@ brugwachtershuisje, 'Mac Adam'
 Kasteelhoeve 't Bergske + bakhuis
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -242,14 +233,12 @@ Kasteelhoeve 't Bergske + bakhuis
 
 **Klein historisch erfgoed:**
 
-
 mijlpaal
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * brug
  * grachtenstelsel
@@ -260,34 +249,28 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -296,7 +279,6 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

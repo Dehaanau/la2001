@@ -6,7 +6,7 @@ Strand en Duinen Fonteintjes
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats strekt zich uit langs het strand en de duinen tussen
@@ -86,7 +86,7 @@ het gebied in ruimtelijke entiteiten.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -96,7 +96,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -106,7 +105,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
-
  * bunker
 
 
@@ -116,7 +114,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
 
 
@@ -125,7 +122,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kunstmatige waters:**
-
  * vijver
 
 

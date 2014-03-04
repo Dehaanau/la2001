@@ -164,7 +164,6 @@ Geomorfologie/hydrografie
 
 
 **Hydrografische Elementen:**
-
  * beek
  * meander
  * oude rivierarm
@@ -176,7 +175,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
@@ -185,14 +183,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 o.a. Engelse hof
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
 
 omwalde stad met markplein
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * muur
@@ -203,7 +199,6 @@ omwalde stad met markplein
 kasteel d'Aspremont-Lynden
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
@@ -213,7 +208,6 @@ kasteel d'Aspremont-Lynden
 o.a. De Hoek, De Roomse Keizer, Het Posthuis, Gerechtshof
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -223,7 +217,6 @@ o.a. De Hoek, De Roomse Keizer, Het Posthuis, Gerechtshof
 o.a. stadshoeven
 
 **Molens:**
-
  * watermolen
  * windmolen
 
@@ -231,7 +224,6 @@ o.a. stadshoeven
 watermolen fragmentarisch bewaard, windmolen De Stormvogel (Boorsem)
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * klooster
@@ -241,7 +233,6 @@ watermolen fragmentarisch bewaard, windmolen De Stormvogel (Boorsem)
 minderbroedersklooster en kerk, Sint-Pieterskerk
 
 **Klein historisch erfgoed:**
-
  * kruis
  * gedenkteken
 
@@ -249,23 +240,19 @@ minderbroedersklooster en kerk, Sint-Pieterskerk
 o.a. perron
 
  **Archeologische elementen:**
-prehistorische, Gallo-Romeinse, middeleeuwse en latere archeologica
 
  **Andere:**
-restanten van de omwallingen met Uikhoverpoort; voormalige
 distillerie, gemeentehuis en school
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * grachtenstelsel
  * lijnpad
@@ -277,41 +264,34 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 grasland onder boomgaarden
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

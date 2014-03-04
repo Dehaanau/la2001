@@ -6,7 +6,7 @@ Groenhove
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt ten oosten van Torhout en ten westen van de A17
@@ -105,7 +105,7 @@ bosrand geënt.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -115,14 +115,12 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
 aan de voet van het Wijnendaeleplateau
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteelgracht
 
 
@@ -130,11 +128,9 @@ restant jachtkasteel; kasteelbos
 
 **Militair erfgoed:**
 
-
 betonnen platform rest van een V1-lanceerplatform
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * klooster
 
@@ -145,7 +141,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
@@ -154,14 +149,12 @@ Elementen en patronen van landgebruik
 dreven vnl. in bos; bomenrij langs beken en perceelsgrenzen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 zwemdok en visvijver
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

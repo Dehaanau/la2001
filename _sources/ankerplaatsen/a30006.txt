@@ -6,7 +6,7 @@ Moere van Meetkerke met overgang naar zandstreek
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt in de gemeenten Brugge, Zuienkerke (grootste
@@ -176,7 +176,7 @@ structureert het wegen- en perceleringspatroon in de zandstreek.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -186,18 +186,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 overgang polder- zandstreek
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
@@ -205,7 +202,6 @@ Blankenbergevaart watert gebied af; zwinnen en geleden waarop
 grachten aangesloten zijn
 
 **Moerassige gronden:**
-
  * veen
 
 
@@ -215,20 +211,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 bij kastelen Bloemendale en Ter Lucht
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Meetkerke
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
 
@@ -236,7 +229,6 @@ Meetkerke
 Bloemendale, Ter Lucht
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -245,14 +237,12 @@ Rode Poort Hoeve; hoeve rond Kapellebrug met boomgaard; Ter Mere en
 Ter Zale
 
 **Molens:**
-
  * windmolen
 
 
 Poldermolen voor bemaling van de Moeren
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -261,7 +251,6 @@ Poldermolen voor bemaling van de Moeren
 kerk van Meetkerke met Romaanse resten
 
 **Klein historisch erfgoed:**
-
  * eendenkooi
 
 
@@ -270,14 +259,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 kasseiweg door Meetkerke
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * sluis
  * grachtenstelsel
@@ -289,7 +276,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -301,14 +287,12 @@ dreef: oprijlanen naar gebouwen; perceelsrandbegroeiing vooral in Lage
 Moere
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkput
 
 **Topografie:**
-
  * repelvormig
  * opstrekkend
 
@@ -316,20 +300,17 @@ veedrinkput
 repelvormig in laagste deel; percelen opstrekkend op dekzandrug
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 No
 
 **Bos:**
-
  * naald
  * loof
 
 
 **Bijzondere waterhuishouding:**
-
  * droogmakerij
 
 

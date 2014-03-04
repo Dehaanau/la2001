@@ -114,19 +114,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 dijken
 
 **Hydrografische Elementen:**
-
  * waterloop
  * kreek
 
@@ -134,7 +131,6 @@ dijken
 grotendeels verlande kreek
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -144,20 +140,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 dijkhuisjes
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 dijkhuisjes
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -168,13 +161,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * brug
@@ -187,24 +178,20 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 bomenrijen langs de dijken
 
 **Topografie:**
-
  * repelvormig
  * blokvormig
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 

@@ -6,7 +6,7 @@ Kasteel de Merode
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Het kasteel de Merode ligt centraal in het afgebakende gebied,
@@ -145,7 +145,7 @@ ter nagedachtenis van graaf Werner de Merode
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -155,26 +155,22 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -183,14 +179,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
  * hovenierswoning
@@ -202,7 +196,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -210,13 +203,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * abdij
 
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
 
 
@@ -225,14 +216,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Oostenrijkse periode
 
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -241,25 +230,20 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Historisch stabiel landgebruik:**
 
-
 **Bos:**
-
  * naald
  * loof
  * broek

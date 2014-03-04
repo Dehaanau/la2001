@@ -83,26 +83,22 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * steilrand
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -111,38 +107,32 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * kasteelgracht
 
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * herberg
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -152,37 +142,30 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
 
 

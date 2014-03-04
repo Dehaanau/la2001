@@ -184,12 +184,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * landduin
@@ -198,7 +196,6 @@ Geomorfologie/hydrografie
 o.a. Houterenberg, Weefberg, Zandberg
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -206,25 +203,21 @@ o.a. Houterenberg, Weefberg, Zandberg
 o.a. Gerhagenloop, Heideloop
 
 **Moerassige gronden:**
-
  * ven
 
 
 o.a. Pinnekenswijer
 
 **Geologie:**
-
  * ontsluitingen
 
 
 **Andere:**
-stuifzand
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -232,7 +225,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 abdijtuin, Mariapark
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -242,21 +234,18 @@ abdijtuin, Mariapark
 o.a. abdijhoeve, Bierhoeve, De Eik
 
 **Molens:**
-
  * windmolen
 
 
 o.a. Oude Molen (Achterheide), restanten Oude Molen (Houterenberg)
 
 **Militair erfgoed:**
-
  * schans
 
 
 Gerhagenschans
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * abdij
@@ -269,14 +258,12 @@ Weëen
 
 **Klein historisch erfgoed:**
 
-
 o.a. graven van Ernest Claes en Armand Boni, muren, poorten
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -287,41 +274,34 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
  * heide
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

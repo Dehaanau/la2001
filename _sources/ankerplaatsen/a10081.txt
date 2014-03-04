@@ -114,13 +114,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
  * steilrand
@@ -132,14 +130,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 St.-Jozefkapel
 
  **Andere:**
-Brits militair kerkhof
 
 
 
@@ -147,23 +143,19 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
 

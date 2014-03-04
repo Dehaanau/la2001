@@ -103,13 +103,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
@@ -121,18 +119,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 **Klein historisch erfgoed:**
 
-
 monumentaal Heilig Hartbeeld op westelijke punt van de Wijngaardberg
 
  **Andere:**
-wijngaardmuur
 
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -142,25 +137,21 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * houtkant
 
 wijngaardmuur met begroeiing
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 recent aangeplante wijngaarden
 
 **Bos:**
-
  * loof
 
 

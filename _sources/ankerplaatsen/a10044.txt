@@ -147,12 +147,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -160,7 +158,6 @@ Geomorfologie/hydrografie
 Visbeek
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -168,28 +165,23 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * repelvormig
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -131,7 +131,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
@@ -140,14 +139,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 bij kasteeldomein van Beervelde
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * hovenierswoning
  * landgoed
  * omheining
@@ -155,19 +152,16 @@ bij kasteeldomein van Beervelde
 
 
 **Andere:**
-stationsgebouw Beervelde
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
 
 
@@ -176,22 +170,18 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * loof
  * middelhout

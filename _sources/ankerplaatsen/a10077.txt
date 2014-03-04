@@ -198,13 +198,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -216,7 +214,6 @@ Geomorfologie/hydrografie
 Grote Nete, Gestelse Beek, Kiekensloop
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -225,7 +222,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -233,13 +229,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelpark, landschapspark, moestuin
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Gestel
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * hovenierswoning
@@ -249,14 +243,12 @@ Gestel
 Gestelhof, Rameienhof, Kesselhof, Berlaarhof
 
 **Bouwkundig erfgoed:**
-
  * herberg
 
 
 Herberg 'De Boekt'
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -266,7 +258,6 @@ Herberg 'De Boekt'
 Gasthuishoeve, Karthuizerhoeve, Witte Hoeve, Hoeve 'De Hel'
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -275,20 +266,17 @@ Gasthuishoeve, Karthuizerhoeve, Witte Hoeve, Hoeve 'De Hel'
 St.-Lambertuskerk, 'Kapel van O.L.- Vrouw Troost der Bedrukten'
 
 **Klein historisch erfgoed:**
-
  * standbeeld
  * gedenkteken
  * schandpaal
 
 
 **Andere:**
-Kerkhof met grafmonumenten, bakhuis, waterput
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * kerkwegel
 
@@ -296,7 +284,6 @@ Elementen van transport en infrastructuur
 aarden weg
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -306,37 +293,31 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * loof
  * broek
  * hooghout

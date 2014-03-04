@@ -175,12 +175,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -191,7 +189,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -199,7 +196,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 pastorietuin, kasteelpark, moestuin, Franse tuin
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * boswachterswoning
@@ -210,21 +206,18 @@ pastorietuin, kasteelpark, moestuin, Franse tuin
 Kasteel de Borrekens + toegangspoort en brug
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 dienstwoningen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -236,7 +229,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -246,30 +238,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

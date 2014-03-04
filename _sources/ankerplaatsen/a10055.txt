@@ -141,17 +141,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * landduin
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -162,7 +159,6 @@ Geomorfologie/hydrografie
 Grote Nete, Grote- en Kleine Laak, Trichelbeek, Hoefkensloop
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -171,7 +167,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -180,27 +175,23 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 verschillende oudere hoeves
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 St. Bavokapel, Kruisweg
 
  **Archeologische elementen:**
-sporen van bewoning uit late Ijzertijd
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 oude wegenstructuur
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -210,20 +201,17 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
@@ -231,19 +219,16 @@ Elementen en patronen van landgebruik
 moerkuilen
 
 **Topografie:**
-
  * opstrekkend
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout
@@ -251,7 +236,6 @@ moerkuilen
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
 
 

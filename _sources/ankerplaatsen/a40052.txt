@@ -281,19 +281,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -304,20 +301,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
  * gehucht
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * orangerie
@@ -331,7 +325,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 moestuin, hondekennel (Lozer)
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * villa
@@ -339,7 +332,6 @@ moestuin, hondekennel (Lozer)
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -347,7 +339,6 @@ moestuin, hondekennel (Lozer)
 
 
 **Molens:**
-
  * watermolen
  * windmolen
 
@@ -355,7 +346,6 @@ moestuin, hondekennel (Lozer)
 Bekemolen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -366,7 +356,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -376,7 +365,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
@@ -384,7 +372,6 @@ Elementen en patronen van landgebruik
 Sint- Hilariuslinde
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -393,25 +380,21 @@ Sint- Hilariuslinde
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * kouters
 
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

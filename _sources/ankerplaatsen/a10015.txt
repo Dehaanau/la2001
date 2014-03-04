@@ -128,12 +128,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Moerassige gronden:**
-
  * ven
 
 
@@ -142,28 +140,24 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
 
 
 abdijtuin
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 landhuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 hoeve bij abdij
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * abdij
@@ -173,52 +167,43 @@ hoeve bij abdij
 Trappistenabdij
 
  **Andere:**
-brouwerij bij abdij
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 oud wegenpatroon
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
 **Andere:**
-watertoren
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 **Topografie:**
-
  * blokvormig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
 

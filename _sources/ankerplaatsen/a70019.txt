@@ -190,13 +190,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * landduin
@@ -204,7 +202,6 @@ Geomorfologie/hydrografie
 mijnterrils, duinreliëfs
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -212,32 +209,27 @@ mijnterrils, duinreliëfs
 Lietenbeek, valleirand van de Bosbeek
 
 **Geologie:**
-
  * ontsluitingen
 
 
 oude gemeentelijke grindgroeve
 
  **Andere:**
-stuifzand
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 tuinwijken van Waterschei
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * villa
@@ -247,7 +239,6 @@ tuinwijken met mijnwerkershuizen en villa's voor ingenieurs en
 directieleden
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * klooster
 
@@ -255,25 +246,21 @@ directieleden
 o.a. parochiekerk Chrtistus-Koning
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
 
 
 gedenkteken André Dumont
 
  **Archeologische elementen:**
-neolithicum, Merovingische periode, industrieel-archeologisch erfgoed
 (mijn van Waterschei)
 
  **Andere:**
-gebouwen en installaties van de voormalige mijn van Waterschei,
 station van Waterschei
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -281,7 +268,6 @@ o.a. André Dumontlaan, Onderwijslaan, lanen en wegen van de
 tuinwijken
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
@@ -290,39 +276,33 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * blokvormig
 
 
 bos- en landbouwontginningen
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 o.a. Heiderbos
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

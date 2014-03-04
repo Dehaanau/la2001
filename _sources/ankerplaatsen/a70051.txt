@@ -178,13 +178,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * holle weg
@@ -192,7 +190,6 @@ Geomorfologie/hydrografie
 heuvelachtig, sterk ingesneden door erosie
 
 **Hydrografische Elementen:**
-
  * rivier
  * beek
  * vallei
@@ -202,27 +199,23 @@ Herk, Rullingenbeek met bronamfitheater
 
 **Moerassige gronden:**
 
-
 vochtige beemden
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelparken De Klee en Rullingen
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 hoopdorp Kuttekoven, straatdorp Berlingen
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * omheining
@@ -232,12 +225,10 @@ hoopdorp Kuttekoven, straatdorp Berlingen
 De Klee, Rullingen
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -247,14 +238,12 @@ o.a. De Klee, Pexters, restanten Hof van Herckenrode, 't Klein
 Kasteeltje
 
 **Molens:**
-
  * watermolen
 
 
 Oude Molen, Nieuwe Molen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -263,20 +252,17 @@ Oude Molen, Nieuwe Molen
 o.a. OLV van Lourdes, Sint-Jan-de-Doper, Sint-Agatha
 
  **Archeologische elementen:**
-prehistorische en Gallo-Romeinse vondsten
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Romeinse weg
 
 
 Tongeren-Herentals-Antwerpen
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 Sint-Truiden - Tongeren
@@ -285,20 +271,17 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Topografie:**
-
  * blokvormig
  * historisch stabiel
 
@@ -306,7 +289,6 @@ Elementen en patronen van landgebruik
 zuidoost-noordwest georiënteerd patroon
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
@@ -314,12 +296,10 @@ vochtige beemden, grasland onder boomgaarden, akkers met traditioneel
 open karakter
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

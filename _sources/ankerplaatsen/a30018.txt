@@ -6,7 +6,7 @@ Damme en omgevende polders
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt rond de stadskern van Damme en grenst aan
@@ -149,7 +149,7 @@ Damse Vaart zorgt voor afwatering van gebied.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -159,19 +159,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 typisch voor Oudlandpolder
 
 **Hydrografische Elementen:**
-
  * kreek
 
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -181,37 +178,31 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
 stad Damme
 
 **Bouwkundig erfgoed:**
 
-
 St-Janshospitaal
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 St-Christoffelhoeve, Hoeve Bonem
 
 **Molens:**
-
  * windmolen
 
 
 Schellemolen
 
 **Militair erfgoed:**
-
  * verdedingingslinie
 
 
 Vaubanvestingswallen bewaard
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -222,7 +213,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * brug
@@ -235,7 +225,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
@@ -243,26 +232,22 @@ Elementen en patronen van landgebruik
 rond hoeves: bomenrijen; af en toe resten van perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkput
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 in de komgronden
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

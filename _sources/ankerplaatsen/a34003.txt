@@ -136,20 +136,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 boswal in Slangebossen
 
 **Macroreliëf:**
-
  * heuvel
 
 cuestafront
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -160,32 +157,27 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Akspoelehoeve, Schoonberg
 
  **Archeologische elementen:**
-site van oude watermolen rond Akspoelehoeve
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * repelvormig
  * historisch stabiel
 
@@ -193,7 +185,6 @@ Elementen en patronen van landgebruik
 geometrisch patroon uit 18e eeuw; repelvormig in natte bosbestanden
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

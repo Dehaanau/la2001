@@ -6,7 +6,7 @@ Uitkerkse polder
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats bevat een sekwentie van strand over duinen tot een
@@ -123,7 +123,7 @@ het bodemgebruik.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -133,14 +133,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 typisch voor Oudlandpolder
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
@@ -150,7 +148,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
@@ -159,12 +156,10 @@ Blauwe Duivekeet
 **Kerkelijk erfgoed:**
 
 
-
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sluis
@@ -177,14 +172,12 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
 vlakbij en rond de gebouwen
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
@@ -192,17 +185,14 @@ vlakbij en rond de gebouwen
 pole als veedrinkput; vijver rond Neptunuswijk
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

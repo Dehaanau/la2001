@@ -131,20 +131,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
 golvend reliëf
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -154,14 +151,12 @@ de Herk
 
 **Moerassige gronden:**
 
-
 vochtige beemden
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -169,13 +164,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelparken van Heers en Veulen
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 hoopdorp Heers, kerndorp Veulen
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * omheining
@@ -184,13 +177,11 @@ hoopdorp Heers, kerndorp Veulen
 kastelen van Heers en Veulen
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -200,7 +191,6 @@ kastelen van Heers en Veulen
 o.a. de Heusch, kasteelhoeves
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * klooster
@@ -211,20 +201,17 @@ o.a. St-Martinus, de Houten Lieve Heer, de Heusch, OLV, de Donnea,
 OLV Tenhemelopneming, St-Rochus
 
  **Archeologische elementen:**
-Gallo-Romeinse vondsten
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -233,28 +220,23 @@ Elementen en patronen van landgebruik
 gevlochten haag van Gele Kornoelje
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
 
-
 vochtige beemden (veelal aangeplant met populieren)
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
 

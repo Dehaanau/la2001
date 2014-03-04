@@ -184,7 +184,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * graft
  * talud
@@ -193,7 +192,6 @@ Geomorfologie/hydrografie
 ook dassenburchten
 
 **Macroreliëf:**
-
  * macroreliëf
  * markante terreinovergang
  * holle weg
@@ -202,14 +200,12 @@ diepe insnijding van Jeker, Maas (Nederland en Wallonië) en het
 uitgegraven Albertkanaal
 
 **Hydrografische Elementen:**
-
  * rivier
 
 
 Jeker, in Kanne grotendeels gekanaliseerd
 
 **Geologie:**
-
  * ontsluitingen
  * karsten
 
@@ -218,26 +214,22 @@ mergelgroeven w.o. Tiendenberg, Slingerberg, Muizenberg, Caestert,
 Ternaaien-Boven en -Beneden
 
  **Andere:**
-dassenburchten, zwerfstenen
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 valleisite
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 terrassenkasteel van Neerkanne, echter gelegen in
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
@@ -246,7 +238,6 @@ o.a. notarishuis Rendorp, panden in de Kleine Molenstraat en het
 Avergat
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -256,14 +247,12 @@ o.a. Avergat, Cilissen, Vrancken, Vrijens, Caesterhoeve op plateau
 (Wallonië) met vermelding 1686
 
 **Molens:**
-
  * watermolen
 
 
 molen van Neerkanne (Kleine molen, Smokkelmolen), molen van Opkanne
 
 **Militair erfgoed:**
-
  * bunker
 
 
@@ -271,7 +260,6 @@ bunker nabij Albertkanaal te Vroenhoven, onderdeel van
 verdedigingslinie
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * klooster
@@ -282,7 +270,6 @@ o.a. Sint-Hubertuskerk, H.-Grafkapel, voormalig rectorshuis van de
 kanunniken van Hoogcruts-Noorbeek
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
  * grenspaal
 
@@ -290,17 +277,14 @@ kanunniken van Hoogcruts-Noorbeek
 oorlogsgedenkteken nabij Albertkanaal te Vroenhoven
 
  **Archeologische elementen:**
-sporen uit het Oud- en Nieuw-Steentijdperk, de Gallo-Romeinse,
 Merovingische en latere tijden
 
  **Andere:**
-oud gemeentehuis, oude rijkswachtkazerne
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * brug
 
@@ -311,23 +295,19 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * houtkant
  * hagen
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
@@ -335,12 +315,10 @@ open akkerbouwgebied en bos op het hoger gelegen leemplateau,
 graslanden in vallei en op hellingen
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hakhout
  * hooghout

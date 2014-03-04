@@ -6,7 +6,7 @@ Vloetemveld
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt ten zuidwesten van de dorpskern van Snellegem
@@ -107,7 +107,7 @@ bepalend is voor de zichten.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -117,7 +117,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
@@ -125,12 +124,10 @@ Geomorfologie/hydrografie
 vijverdam in noordoosten van ankerplaats
 
 **Moerassige gronden:**
-
  * ven
 
 
 **Geologie:**
-
 
 vochtige gronden (laag gelegen)
 
@@ -138,7 +135,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
@@ -149,17 +145,14 @@ Elementen van transport en infrastructuur
 
 **Wegenis:**
 
-
 onverharde zandwegen
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 spoorweg naar en op militair domein
 
 **Waterbouwkundige infrastructuur:**
-
 
 vijverdam in noordoosten
 
@@ -167,7 +160,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
@@ -176,14 +168,12 @@ buiten bosgebied; zeer gave knotbomenrijen in zuidwestelijke hoek en
 rond Walebeek
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 in militiar domein (geen/weinig overeenkomst met veldvijvers)
 
 **Topografie:**
-
  * blokvormig
 
 
@@ -191,7 +181,6 @@ buiten militair domein (ten noord- en zuidoosten) blokvormige
 percelen met dreven
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
@@ -199,7 +188,6 @@ vochtige heide en heischrale graslanden door niet bemesten op
 militiair domein
 
 **Bos:**
-
  * naald
  * loof
 

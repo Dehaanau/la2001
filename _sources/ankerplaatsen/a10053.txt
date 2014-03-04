@@ -139,18 +139,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -159,7 +156,6 @@ Geomorfologie/hydrografie
 Wimp, Grote Nete, Heibeek, Otterloop, Maasloop
 
 **Moerassige gronden:**
-
  * veen
 
 
@@ -169,14 +165,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * kasteelgracht
 
@@ -184,7 +178,6 @@ kasteelpark
 Kasteel Herlaar + dienstgebouwen
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
@@ -193,19 +186,16 @@ Kasteel Herlaar + dienstgebouwen
 herberg 't Schipke, molenhuis, molenaarswoning
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * stal
  * wagenhuis
 
 
 **Molens:**
-
  * watermolen
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -215,7 +205,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -226,31 +215,26 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -146,12 +146,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
@@ -160,14 +158,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 park bij kasteel Crombrugghe
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
  * hovenierswoning
@@ -177,14 +173,12 @@ park bij kasteel Crombrugghe
 koetshuizen, diensthuizen, moestuin
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 boerenarbeidershuisjes
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -196,7 +190,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -206,13 +199,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -220,24 +211,20 @@ Elementen en patronen van landgebruik
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * blokvormig
 
 
 **Historisch stabiel landgebruik:**
-
  * kouters
 
 
 bulken
 
 **Bos:**
-
  * naald
  * loof
  * middelhout

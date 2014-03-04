@@ -173,19 +173,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -195,7 +192,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -205,24 +201,20 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Vlassenbroek
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * standbeeld
  * kruis
 
@@ -230,19 +222,16 @@ Vlassenbroek
 graf Emile Verhaeren, waterpomp
 
  **Andere:**
-vissershuisjes
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -254,30 +243,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * turfput
  * weel
 
 
 **Topografie:**
-
  * repelvormig
  * blokvormig
  * historisch stabiel
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout
@@ -287,7 +271,6 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
  * uiterwaarden
  * buitendijks

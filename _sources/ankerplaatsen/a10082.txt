@@ -160,13 +160,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
 
@@ -174,7 +172,6 @@ Geomorfologie/hydrografie
 Nattenloop, Meergorenloop, Mark, Noordermark
 
 **Moerassige gronden:**
-
  * ven
 
 
@@ -183,23 +180,19 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Bouwkundig erfgoed:**
-
  * villa
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -208,11 +201,9 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -221,30 +212,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Topografie:**
-
  * blokvormig
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * struweel

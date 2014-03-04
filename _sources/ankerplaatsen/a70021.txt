@@ -137,18 +137,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 Kempens Plateau
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -157,7 +154,6 @@ Kempens Plateau
 Abeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -167,20 +163,17 @@ Abeek
 vochtige beemden
 
  **Andere:**
-stuifzand
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 straatgehucht Plokrooi
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -189,22 +182,18 @@ straatgehucht Plokrooi
 langgevelhoeven
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
 **Archeologische elementen:**
-
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -212,7 +201,6 @@ Elementen van transport en infrastructuur
 opstrekkend patroon van paden en wegen achter Plokrooi
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -224,38 +212,32 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * opstrekkend
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -265,7 +247,6 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
  * vloeiweide
  * watering

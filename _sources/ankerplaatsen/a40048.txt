@@ -178,26 +178,22 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
 
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -207,33 +203,28 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Louise- Marie
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 Kasteel Gauthier, dienstwoningen, hondenhok
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -242,20 +233,17 @@ Kasteel Gauthier, dienstwoningen, hondenhok
 kerk van Louise- Marie en Lorettekapel
 
  **Andere:**
-school van Louise- Marie, Geuzentoren op top van Muziekberg
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
 
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * sluis
 
@@ -265,13 +253,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -280,17 +266,14 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

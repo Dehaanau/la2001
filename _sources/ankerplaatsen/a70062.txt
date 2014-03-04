@@ -137,17 +137,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -156,7 +153,6 @@ Geomorfologie/hydrografie
 o.a. Roosterbeek, Slangebeek, Zonderikbeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -169,21 +165,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Olmenwinning
 
 **Militair erfgoed:**
-
  * schans
 
 
 Donckse of Vranckenschans
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -192,7 +185,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -200,7 +192,6 @@ Elementen van transport en infrastructuur
 fiets- en wandelroutes
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sluis
@@ -214,32 +205,27 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * houtwal
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * heide
 
@@ -247,7 +233,6 @@ Elementen en patronen van landgebruik
 vochtige beemden en weilanden
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -257,7 +242,6 @@ vochtige beemden en weilanden
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
  * watering
 

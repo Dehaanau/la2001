@@ -6,7 +6,7 @@ Nationale Plantentuin van Meise
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Het domein is gelegen ten noorden van Brussel, tussen de ankerplaatsen
@@ -94,7 +94,7 @@ grootschalig landschappelijk park..
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -104,16 +104,13 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
@@ -123,11 +120,9 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * orangerie
@@ -136,7 +131,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -145,7 +139,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -155,12 +148,10 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Kunstmatige waters:**
-
  * vijver
 
 

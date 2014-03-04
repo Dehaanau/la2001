@@ -144,14 +144,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 overgang strand-duin (duinklif)
 
 **Macroreliëf:**
-
  * kustduin
  * markante terreinovergang
 
@@ -161,7 +159,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * villa
@@ -170,7 +167,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Concessie De Haan met gelijkvormige villabouw
 
 **Militair erfgoed:**
-
  * fort
  * bunker
 
@@ -178,13 +174,11 @@ Concessie De Haan met gelijkvormige villabouw
 fort Napoleon; talrijke bunkersites in duinen
 
  **Andere:**
-zeepreventorium
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
 
 
@@ -194,7 +188,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * houtwal
  * hagen
  * knotbomenrij
@@ -202,7 +195,6 @@ Elementen en patronen van landgebruik
 in duinakkers
 
 **Bos:**
-
  * naald
  * loof
  * struweel

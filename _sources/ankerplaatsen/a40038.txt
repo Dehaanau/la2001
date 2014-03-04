@@ -147,20 +147,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * steilrand
  * markante terreinovergang
 
 steilrand van de Schelde
 
 **Hydrografische Elementen:**
-
  * waterloop
  * vallei
  * meander
@@ -168,7 +165,6 @@ steilrand van de Schelde
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -179,27 +175,23 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
 
 
 tuin van villa 'Het Kasteelke' en bij pastorie
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 bewoning is parallel aan steilrand van de Schelde
 
 **Bouwkundig erfgoed:**
-
  * villa
 
 
 'het Kasteelke'
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -209,7 +201,6 @@ bewoning is parallel aan steilrand van de Schelde
 Torenhoeve
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -218,7 +209,6 @@ Torenhoeve
 kerk en pastorie van Heurne
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
@@ -227,15 +217,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
 **Waterbouwkundige infrastructuur:**
-
  * dijk
 
 
@@ -244,13 +231,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -258,17 +243,14 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Topografie:**
-
  * blokvormig
 
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout

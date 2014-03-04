@@ -135,12 +135,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * holle weg
@@ -148,7 +146,6 @@ Geomorfologie/hydrografie
 getuigenheuvels
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -157,7 +154,6 @@ getuigenheuvels
 o.a. Zwarte Beek, Laarbeek, Gestel-Geeneikenbeek
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -167,14 +163,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 straatgehucht Gestelse Heide op interfluvium
 
 **Molens:**
-
  * watermolen
 
 
@@ -184,7 +178,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -192,7 +185,6 @@ Elementen van transport en infrastructuur
 opstrekkend patroon van paden en wegen naar en door de vallei
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -206,13 +198,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * houtwal
@@ -220,27 +210,23 @@ Elementen en patronen van landgebruik
  * kaphaag
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * opstrekkend
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 beemden, hier broeken genoemd, akkers aan de valleirand
 
 **Bos:**
-
  * loof
  * broek
  * hooghout
@@ -248,7 +234,6 @@ beemden, hier broeken genoemd, akkers aan de valleirand
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
  * vloeiweide
  * watering

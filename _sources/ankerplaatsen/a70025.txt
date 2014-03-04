@@ -164,12 +164,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -177,7 +175,6 @@ Geomorfologie/hydrografie
 Itterbeek
 
 **Moerassige gronden:**
-
  * moeras
  * ven
 
@@ -187,7 +184,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * muur
@@ -197,7 +193,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteel De Oude Kuil
 
 **Molens:**
-
  * watermolen
 
 
@@ -207,7 +202,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -215,7 +209,6 @@ Elementen van transport en infrastructuur
 grotendeels historisch stabiel wegenpatroon
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -227,13 +220,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * houtwal
@@ -242,17 +233,14 @@ Elementen en patronen van landgebruik
 spinnewebstructuur
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
@@ -261,7 +249,6 @@ spinnewebstructuur
 vochtig hooi- en weiland
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -271,7 +258,6 @@ vochtig hooi- en weiland
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

@@ -6,7 +6,7 @@ Zwinlandschap
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt in de gemeente Knokke en omvat het
@@ -194,7 +194,7 @@ beïnvloed.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -204,18 +204,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 in weilanden op oude duingronden
 
 **Macroreliëf:**
-
 duinengebieden
 
 **Hydrografische Elementen:**
-
  * waterloop
  * kreek
 
@@ -223,13 +220,11 @@ duinengebieden
 monding van de Zwingeul en kreken, geleden, vlieten
 
  **Andere:**
-estuariene afzettingen van de Zwingeul
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -237,7 +232,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 grote hoeves (o.a. Prinsenhoeve en langs de Schapersdijk)
 
 **Militair erfgoed:**
-
  * fort
  * verdedingingslinie
 
@@ -248,7 +242,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
 
 
@@ -258,7 +251,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
@@ -266,14 +258,12 @@ Elementen en patronen van landgebruik
 langs dijk, wegen en perceelsranden
 
 **Kunstmatige waters:**
-
  * poel
 
 
 enkele veedrinkpoelen
 
 **Topografie:**
-
  * blokvormig
 
 
@@ -281,7 +271,6 @@ blokvormig en grootschalig in recentere polders, kleinschalig in
 oudere polders
 
 **Bos:**
-
  * naald
  * loof
 
@@ -289,7 +278,6 @@ oudere polders
 Koningsbos en Zwinbosjes
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

@@ -6,7 +6,7 @@ Duinen Ter Yde - Hannecartbos - Oostvoorduinen
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Deze ankerplaats ligt tussen de bebouwing van Oostduinkerke-Bad (gem.
@@ -105,7 +105,7 @@ verschillen van elkaar.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -115,11 +115,9 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * kustduin
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -135,7 +133,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bijzondere waterhuishouding:**
-
 
 waterwinningsgebied
 

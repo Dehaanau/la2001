@@ -129,11 +129,9 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
 interfluvium tussen bekken Proversbeek en Velddambeek
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -143,14 +141,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 bij drie kast.; Engelse landschapsstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * ijskelder
  * kasteelgracht
@@ -159,21 +155,18 @@ bij drie kast.; Engelse landschapsstijl
 Rapenburg met ijskelder; beiden gracht
 
 **Bouwkundig erfgoed:**
-
  * villa
 
 
 Villa Zorgvliet; kleine boskanterswoningen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 bij kast. Rapenburg
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -183,7 +176,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -193,28 +185,24 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * knotbomenrij
 
 knotbomen bij weilanden
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkput
 
 **Topografie:**
-
  * blokvormig
 
 
 geaccentueerd door dreven; langwerpige geometrische vorm
 
 **Bos:**
-
  * naald
  * loof
 

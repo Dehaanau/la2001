@@ -6,7 +6,7 @@ Kongoberg
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 De Kongoberg ligt ten zuiden van Nieuwenhove en ten westen van de weg
@@ -64,7 +64,7 @@ het Hof te Leisbroek.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -74,14 +74,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * graft
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * steilrand
@@ -89,7 +87,6 @@ Geomorfologie/hydrografie
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
@@ -99,19 +96,16 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -120,7 +114,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -130,29 +123,24 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * kouters
 
 
 **Bos:**
-
  * loof
 
 

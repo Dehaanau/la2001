@@ -158,13 +158,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -176,41 +174,35 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Barisdamhoeve
 
 **Militair erfgoed:**
-
  * motte
 
 
 Barsidamhoeve; Hoge Andjoen (Werken)
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
 kerk, kerkhof en ommegang in Werken
 
  **Archeologische elementen:**
-mottesite in Werken
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Romeinse weg
 
 
 Steenstraat tussen Werken en Zarren(gem. Kortemark)
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * grachtenstelsel
@@ -222,7 +214,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -231,25 +222,21 @@ Elementen en patronen van landgebruik
 restanten van
 
 **Topografie:**
-
  * repelvormig
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * loof
 
 
 bosje tussen Vladslo en Esen
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

@@ -141,17 +141,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -159,7 +156,6 @@ Geomorfologie/hydrografie
 o.a. Stiemerbeek, Miezerikbeek, Achterbeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -172,34 +168,29 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
 Slagmolen
 
  **Archeologische elementen:**
-Slagmolen als industrieel-archeologisch relict
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 wandelpaden
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -212,18 +203,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * houtkant
 
 deels beboste dijken
 
 **Kunstmatige waters:**
-
  * turfput
  * vijver
 
@@ -231,17 +219,14 @@ deels beboste dijken
 zogenaamde weyers
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -250,7 +235,6 @@ zogenaamde weyers
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
  * watering
 

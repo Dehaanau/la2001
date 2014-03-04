@@ -215,13 +215,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * landduin
@@ -233,14 +231,12 @@ mijnterrils, steilrand van het Kempens plateau met droge dalen, dekzand-
 en duinreliëfs e.a.
 
 **Hydrografische Elementen:**
-
  * vallei
 
 
 veelal droge valleien
 
 **Moerassige gronden:**
-
  * veen
  * ven
 
@@ -248,7 +244,6 @@ veelal droge valleien
 vennen op het plateau
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -259,7 +254,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -267,7 +261,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 o.a. Koninginnepark
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
  * gehucht
@@ -275,14 +268,12 @@ o.a. Koninginnepark
 tuinwijken (Oude cité, Nieuwe Cité) van Eisden-Mijn
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 directeurswoning 't Kasteeltje
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * villa
@@ -292,7 +283,6 @@ tuinwijken met mijnwerkershuizen, villa's, directeurswoning,
 logementshuizen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -301,7 +291,6 @@ logementshuizen
 o.a. Saanhoeve, kasteelhoeve Litzberg
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * klooster
  * pastorie
@@ -311,22 +300,18 @@ o.a. Sint-Barbarakerk
 
 **Klein historisch erfgoed:**
 
-
 windelstenen
 
  **Archeologische elementen:**
-prehistorische bewoningssporen, industrieel-archeologisch erfgoed
 (Eisden-Mijn, station As)
 
  **Andere:**
-gebouwen en installaties van de voormalige mijn van Eisden, stations
 van As en Eisden
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -334,13 +319,11 @@ o.a. Hoeveweg, Koninginnelaan, Zetellaan, lanen en wegen van de
 tuinwijken
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 kolenspoor Genk (Waterschei) - As - Maasmechelen (Eisden)
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
 
 
@@ -350,20 +333,17 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Topografie:**
-
  * blokvormig
  * opstrekkend
 
@@ -371,14 +351,12 @@ Elementen en patronen van landgebruik
 bos- en landbouwontginningen
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 heiderestanten
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

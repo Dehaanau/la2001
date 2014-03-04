@@ -166,24 +166,20 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * beek
 
 
 Lauwerijbeek
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -192,13 +188,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
  * hovenierswoning
@@ -208,7 +202,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Hof van Boechout + poortgebouw
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -218,53 +211,45 @@ Hof van Boechout + poortgebouw
 Hoeve Lintacker, Lauwhoeve, Modelhoeve, Bisthoeve
 
 **Molens:**
-
  * windmolen
 
 
 stellingmolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 Courtoiskapel
 
 **Klein historisch erfgoed:**
-
  * standbeeld
 
 
 beelden in kasteelpark
 
  **Archeologische elementen:**
-Concentraties van Romeinse scherven
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * loof
  * hooghout
 

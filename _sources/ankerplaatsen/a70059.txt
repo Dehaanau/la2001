@@ -126,12 +126,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 zacht golvend reliëf
@@ -140,7 +138,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -149,25 +146,21 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 o.a. Iers Kruisstraat 76-78
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
 o.a. Iers Kruis
 
  **Archeologische elementen:**
-artefacten uit Steen-, Ijzer- en Gallo-Romeinse tijd
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Romeinse weg
 
 
@@ -177,29 +170,24 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
 
 **Historisch stabiel landgebruik:**
 
-
 hoger gelegen, traditioneel open akkerbouwgebied
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * pestbosje
 
 

@@ -6,7 +6,7 @@ Akrenbos
 
 
 
-A.TEKSTUELE Omschrijving
+Omschrijving
 ------------
 
 Akrenbos is gelegen tussen Lessines en Bever en maakt deel uit van een
@@ -76,7 +76,7 @@ schoon gebied is.
 
 
 
-C.LANDSCHAPSELEMENTEN EN OPBOUWENDE ONDERDELEN
+Landschapselementen en opbouwende onderdelen
 --------------------------------------------
 
 
@@ -86,18 +86,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -111,7 +108,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -121,7 +117,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bos:**
-
  * naald
  * loof
  * middelhout

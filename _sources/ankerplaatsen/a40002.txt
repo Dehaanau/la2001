@@ -168,12 +168,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
@@ -181,7 +179,6 @@ Geomorfologie/hydrografie
 cuesta van Oedelem
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -189,11 +186,9 @@ Wagenmakersbeek, Driesbeek,,,,
 
 **Moerassige gronden:**
 
-
 stuwgronden
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -203,14 +198,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 Kasteel van Prinseveld
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -220,14 +213,12 @@ Drongengoedhoeve, Porcelijnegoed, Papinglohoeve
 
 **Militair erfgoed:**
 
-
 militair domein
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Oostenrijkse periode
@@ -239,7 +230,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -247,18 +237,15 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * blokvormig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
@@ -266,7 +253,6 @@ enkele kleine stukjes op het militair domein, zaadbank nog in de
 bossen aanwezig
 
 **Bos:**
-
  * naald
  * loof
  * hakhout
@@ -276,7 +262,6 @@ bossen aanwezig
 
 
 **Andere:**
-militair domein
 
 Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~

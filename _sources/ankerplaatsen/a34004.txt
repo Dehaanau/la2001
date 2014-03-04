@@ -152,19 +152,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
 cuesta van Oedelem
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -172,11 +169,9 @@ Waarschootbeek, Splenterbeek, Vijverbeek
 
 **Moerassige gronden:**
 
-
 beekdalbos
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -186,21 +181,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Kasteel Wapenaar
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 Kasteel Wapenaar
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -212,7 +204,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Oostenrijkse periode
@@ -223,7 +214,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -231,27 +221,23 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 vijver bij kasteel Wapenaar en bij Burkelhoeve
 
 **Topografie:**
-
  * blokvormig
  * historisch stabiel
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 canadapopulier
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -261,7 +247,6 @@ canadapopulier
 
 
 **Bijzondere waterhuishouding:**
-
 
 stuwgronden
 

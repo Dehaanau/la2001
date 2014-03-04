@@ -136,20 +136,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
 heuvelend met asymmetrische beekinsnijdingen
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -158,17 +155,14 @@ Fonteinbeek, Molenbeek of Mombeek
 
 **Moerassige gronden:**
 
-
 natte graslanden
 
  **Andere:**
-voorkomen van dassenburchten
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -176,13 +170,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelparken Kolmont en Rooi
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 straatdorp Kolmont
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
 
@@ -190,7 +182,6 @@ straatdorp Kolmont
 kastelen van Kolmont en van Rooi
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -199,16 +190,13 @@ kastelen van Kolmont en van Rooi
 Herkwinning, kasteelhoeve Rooi
 
  **Archeologische elementen:**
-Gallo-Romeinse vondsten
 
  **Andere:**
-burchtruïne Kolmont
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Romeinse weg
  * Oostenrijkse periode
 
@@ -216,7 +204,6 @@ Elementen van transport en infrastructuur
 Romeinse weg Bilzen-Waremme, steenweg Tongeren-Hasselt (1741)
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 Sint-Truiden - Tongeren
@@ -225,13 +212,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -239,23 +224,19 @@ Elementen en patronen van landgebruik
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel
