@@ -173,7 +173,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
@@ -181,7 +180,6 @@ Geomorfologie/hydrografie
 o.a. wallen, windribbels
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
  * markante terreinovergang
@@ -189,7 +187,6 @@ o.a. wallen, windribbels
 o.a. duinreliëfs, stuifzandwallen, valhellingen, windkuilen
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -197,18 +194,15 @@ o.a. duinreliëfs, stuifzandwallen, valhellingen, windkuilen
 o.a. Busselzijp, Kattebeek, vallei van de Bosbeek
 
 **Moerassige gronden:**
-
  * ven
 
 
 **Andere:**
-stuifzand
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -216,13 +210,11 @@ Boskapel of kapel van Onze-Lieve-Vrouw van Rust, Mariabeeldje op de
 Zandberg
 
  **Archeologische elementen:**
-o.a. mesolithische vindplaatsen in de omgeving van duinen
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -232,20 +224,17 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * houtwal
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
@@ -253,20 +242,17 @@ Elementen en patronen van landgebruik
 veedrinkputten
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 restanten van heide en kleinschalige landbouwpercelen
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

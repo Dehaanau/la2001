@@ -184,17 +184,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -202,7 +199,6 @@ Geomorfologie/hydrografie
 o.a. Gortenloop, Gortenbuitenloop, Holvense Beek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * ven
@@ -213,14 +209,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
 
 
 omhaagde tuin en moestuin op het domein Hobos
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
@@ -230,7 +224,6 @@ omhaagde tuin en moestuin op het domein Hobos
 domein Hobos, barrierhuis De Trapkens
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * stal
 
@@ -238,13 +231,11 @@ domein Hobos, barrierhuis De Trapkens
 domein Hobos, De Grote Hof
 
  **Archeologische elementen:**
-grafveld uit metaaltijd
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Oostenrijkse periode
@@ -257,7 +248,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
@@ -265,7 +255,6 @@ Elementen en patronen van landgebruik
 o.a. monumentale esdoorn op het erf van domein Hobos
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -277,33 +266,28 @@ linde- en eikendreef, bomenrijen, houtkanten en -wallen op de
 perceelsgrenzen,
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 ter hoogte van Hobosdomein en 't Plat in de vallei van de Gortenloop
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 voormalig gemeen klodveld
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 gemengde fruitboomgaard en kastanjeboomgaard op het domein Hobos
 
 **Bos:**
-
  * naald
  * loof
  * broek

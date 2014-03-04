@@ -162,18 +162,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -184,7 +181,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -192,13 +188,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 tuin bij landhuis te Leeuwergem, park van kasteel van Leeuwergem
 
 **Nederzettingspatronen:**
-
  * plein
 
 Sint - Eligiusplein Leeuwergem
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * landgoed
@@ -209,12 +203,10 @@ Sint - Eligiusplein Leeuwergem
 tour astronomique
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 **Molens:**
-
  * watermolen
  * windmolen
 
@@ -222,14 +214,12 @@ tour astronomique
 watermolen op Molenbeek (thans restaurant) en windmolen in Holleweg
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
 
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
@@ -239,16 +229,13 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
 
 
 **Spoorweg:**
-
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -258,27 +245,23 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 vijvers rond Kasteel van Leeuwergem, bekken van voomalige watermolen
 
 **Bos:**
-
  * loof
  * hakhout
  * middelhout

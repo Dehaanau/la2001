@@ -120,17 +120,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
 
 **Hydrografische Elementen:**
-
  * rivier
  * vallei
  * meander
@@ -142,7 +139,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * ijskelder
  * kasteelgracht
@@ -151,7 +147,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 wachthuisjes, kasteel van Hoogstraten
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
@@ -159,14 +154,12 @@ wachthuisjes, kasteel van Hoogstraten
 directeurswoning, woonhuizen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
@@ -174,11 +167,9 @@ Laarmolen
 
 **Kerkelijk erfgoed:**
 
-
 kerkhof
 
  **Archeologische elementen:**
-**Andere:**
 werkplaatsen
 
 Elementen van transport en infrastructuur
@@ -188,23 +179,19 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * loof
  * hooghout
 

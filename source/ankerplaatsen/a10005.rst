@@ -94,7 +94,6 @@ Geomorfologie/hydrografie
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -104,14 +103,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Engelse parkstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * kasteelgracht
 
@@ -119,7 +116,6 @@ Engelse parkstijl
 Brug en poort
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
@@ -128,7 +124,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -137,28 +132,23 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout
 
 
 **Andere:**
-Arboretum
 
 Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~

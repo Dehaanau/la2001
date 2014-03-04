@@ -158,12 +158,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -174,7 +172,6 @@ Geomorfologie/hydrografie
 Grote Nete, Visbeek, Hanske Selsloop, Heiloop
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
  * ven
@@ -185,35 +182,30 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Molens:**
-
  * watermolen
 
 
 Topmolen, Hoolstmolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 St.-Odrada kapel
 
  **Archeologische elementen:**
-Archeologische potenties ter hoogte van het voormalige 'Hof van
 Scheps'
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 zandwegen
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -223,13 +215,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -237,18 +227,15 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * repelvormig
  * historisch stabiel
 
 
 **Bos:**
-
  * loof
  * broek
  * struweel

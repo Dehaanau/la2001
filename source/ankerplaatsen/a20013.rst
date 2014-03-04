@@ -182,17 +182,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * rivierduin
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -202,7 +199,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
 
@@ -212,23 +208,19 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * hof
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * kasteelgracht
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -236,31 +228,26 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Molens:**
-
  * watermolen
 
 
 **Militair erfgoed:**
-
  * verdedingingslinie
 
 
 anti-tankgracht
 
  **Archeologische elementen:**
-Funderingen kasteel van Roost
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * brug
  * grachtenstelsel
@@ -272,38 +259,32 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * meersen
 
 
 **Bos:**
-
  * loof
  * broek
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

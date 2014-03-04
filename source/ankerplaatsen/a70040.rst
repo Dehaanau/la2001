@@ -148,17 +148,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -167,7 +164,6 @@ Geomorfologie/hydrografie
 o.a. Bosbeek
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -177,7 +173,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -185,14 +180,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteel Wurfeld
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 Wurfeld
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
 
@@ -200,21 +193,18 @@ Wurfeld
 kasteel Wurfeld
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
 Langerenmolen, Wurfeldermolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -224,16 +214,13 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -243,13 +230,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -257,23 +242,19 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
 
 
 **Bos:**
-
  * loof
  * broek
  * struweel

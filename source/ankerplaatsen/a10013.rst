@@ -69,17 +69,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
 
@@ -87,7 +84,6 @@ Geomorfologie/hydrografie
 Aa, Lieremansloop, Rooise loop, Molengoorloop
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -99,32 +95,27 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 landhuis, jachthuis
 
 **Landbouwkundig erfgoed:**
-
  * schuur
 
 
 **Archeologische elementen:**
-gebruiksvoorwerpen uit het Neolithicum
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 oude padenstructuur
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
  * stuw
 
@@ -134,30 +125,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

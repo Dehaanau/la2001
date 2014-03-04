@@ -163,18 +163,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * heuvel
  * steilrand
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -184,12 +181,10 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * veen
 
 
 **Geologie:**
-
 
 Vlaamse Vallei
 
@@ -197,7 +192,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
@@ -206,14 +200,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Kasteelpark van Wieze, Spaans Hof, pastorietuin Mespelare
 
 **Nederzettingspatronen:**
-
  * plein
  * gehucht
 
 kerkplein van Wieze en Mespelare
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * toren
  * landgoed
  * ijskelder
@@ -221,7 +213,6 @@ kerkplein van Wieze en Mespelare
 
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * afspanning
 
@@ -229,7 +220,6 @@ kerkplein van Wieze en Mespelare
 Spaans Hof
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -238,33 +228,28 @@ Spaans Hof
 Neerhof
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
 
 
 **Klein historisch erfgoed:**
-
  * schandpaal
 
 
 voor de kerk van Mespelare
 
  **Andere:**
-sashuis
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sluis
@@ -276,13 +261,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
@@ -290,23 +273,19 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * meersen
 
 
 **Bos:**
-
  * loof
  * hooghout
 

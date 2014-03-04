@@ -175,19 +175,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
 Zwarte Nete
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -199,7 +196,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -207,20 +203,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 abdijtuin, kasteelpark
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Postel
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 'Kasteel van Postel + toegangspoort
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
@@ -228,7 +221,6 @@ Postel
 portierswoning, rentmeesterswoning
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -238,7 +230,6 @@ portierswoning, rentmeesterswoning
 tiendschuur
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * abdij
@@ -248,26 +239,22 @@ tiendschuur
 Norbertijnerabdij + ringmuur,St. - Nikolaaskerk
 
 **Klein historisch erfgoed:**
-
  * kruis
  * grenspaal
 
 
 **Andere:**
-beiaardtoren, brouwerij, kaasmakerij
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 oud wegenpatroon
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -276,35 +263,29 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * blokvormig
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

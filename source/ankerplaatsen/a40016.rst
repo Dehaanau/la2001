@@ -127,12 +127,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
@@ -141,7 +139,6 @@ Geomorfologie/hydrografie
 Cuesta van het Waasland
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -149,14 +146,12 @@ bron
 
 **Geologie:**
 
-
 Cuesta van het Waasland
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -164,7 +159,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * muur
@@ -174,7 +168,6 @@ Les Gobelets kasteel, Rozenbergabdij, Ortegakasteel, Roos kasteel
 stal, koetshuis, serres, jachtpaviljoen,
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * stal
  * wagenhuis
@@ -183,7 +176,6 @@ stal, koetshuis, serres, jachtpaviljoen,
 hoeve die aan Baudelo-abdij toebehoorde
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * abdij
 
@@ -194,7 +186,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Romeinse weg
@@ -203,19 +194,16 @@ Elementen van transport en infrastructuur
 kasseiweg
 
  **Andere:**
-Oud Vliegveld van Waasmunster
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -224,19 +212,16 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 vijver in park Ortega
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Bos:**
-
  * naald
  * loof
  * middelhout

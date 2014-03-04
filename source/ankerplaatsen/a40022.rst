@@ -148,13 +148,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
@@ -162,7 +160,6 @@ Geomorfologie/hydrografie
 Cuesta van het Waasland
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -174,7 +171,6 @@ Cuesta van het Waasland
 Durme, Oude arm Durme, Rodebeek, bron
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -182,57 +178,47 @@ Durme, Oude arm Durme, Rodebeek, bron
 
 **Geologie:**
 
-
 Vlaamse Vallei
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Nederzettingspatronen:**
-
  * dries
  * gehucht
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
 **Klein historisch erfgoed:**
-
  * schandpaal
 
 
 **Archeologische elementen:**
-rietsnijderij
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 oude spoorwegdijk van spoorweg 56 Sint-Niklaas- Hamme- Dendermonde
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * brug
  * grachtenstelsel
@@ -244,7 +230,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -252,28 +237,23 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * turfput
 
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout
@@ -285,7 +265,6 @@ Elementen en patronen van landgebruik
 bronbosje
 
 **Bijzondere waterhuishouding:**
-
  * polder
  * uiterwaarden
  * buitendijks

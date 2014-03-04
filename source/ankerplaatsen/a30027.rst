@@ -145,20 +145,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 langs valleiranden (steilrand) van Poperingse Vaart
 
 **Macroreliëf:**
-
  * steilrand
 
 valleiranden van Ijzer
 
 **Hydrografische Elementen:**
-
  * rivier
  * beek
  * vallei
@@ -171,14 +168,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * hof
 
 
 Tempeliershof
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -186,7 +181,6 @@ Tempeliershof
 Eversamhoeve: enkel oorspronkelijke schuur rest
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * abdij
 
@@ -198,7 +192,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * brug
@@ -211,7 +204,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
@@ -220,11 +212,9 @@ Poperingse Vaart
 
 **Topografie:**
 
-
 loodrecht op Ijzer of zijbeken
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * meersen
 

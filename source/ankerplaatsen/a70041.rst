@@ -197,7 +197,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
@@ -205,7 +204,6 @@ Geomorfologie/hydrografie
 o.a. dekzandreliëfs, depressies
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
  * rivierduin
@@ -216,7 +214,6 @@ o.a. oostelijke rand van het Kempens Plateau, Feldbissbreuk aan De
 Warre, Maasterrassen, duinreliëfs
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -226,7 +223,6 @@ Warre, Maasterrassen, duinreliëfs
 o.a. Broekbeek, De Beek, Zanderbeek, meanderbocht van Bergerven
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
  * ven
@@ -235,20 +231,17 @@ o.a. Broekbeek, De Beek, Zanderbeek, meanderbocht van Bergerven
 vochtige weiden
 
 **Geologie:**
-
  * ontsluitingen
 
 
 groeve te Berg
 
  **Andere:**
-stuifzand
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
@@ -257,7 +250,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteel Sipernau, Rubensgoed
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * kasteelgracht
@@ -266,7 +258,6 @@ kasteel Sipernau, Rubensgoed
 kasteel Sipernau
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * villa
@@ -275,7 +266,6 @@ kasteel Sipernau
 Luikerhuis in de Heide, rentmeesterswoning Sipernau, Rubensgoed
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -285,14 +275,12 @@ Luikerhuis in de Heide, rentmeesterswoning Sipernau, Rubensgoed
 o.a. kasteelhoeve Sipernau, Rubensgoed, Luikerhuis in de Heide
 
 **Molens:**
-
  * watermolen
 
 
 Klaaskensmolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -300,16 +288,13 @@ o.a. kapel van de Weerstand, kapel H. Rita
 
 **Klein historisch erfgoed:**
 
-
 oorspronkelijke tapsluizen aan de Zuid-Willemsvaart
 
  **Archeologische elementen:**
-
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -317,13 +302,11 @@ Elementen van transport en infrastructuur
 landwegen
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 As-Maaseik
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * brug
@@ -339,20 +322,17 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * houtwal
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
@@ -361,7 +341,6 @@ Elementen en patronen van landgebruik
 o.a. De Broeken, kasteelvijver
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
 
@@ -369,7 +348,6 @@ o.a. De Broeken, kasteelvijver
 verschillende ontginningspatronen
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * heide
 
@@ -377,12 +355,10 @@ verschillende ontginningspatronen
 vochtige weiden
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -394,7 +370,6 @@ vochtige weiden
 o.a. Armenbos, gemeentebos Schootsheide
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
  * vloeiweide
  * watering

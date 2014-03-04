@@ -140,18 +140,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -161,7 +158,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -170,62 +166,52 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
 
 
 **Klein historisch erfgoed:**
-
  * standbeeld
 
 
 **Andere:**
-Kiosk op het plein te Zichem, stationsgebouwen en loodsen te Zichem
 
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
  * verlaten spoorweg
  * oude tramroute
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -236,27 +222,22 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * turfput
 
 
 **Bos:**
-
  * loof
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

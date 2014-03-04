@@ -144,12 +144,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -160,7 +158,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -168,14 +165,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelpark van Hasselbroek met moestuin
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 straatgehucht Hasselbroek
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
  * landgoed
@@ -188,7 +183,6 @@ straatgehucht Hasselbroek
 kasteel van Hasselbroek
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -198,7 +192,6 @@ kasteel van Hasselbroek
 o.a. kasteelhoeve, hoeve Stassens of Witte Hoeve
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -206,17 +199,14 @@ Sint-Jobkapel
 
 **Klein historisch erfgoed:**
 
-
 hekwerk, muren
 
  **Andere:**
-tuinmeubilair, -paviljoen en -ornamenten (hondenhok, zonnewijzer)
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
 
 
@@ -226,13 +216,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * hagen
  * perceelsrandbegroeiing
@@ -240,19 +228,16 @@ Elementen en patronen van landgebruik
 Lindedreef, meidoornhagen langs de straat
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 restant van voormalige omgrachting
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

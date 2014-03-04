@@ -131,19 +131,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 **Macroreliëf:**
-
  * heuvel
  * holle weg
 
 interfluvium Vleterbeek - Heidebeek
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -153,7 +150,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -164,7 +160,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * houtkant
  * hagen
@@ -174,12 +169,10 @@ Elementen en patronen van landgebruik
 dreef zuidoostelijke grens van de ankerplaats
 
 **Typische landbouwteelten:**
-
  * hop
 
 
 **Bos:**
-
  * naald
  * loof
 

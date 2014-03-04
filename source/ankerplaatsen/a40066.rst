@@ -133,7 +133,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
@@ -142,13 +141,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * dries
  * plein
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
@@ -157,21 +154,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 gemeentehuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 'Balhoeve'
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * klooster
  * pastorie
 
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
 
 
@@ -181,7 +175,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * kerkwegel
 
@@ -191,22 +184,18 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 Vrijheidsboom
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 

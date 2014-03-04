@@ -132,12 +132,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
@@ -148,7 +146,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * hof
 
@@ -156,13 +153,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Slot van Laarne
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 relatie kasteel- kerk en dorp
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * muur
@@ -174,16 +169,13 @@ relatie kasteel- kerk en dorp
 
 **Bouwkundig erfgoed:**
 
-
 gemeentehuis
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
 **Klein historisch erfgoed:**
-
  * schandpaal
 
 
@@ -192,14 +184,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 kasseiweg
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
 
 
@@ -208,12 +198,10 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -222,19 +210,16 @@ Elementen en patronen van landgebruik
 kasteeldreven
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 binnen- en buitengrachten
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Bos:**
-
  * loof
  * middelhout
  * hooghout

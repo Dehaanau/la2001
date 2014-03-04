@@ -103,13 +103,11 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * heuvel
 
 interfluvium Schelde-Leie en Ijzer
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -120,7 +118,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 **Militair erfgoed:**
 
-
 militaire kerkhoven WOI; doelbos voormalige militaire paardenrenbaan
 
 
@@ -128,7 +125,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
@@ -136,7 +132,6 @@ Elementen en patronen van landgebruik
 begeleidende bomenrijen langs beken
 
 **Bos:**
-
  * naald
  * loof
  * struweel

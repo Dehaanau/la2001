@@ -118,11 +118,9 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * heuvel
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -133,18 +131,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
  * hof
 
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
 
@@ -152,7 +147,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 + jachtpaviljoen
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
@@ -160,19 +154,16 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
 **Andere:**
-brouwerijen, maalderij
 
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -181,13 +172,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Kunstmatige waters:**
-
  * vijver
 
 

@@ -168,18 +168,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -187,7 +184,6 @@ Geomorfologie/hydrografie
 bronamfitheater
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -197,19 +193,16 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
 **Militair erfgoed:**
-
  * fort
  * bunker
  * motte
@@ -219,7 +212,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 verdedigingsgordel rond Gent, motte bij Hof ter Hulst
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * pastorie
 
@@ -227,36 +219,30 @@ verdedigingsgordel rond Gent, motte bij Hof ter Hulst
 Moortsele en Landskouter
 
  **Andere:**
-Jeneverstokerij Van de Velde
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
 
 **Bos:**
-
  * loof
  * middelhout
  * hooghout

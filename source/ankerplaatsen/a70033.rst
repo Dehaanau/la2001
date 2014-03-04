@@ -129,17 +129,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -148,7 +145,6 @@ Geomorfologie/hydrografie
 grotendeels rechtgetrokken Dommel
 
 **Moerassige gronden:**
-
  * veen
  * rietland
  * ven
@@ -159,12 +155,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Klein historisch erfgoed:**
-
  * kruis
  * grenspaal
 
@@ -176,14 +170,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 knuppelpad
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -194,35 +186,29 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
  * heide
 
 
 **Bos:**
-
  * loof
  * broek
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
  * watering
 

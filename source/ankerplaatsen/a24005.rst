@@ -150,20 +150,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -172,12 +169,10 @@ Geomorfologie/hydrografie
 bronnen
 
 **Moerassige gronden:**
-
  * moeras
 
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -186,14 +181,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * hof
 
 
 Hof ten Steenborre
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
@@ -201,7 +194,6 @@ Boskant: gehucht aan de bosrand (op Ferraris), specifiek
 nederzettingspatroon
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -211,7 +203,6 @@ Verschillende (vierkant) hoeves die zich op plaatsen bevinden waar er
 tijdens Ferraris bos was.
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -221,7 +212,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
@@ -233,12 +223,10 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -246,17 +234,14 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
@@ -264,11 +249,9 @@ oud bos
 
 **Typische landbouwteelten:**
 
-
 medische planten
 
 **Bos:**
-
  * loof
  * hakhout
  * middelhout

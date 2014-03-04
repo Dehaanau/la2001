@@ -172,20 +172,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -194,7 +191,6 @@ Geomorfologie/hydrografie
 Abeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -203,20 +199,17 @@ Abeek
 vochtige beemden
 
  **Andere:**
-geologische breuken (o.a. Feldbissbreuk)
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 valleisite Reppel en gehucht Over de Beek
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -225,14 +218,12 @@ valleisite Reppel en gehucht Over de Beek
 o.a. Het Ooievaarsnest
 
 **Molens:**
-
  * watermolen
 
 
 o.a. Genamolen, Mariëndaal, Binkenmolen, Reppelmolen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -240,13 +231,11 @@ o.a. Genamolen, Mariëndaal, Binkenmolen, Reppelmolen
 o.a. Sint-Willibrorduskerk
 
  **Archeologische elementen:**
-industrieel-archeologisch erfgoed (watermolens)
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -254,7 +243,6 @@ Elementen van transport en infrastructuur
 opstrekkend patroon vanuit Abeekvallei
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sluis
@@ -270,31 +258,26 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
 
@@ -302,7 +285,6 @@ Elementen en patronen van landgebruik
 o.a. vochtige hooi- en weilanden
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -311,7 +293,6 @@ o.a. vochtige hooi- en weilanden
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
  * vloeiweide
  * watering

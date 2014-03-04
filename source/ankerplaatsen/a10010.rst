@@ -158,12 +158,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Moerassige gronden:**
-
  * ven
 
 
@@ -172,18 +170,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * hof
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * boswachterswoning
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -192,31 +187,26 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Louisa-hoeve
 
  **Andere:**
-Bakhuisje
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Bos:**
-
  * naald
  * loof
  * middelhout

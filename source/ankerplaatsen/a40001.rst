@@ -192,17 +192,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * kreek
 
@@ -211,7 +208,6 @@ Bentillekreek, Boerekreek, Blokkreek, Roeselarekreek, Molenkreek,
 Vrouwkeshoekkreek, Haantjesgat
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -221,14 +217,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bouwkundig erfgoed:**
-
  * herberg
 
 
 Palinghuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -237,31 +231,26 @@ Palinghuis
 Torenhof, Hoeve Engelendaal
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
 Sint-Jan- in- Eremo en Sint- Margriete
 
 **Klein historisch erfgoed:**
-
  * grenspaal
 
 
 **Andere:**
-gemeentehuis Sint- Margriete
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * brug
@@ -274,18 +263,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * perceelsrandbegroeiing
 
 **Topografie:**
-
  * repelvormig
  * blokvormig
  * onregelmatig
@@ -293,13 +279,11 @@ Elementen en patronen van landgebruik
 
 
 **Bos:**
-
  * loof
  * struweel
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

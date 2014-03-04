@@ -315,7 +315,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * graft
  * talud
 
@@ -323,30 +322,25 @@ Geomorfologie/hydrografie
 langs valleiranden en hellingen
 
 **Macroreliëf:**
-
  * heuvel
  * steilrand
  * holle weg
 
 **Geologie:**
-
  * graften
 
 
 langs hellingen veroorzaaakt door de lithologische ondergrond
 
  **Andere:**
-bronniveau's door de geologishce ondergrond
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
 dorpen op toppen van heuvels gelegen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -354,7 +348,6 @@ dorpen op toppen van heuvels gelegen
 Westhof, allen in wederopbouwarchitectuur
 
 **Militair erfgoed:**
-
  * bunker
  * motte
 
@@ -362,13 +355,11 @@ Westhof, allen in wederopbouwarchitectuur
 bij Westhof en elders in ankerplaats
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * standbeeld
  * kruis
  * gedenkteken
@@ -378,21 +369,18 @@ bij Westhof en elders in ankerplaats
 ter herinnering aan WOI
 
  **Archeologische elementen:**
-op Kemmelberg talrijke sporen uit Neoloithicum, ijzetijd, Keltische
 vesting,…
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Romeinse weg
 
 
 Bellestraat (gem. Heuvelland)
 
 **Waterbouwkundige infrastructuur:**
-
  * sluis
  * stuw
 
@@ -403,7 +391,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -414,7 +401,6 @@ Elementen en patronen van landgebruik
 resten van bocagelandschap; grote soortenrijkdom aan knotbomen
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
@@ -422,7 +408,6 @@ resten van bocagelandschap; grote soortenrijkdom aan knotbomen
 poelen door geologische gesteldheid; Dikkebusvijver
 
 **Topografie:**
-
  * blokvormig
  * historisch stabiel
 
@@ -430,7 +415,6 @@ poelen door geologische gesteldheid; Dikkebusvijver
 in Douvevallei
 
 **Bos:**
-
  * loof
  * broek
  * hakhout

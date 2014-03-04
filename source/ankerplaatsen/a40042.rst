@@ -190,13 +190,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * steilrand
@@ -204,7 +202,6 @@ Geomorfologie/hydrografie
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -212,7 +209,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -221,7 +217,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
  * hof
 
@@ -229,7 +224,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Schaliënhof, kasteelpark van Roborst
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * dries
  * plein
@@ -238,7 +232,6 @@ Schaliënhof, kasteelpark van Roborst
 Velzeke, Knutsegem, Roborst, Hundelgem
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * orangerie
@@ -249,21 +242,18 @@ Velzeke, Knutsegem, Roborst, Hundelgem
 kasteel van Brakel, Roborst, Norman, koetshuis
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
@@ -271,14 +261,12 @@ Bostmolen, Pedesmolen, Zwalmmolen, Boembekemolen en de Vanden
 Borremolen
 
 **Militair erfgoed:**
-
  * motte
 
 
 motte te Roborst ('tumulus' genoemd)
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * klooster
@@ -286,30 +274,25 @@ motte te Roborst ('tumulus' genoemd)
 
 
 **Klein historisch erfgoed:**
-
  * kruis
 
 
 fontein
 
  **Andere:**
-voormalige brouwerij (Roborst)
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -320,7 +303,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
@@ -328,7 +310,6 @@ Elementen en patronen van landgebruik
 boom op Vollanderkouter
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
@@ -337,24 +318,20 @@ boom op Vollanderkouter
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * kouters
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout

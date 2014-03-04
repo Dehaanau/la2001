@@ -154,20 +154,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -175,7 +172,6 @@ Geomorfologie/hydrografie
 
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -184,14 +180,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * hof
 
 
 Hof ter Bruggen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -200,14 +194,12 @@ Hof ter Bruggen
 Hof ter Bruggen
 
 **Molens:**
-
  * windmolen
 
 
 Verrebeekmolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * pastorie
 
@@ -218,38 +210,32 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
  * kaphaag
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Bos:**
-
  * loof
  * middelhout
  * hooghout

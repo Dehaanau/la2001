@@ -206,7 +206,6 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * landduin
@@ -214,14 +213,12 @@ Geomorfologie/hydrografie
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -233,13 +230,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
  * boswachterswoning
@@ -249,12 +244,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -262,28 +255,23 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Molens:**
-
  * watermolen
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Andere:**
-kluis op de Bolderberg
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -296,13 +284,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -310,28 +296,23 @@ Elementen en patronen van landgebruik
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

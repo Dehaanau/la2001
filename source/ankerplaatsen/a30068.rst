@@ -125,14 +125,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 natuurlijk en/of artificieel
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -142,7 +140,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -151,18 +148,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Groot Ter Doest en kleinere hoeve; toegangspoort
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Archeologische elementen:**
-restanten van vroegere abdij Ter Doest
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * grachtenstelsel
 
@@ -173,26 +167,22 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
 vlakbij hoeve zeer gave perceelsrandbegroeiing; rond hoeve
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 boomgaard bij Ter Doest
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

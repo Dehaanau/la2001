@@ -213,7 +213,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * graft
  * talud
 
@@ -221,19 +220,16 @@ Geomorfologie/hydrografie
 langs Palingbeek
 
 **Macroreliëf:**
-
  * macroreliëf
 
 interfluviale kam Ijzer- Schelde&Leie
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -244,21 +240,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * hof
 
 
 Lankhof met motte; Pollepelhof
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 Kasteel Palingbeek
 
 **Militair erfgoed:**
-
  * fort
  * bunker
  * motte
@@ -267,20 +260,17 @@ Kasteel Palingbeek
 grotendeels uit WOI
 
  **Archeologische elementen:**
-vermoedelijk resten van middeleeuwse buitenwijk rond Verdronken
 Weiden
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 Ieper - Komen nu als fietspad in gebruik
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * sluis
  * stuw
@@ -293,7 +283,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
@@ -302,21 +291,18 @@ dreef palingbeek; restanten knot/bomenrijen; bomenrijen langs
 vestingswallen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 zillebeekse vijver; vijvers bij kasteel Palingbeek
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 Verdronken Weide
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

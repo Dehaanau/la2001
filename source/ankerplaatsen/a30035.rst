@@ -180,18 +180,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 langs randen beekvalleien
 
 **Macroreliëf:**
-
 interfluvium
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -203,14 +200,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 bij kastelen
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
  * hovenierswoning
@@ -219,7 +214,6 @@ bij kastelen
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
@@ -227,11 +221,9 @@ Hospitaalhoeveen andere (soms restant walgracht)
 
 **Militair erfgoed:**
 
-
 begraafplaatsen WOI (vnl. Britse)
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -243,20 +235,17 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 bij kapellen
 
 **Lijnvormige elementen:**
-
  * dreef
 
 zuidelijke grens
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
@@ -264,7 +253,6 @@ zuidelijke grens
 bij kastelen; poelen in bossen
 
 **Bos:**
-
  * loof
  * hakhout
  * middelhout

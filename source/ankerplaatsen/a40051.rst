@@ -180,19 +180,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -204,7 +201,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -212,13 +208,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 pastorietuin, park van kasteeldomein van Nokere
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
  * gehucht
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * hovenierswoning
@@ -227,20 +221,17 @@ pastorietuin, park van kasteeldomein van Nokere
 
 
 **Bouwkundig erfgoed:**
-
  * huis
  * herberg
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -251,7 +242,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
@@ -262,7 +252,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
@@ -270,7 +259,6 @@ Elementen en patronen van landgebruik
 Vrijheidsboom op centrale plein van Nokere
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -281,18 +269,15 @@ Vrijheidsboom op centrale plein van Nokere
 een 750m lange kasteeldreef verbindt het kasteel met het dorp
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

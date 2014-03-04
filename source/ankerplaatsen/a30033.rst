@@ -109,19 +109,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 langs hellingen Poelberg
 
 **Macroreliëf:**
-
  * heuvel
  * holle weg
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -131,18 +128,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
 opeenvolging van historische bebouwing langs kamlijn poelberg
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 meeste hoeves nog authentiek en weinig verstoord
 
 **Molens:**
-
  * windmolen
 
 
@@ -153,7 +147,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant

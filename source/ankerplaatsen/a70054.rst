@@ -192,12 +192,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
  * steilrand
@@ -206,7 +204,6 @@ Geomorfologie/hydrografie
 zuidwestelijke steilrand van het Kempens Plateau
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -215,7 +212,6 @@ zuidwestelijke steilrand van het Kempens Plateau
 o.a. Laambeek, Roosterbeek en Slangebeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -228,57 +224,48 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 Tenhaagdoorn
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
 Oude of Genaderse molen, Korenmolen
 
 **Militair erfgoed:**
-
  * schans
 
 
 Brelaarschans, Molenschans
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Archeologische elementen:**
-Mesolithische vondsten en polijststeen
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 wandel- en fietspaden
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
@@ -291,32 +278,27 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * houtwal
  * hagen
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
  * heide
 
@@ -324,7 +306,6 @@ Elementen en patronen van landgebruik
 o.a. Molenheide, de Teut, Tenhaagdoornheide
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -334,7 +315,6 @@ o.a. Molenheide, de Teut, Tenhaagdoornheide
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
  * watering
 

@@ -98,13 +98,11 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 depressie rond brongebied van Bampoelbeek
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -114,14 +112,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 vele hoeves zijn waardevol en zonder storende nieuwbouw; Kasteelhof
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
@@ -131,7 +127,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
@@ -139,12 +134,10 @@ Elementen en patronen van landgebruik
 restanten van bomenrijen langs weilandgrenzen en rond hoeves
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Andere:**
-huisweiden bij de hoeves
 
 Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~

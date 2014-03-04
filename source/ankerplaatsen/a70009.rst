@@ -182,18 +182,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
 **Hydrografische Elementen:**
-
  * rivier
  * vallei
  * meander
@@ -203,7 +200,6 @@ Geomorfologie/hydrografie
 Jekervallei
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -212,13 +208,11 @@ Jekervallei
 vochtige beemden
 
  **Andere:**
-voorkomen van dassenburchten
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -226,13 +220,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelpark
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Blaar
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
 
@@ -240,41 +232,34 @@ Blaar
 Scherpenberg
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
 Blaarmolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Archeologische elementen:**
-prehistorische en Gallo-Romeinse vondsten
 
  **Andere:**
-typische smeedijzeren weidepoorten
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 Tongeren-Aken
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -283,13 +268,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -298,32 +281,27 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * meersen
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 rondom de bewoning
 
 **Bos:**
-
  * loof
  * broek
  * hooghout
@@ -331,7 +309,6 @@ rondom de bewoning
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

@@ -114,13 +114,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
@@ -132,23 +130,19 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
  * heide
 
@@ -156,7 +150,6 @@ Elementen en patronen van landgebruik
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * struweel

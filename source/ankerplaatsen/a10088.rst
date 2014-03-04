@@ -133,13 +133,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * rivier
  * beek
  * vallei
@@ -149,7 +147,6 @@ Geomorfologie/hydrografie
 Kleine Nete, Krekelbeek, Elstbeek
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -159,14 +156,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * kasteelgracht
@@ -175,7 +170,6 @@ kasteelpark
 Kasteel 'heidebloem' + dienstwoningen
 
 **Bouwkundig erfgoed:**
-
  * huis
  * herberg
 
@@ -183,7 +177,6 @@ Kasteel 'heidebloem' + dienstwoningen
 bareelwachterhuis, 'Maison des Bains', breedhuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -193,12 +186,10 @@ bareelwachterhuis, 'Maison des Bains', breedhuis
 'Heidebloemhoeve'
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
-
 
 arduinen vazen
 
@@ -206,7 +197,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -216,24 +206,20 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * heide
 
@@ -241,7 +227,6 @@ Elementen en patronen van landgebruik
 heiderelict
 
 **Bos:**
-
  * loof
  * broek
  * hooghout

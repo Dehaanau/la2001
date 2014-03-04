@@ -156,18 +156,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 steilranden langs valleigrens
 
 **Macroreliëf:**
-
 interfluvium Hertsberghe- en Rivierbeek
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -177,7 +174,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -185,7 +181,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelparken; moestuin
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * landgoed
@@ -196,14 +191,12 @@ kasteelparken; moestuin
 boothuis;obelisk in kast. Erkegem
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 hoeve op Kampveld
 
 **Klein historisch erfgoed:**
-
  * schandpaal
 
 
@@ -214,14 +207,12 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 in parken
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -230,12 +221,10 @@ in parken
 bij weilanden en langs beken
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -124,13 +124,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -139,7 +137,6 @@ Geomorfologie/hydrografie
 de Mark
 
 **Moerassige gronden:**
-
  * ven
 
 
@@ -148,7 +145,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -157,11 +153,9 @@ Franse tuin
 
 **Bouwkundig erfgoed:**
 
-
 landhuis, aalmoezeniershuis, jachtwachterwsoning
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -169,23 +163,19 @@ landhuis, aalmoezeniershuis, jachtwachterwsoning
 + hokken voormalige kippenkwekerij
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * standbeeld
 
 
 **Archeologische elementen:**
-prehistorische vondsten
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -195,29 +185,24 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 oud drevenpatroon
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Bos:**
-
  * naald
  * loof
  * struweel

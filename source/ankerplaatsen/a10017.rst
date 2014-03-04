@@ -113,12 +113,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
@@ -128,32 +126,27 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * boswachterswoning
 
 
 2 boswachtershuisjes
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Verlaten boerderij
 
  **Archeologische elementen:**
-Vrij hoge archeologische potentiewaarde
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
 
-
 Veldwegen
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -162,18 +155,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

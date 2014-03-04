@@ -135,19 +135,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
  * rivierduin
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -155,7 +152,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -167,20 +163,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 **Militair erfgoed:**
 
-
 schietstand uit WO II in Molsbergenstraat
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * pompgemaal
@@ -192,19 +185,16 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * houtwal
 
 **Topografie:**
-
  * repelvormig
  * blokvormig
  * onregelmatig
@@ -212,12 +202,10 @@ Elementen en patronen van landgebruik
 
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 **Bos:**
-
  * loof
  * broek
  * middelhout
@@ -225,7 +213,6 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
 
 

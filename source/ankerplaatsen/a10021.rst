@@ -147,23 +147,19 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
 Hoge Vijversloop, Kijkverdrietloop, Mierdseloop, Molengoorloop0
 
 **Moerassige gronden:**
-
  * ven
 
 
@@ -172,14 +168,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * boswachterswoning
  * waterput
@@ -188,26 +182,22 @@ kasteelpark
 Kasteel 'Den Tip'
 
 **Bouwkundig erfgoed:**
-
  * villa
 
 
 Villa Meerhoef, portiershuis
 
 **Landbouwkundig erfgoed:**
-
  * wagenhuis
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 O.-L.-Vrouw-van -Lourdes kapel, Kapel ter Hoge Heide
 
 **Klein historisch erfgoed:**
-
  * standbeeld
 
 
@@ -216,7 +206,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * brug
 
@@ -227,31 +216,26 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 kasteelvijvers
 
 **Topografie:**
-
  * blokvormig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
 
-
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -173,12 +173,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -188,7 +186,6 @@ Geomorfologie/hydrografie
 Dijle, Boeimeerbeek, Molenbeek, Platte Beek
 
 **Moerassige gronden:**
-
  * veen
  * rietland
 
@@ -198,7 +195,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
  * hof
 
@@ -206,13 +202,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * kasteelgracht
 
 
 **Bouwkundig erfgoed:**
-
  * huis
  * herberg
 
@@ -220,7 +214,6 @@ kasteelpark
 tolhuisje
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -233,7 +226,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -243,13 +235,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * houtwal
@@ -258,20 +248,17 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 zandwinningsput, bomkrater
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * heide
 
@@ -279,7 +266,6 @@ zandwinningsput, bomkrater
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -100,14 +100,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 valleirand
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -117,7 +115,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * pastorie
 
@@ -125,14 +122,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Watou
 
  **Archeologische elementen:**
-mogelijk sites op helling van vallei
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij

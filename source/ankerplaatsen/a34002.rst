@@ -154,14 +154,12 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * steilrand
  * markante terreinovergang
 
 steilrand langs grens van de Scheldevallei
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * oude rivierarm
@@ -173,7 +171,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
@@ -183,11 +180,9 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -198,7 +193,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
@@ -206,14 +200,12 @@ Elementen en patronen van landgebruik
 langs perceelsgrenzen en langs oude schelde-armen
 
 **Topografie:**
-
  * repelvormig
 
 
 vlakbij steilrand, tussen Oude en Nieuwe Rijtgracht
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 

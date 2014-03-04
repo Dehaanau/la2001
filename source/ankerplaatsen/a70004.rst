@@ -185,20 +185,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
 diep ingesneden, asymmetrische beekvallei van de Herkebeek
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -207,28 +204,24 @@ Fonteinbeek, Herk, Herkebeek of Molenbeek, Motbeek
 
 **Moerassige gronden:**
 
-
 vochtige beemden
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark de Tornaco, kasteelpark van Hulsberg
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 Voort (straatdop op valleirandsite), Gotem en Hendrieken (hoopdorpen),
 gehucht Helshoven (hoopdorp)
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * omheining
@@ -237,27 +230,23 @@ gehucht Helshoven (hoopdorp)
 kasteel de Tornaco (Voort), Fonteinhof, kasteel va
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
 Engelingenmolen (Hoepertingen), Wijngaardmolen (Broekom)
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * pastorie
 
@@ -266,21 +255,17 @@ o.a. Christus-Koningkapel, kapel van Loretto, Sint-Dionysiuskerk,
 kluiskapel van Helshoven
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
 
 
 **Archeologische elementen:**
-Gallo-Romeinse vondsten (o.a. tumulus)
 
  **Andere:**
-voormalig gemeentehuis Gotem, voormalig gemeentehuis en school Voort
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Romeinse weg
 
 
@@ -290,7 +275,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
@@ -298,19 +282,16 @@ Elementen en patronen van landgebruik
 Jenneboom
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
@@ -318,7 +299,6 @@ Jenneboom
 verschillende delen historisch stabiel
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
@@ -326,12 +306,10 @@ grasland onder boomgaarden, traditioneel open akkergebied, vochtige
 valleibeemden
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
 

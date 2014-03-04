@@ -146,20 +146,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
 
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -169,32 +166,27 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
 'Krabbelshof' met bijgebouwen
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 landhuis 'Driehoekhof'
 
 **Landbouwkundig erfgoed:**
-
  * schuur
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -203,7 +195,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -213,12 +204,10 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -226,13 +215,11 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
  * heide
 
@@ -240,7 +227,6 @@ Elementen en patronen van landgebruik
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * broek

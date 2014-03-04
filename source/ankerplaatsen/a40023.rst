@@ -168,17 +168,14 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -187,14 +184,12 @@ Geomorfologie/hydrografie
 
 **Geologie:**
 
-
 cuesta van het Waasland
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -202,14 +197,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Hof ter Elst, Geelhof
 
  **Archeologische elementen:**
-site ridderlijk kasteel (Hof ter Elst), omwalde motte (thans
 boomgaard bij Geelhof)
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -219,25 +212,21 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
  * historisch stabiel

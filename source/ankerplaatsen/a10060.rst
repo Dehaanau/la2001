@@ -95,16 +95,13 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * steilrand
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -112,7 +109,6 @@ Geomorfologie/hydrografie
 Molenbeek
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -121,40 +117,33 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Molens:**
-
  * watermolen
 
 
 **Militair erfgoed:**
-
  * fort
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Archeologische elementen:**
-site
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * kouters
 
@@ -162,7 +151,6 @@ Elementen en patronen van landgebruik
 No
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

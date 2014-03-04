@@ -116,19 +116,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * graft
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -136,14 +133,12 @@ Geomorfologie/hydrografie
 Herk
 
 **Moerassige gronden:**
-
  * rietland
 
 
 natte hooilanden met riet- en zeggevegetaties
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -156,7 +151,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
@@ -165,35 +159,29 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * houtkant
  * hagen
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 hooi- en kalkgraslanden, grasland onder boomgaarden
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
 

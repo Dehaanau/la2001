@@ -177,19 +177,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
 
 dekzand- en duinreliëfs
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -198,7 +195,6 @@ dekzand- en duinreliëfs
 o.a. Abeek, Zuurbeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -210,12 +206,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * hof
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * boswachterswoning
 
@@ -223,7 +217,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteel Grootbroek
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -231,14 +224,12 @@ kasteel Grootbroek
 o.a. Woutershof, Mariahof
 
 **Molens:**
-
  * watermolen
 
 
 Cloots- of Damburgse molen, Voorste Luysmolen
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -247,13 +238,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sluis
@@ -267,39 +256,33 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
 
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -310,7 +293,6 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

@@ -150,13 +150,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * rivierduin
@@ -164,7 +162,6 @@ Geomorfologie/hydrografie
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -176,7 +173,6 @@ Geomorfologie/hydrografie
 bronnenstraat (Christianabronnen)
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -187,14 +183,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Kasteel Grenier
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
 
@@ -202,7 +196,6 @@ Kasteel Grenier
 Kasteel Grenier, neerhof,
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -211,7 +204,6 @@ Kasteel Grenier, neerhof,
 De Kaaihoeve
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -223,13 +215,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * grachtenstelsel
 
@@ -239,13 +229,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -254,7 +242,6 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * turfput
  * vijver
@@ -263,18 +250,15 @@ Elementen en patronen van landgebruik
 vijvers bij Kasteel Grenier
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * kouters
  * meersen
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout

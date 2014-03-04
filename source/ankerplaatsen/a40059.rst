@@ -146,20 +146,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * graft
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -167,7 +164,6 @@ Geomorfologie/hydrografie
 diffuse waterbronnen
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -176,18 +172,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Andere:**
-spoorwegtunnel 'Overboelare'
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -195,46 +188,39 @@ Elementen van transport en infrastructuur
 Schapenweg (Hoge Buizemontstraat), vermoedelijk Keltische ouderdom
 
 **Spoorweg:**
-
 Spoorwegtunnel door Buizemontheuvel
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 vijver bij villa
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 twee wastines (grasland met struiken) en drie kleinere bossen
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

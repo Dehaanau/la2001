@@ -213,7 +213,6 @@ Geomorfologie/hydrografie
 
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
  * meander
@@ -222,7 +221,6 @@ Geomorfologie/hydrografie
 Warmbeek, Beverbeekloop, de Vliet
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
  * ven
@@ -233,12 +231,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * boswachterswoning
  * landgoed
@@ -246,7 +242,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -256,21 +251,18 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Jagerhof, Beverbeekhoeve
 
 **Molens:**
-
  * watermolen
 
 
 Het Mulke
 
 **Militair erfgoed:**
-
  * motte
 
 
 woontoren de Tomp
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * abdij
@@ -280,17 +272,14 @@ woontoren de Tomp
 Kluis, Catharinadal, Kapel Onze-Lieve-Vrouw in de Nood
 
  **Archeologische elementen:**
-o.a. de Tomp, Grote Haart, de Waag
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -299,32 +288,27 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 oude vijvers Lange Els, Tompwijer, oude molenvijver
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * plaggenbodems
  * heide
 
@@ -332,7 +316,6 @@ oude vijvers Lange Els, Tompwijer, oude molenvijver
 heiderelicten, plaggenbodems in de omgeving van bebouwingskernen
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -340,7 +323,6 @@ heiderelicten, plaggenbodems in de omgeving van bebouwingskernen
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
  * watering
 

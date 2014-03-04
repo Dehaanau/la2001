@@ -226,12 +226,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
@@ -240,41 +238,35 @@ Heuvelse loop
 
 **Moerassige gronden:**
 
-
 kunstmatig aangelegde, vochtige weiden
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 voormalige Rijkslandbouwkolonie (huidige Koloniestraat)
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 wateringhuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 hoeve Corens
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * pastorie
 
 
 **Klein historisch erfgoed:**
-
  * grenspaal
 
 
@@ -283,7 +275,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * Oostenrijkse periode
@@ -292,7 +283,6 @@ Elementen van transport en infrastructuur
 steenweg 's Hertogenbosch-Luik, verbindingswegen en -paden
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * sluis
@@ -307,7 +297,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
@@ -315,7 +304,6 @@ Elementen en patronen van landgebruik
 o.a. paardekastanjes als voormalige erfbeplanting in de Kolonie
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
@@ -323,24 +311,20 @@ o.a. paardekastanjes als voormalige erfbeplanting in de Kolonie
 o.a. bomenrijen op de dijken
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 kunstmatig aangelegde, vochtige weiden
 
 **Bos:**
-
  * naald
  * loof
  * hooghout
@@ -348,7 +332,6 @@ kunstmatig aangelegde, vochtige weiden
 
 
 **Bijzondere waterhuishouding:**
-
  * vloeiweide
  * watering
 

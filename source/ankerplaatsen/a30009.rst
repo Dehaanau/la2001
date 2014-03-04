@@ -104,18 +104,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * kustduin
 
 kopjesduinen
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -125,7 +122,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -133,7 +129,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Kleine Bamburghoeve: enorme schuur (blikvanger door rode poorten)
 
 **Militair erfgoed:**
-
  * bunker
 
 
@@ -142,7 +137,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * grachtenstelsel
@@ -154,19 +148,16 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
 rietkragen in grachten; bomenrij langs kanaal begrenst gebied
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * onregelmatig
 
 

@@ -162,12 +162,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -176,7 +174,6 @@ Geomorfologie/hydrografie
 o.a. de Herk, Cijnsbroekbeek, Busselkesbeek, Sterrebeek, Heustenbeek
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -187,13 +184,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * omheining
@@ -203,14 +198,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kastelen van Stevoort en Schimpen
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 kasteel van Schimpen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -220,31 +213,26 @@ kasteel van Schimpen
 o.a.Ten Roye, Scholteswinning, Vuileplas, Boswinning
 
 **Molens:**
-
  * watermolen
 
 
 Elsartmolen, dorpsmolen van Stevoort
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
 
-
 smeedijzeren hekwerk
 
  **Archeologische elementen:**
-**Andere:**
 restanten van vakwerkbouw
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -252,7 +240,6 @@ Elementen van transport en infrastructuur
 onverharde wegen en voetwegen volgens Atlas van de Buurtwegen
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -263,41 +250,34 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
 
-
 historisch stabiele bosrelicten
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * broek
  * hooghout

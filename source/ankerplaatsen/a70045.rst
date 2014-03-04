@@ -171,18 +171,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
 **Geologie:**
-
  * ontsluitingen
  * karsten
 
@@ -194,7 +191,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -202,13 +198,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 o.a. kasteeltje Sint-Pieter
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 aaneengroeien van oorspronkelijke hoopdorpen
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
@@ -216,7 +210,6 @@ aaneengroeien van oorspronkelijke hoopdorpen
 o.a. kasteeltje Sint-Pieter
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -227,7 +220,6 @@ o.a. Burrefetwinning (met duiventil), Coenegrachts (met duifhuis),
 Liesens
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -237,7 +229,6 @@ o.a. Sint-Stefanuskerk, Sint-Pieterskerk, Sint-Genovevakerk,
 Banneux-kapel
 
 **Klein historisch erfgoed:**
-
  * kruis
  * gedenkteken
 
@@ -245,31 +236,26 @@ Banneux-kapel
 o.a. gietijzeren kruis, monument van de Roosburg
 
  **Archeologische elementen:**
-vondsten van bandceramische culturen, uit de Gallo-Romeinse tijd
 evenals in de groeven
 
  **Andere:**
-oud gemeentehuis
 
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
@@ -277,7 +263,6 @@ Elementen en patronen van landgebruik
 in het algemeen onregelmatig, op enkele gedeelten historisch stabiel
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
@@ -285,12 +270,10 @@ traditioneel open akkerbouwgebied op de hoger gelegen delen,
 permanent grasland rond de dorpskommen
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

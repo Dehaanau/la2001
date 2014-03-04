@@ -166,18 +166,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
 
 vlak tot zachtgolvend
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -185,7 +182,6 @@ vlak tot zachtgolvend
 o.a. Elsterbeek, Meersbeek, Molenbeek, Wilderbeek
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -196,14 +192,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelparken Groenendaal en Zangerhei
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * kasteelgracht
@@ -212,12 +206,10 @@ kasteelparken Groenendaal en Zangerhei
 kastelen Groenendaal en Zangerhei
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -226,12 +218,10 @@ kastelen Groenendaal en Zangerhei
 o.a. hoeven Hommelen en Klein Hommelen, kasteelhoeve Groenendaal
 
 **Molens:**
-
  * watermolen
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -239,17 +229,14 @@ o.a. Sint-Rochuskapel
 
 **Klein historisch erfgoed:**
 
-
 gietijzeren pomp met waterbekken
 
  **Andere:**
-burchtruïne Jonckholt
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 Hasselt-Maastricht
@@ -258,30 +245,25 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
@@ -289,7 +271,6 @@ vochtige hooi- en graslanden, al dan niet beplant of begrensd met
 populieren
 
 **Bos:**
-
  * naald
  * loof
  * hakhout

@@ -208,19 +208,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -232,7 +229,6 @@ Geomorfologie/hydrografie
 o.a. Maas, Genootsbeek, Langbroekbeek, Kikbeek
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -242,7 +238,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -250,7 +245,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 o.a. kasteelpark Vilain XIV
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
  * gehucht
@@ -258,7 +252,6 @@ o.a. kasteelpark Vilain XIV
 dorpsplein Leut, gehucht Mazenhoven
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * muur
@@ -270,7 +263,6 @@ dorpsplein Leut, gehucht Mazenhoven
 kasteel Vilain XIV
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
@@ -279,7 +271,6 @@ kasteel Vilain XIV
 o.a. brouwerij en herberg Paenhuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -288,14 +279,12 @@ o.a. brouwerij en herberg Paenhuis
 o.a. kasteelhoeve, Oude Maashof, Palmenhof
 
 **Molens:**
-
  * windmolen
 
 
 molen Nieuw Leven
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -305,7 +294,6 @@ o.a. Sint-Pieterskerk met kerkhof, kapel Onze-Lieve-Vrouw van
 Overwinning
 
 **Klein historisch erfgoed:**
-
  * kruis
  * grenspaal
 
@@ -313,16 +301,13 @@ Overwinning
 o.a. dorpspomp met drie lindebomen, Maaskruis, hekwerk
 
  **Archeologische elementen:**
-prehistorische vondsten
 
  **Andere:**
-voormalige school en gemeentehuis
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -330,7 +315,6 @@ Elementen van transport en infrastructuur
 o.a. Klein Kampwegske
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * lijnpad
 
@@ -338,19 +322,16 @@ o.a. Klein Kampwegske
 o.a. winterdijken, zomerdijken
 
  **Andere:**
-veer
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -360,25 +341,21 @@ Elementen en patronen van landgebruik
 Maasheggen
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 weerden
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hakhout
  * hooghout
@@ -386,7 +363,6 @@ weerden
 
 
 **Bijzondere waterhuishouding:**
-
  * uiterwaarden
  * buitendijks
 

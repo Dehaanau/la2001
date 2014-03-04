@@ -183,18 +183,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * rivier
  * kreek
 
@@ -202,7 +199,6 @@ Geomorfologie/hydrografie
 de Schelde
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -211,20 +207,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Prosperdorp
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 Enkele karakteristieke woningen te Lillofort.
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
 
@@ -232,19 +225,16 @@ Enkele karakteristieke woningen te Lillofort.
 Anoniushoeve, Prosperhoeve
 
 **Molens:**
-
  * windmolen
 
 
 **Militair erfgoed:**
-
  * fort
 
 
 Fort Lillo, Fort Liefkenshoek
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -253,7 +243,6 @@ Fort Lillo, Fort Liefkenshoek
 St. -Engelbertus
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
  * grenspaal
 
@@ -261,48 +250,40 @@ St. -Engelbertus
 dorpspomp
 
  **Archeologische elementen:**
-archeologische vindplaatsen met aardewerk uit de Ijzertijd en
 préhistorische werktuigen
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
 
 
 **Andere:**
-greppelpatroon, overzet
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 aanplantingen Lillofort
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 aanplantingen Lillofort
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Bos:**
-
  * loof
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
  * uiterwaarden
  * buitendijks
@@ -311,7 +292,6 @@ aanplantingen Lillofort
 Prosperpolder
 
  **Andere:**
-schorre, slikke, zandplaat
 
 Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~

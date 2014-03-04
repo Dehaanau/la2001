@@ -123,7 +123,6 @@ Geomorfologie/hydrografie
 
 
 **Hydrografische Elementen:**
-
  * beek
  * meander
 
@@ -133,7 +132,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
@@ -142,7 +140,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Sterckshof met gracht
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
 
@@ -150,17 +147,14 @@ Sterckshof met gracht
 jachtwachterswoning, portierswoning, koetshuis
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Klein historisch erfgoed:**
-
  * standbeeld
  * gedenkteken
 
@@ -168,20 +162,17 @@ jachtwachterswoning, portierswoning, koetshuis
 gedenksteen
 
  **Andere:**
-openluchttheater, schoolgebouw
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 geplaveid pad naar kasteel
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -192,26 +183,22 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 spiegelvijver
 
 **Bos:**
-
  * loof
  * hooghout
 

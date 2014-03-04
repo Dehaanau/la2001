@@ -188,20 +188,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 houtwallen
 
 **Macroreliëf:**
-
  * macroreliëf
 
 convexe interfluvia en asymmetrische dalen
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -209,7 +206,6 @@ convexe interfluvia en asymmetrische dalen
 Dommel, Bollisserbeek, Peerderloop
 
 **Moerassige gronden:**
-
  * veen
 
 
@@ -219,14 +215,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 Frankische landname
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
@@ -234,7 +228,6 @@ Frankische landname
 Teutenhuizen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -243,39 +236,32 @@ Teutenhuizen
 langgevelhoeves
 
 **Molens:**
-
  * watermolen
 
 
 **Militair erfgoed:**
-
  * schans
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 talrijke veldkapellen
 
  **Archeologische elementen:**
-prehistorische grafheuvels uit Neolithicum, Bronstijd en Ijzertijd
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 **Spoorweg:**
-
  * verlaten spoorweg
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -285,38 +271,32 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * houtwal
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 vijvers, oorspronkelijk veenuitgravingen
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * voormalige communautaire akker
  * plaggenbodems
 
 
 **Bos:**
-
  * naald
  * loof
  * broek

@@ -103,7 +103,6 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * kustduin
 
 sekwentie strand-zeeduin-polder
@@ -112,7 +111,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  **Andere:**
-1 schip ter hoogte van de Koninklijke Baan
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -121,13 +119,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Bos:**
-
  * loof
  * struweel
 
 
 **Bijzondere waterhuishouding:**
-
 
 waterwinnningsgebied
 

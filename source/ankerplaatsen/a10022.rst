@@ -164,13 +164,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -179,7 +177,6 @@ Geomorfologie/hydrografie
 Rodeloop, Rooise Loop, Wamp
 
 **Moerassige gronden:**
-
  * moeras
  * veen
 
@@ -189,7 +186,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -197,13 +193,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 park en tuinen bij Priorij
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Corsendonk
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -211,7 +205,6 @@ Corsendonk
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * klooster
 
@@ -222,7 +215,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
  * stuw
 
@@ -232,29 +224,24 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * opstrekkend
 
 
 **Historisch stabiel landgebruik:**
-
  * heide
 
 
 **Bos:**
-
  * naald
  * broek
  * struweel

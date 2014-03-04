@@ -68,14 +68,12 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * kustduin
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
 
 kleinschalige boerderijtjes
 
@@ -84,7 +82,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * knotbomenrij
@@ -94,11 +91,9 @@ langs perceelsgrenzen
 
 **Topografie:**
 
-
 smalle, kleine percelen
 
  **Andere:**
-duinakkers
 
 Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~

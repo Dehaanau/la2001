@@ -199,24 +199,20 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
 
 
 **Moerassige gronden:**
-
  * rietland
 
 
 **Geologie:**
-
 
 moeraskalk
 
@@ -224,14 +220,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * waterput
 
 
 waterput bij Kruiskapel
 
 **Militair erfgoed:**
-
  * verdedingingslinie
 
 
@@ -239,14 +233,12 @@ enkel een pad; ten oosten van de Kruiskapel ook een dijk. Linie
 dateert van 1702 (successieoorlog).
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 Kruiskapel en 14 kruiswegkapelletjes
 
 **Klein historisch erfgoed:**
-
  * kruis
  * eendenkooi
 
@@ -257,13 +249,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * dijk
  * brug
@@ -277,26 +267,22 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * turfput
  * vijver
 
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
  * historisch stabiel
@@ -306,14 +292,12 @@ aan Kruiskapel: onregelmatige percelering/ Enkel Vettemeers en
 Heernisse historisch stabiel
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 wijmen, populier
 
 **Bos:**
-
  * naald
  * loof
  * broek
@@ -324,7 +308,6 @@ wijmen, populier
 
 
 **Bijzondere waterhuishouding:**
-
  * ontwatering
 
 

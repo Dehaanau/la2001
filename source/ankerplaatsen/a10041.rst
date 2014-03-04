@@ -169,12 +169,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -183,7 +181,6 @@ Geomorfologie/hydrografie
 Kleine Wilborrebeek, Kleine Beek, Pulse Beek, Bosloop, Molenbeek
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -193,14 +190,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteelpark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * kasteelgracht
 
@@ -208,31 +203,26 @@ kasteelpark
 Kasteel Boutersemhof, Kasteel Hovorst
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 molenhuis, neoclassicistisch burgerhuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * stal
  * wagenhuis
 
 
 **Molens:**
-
  * watermolen
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
 **Klein historisch erfgoed:**
-
  * schandpaal
 
 
@@ -242,14 +232,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * pad
 
 
 oude paden; b.v. oude binnenpad naar Pulderbos
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -258,13 +246,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -272,25 +258,21 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 stabiel bos
 
 **Bos:**
-
  * loof
  * broek
  * hooghout

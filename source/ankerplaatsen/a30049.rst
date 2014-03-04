@@ -79,7 +79,6 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * kustduin
 
 paraboolduinen
@@ -89,13 +88,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * houtwal
 
 rond vroegere duinakkers
 
 **Bos:**
-
  * loof
  * struweel
 
@@ -103,7 +100,6 @@ rond vroegere duinakkers
 Kerkepannebos; struweel in de duinen
 
  **Andere:**
-duingrasland
 
 Opmerkingen en knelpunten
 ~~~~~~~~~~~~~~~~~~~~~~~~~

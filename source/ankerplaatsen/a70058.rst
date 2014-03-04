@@ -189,12 +189,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -204,7 +202,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
  * hof
@@ -214,13 +211,11 @@ begijnhof, kastelen Nonnen-Mielen, Speelhof, Spinneveld, kasteel en
 pastorie Melveren
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Melveren
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
  * landgoed
@@ -232,14 +227,12 @@ Melveren
 kastelen Melveren, Nonnen-Mielen, Speelhof, Spinne
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -248,14 +241,12 @@ kastelen Melveren, Nonnen-Mielen, Speelhof, Spinne
 o.a. begijnhof, De Nonnentap, Nonnen-Mielen
 
 **Molens:**
-
  * watermolen
 
 
 Hornemolen, Metsterenmolen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * pastorie
 
@@ -264,17 +255,14 @@ o.a. Salvator Mundikerk, pastorie Melveren
 
 **Klein historisch erfgoed:**
 
-
 o.a. "barriers", bruggen, hekwerk, muren
 
  **Andere:**
-o.a. tuinpaviljoenen, serre, wintertuin
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -285,25 +273,21 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
@@ -311,19 +295,16 @@ Elementen en patronen van landgebruik
 historisch stabiel rond Metsteren
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 grasland onder boomgaarden en weiden langs Cicindria en Melsterbeek
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

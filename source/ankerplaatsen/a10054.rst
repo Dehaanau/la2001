@@ -166,12 +166,10 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -183,7 +181,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -191,7 +188,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Franse tuin, abdijtuin, landschapspark
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * hovenierswoning
@@ -200,14 +196,12 @@ Franse tuin, abdijtuin, landschapspark
 Kasteel de Meeuw d' Argenteuil + donjon
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 Bisschopshuis, Abtshuis
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -217,7 +211,6 @@ Bisschopshuis, Abtshuis
 Abdijhoeve, tiendschuur
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * abdij
  * klooster
@@ -226,13 +219,11 @@ Abdijhoeve, tiendschuur
 Norbertijnerabdij + ringmuur + toren
 
  **Andere:**
-voormalige dienst- en bedrijfsgebouwen bij abdij
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
@@ -242,23 +233,19 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * naald
  * loof
  * hooghout

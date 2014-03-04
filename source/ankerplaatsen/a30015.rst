@@ -137,13 +137,11 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
 
 ter hoogte van Diksmuide overgang vallei en nederzetting Diksmuide
 
 **Hydrografische Elementen:**
-
  * rivier
 
 
@@ -151,27 +149,23 @@ Ijzer
 
 **Moerassige gronden:**
 
-
 ter hoogte van kleiputten (natuurreservaat) bij Stuivekenskerke
 
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Stuivekenskerke
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 omwalde kasteelhoeve op motte
 
 **Militair erfgoed:**
-
  * bunker
  * verdedingingslinie
 
@@ -179,7 +173,6 @@ omwalde kasteelhoeve op motte
 resten van loopgraven in Dodengang
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -188,7 +181,6 @@ kerk Stuivekenskerke en kapel bij kasteelhoeve (beide in
 Stuivekenskerke)
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
 
 
@@ -199,7 +191,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
@@ -207,26 +198,22 @@ bomenrij langs wegen en dijken; knotbomen soms als
 perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 in natuurreservaat Kleiputten door uitgraving
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 broeken
 
 **Bijzondere waterhuishouding:**
-
 
 
 Opmerkingen en knelpunten

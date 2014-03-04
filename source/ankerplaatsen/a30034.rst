@@ -157,14 +157,12 @@ Geomorfologie/hydrografie
 
 
 **Macroreliëf:**
-
  * heuvel
  * holle weg
 
 interfluvium tussen Ijzer en Vleterbeek
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -174,7 +172,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * hof
 
@@ -182,7 +179,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Couthof
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
  * landgoed
@@ -193,7 +189,6 @@ Couthof
 ook klooster, kappelletjes, prieeltje
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * abdij
  * klooster
@@ -206,18 +201,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
 
 
 bij kappellen
 
 **Lijnvormige elementen:**
-
  * dreef
 
 **Bos:**
-
  * loof
  * hakhout
  * middelhout

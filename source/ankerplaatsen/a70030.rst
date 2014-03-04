@@ -128,18 +128,15 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -150,7 +147,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -158,14 +154,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 kasteel en pastorie van Kerkom, Wit kasteel
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * gehucht
 
 kerndorp Kerkom, gehucht Straten
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * landgoed
@@ -175,7 +169,6 @@ kerndorp Kerkom, gehucht Straten
 kasteel van Kerkom (Alstergoed of Rood kasteel), W
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -185,12 +178,10 @@ kasteel van Kerkom (Alstergoed of Rood kasteel), W
 o.a. hoeve Wit kasteel, Engelbos
 
 **Molens:**
-
  * watermolen
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * pastorie
 
@@ -199,14 +190,12 @@ Sint-Martinuskerk, deels afgebrand in 1975
 
 **Klein historisch erfgoed:**
 
-
 hekwerk aan toegangen
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -217,25 +206,21 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
@@ -243,19 +228,16 @@ Elementen en patronen van landgebruik
 historisch stabiel rond Cicindria tussen Bevingen en Kerkom
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 grasland onder boomgaarden, traditioneel open akkerbouwlandschap
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

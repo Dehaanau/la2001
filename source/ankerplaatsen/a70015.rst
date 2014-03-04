@@ -175,7 +175,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
@@ -183,7 +182,6 @@ Geomorfologie/hydrografie
 trappenprofiel
 
 **Macroreliëf:**
-
  * macroreliëf
  * markante terreinovergang
  * holle weg
@@ -191,7 +189,6 @@ trappenprofiel
 Maasterrassen, steile dalhellingen, historische holle wegen
 
 **Hydrografische Elementen:**
-
  * rivier
  * vallei
  * meander
@@ -201,11 +198,9 @@ Berwijn
 
 **Moerassige gronden:**
 
-
 vochtig grasland
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -215,12 +210,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Molens:**
-
  * watermolen
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -229,14 +222,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 historische holle wegen
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
  * stuw
 
@@ -247,41 +238,34 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 hellings- en valleigraslanden
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel

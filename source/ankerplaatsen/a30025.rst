@@ -191,14 +191,12 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 typisch voor Oudlandpolder
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
 
@@ -206,7 +204,6 @@ typisch voor Oudlandpolder
 Bovenvliet, vlavaart, Grote Ijzerbeek, Beverdijkvaart,…
 
 **Moerassige gronden:**
-
  * veen
 
 
@@ -216,20 +213,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Lzmpernisse: straatdorp, St-Jzcobskapelle, Oostkerke, Oudekapelle,
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 talrijke gave en weinig verstoorde hoeves met walgracht
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
 
@@ -237,13 +231,11 @@ talrijke gave en weinig verstoorde hoeves met walgracht
 kerktorens van de gehuchten zeer opvallend in open landschap
 
  **Archeologische elementen:**
-talrijke sites van middeleeuwse omwalde hoeves
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * brug
  * grachtenstelsel
@@ -255,25 +247,21 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * bomenrij
 
 rond en vlakbij hoeves
 
 **Kunstmatige waters:**
-
  * poel
 
 
 veedrinkput
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 

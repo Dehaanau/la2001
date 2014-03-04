@@ -179,19 +179,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * heuvel
  * rivierduin
  * steilrand
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -203,7 +200,6 @@ Zenne, dijle, Nete, Langendonkbeek, Knopbeek, Tongkensloop, Heibeek,
 Driebroekloop
 
 **Moerassige gronden:**
-
  * rietland
 
 
@@ -212,7 +208,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -220,13 +215,11 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 moestuin, kasteelpark
 
 **Nederzettingspatronen:**
-
  * gehucht
 
 Zennegat
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * orangerie
  * landgoed
@@ -237,14 +230,12 @@ Zennegat
 Kasteel Tibur, Kasteel Battenbroek
 
 **Bouwkundig erfgoed:**
-
  * huis
 
 
 sluiswachtershuis, rijhuisjes
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -254,7 +245,6 @@ sluiswachtershuis, rijhuisjes
 Polderhoeve
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -264,46 +254,39 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sluis
  * grachtenstelsel
 
 
 **Andere:**
-Leuvense Vaart
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 zandwinningsput
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Bos:**
-
  * loof
  * broek
  * struweel
@@ -312,7 +295,6 @@ zandwinningsput
 vloedbossen
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

@@ -169,25 +169,21 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * markante terreinovergang
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
 
 
 **Moerassige gronden:**
-
  * moeras
 
 
@@ -196,14 +192,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 Keibergkasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
  * omheining
@@ -214,7 +208,6 @@ Keibergkasteel
 Kasteel Keiberg
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * villa
 
@@ -222,12 +215,10 @@ Kasteel Keiberg
 Windekekouter nr. 31 en 47 te Oosterzele
 
 **Molens:**
-
  * windmolen
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * pastorie
@@ -236,13 +227,11 @@ Windekekouter nr. 31 en 47 te Oosterzele
 kerk en pastorie van Oosterzele, Duivelskapel
 
  **Andere:**
-graanjeneverstokerij Van Damme
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -252,37 +241,31 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * hagen
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 bij kasteel Keiberg
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * kouters
 
 
 **Bos:**
-
  * loof
  * middelhout
  * hooghout

@@ -126,24 +126,20 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
 
 **Hydrografische Elementen:**
-
  * oude rivierarm
 
 
 Oude Schelde
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -153,18 +149,15 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 **Landbouwkundig erfgoed:**
-
  * schuur
  * stal
 
 
 **Klein historisch erfgoed:**
-
  * eendenkooi
 
 
@@ -173,14 +166,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 dijkweg, oude steenweg
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * sas
  * grachtenstelsel
@@ -192,24 +183,20 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
 
 **Topografie:**
-
  * blokvormig
  * historisch stabiel
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout
@@ -217,7 +204,6 @@ Elementen en patronen van landgebruik
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

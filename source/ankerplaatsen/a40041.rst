@@ -199,19 +199,16 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -224,20 +221,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * park
 
 
 kasteeldomein van Beerlegem
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 relatie kasteel- dorp
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * hovenierswoning
  * boswachterswoning
@@ -247,14 +241,12 @@ relatie kasteel- dorp
 
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -262,7 +254,6 @@ relatie kasteel- dorp
 
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * klooster
@@ -270,7 +261,6 @@ relatie kasteel- dorp
 
 
 **Klein historisch erfgoed:**
-
  * schandpaal
 
 
@@ -279,13 +269,11 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
 
@@ -296,13 +284,11 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -310,18 +296,15 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * poel
  * vijver
 
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Bos:**
-
  * loof
  * broek
  * hakhout

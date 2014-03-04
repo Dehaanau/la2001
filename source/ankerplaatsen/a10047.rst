@@ -210,13 +210,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * landduin
  * rivierduin
@@ -224,7 +222,6 @@ Geomorfologie/hydrografie
 stuifzandduin
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * beek
@@ -237,7 +234,6 @@ Kleine Nete, Aa, Oorlandse Loop, Gravenweide beek, Tweede beek,
 Schupleerloop
 
 **Moerassige gronden:**
-
  * moeras
  * rietland
 
@@ -247,31 +243,26 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
 
 
 Voormalig voorgebouw v/h kasteel van Grobbendonk
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
 
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
 
 
 **Molens:**
-
  * watermolen
 
 
 **Kerkelijk erfgoed:**
-
  * kapel
  * abdij
 
@@ -281,14 +272,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
 
 
 plaatselijk oud wegenpatroon
 
 **Waterbouwkundige infrastructuur:**
-
  * dijk
  * brug
  * sluis
@@ -301,19 +290,16 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
  * plaggenbodems
  * heide
@@ -322,7 +308,6 @@ Elementen en patronen van landgebruik
 heiderelicten
 
 **Bos:**
-
  * naald
  * loof
  * broek

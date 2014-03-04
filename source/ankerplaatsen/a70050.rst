@@ -140,20 +140,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * holle weg
 
 sterk door erosie versneden heuvelend landschap
 
 **Hydrografische Elementen:**
-
  * beek
  * vallei
 
@@ -161,7 +158,6 @@ sterk door erosie versneden heuvelend landschap
 Bollebeek
 
 **Geologie:**
-
  * ontsluitingen
 
 
@@ -171,20 +167,17 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
 
 
 Grote Mot
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
 
 langgerekt hoopdorp
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
 
@@ -192,7 +185,6 @@ langgerekt hoopdorp
 o.a. Grote Mot
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -201,30 +193,25 @@ o.a. Grote Mot
 o.a. Servaeshoeve
 
 **Kerkelijk erfgoed:**
-
  * kerk
 
 
 o.a. Sint-Servatiuskerk
 
  **Archeologische elementen:**
-vondsten uit Ijzertijd en Gallo-Romeinse tijd
 
  **Andere:**
-opvallende toren met oude veldschuil en voetgangerssluisje
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * Romeinse weg
 
 
 Tongeren-Kassel
 
 **Spoorweg:**
-
  * oude tramroute
 
 Borgloon-Oreye
@@ -233,36 +220,30 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * houtkant
  * hagen
 
 **Kunstmatige waters:**
-
  * poel
 
 
 **Topografie:**
-
  * onregelmatig
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 grasland onder boomgaarden
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 

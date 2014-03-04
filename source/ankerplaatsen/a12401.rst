@@ -155,13 +155,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -173,14 +171,12 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
 
 
 tuin bij kasteel
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * toren
  * ijskelder
@@ -190,14 +186,12 @@ tuin bij kasteel
 Hof te Melis + bijgebouwen, traptorens
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 Site Wolfputhoeve
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -207,7 +201,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Waterbouwkundige infrastructuur:**
-
  * grachtenstelsel
 
 
@@ -217,7 +210,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
@@ -225,28 +217,23 @@ Elementen en patronen van landgebruik
 400 jaar oude eik
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtwal
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Topografie:**
-
  * historisch stabiel
 
 
 **Historisch stabiel landgebruik:**
 
-
 historisch stabiel bos
 
 **Bos:**
-
  * naald
  * loof
  * broek

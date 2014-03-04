@@ -246,13 +246,11 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * steilrand
@@ -260,7 +258,6 @@ Geomorfologie/hydrografie
  * holle weg
 
 **Hydrografische Elementen:**
-
  * waterloop
  * beek
  * vallei
@@ -271,7 +268,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * hof
 
@@ -279,7 +275,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 Torreken te Walle
 
 **Nederzettingspatronen:**
-
  * nederzettingspatroon
  * plein
  * gehucht
@@ -288,13 +283,11 @@ Boskant bij Bos t' Ename, Ename-bosrelatie, archeologische site,
 Volkegem
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * landgoed
  * kasteelgracht
 
 
 **Bouwkundig erfgoed:**
-
  * (heren)woning
  * huis
  * herberg
@@ -303,7 +296,6 @@ Volkegem
 dorpskern Ename, Schuifelbeen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
  * schuur
  * stal
@@ -312,14 +304,12 @@ dorpskern Ename, Schuifelbeen
 dorpskern Volkegem
 
 **Molens:**
-
  * watermolen
 
 
 Toysschemolen
 
 **Kerkelijk erfgoed:**
-
  * kerk
  * kapel
  * abdij
@@ -327,20 +317,17 @@ Toysschemolen
 
 
 **Klein historisch erfgoed:**
-
  * schandpaal
 
 
 waterpomp
 
  **Archeologische elementen:**
-archeologische site Ename
 
 Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
  * kerkwegel
@@ -349,18 +336,15 @@ Elementen van transport en infrastructuur
 kasseiweg tussen bos en dorp
 
 **Spoorweg:**
-
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * bomengroep
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -371,12 +355,10 @@ Elementen en patronen van landgebruik
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 **Bos:**
-
  * loof
  * hakhout
  * middelhout

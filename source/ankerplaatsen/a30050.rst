@@ -91,7 +91,6 @@ Geomorfologie/hydrografie
 
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -101,7 +100,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -109,7 +107,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 park in Engelse landschapsstijl
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * muur
 
@@ -117,21 +114,18 @@ park in Engelse landschapsstijl
 moestuin en boomgaard;hoofd- en dienstgebouwen
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 site van Kasteelhoeve
 
 **Militair erfgoed:**
-
  * motte
 
 
 site van kasteelhoeve op neerhof van vermoedelijk middeleeuwse motte
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -139,12 +133,10 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * knotbomenrij
 
 **Bos:**
-
  * loof
 
 

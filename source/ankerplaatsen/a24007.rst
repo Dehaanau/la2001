@@ -154,20 +154,17 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * heuvel
  * steilrand
  * markante terreinovergang
 
 **Hydrografische Elementen:**
-
  * waterloop
  * rivier
  * vallei
@@ -175,7 +172,6 @@ Geomorfologie/hydrografie
 
 
 **Moerassige gronden:**
-
  * moeras
  * veen
  * rietland
@@ -184,12 +180,10 @@ Geomorfologie/hydrografie
 **Geologie:**
 
 
-
 Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Kerkelijk erfgoed:**
-
  * kapel
 
 
@@ -199,7 +193,6 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
@@ -207,9 +200,7 @@ Elementen van transport en infrastructuur
 autosnelweg
 
 **Spoorweg:**
-
 **Waterbouwkundige infrastructuur:**
-
  * brug
  * grachtenstelsel
  * lijnpad
@@ -220,17 +211,14 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Puntvormige elementen:**
-
  * solitaire boom
 
 
 **Lijnvormige elementen:**
-
  * bomenrij
  * knotbomenrij
 
 **Kunstmatige waters:**
-
  * turfput
  * vijver
 
@@ -238,29 +226,24 @@ Elementen en patronen van landgebruik
 vijver ontstaan bij aanleg autosnelweg
 
 **Topografie:**
-
  * onregelmatig
 
 
 **Historisch stabiel landgebruik:**
-
  * meersen
 
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
  * hooghout
  * struweel
 
 
 **Bijzondere waterhuishouding:**
-
  * watering
 
 

@@ -99,7 +99,6 @@ Geomorfologie/hydrografie
 
 
 **Hydrografische Elementen:**
-
  * rivier
  * beek
  * vallei
@@ -111,7 +110,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * tuin
  * park
 
@@ -119,7 +117,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 bij patersmote; park bij kasteel van Marke
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
  * landgoed
  * muur
@@ -128,7 +125,6 @@ bij patersmote; park bij kasteel van Marke
 landgoed ten oosten kasteeldomein; ommuurde tuin
 
 **Militair erfgoed:**
-
  * motte
 
 
@@ -139,7 +135,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * knotbomenrij
@@ -147,19 +142,16 @@ Elementen en patronen van landgebruik
 restanten van knotbomenrijen
 
 **Kunstmatige waters:**
-
  * vijver
 
 
 bij kasteel, op domein van Patersmote
 
 **Typische landbouwteelten:**
-
  * hoogstam
 
 
 **Bos:**
-
  * loof
 
 

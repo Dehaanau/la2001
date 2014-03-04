@@ -129,21 +129,18 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * talud
 
 
 langs wegen en hellingen
 
 **Macroreliëf:**
-
  * heuvel
  * holle weg
 
 interfluvium Ijzer en Schelde-Leie
 
 **Hydrografische Elementen:**
-
  * beek
 
 
@@ -153,31 +150,26 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Koeren en hovingen:**
-
  * hof
 
 
 Pollepelhof en Lindenhof met chicorei-ast
 
 **Kastelen, landgoederen en aanhorigheden:**
-
  * kasteel
 
 
 Godschalk en Catalunya
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Militair erfgoed:**
 
-
 restanten loopgraven, kerkhoven, hill62
 
 **Klein historisch erfgoed:**
-
  * gedenkteken
 
 
@@ -190,7 +182,6 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * houtkant
@@ -199,7 +190,6 @@ Elementen en patronen van landgebruik
 als perceelsrandbegroeiing, toegangsdreef kerkhof, dreven in bossen
 
 **Bos:**
-
  * naald
  * loof
  * struweel

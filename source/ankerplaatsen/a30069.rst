@@ -85,7 +85,6 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
 
 
@@ -94,7 +93,6 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Militair erfgoed:**
-
  * motte
 
 
@@ -105,19 +103,16 @@ Elementen van transport en infrastructuur
 
 **Waterbouwkundige infrastructuur:**
 
-
 Zwinnevaart en Kalsijdeader
 
 Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Historisch stabiel landgebruik:**
-
  * permanent grasland
 
 
 **Bijzondere waterhuishouding:**
-
  * polder
 
 

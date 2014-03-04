@@ -140,25 +140,21 @@ Geomorfologie/hydrografie
 
 
 **Microreliëf:**
-
  * microreliëf
  * talud
 
 
 **Macroreliëf:**
-
  * macroreliëf
  * steilrand
 
 Grote Dekzandrug
 
 **Hydrografische Elementen:**
-
  * waterloop
 
 
 **Geologie:**
-
 
 Vlaamse Vallei
 
@@ -166,12 +162,10 @@ Elementen van bouwkundig erfgoed, nederzettingen en archeologie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Landbouwkundig erfgoed:**
-
  * hoeve
 
 
 **Militair erfgoed:**
-
  * fort
  * verdedingingslinie
 
@@ -182,15 +176,12 @@ Elementen van transport en infrastructuur
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Wegenis:**
-
  * weg
  * pad
 
 
 **Spoorweg:**
-
 **Waterbouwkundige infrastructuur:**
-
  * kanaal
  * pompgemaal
 
@@ -201,18 +192,15 @@ Elementen en patronen van landgebruik
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Lijnvormige elementen:**
-
  * dreef
  * bomenrij
  * perceelsrandbegroeiing
 
 **Kunstmatige waters:**
 
-
 wal rond fort
 
 **Topografie:**
-
  * blokvormig
  * onregelmatig
  * historisch stabiel
@@ -220,11 +208,9 @@ wal rond fort
 
 **Historisch stabiel landgebruik:**
 
-
 Door bebossing is heide sterk gereduceerd
 
 **Bos:**
-
  * naald
  * loof
  * hooghout
