@@ -1,5 +1,5 @@
-Ankerplaatsen Landschapsatlas
-=============================
+Landschapsatlas 2001
+====================
 
 .. toctree::
   :maxdepth: 1 
